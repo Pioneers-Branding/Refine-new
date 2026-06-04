@@ -1,0 +1,528 @@
+/* ============================================
+   REFINE SKIN & BODY CLINIC — Awwwards Level CSS
+   Brand Primary: #432C86 | Accent: #C9A96E
+   ============================================ */
+
+/* ---------- Base & Reset ---------- */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* Use a fluid base size if desired, but Tailwind handles most */
+}
+
+body {
+    overflow-x: hidden;
+    background-color: #ffffff;
+}
+
+/* ---------- Custom Scrollbar ---------- */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background: #f8f6fc;
+}
+::-webkit-scrollbar-thumb {
+    background: #1a0f3c; /* Deeper brand color */
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #432C86;
+}
+
+/* ---------- Typography Utilities ---------- */
+.text-balance {
+    text-wrap: balance;
+}
+
+.text-mask {
+    overflow: hidden;
+}
+
+.text-mask span {
+    display: inline-block;
+    transform: translateY(100%);
+    opacity: 0;
+}
+
+/* ---------- Magnetic Button / CTA ---------- */
+.btn-magnetic {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 36px;
+    border-radius: 100px;
+    background: #1a0f3c; /* Brand Deeper */
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 0.02em;
+    overflow: hidden;
+    cursor: pointer;
+    border: none;
+    transition: color 0.3s ease, border-color 0.3s ease;
+    z-index: 1;
+}
+
+.btn-magnetic::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #C9A96E; /* Accent Gold */
+    border-radius: 100px;
+    transform: scale(0);
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    z-index: -1;
+    transform-origin: center;
+}
+
+.btn-magnetic:hover::before {
+    transform: scale(1.05);
+}
+
+.btn-magnetic:hover {
+    color: #1a0f3c; /* Dark text on gold */
+}
+
+.btn-magnetic span, .btn-magnetic i {
+    position: relative;
+    z-index: 2;
+    transition: transform 0.3s ease;
+}
+
+.btn-magnetic:hover i {
+    transform: translateX(4px);
+}
+
+/* Outline variation */
+.btn-outline {
+    background: transparent;
+    border: 1px solid rgba(26, 15, 60, 0.2);
+    color: #1a0f3c;
+}
+.btn-outline::before {
+    background: #1a0f3c;
+}
+.btn-outline:hover {
+    color: #ffffff;
+    border-color: #1a0f3c;
+}
+
+/* ---------- Advanced Glassmorphism ---------- */
+.glass-panel {
+    background: rgba(255, 255, 255, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 20px 40px rgba(26, 15, 60, 0.05), inset 0 1px 0 rgba(255, 255, 255, 1);
+}
+
+.glass-panel-dark {
+    background: rgba(26, 15, 60, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 30px 60px rgba(0, 0, 0, 0.3);
+}
+
+/* ---------- Gradient Mesh Backgrounds ---------- */
+.mesh-gradient {
+    background-color: #ede9f5;
+    background-image: 
+        radial-gradient(at 0% 0%, rgba(67, 44, 134, 0.15) 0px, transparent 50%),
+        radial-gradient(at 100% 0%, rgba(201, 169, 110, 0.1) 0px, transparent 50%),
+        radial-gradient(at 100% 100%, rgba(67, 44, 134, 0.1) 0px, transparent 50%),
+        radial-gradient(at 0% 100%, rgba(255, 255, 255, 0.8) 0px, transparent 50%);
+}
+
+.mesh-gradient-dark {
+    background-color: #1a0f3c;
+    background-image: 
+        radial-gradient(at 0% 0%, rgba(67, 44, 134, 0.4) 0px, transparent 50%),
+        radial-gradient(at 100% 0%, rgba(201, 169, 110, 0.15) 0px, transparent 50%),
+        radial-gradient(at 100% 100%, rgba(46, 29, 94, 0.6) 0px, transparent 50%),
+        radial-gradient(at 0% 100%, rgba(26, 15, 60, 1) 0px, transparent 50%);
+}
+
+/* ---------- Image Treatments (Parallax & Reveals) ---------- */
+.img-reveal-wrapper {
+    position: relative;
+    overflow: hidden;
+    border-radius: 1.5rem; /* Subtle elegant radius */
+}
+
+.img-reveal-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #1a0f3c;
+    z-index: 10;
+    transform-origin: top;
+}
+
+.img-parallax {
+    transform: scale(1.1) translateZ(0); /* Force hardware acceleration */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    will-change: transform;
+}
+
+/* Duotone / Color Burn effect on hover */
+.img-duotone {
+    position: relative;
+}
+.img-duotone::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(67, 44, 134, 0.45); /* Flat overlay instead of mix-blend for performance */
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+    z-index: 5;
+}
+.img-duotone:hover::after {
+    opacity: 0; /* Reveal true colors on hover */
+}
+
+/* ---------- Hero Specific ---------- */
+.hero-slider-container {
+    height: 100vh;
+    min-height: 800px;
+    width: 100%;
+    position: relative;
+}
+
+.hero-overlay-gradient {
+    position: absolute;
+    inset: 0;
+    /* Soft multi-layered gradient for depth, not just a flat block */
+    background: linear-gradient(
+        180deg, 
+        rgba(26,15,60,0.1) 0%, 
+        rgba(26,15,60,0.4) 50%, 
+        rgba(26,15,60,0.85) 100%
+    );
+    z-index: 2;
+    pointer-events: none;
+}
+
+/* Hero Typography */
+.hero-display-text {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(3rem, 7vw, 6.5rem);
+    line-height: 1;
+    color: #ffffff;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+}
+.hero-display-text i {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    color: #C9A96E; /* Gold accent in heading */
+    font-weight: 300;
+}
+
+/* Custom Swiper Navigation for Hero */
+.creative-nav-prev, .creative-nav-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+    z-index: 10;
+    transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    background: rgba(255, 255, 255, 0.1);
+}
+.creative-nav-prev { left: 40px; }
+.creative-nav-next { right: 40px; }
+
+.creative-nav-prev:hover, .creative-nav-next:hover {
+    background: #ffffff;
+    color: #1a0f3c;
+    transform: translateY(-50%) scale(1.1);
+}
+
+/* Custom Swiper Pagination - Progress line style */
+.creative-pagination {
+    position: absolute;
+    bottom: 50px !important;
+    left: 50% !important;
+    transform: translateX(-50%);
+    z-index: 10;
+    display: flex;
+    gap: 12px;
+}
+.creative-pagination .swiper-pagination-bullet {
+    width: 40px;
+    height: 2px;
+    background: rgba(255,255,255,0.3);
+    border-radius: 0;
+    opacity: 1;
+    margin: 0 !important;
+    position: relative;
+    overflow: hidden;
+}
+.creative-pagination .swiper-pagination-bullet::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 0;
+    background: #C9A96E;
+    transition: width 5s linear; /* Sync with autoplay */
+}
+.creative-pagination .swiper-pagination-bullet-active::after {
+    width: 100%;
+}
+
+/* ---------- Bento Grid / Services ---------- */
+.bento-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(220px, auto); /* Reduced size */
+    gap: 16px; /* Reduced gap */
+}
+.bento-item {
+    position: relative;
+    border-radius: 1.5rem;
+    overflow: hidden;
+    background: #f8f6fc;
+}
+.bento-large {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+.bento-wide {
+    grid-column: span 2;
+    grid-row: span 1;
+}
+
+.bento-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px;
+    background: linear-gradient(to top, rgba(26,15,60,0.9), transparent);
+    color: white;
+    transform: translateY(20px);
+    opacity: 0;
+    transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.bento-item:hover .bento-content {
+    transform: translateY(0);
+    opacity: 1;
+}
+.bento-item img {
+    transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.bento-item:hover img {
+    transform: scale(1.05);
+}
+
+/* ---------- Header & Nav ---------- */
+.site-header {
+    transition: background-color 0.4s ease, border-color 0.4s ease, transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.site-header.scrolled {
+    background: rgba(255, 255, 255, 0.95) !important;
+    border-bottom: 1px solid rgba(26, 15, 60, 0.05);
+}
+.site-header.scrolled .nav-link-item {
+    color: #1a0f3c;
+}
+.site-header.scrolled .logo-text {
+    color: #1a0f3c;
+}
+
+.nav-link-item {
+    position: relative;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #ffffff;
+    transition: color 0.3s ease;
+}
+
+.nav-link-item::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: currentColor;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.nav-link-item:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+/* Megamenu Redesign */
+.nav-dropdown {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(15px) scale(0.98);
+    transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    pointer-events: none;
+    transform-origin: top;
+}
+
+.nav-item-dropdown:hover .nav-dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0) scale(1);
+    pointer-events: auto;
+}
+
+.mega-menu-panel {
+    background: #ffffff;
+    border-radius: 1.5rem;
+    box-shadow: 0 40px 80px rgba(26, 15, 60, 0.08), 0 10px 20px rgba(26, 15, 60, 0.04);
+    border: 1px solid rgba(26, 15, 60, 0.03);
+    overflow: hidden;
+}
+
+/* ---------- Decorative Elements ---------- */
+/* Removed .circle-blur for performance */
+
+/* ---------- Testimonial Coverflow ---------- */
+.testimonial-slide-inner {
+    background: #ffffff;
+    border-radius: 24px;
+    padding: 50px 40px;
+    box-shadow: 0 20px 40px rgba(26, 15, 60, 0.04);
+    border: 1px solid rgba(26, 15, 60, 0.02);
+    transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.5s ease;
+    height: 100%;
+}
+.swiper-slide-active .testimonial-slide-inner {
+    box-shadow: 0 30px 60px rgba(26, 15, 60, 0.08);
+}
+
+.quote-mark {
+    font-family: 'Playfair Display', serif;
+    font-size: 120px;
+    line-height: 1;
+    color: rgba(201, 169, 110, 0.15); /* Faint gold */
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    pointer-events: none;
+}
+
+/* ---------- Footer ---------- */
+.footer-editorial {
+    background: #0d071e; /* Very dark brand */
+    color: #ffffff;
+    position: relative;
+    overflow: hidden;
+}
+
+.footer-link {
+    color: rgba(255,255,255,0.6);
+    transition: color 0.3s ease, transform 0.3s ease;
+    display: inline-block;
+}
+.footer-link:hover {
+    color: #C9A96E;
+    transform: translateX(4px);
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 1024px) {
+    .creative-nav-prev, .creative-nav-next { display: none; }
+    .bento-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 768px) {
+    .bento-grid {
+        grid-template-columns: 1fr;
+    }
+    .bento-large, .bento-wide {
+        grid-column: span 1;
+    }
+    .hero-display-text {
+        font-size: clamp(2.5rem, 10vw, 4rem);
+    }
+}
+
+/* ---------- Hero-Mode Navbar (Home Page) ----------
+   When transparent at the top and white when scrolled.
+   This rule only fires for the <header> that has the .hero-mode class,
+   so non-home pages are unaffected. */
+.site-header.hero-mode {
+    color: #ffffff;
+}
+.site-header.hero-mode .logo-text,
+.site-header.hero-mode .nav-link-item,
+.site-header.hero-mode .nav-item-dropdown > a {
+    color: #ffffff;
+}
+.site-header.hero-mode .nav-item-dropdown > a:hover,
+.site-header.hero-mode .nav-link-item:hover {
+    color: #C9A96E;
+}
+.site-header.hero-mode .nav-dropdown .mega-menu-panel {
+    background: #ffffff;
+    color: #1a0f3c;
+}
+
+/* Scrolled state: solid white with shadow */
+.site-header.hero-mode.scrolled {
+    background: rgba(255, 255, 255, 0.96) !important;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(67, 44, 134, 0.06);
+    box-shadow: 0 4px 30px rgba(26, 15, 60, 0.05);
+}
+.site-header.hero-mode.scrolled .logo-text,
+.site-header.hero-mode.scrolled .nav-link-item,
+.site-header.hero-mode.scrolled .nav-item-dropdown > a {
+    color: #1a0f3c;
+}
+.site-header.hero-mode.scrolled .nav-item-dropdown > a:hover,
+.site-header.hero-mode.scrolled .nav-link-item:hover {
+    color: #C9A96E;
+}
+
+/* Generic page navbar (non-home) — should always be solid */
+.site-header:not(.hero-mode) {
+    background: #ffffff;
+}
+.site-header:not(.hero-mode) .logo-text,
+.site-header:not(.hero-mode) .nav-link-item,
+.site-header:not(.hero-mode) .nav-item-dropdown > a {
+    color: #1a0f3c;
+}
+.site-header:not(.hero-mode) .nav-item-dropdown > a:hover,
+.site-header:not(.hero-mode) .nav-link-item:hover {
+    color: #C9A96E;
+}
