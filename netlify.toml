@@ -1,0 +1,9 @@
+[build]
+  command = "php build.php"
+  publish = "dist"
+
+[[redirects]]
+  from = "/body-contouring-kampala-juba"
+  to = "/body-contouring"
+  status = 301
+  force = true
