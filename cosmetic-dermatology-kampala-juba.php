@@ -34,7 +34,7 @@ $pageDescription = "Enhance your natural beauty with advanced, non-surgical cosm
                 <!-- Treatment 1 -->
                 <a href="injectables-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Neuromodulators" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Refine-skin-tightening.webp" alt="Neuromodulators" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Anti-Wrinkle Injections</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Smooth fine lines and prevent dynamic wrinkles using FDA-approved neuromodulators.</p>
@@ -43,7 +43,7 @@ $pageDescription = "Enhance your natural beauty with advanced, non-surgical cosm
                 <!-- Treatment 2 -->
                 <a href="injectables-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Dermal Fillers" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/dermal-filter-09.png" alt="Dermal Fillers" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Dermal Fillers</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Restore lost volume, contour the jawline, and enhance lip fullness with premium HA fillers.</p>
@@ -52,7 +52,7 @@ $pageDescription = "Enhance your natural beauty with advanced, non-surgical cosm
                 <!-- Treatment 3 -->
                 <a href="skin-and-body-rejuvenation-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Chemical Peels" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/chemical_09.png" alt="Chemical Peels" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Medical Grade Peels</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Resurface the skin, treat hyperpigmentation, and improve overall texture and tone.</p>
@@ -61,7 +61,7 @@ $pageDescription = "Enhance your natural beauty with advanced, non-surgical cosm
                 <!-- Treatment 4 -->
                 <a href="skin-tightening" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Microneedling" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/RF-Microneedling_09.png" alt="Microneedling" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">RF Microneedling</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Stimulate collagen production and tighten lax skin using advanced radiofrequency technology.</p>

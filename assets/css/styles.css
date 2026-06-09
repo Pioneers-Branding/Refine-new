@@ -220,16 +220,17 @@ body {
 /* Hero Typography */
 .hero-display-text {
     font-family: 'Playfair Display', serif;
-    font-size: clamp(3rem, 7vw, 6.5rem);
-    line-height: 1;
+    font-size: clamp(3.5rem, 8vw, 7rem);
+    line-height: 0.95;
     color: #ffffff;
     font-weight: 400;
     letter-spacing: -0.02em;
+    text-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
 .hero-display-text i {
     font-family: 'Playfair Display', serif;
     font-style: italic;
-    color: #C9A96E; /* Gold accent in heading */
+    color: #e5cc98; /* Lighter Gold accent in heading for better contrast */
     font-weight: 300;
 }
 
@@ -322,7 +323,9 @@ body {
     left: 0;
     width: 100%;
     padding: 30px;
-    background: linear-gradient(to top, rgba(26,15,60,0.9), transparent);
+    background: linear-gradient(to top, rgba(26,15,60,0.95) 0%, rgba(26,15,60,0.4) 70%, transparent 100%);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     color: white;
     transform: translateY(20px);
     opacity: 0;

@@ -60,7 +60,7 @@
         <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5 gs-stagger-bento">
             <!-- Card: Skin -->
             <a href="cosmetic-dermatology-kampala-juba" class="group relative overflow-hidden rounded-3xl h-72 lg:h-96 bento-item">
-                <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Skin" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
+                <img src="/assets/imagesfromsite/dermatology-new-09.webp" alt="Skin" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
                 <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-brand-deeper/40 to-transparent"></div>
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
                     <div class="w-11 h-11 rounded-full bg-white/10 backdrop-blur-md flex items-center justify-center mb-4 ring-1 ring-white/20">
@@ -74,7 +74,7 @@
 
             <!-- Card: Hair -->
             <a href="hair-transplant-kampala-juba" class="group relative overflow-hidden rounded-3xl h-72 lg:h-96 bento-item">
-                <img src="https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Hair" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
+                <img src="/assets/imagesfromsite/prp-hair-restoration-09.png" alt="Hair" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
                 <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-brand-deeper/40 to-transparent"></div>
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
                     <div class="w-11 h-11 rounded-full bg-white/10 backdrop-blur-md flex items-center justify-center mb-4 ring-1 ring-white/20">
@@ -88,7 +88,7 @@
 
             <!-- Card: Body -->
             <a href="body-contouring-kampala-juba" class="group relative overflow-hidden rounded-3xl h-72 lg:h-96 bento-item">
-                <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Body" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
+                <img src="/assets/imagesfromsite/Em%20body%20sculpt-09.webp" alt="Body" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
                 <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-brand-deeper/40 to-transparent"></div>
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
                     <div class="w-11 h-11 rounded-full bg-white/10 backdrop-blur-md flex items-center justify-center mb-4 ring-1 ring-white/20">
@@ -102,7 +102,7 @@
 
             <!-- Card: Wellness / IV -->
             <a href="refine-iv-lounge-kampala-juba" class="group relative overflow-hidden rounded-3xl h-72 lg:h-96 bento-item">
-                <img src="https://images.pexels.com/photos/7088489/pexels-photo-7088489.jpeg?auto=compress&cs=tinysrgb&w=800" alt="IV Wellness" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
+                <img src="/assets/imagesfromsite/IV-Therapy_09.png" alt="IV Wellness" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy">
                 <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-brand-deeper/40 to-transparent"></div>
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
                     <div class="w-11 h-11 rounded-full bg-white/10 backdrop-blur-md flex items-center justify-center mb-4 ring-1 ring-white/20">
@@ -126,11 +126,11 @@
             <div class="lg:col-span-6 relative h-[500px] lg:h-[640px] gs-reveal-img-group">
                 <div class="absolute top-0 left-0 w-[60%] h-[70%] img-reveal-wrapper shadow-2xl z-10 gs-reveal-img">
                     <div class="img-reveal-overlay"></div>
-                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Refine treatment" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine treatment" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="absolute bottom-0 right-0 w-[55%] h-[60%] img-reveal-wrapper shadow-2xl z-20 border-4 border-white gs-reveal-img gs-delay-1">
                     <div class="img-reveal-overlay"></div>
-                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="/assets/imagesfromsite/about-8.webp" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="absolute top-8 right-4 z-30 glass-panel rounded-2xl p-4 max-w-[180px] gs-reveal-fade gs-delay-2">
                     <p class="font-display text-3xl text-brand-deeper leading-none">15+</p>
@@ -214,7 +214,7 @@
             <!-- Dr 1 -->
             <a href="about-dr-henry-owiny-aesthetic-physician-in-uganda" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
-                    <img src="https://images.pexels.com/photos/4173251/pexels-photo-4173251.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Dr. Henry Owiny" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
+                    <img src="/assets/imagesfromsite/blog/Refine_Skin_and_Body_Clinic_-_Dr_Henry_Owiny.webp" alt="Dr. Henry Owiny" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
                     <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-transparent to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-5">
                         <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Aesthetic Physician</p>
@@ -226,7 +226,7 @@
             <!-- Dr 2 -->
             <a href="about-dr-william-lubega-plastic-surgeon-in-uganda" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
-                    <img src="https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Dr. William Lubega" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
+                    <img src="/assets/imagesfromsite/s13-1.webp" alt="Dr. William Lubega" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
                     <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-transparent to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-5">
                         <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Plastic Surgeon</p>
@@ -238,7 +238,7 @@
             <!-- Dr 3 -->
             <a href="dr-chirag-kotecha-dermatologist-in-uganda" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
-                    <img src="https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
+                    <img src="/assets/imagesfromsite/doc.webp" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
                     <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-transparent to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-5">
                         <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Dermatologist</p>
@@ -250,7 +250,7 @@
             <!-- Nutritionist -->
             <a href="about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
-                    <img src="https://images.pexels.com/photos/3768912/pexels-photo-3768912.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Wendy Emyedu" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
+                    <img src="/assets/imagesfromsite/Ms_Wendy_Emyedu_Ayayo.png" alt="Wendy Emyedu" class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700" loading="lazy">
                     <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper via-transparent to-transparent"></div>
                     <div class="absolute bottom-0 left-0 right-0 p-5">
                         <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Nutritionist</p>
@@ -340,11 +340,11 @@
             <div class="lg:col-span-7 order-1 lg:order-2 relative gs-reveal-img-group h-[500px] lg:h-[600px]">
                 <div class="absolute top-0 right-0 w-[80%] h-[80%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-10 gs-reveal-img">
                     <div class="img-reveal-overlay"></div>
-                    <img src="https://images.pexels.com/photos/7088489/pexels-photo-7088489.jpeg?auto=compress&cs=tinysrgb&w=900" alt="IV Lounge" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="/assets/imagesfromsite/IV%20THERAPY.webp" alt="IV Lounge" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="absolute bottom-0 left-0 w-[45%] h-[55%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-20 border-4 border-white gs-reveal-img gs-delay-1">
                     <div class="img-reveal-overlay"></div>
-                    <img src="https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=600" alt="IV detail" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="/assets/imagesfromsite/Vitamin%20C-09_.png" alt="IV detail" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="absolute top-8 left-0 z-30 glass-panel rounded-2xl p-4 max-w-[200px] gs-reveal-fade gs-delay-2">
                     <div class="flex items-center gap-2 mb-2">
@@ -375,7 +375,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 gs-stagger-bento">
             <a href="contact" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                 <div class="aspect-video rounded-2xl overflow-hidden mb-5 bg-surface-cool relative">
-                    <img src="https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Forest Mall HQ" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_welcome-to1.webp" alt="Forest Mall HQ" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
                 </div>
                 <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Headquarters</p>
                 <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Forest Mall, Lugogo</h4>
@@ -385,7 +385,7 @@
 
             <a href="contact" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                 <div class="aspect-video rounded-2xl overflow-hidden mb-5 bg-surface-cool relative">
-                    <img src="https://images.pexels.com/photos/2467558/pexels-photo-2467558.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Kabalagala" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup%203%20(1).webp" alt="Kabalagala" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
                 </div>
                 <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Branch</p>
                 <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Palm Village, Kabalagala</h4>
@@ -395,7 +395,7 @@
 
             <a href="contact" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                 <div class="aspect-video rounded-2xl overflow-hidden mb-5 bg-surface-cool relative">
-                    <img src="https://images.pexels.com/photos/2360673/pexels-photo-2360673.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Bukoto" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup%204.webp" alt="Bukoto" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
                 </div>
                 <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Branch</p>
                 <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">UMC Victoria, Bukoto</h4>
@@ -405,7 +405,7 @@
 
             <a href="contact" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                 <div class="aspect-video rounded-2xl overflow-hidden mb-5 bg-surface-cool relative">
-                    <img src="https://images.pexels.com/photos/2440024/pexels-photo-2440024.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Juba" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
+                    <img src="/assets/imagesfromsite/bg-01.webp" alt="Juba" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
                 </div>
                 <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">International</p>
                 <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Sadeco Building, Juba</h4>

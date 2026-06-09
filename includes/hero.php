@@ -46,7 +46,7 @@
             <!-- SLIDE 2 (Still Image) -->
             <div class="swiper-slide">
                 <div class="w-full h-full relative img-duotone">
-                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="A Skin That Fits Your Lifestyle" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_welcome-to1.webp" alt="A Skin That Fits Your Lifestyle" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
                     <div class="hero-overlay-gradient"></div>
                     
                     <div class="absolute inset-0 flex items-center z-10 pt-20">
@@ -82,7 +82,7 @@
             <!-- SLIDE 3 (Still Image) -->
             <div class="swiper-slide">
                 <div class="w-full h-full relative img-duotone">
-                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Quality Skin Treatment" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
+                    <img src="/assets/imagesfromsite/breadcrumbsgall.webp" alt="Quality Skin Treatment" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
                     <div class="hero-overlay-gradient"></div>
                     
                     <div class="absolute inset-0 flex items-center justify-end z-10 pt-20 text-right">
@@ -118,14 +118,14 @@
             <!-- SLIDE 4 (Clinic Logo/Interior) -->
             <div class="swiper-slide">
                 <div class="w-full h-full relative img-duotone">
-                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Refine Clinic Interior" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
+                    <img src="/assets/imagesfromsite/bg-01.webp" alt="Refine Clinic Interior" class="img-parallax" data-swiper-parallax="-20%" loading="lazy">
                     <div class="hero-overlay-gradient"></div>
                     
                     <div class="absolute inset-0 flex items-center justify-center z-10 pt-20 text-center">
                         <div class="max-w-[1600px] w-full mx-auto px-6 lg:px-10 flex justify-center">
                             <div class="max-w-3xl flex flex-col items-center">
                                 <div class="overflow-hidden mb-8">
-                                    <img src="https://images.pexels.com/photos/3985303/pexels-photo-3985303.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Refine Logo" class="h-24 hero-stagger-text invert brightness-0 filter-none">
+                                    <img src="/assets/images/refine-logo.png" alt="Refine Logo" class="h-24 hero-stagger-text invert brightness-0 filter-none">
                                 </div>
                                 <div class="overflow-hidden mb-8">
                                     <h2 class="hero-display-text hero-stagger-text"><i>Excellence in</i> <br>Aesthetics.</h2>

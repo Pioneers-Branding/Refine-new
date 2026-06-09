@@ -205,8 +205,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // 3. Image composition reveals (Empathy section)
-    const imgGroup = document.querySelector('.gs-reveal-img-group');
-    if (imgGroup) {
+    const imgGroups = document.querySelectorAll('.gs-reveal-img-group');
+    imgGroups.forEach(imgGroup => {
         const imgs = imgGroup.querySelectorAll('.gs-reveal-img');
         imgs.forEach((img, index) => {
             const overlay = img.querySelector('.img-reveal-overlay');
@@ -244,7 +244,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 scrollTrigger: { trigger: imgGroup, start: 'top 70%' }
             });
         });
-    }
+    });
 
     // 4. Generic Fades
     gsap.utils.toArray('.gs-reveal-fade:not(.gs-reveal-img-group .gs-reveal-fade)').forEach(el => {
