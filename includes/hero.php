@@ -8,7 +8,7 @@
             <!-- SLIDE 1 (Video Banner) -->
             <div class="swiper-slide">
                 <div class="w-full h-full relative img-duotone">
-                    <img src="/assets/imagesfromsite/banner-5.webp" alt="Refine Skin Clinic" class="img-parallax" data-swiper-parallax="-20%" loading="eager">
+                    <img src="/assets/imagesfromsite/gallerybrad.webp" alt="Refine Skin Clinic" class="img-parallax" data-swiper-parallax="-20%" loading="eager">
                     <div class="hero-overlay-gradient"></div>
                     
                     <div class="absolute inset-0 flex items-center z-10 pt-20">
