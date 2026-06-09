@@ -123,7 +123,7 @@
                         <div class="max-w-[1600px] w-full mx-auto px-6 lg:px-10 flex justify-center">
                             <div class="max-w-3xl flex flex-col items-center">
                                 <div class="overflow-hidden mb-8">
-                                    <img src="/assets/images/refine-logo.png" alt="Refine Logo" class="h-24 hero-stagger-text invert brightness-0 filter-none">
+                                    <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Logo" class="h-24 hero-stagger-text object-contain">
                                 </div>
                                 <div class="overflow-hidden mb-8">
                                     <h2 class="hero-display-text hero-stagger-text"><i>Excellence in</i> <br>Aesthetics.</h2>
