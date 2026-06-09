@@ -85,7 +85,7 @@
                     
                     <div class="absolute inset-0 flex items-center justify-end z-10 pt-20 text-right">
                         <div class="max-w-[1600px] w-full mx-auto px-6 lg:px-10 flex justify-end">
-                            <div class="max-w-3xl">
+                            <div class="max-w-5xl">
                                 <div class="overflow-hidden mb-6 flex justify-end">
                                     <span class="block text-accent font-body text-xs tracking-[0.3em] uppercase hero-stagger-text font-semibold">Masterful Care</span>
                                 </div>
