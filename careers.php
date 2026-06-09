@@ -87,16 +87,16 @@ $pageDescription = "We are always looking for passionate, skilled professionals 
         <!-- Marquee / Horizontal Scroll of Images -->
         <div class="w-full flex gap-6 overflow-x-auto pb-8 snap-x snap-mandatory hide-scrollbar px-6 lg:px-10">
             <div class="flex-shrink-0 w-[80vw] md:w-[40vw] lg:w-[30vw] aspect-[4/3] rounded-3xl overflow-hidden snap-center group">
-                <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500">
+                <img src="/assets/imagesfromsite/bg-02.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500">
             </div>
             <div class="flex-shrink-0 w-[80vw] md:w-[40vw] lg:w-[30vw] aspect-[4/3] rounded-3xl overflow-hidden snap-center group">
-                <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500">
+                <img src="/assets/imagesfromsite/services/breadcrumbsAll.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500">
             </div>
             <div class="flex-shrink-0 w-[80vw] md:w-[40vw] lg:w-[30vw] aspect-[4/3] rounded-3xl overflow-hidden snap-center group">
-                <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500">
+                <img src="/assets/imagesfromsite/bg-01.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500">
             </div>
             <div class="flex-shrink-0 w-[80vw] md:w-[40vw] lg:w-[30vw] aspect-[4/3] rounded-3xl overflow-hidden snap-center group">
-                <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500">
+                <img src="/assets/imagesfromsite/about-8.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500">
             </div>
         </div>
         

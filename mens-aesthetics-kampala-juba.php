@@ -28,7 +28,7 @@ $pageDescription = "Tailored aesthetic treatments designed specifically for the 
                 </div>
                 
                 <div class="relative rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group aspect-[3/4] lg:h-[600px] order-1 lg:order-2">
-                    <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Men's Aesthetics" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.5] contrast-125" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Men's Aesthetics" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.5] contrast-125" loading="lazy">
                 </div>
 
             </div>
@@ -64,7 +64,7 @@ $pageDescription = "Tailored aesthetic treatments designed specifically for the 
                 <!-- Treatment 3 -->
                 <a href="hair-restoration-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/bg-01.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Hair Restoration (PRP)</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Combat early signs of male pattern baldness and thinning crowns utilizing your body's own regenerative Platelet-Rich Plasma.</p>

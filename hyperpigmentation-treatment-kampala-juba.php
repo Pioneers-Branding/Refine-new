@@ -32,7 +32,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
                 </div>
 
                 <div class="relative rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group aspect-square lg:aspect-auto lg:h-[600px]">
-                    <img src="https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Hyperpigmentation Treatment" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
+                    <img src="/assets/imagesfromsite/Sclerotherapy-Treatment.webp" alt="Hyperpigmentation Treatment" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
                 </div>
 
             </div>
@@ -49,7 +49,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="6d-green-laser-treatment-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Sclerotherapy-Treatment.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">6D Pigmentation Laser</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">A precise, multi-wavelength laser that breaks down melanin at the source.</p>
@@ -57,7 +57,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
 
                 <a href="chemical-peel-treatment-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Sclerotherapy-Treatment.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Brightening Peels</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">A range of chemical peels — lactic, glycolic, and Cosmelan — to resurface pigmentation.</p>
@@ -65,7 +65,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
 
                 <a href="skin-lightening-with-tatioactive-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/3735619/pexels-photo-3735619.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Sclerotherapy-Treatment.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Tatioactive Lightening System</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">A complete clinical and at-home protocol to safely achieve a brighter, even tone.</p>

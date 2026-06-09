@@ -29,7 +29,7 @@ $pageDescription = "Restore youthful volume, smooth crepey skin, and erase age s
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Laser Skin Rejuvenation-09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Hand Filler</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">HA or CaHA filler placed beneath the skin to camouflage tendons and veins.</p>
@@ -37,7 +37,7 @@ $pageDescription = "Restore youthful volume, smooth crepey skin, and erase age s
 
                 <a href="skin-boosters-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3735619/pexels-photo-3735619.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Laser Skin Rejuvenation-09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Skin Booster Hydration</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Micro-injections of hydrating HA to plump crepey skin and improve texture.</p>
@@ -45,7 +45,7 @@ $pageDescription = "Restore youthful volume, smooth crepey skin, and erase age s
 
                 <a href="6d-green-laser-treatment-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/4046718/pexels-photo-4046718.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Laser%20Skin%20Rejuvenation-09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Pigmentation Laser</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Fade age spots and sun damage on the hands with our pigmentation laser.</p>

@@ -32,7 +32,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
                 </div>
 
                 <div class="relative rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group aspect-square lg:aspect-auto lg:h-[600px]">
-                    <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Dermal Fillers" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
+                    <img src="/assets/imagesfromsite/dermal-filter-09.png" alt="Dermal Fillers" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
                 </div>
 
             </div>
@@ -49,7 +49,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="lip-volumization-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/dermal-filter-09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Lip Volumization</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Add natural-looking volume, definition, and symmetry to the lips with premium HA fillers.</p>
@@ -57,7 +57,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
 
                 <a href="cheek-enhancement-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/3735619/pexels-photo-3735619.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/dermal-filter-09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Cheek Enhancement</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Restore youthful cheek volume and lift the midface for a natural, refreshed contour.</p>
@@ -65,7 +65,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
 
                 <a href="jawline-contouring-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/dermal-filter-09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Jawline Contouring</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Sharpen and define the jawline for a stronger, more sculpted profile.</p>

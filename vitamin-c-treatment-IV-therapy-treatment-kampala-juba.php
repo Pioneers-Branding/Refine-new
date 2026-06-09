@@ -29,7 +29,7 @@ $pageDescription = "High-dose intravenous Vitamin C for immune support, collagen
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Sclerotherapy-Treatment.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Vitamin C Standard</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">A 10–25g dose for general immune support, energy, and antioxidant protection.</p>
@@ -37,7 +37,7 @@ $pageDescription = "High-dose intravenous Vitamin C for immune support, collagen
 
                 <a href="immunity-iv-therapy-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Vitamin C-09_.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Vitamin C High-Dose</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">A 50g+ dose for advanced immune support and clinical applications.</p>
@@ -45,7 +45,7 @@ $pageDescription = "High-dose intravenous Vitamin C for immune support, collagen
 
                 <a href="glutathione-IV-therapy-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/iv-therapy-bread.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Vitamin C + Glutathione</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">The ultimate antioxidant combo for skin brightening and deep detox.</p>

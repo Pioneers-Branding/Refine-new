@@ -29,7 +29,7 @@ $pageDescription = "A customized combination of procedures to restore your pre-b
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="tummy-tuck-abdominoplasty-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/bg-01.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Tummy Tuck</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Tightens separated muscles and removes loose skin from the abdomen.</p>
@@ -37,7 +37,7 @@ $pageDescription = "A customized combination of procedures to restore your pre-b
 
                 <a href="breast-augmentation-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/4498318/pexels-photo-4498318.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/breadcrumbsgall.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Breast Lift / Augmentation</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Restores breast shape, position, and volume lost after pregnancy and breastfeeding.</p>
@@ -45,7 +45,7 @@ $pageDescription = "A customized combination of procedures to restore your pre-b
 
                 <a href="liposuction-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/414829/pexels-photo-414829.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/breadcrumbsAll.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Liposuction</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Sculpts stubborn fat pockets on the abdomen, flanks, thighs, and back.</p>

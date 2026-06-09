@@ -55,7 +55,7 @@ $pageDescription = "Restore volume, smooth wrinkles, and harmonize your facial f
                 <!-- Treatment 1 -->
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Neuromodulators</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Botox® and Dysport® to relax facial muscles, preventing and softening dynamic wrinkles on the forehead and around the eyes.</p>
@@ -64,7 +64,7 @@ $pageDescription = "Restore volume, smooth wrinkles, and harmonize your facial f
                 <!-- Treatment 2 -->
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/bg-02.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Dermal Fillers</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Hyaluronic Acid fillers to restore lost facial volume, contour the jawline/cheeks, and enhance lip hydration and shape.</p>

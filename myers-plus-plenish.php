@@ -29,7 +29,7 @@ $pageDescription = "The supercharged version of the classic Myers' Cocktail — 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="myers-magic-iv-therapy-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/about-8.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Classic Myers'</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">The base cocktail without the extras — ideal for first-timers and regular maintenance.</p>
@@ -37,7 +37,7 @@ $pageDescription = "The supercharged version of the classic Myers' Cocktail — 
 
                 <a href="glutathione-IV-therapy-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/about-8.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Myers' Plus Extra Glutathione</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Add an extra-large dose of glutathione for skin brightening and deep detox.</p>
@@ -45,7 +45,7 @@ $pageDescription = "The supercharged version of the classic Myers' Cocktail — 
 
                 <a href="nad-iv-therapy-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/breadcrumbsgall.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Myers' Plus NAD+</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">The ultimate longevity drip — add NAD+ for cellular energy and anti-aging.</p>

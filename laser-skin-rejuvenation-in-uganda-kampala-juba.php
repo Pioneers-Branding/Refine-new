@@ -40,7 +40,7 @@ $pageDescription = "Reverse sun damage, smooth fine lines, and restore a youthfu
                 </div>
 
                 <div class="relative rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group aspect-square lg:aspect-auto lg:h-[600px]">
-                    <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Laser Skin Rejuvenation" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup 3 (1).webp" alt="Laser Skin Rejuvenation" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
                 </div>
 
             </div>
@@ -57,7 +57,7 @@ $pageDescription = "Reverse sun damage, smooth fine lines, and restore a youthfu
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="co2-laser-scar-removal-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Refine-laser-hair-removal.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">CO2 Fractional Resurfacing</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">The most powerful laser for deep wrinkles, severe scarring, and advanced sun damage.</p>
@@ -65,7 +65,7 @@ $pageDescription = "Reverse sun damage, smooth fine lines, and restore a youthfu
 
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Refine-laser-attoo-removal.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">ClearLift Pigmentation Laser</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">A non-ablative Q-Switched laser that breaks up pigmentation with no downtime.</p>
@@ -73,7 +73,7 @@ $pageDescription = "Reverse sun damage, smooth fine lines, and restore a youthfu
 
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/laser-hair-removal.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">IPL Photofacial</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Intense Pulsed Light therapy to address redness, brown spots, and overall tone.</p>

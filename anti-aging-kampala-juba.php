@@ -38,11 +38,11 @@ $pageDescription = "Turn back the clock with our comprehensive, multi-modality a
                 <div class="relative rounded-[40px] overflow-hidden shadow-2xl aspect-[4/3] bg-surface-cool border border-white/10 gs-reveal-img-group">
                     <div class="absolute inset-0 flex">
                         <div class="w-1/2 h-full relative overflow-hidden border-r-2 border-accent">
-                            <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" class="absolute inset-0 w-[200%] max-w-none h-full object-cover filter grayscale-[0.8] brightness-75">
+                            <img src="/assets/imagesfromsite/services/Anti-Migraine-hero.webp" class="absolute inset-0 w-[200%] max-w-none h-full object-cover filter grayscale-[0.8] brightness-75">
                             <span class="absolute bottom-4 left-4 bg-black/50 backdrop-blur-md text-white text-[10px] font-bold uppercase tracking-widest px-3 py-1 rounded-full">Before</span>
                         </div>
                         <div class="w-1/2 h-full relative overflow-hidden">
-                            <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" class="absolute inset-0 right-0 w-[200%] max-w-none h-full object-cover -translate-x-1/2 filter grayscale-[0.2]">
+                            <img src="/assets/imagesfromsite/services/Anti-Migraine-ser2.webp" class="absolute inset-0 right-0 w-[200%] max-w-none h-full object-cover -translate-x-1/2 filter grayscale-[0.2]">
                             <span class="absolute bottom-4 right-4 bg-accent text-brand-deeper text-[10px] font-bold uppercase tracking-widest px-3 py-1 rounded-full">After</span>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ $pageDescription = "Turn back the clock with our comprehensive, multi-modality a
                 <!-- Treatment 1 -->
                 <a href="injectables-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/Anti-Migraine-ser2.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Liquid Facelift</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">A bespoke combination of Botox and Dermal Fillers to restore facial volume and smooth wrinkles without surgery.</p>
@@ -73,7 +73,7 @@ $pageDescription = "Turn back the clock with our comprehensive, multi-modality a
                 <!-- Treatment 2 -->
                 <a href="laser-treatments-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/Anti-Migraine-ser1.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Skin Resurfacing</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Utilizing the CO2 Fractional Laser to reverse sun damage, erase fine lines, and tighten crepey skin.</p>
@@ -82,7 +82,7 @@ $pageDescription = "Turn back the clock with our comprehensive, multi-modality a
                 <!-- Treatment 3 -->
                 <a href="prp-treatments-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/Anti-Migraine-ser1.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Biostimulators (Sculptra)</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Injectable treatments that stimulate your body's own collagen production for long-lasting, natural rejuvenation.</p>

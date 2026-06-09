@@ -77,7 +77,7 @@ $pageDescription = "Walk down the aisle with absolute confidence. Our curated br
                         We have designed comprehensive packages that combine our most effective treatments to ensure you and your bridal party look stunning from every angle.
                     </p>
                     <div class="rounded-3xl overflow-hidden aspect-[3/4] shadow-lg mb-8">
-                        <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Bridal Glow" class="w-full h-full object-cover filter grayscale-[0.2]">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Bridal Glow" class="w-full h-full object-cover filter grayscale-[0.2]">
                     </div>
                 </div>
 

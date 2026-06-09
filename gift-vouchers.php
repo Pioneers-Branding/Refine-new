@@ -111,7 +111,7 @@ $pageDescription = "Give the gift of radiant skin and ultimate relaxation. Our l
                     </ul>
                 </div>
                 <div class="order-1 lg:order-2 relative aspect-[4/3] rounded-[40px] overflow-hidden shadow-xl gs-reveal-img-group">
-                    <img src="https://images.pexels.com/photos/5693527/pexels-photo-5693527.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Luxury Unboxing" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.3]" loading="lazy">
+                    <img src="/assets/imagesfromsite/bg-02.webp" alt="Luxury Unboxing" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.3]" loading="lazy">
                 </div>
             </div>
         </div>

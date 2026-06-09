@@ -29,7 +29,7 @@ $pageDescription = "Your sanctuary for premium IV therapy in Kampala and Juba â€
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="iv-therapy-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/7088489/pexels-photo-7088489.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Refine-hydra-facial.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">IV Therapy Menu</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Browse our full menu of wellness, beauty, performance, and recovery drips.</p>
@@ -37,7 +37,7 @@ $pageDescription = "Your sanctuary for premium IV therapy in Kampala and Juba â€
 
                 <a href="vitamin-shots-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/7088489/pexels-photo-7088489.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Refine-laser-attoo-removal.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Vitamin Shots (IM)</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Quick intramuscular vitamin injections for an instant wellness boost.</p>
@@ -45,7 +45,7 @@ $pageDescription = "Your sanctuary for premium IV therapy in Kampala and Juba â€
 
                 <a href="mobile-iv-service-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/7088489/pexels-photo-7088489.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup 3 (1).webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Mobile / In-Home IV</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Prefer to stay in? We bring the IV Lounge to your home, hotel, or office.</p>

@@ -33,11 +33,11 @@ $pageDescription = "Achieve sustainable weight loss with our doctor-supervised m
                     <div class="absolute inset-0 bg-accent/10 translate-x-4 translate-y-4 rounded-[40px]"></div>
                     <div class="grid grid-cols-2 gap-4 relative z-10">
                         <div class="relative rounded-3xl overflow-hidden aspect-[3/4] shadow-lg">
-                            <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Before" class="w-full h-full object-cover filter grayscale-[0.8] brightness-75">
+                            <img src="/assets/imagesfromsite/about-8.webp" alt="Before" class="w-full h-full object-cover filter grayscale-[0.8] brightness-75">
                             <span class="absolute bottom-4 left-4 bg-black/50 backdrop-blur-md text-white text-[10px] font-bold uppercase tracking-widest px-3 py-1 rounded-full">Before</span>
                         </div>
                         <div class="relative rounded-3xl overflow-hidden aspect-[3/4] shadow-lg">
-                            <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" alt="After" class="w-full h-full object-cover filter grayscale-[0.2]">
+                            <img src="/assets/imagesfromsite/breadcrumbsgall.webp" alt="After" class="w-full h-full object-cover filter grayscale-[0.2]">
                             <span class="absolute bottom-4 right-4 bg-accent text-brand-deeper text-[10px] font-bold uppercase tracking-widest px-3 py-1 rounded-full">After</span>
                         </div>
                     </div>

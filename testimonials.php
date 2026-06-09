@@ -25,11 +25,11 @@ $pageDescription = "Read the authentic experiences of those who have entrusted t
                 <div class="grid lg:grid-cols-2 gap-12 items-center glass-panel p-8 md:p-12 rounded-[40px] border border-brand/5 shadow-xl gs-reveal-fade">
                     <div class="grid grid-cols-2 gap-4">
                         <div class="relative aspect-[3/4] rounded-2xl overflow-hidden bg-surface-cool">
-                            <img src="https://images.pexels.com/photos/3771835/pexels-photo-3771835.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Before" class="w-full h-full object-cover filter grayscale-[0.5]" loading="lazy">
+                            <img src="/assets/imagesfromsite/bg-02.webp" alt="Before" class="w-full h-full object-cover filter grayscale-[0.5]" loading="lazy">
                             <div class="absolute bottom-4 left-4 bg-black/50 backdrop-blur-sm text-white px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-widest">Before</div>
                         </div>
                         <div class="relative aspect-[3/4] rounded-2xl overflow-hidden bg-surface-cool">
-                            <img src="https://images.pexels.com/photos/3762804/pexels-photo-3762804.jpeg?auto=compress&cs=tinysrgb&w=800" alt="After" class="w-full h-full object-cover" loading="lazy">
+                            <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="After" class="w-full h-full object-cover" loading="lazy">
                             <div class="absolute bottom-4 left-4 bg-accent/80 backdrop-blur-sm text-white px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-widest">After</div>
                         </div>
                     </div>
@@ -73,11 +73,11 @@ $pageDescription = "Read the authentic experiences of those who have entrusted t
                     </div>
                     <div class="order-1 lg:order-2 grid grid-cols-2 gap-4">
                         <div class="relative aspect-[3/4] rounded-2xl overflow-hidden bg-surface-cool">
-                            <img src="https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Before" class="w-full h-full object-cover filter grayscale-[0.5]" loading="lazy">
+                            <img src="/assets/imagesfromsite/breadcrumbsgall.webp" alt="Before" class="w-full h-full object-cover filter grayscale-[0.5]" loading="lazy">
                             <div class="absolute bottom-4 left-4 bg-black/50 backdrop-blur-sm text-white px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-widest">Before</div>
                         </div>
                         <div class="relative aspect-[3/4] rounded-2xl overflow-hidden bg-surface-cool">
-                            <img src="https://images.pexels.com/photos/3762800/pexels-photo-3762800.jpeg?auto=compress&cs=tinysrgb&w=800" alt="After" class="w-full h-full object-cover" loading="lazy">
+                            <img src="/assets/imagesfromsite/about-8.webp" alt="After" class="w-full h-full object-cover" loading="lazy">
                             <div class="absolute bottom-4 left-4 bg-accent/80 backdrop-blur-sm text-white px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-widest">After</div>
                         </div>
                     </div>
@@ -96,7 +96,7 @@ $pageDescription = "Read the authentic experiences of those who have entrusted t
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 gs-stagger-bento">
                 <!-- Video 1 -->
                 <div class="relative rounded-3xl overflow-hidden aspect-video bg-surface-cool group bento-item shadow-lg cursor-pointer">
-                    <img src="https://images.pexels.com/photos/3762804/pexels-photo-3762804.jpeg?auto=compress&cs=tinysrgb&w=800" class="absolute inset-0 w-full h-full object-cover filter brightness-75 group-hover:brightness-50 transition-all duration-500">
+                    <img src="/assets/imagesfromsite/services/thumbnail.webp" class="absolute inset-0 w-full h-full object-cover filter brightness-75 group-hover:brightness-50 transition-all duration-500">
                     <div class="absolute inset-0 flex items-center justify-center">
                         <div class="w-16 h-16 bg-white/20 backdrop-blur-md rounded-full flex items-center justify-center text-white text-xl border border-white/30 transform group-hover:scale-110 transition-transform">
                             <i class="fas fa-play ml-1"></i>
@@ -109,7 +109,7 @@ $pageDescription = "Read the authentic experiences of those who have entrusted t
 
                 <!-- Video 2 -->
                 <div class="relative rounded-3xl overflow-hidden aspect-video bg-surface-cool group bento-item shadow-lg cursor-pointer">
-                    <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" class="absolute inset-0 w-full h-full object-cover filter brightness-75 group-hover:brightness-50 transition-all duration-500">
+                    <img src="/assets/imagesfromsite/about-8.webp" class="absolute inset-0 w-full h-full object-cover filter brightness-75 group-hover:brightness-50 transition-all duration-500">
                     <div class="absolute inset-0 flex items-center justify-center">
                         <div class="w-16 h-16 bg-white/20 backdrop-blur-md rounded-full flex items-center justify-center text-white text-xl border border-white/30 transform group-hover:scale-110 transition-transform">
                             <i class="fas fa-play ml-1"></i>
@@ -122,7 +122,7 @@ $pageDescription = "Read the authentic experiences of those who have entrusted t
 
                 <!-- Video 3 -->
                 <div class="relative rounded-3xl overflow-hidden aspect-video bg-surface-cool group bento-item shadow-lg cursor-pointer">
-                    <img src="https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=800" class="absolute inset-0 w-full h-full object-cover filter brightness-75 group-hover:brightness-50 transition-all duration-500">
+                    <img src="/assets/imagesfromsite/bg-02.webp" class="absolute inset-0 w-full h-full object-cover filter brightness-75 group-hover:brightness-50 transition-all duration-500">
                     <div class="absolute inset-0 flex items-center justify-center">
                         <div class="w-16 h-16 bg-white/20 backdrop-blur-md rounded-full flex items-center justify-center text-white text-xl border border-white/30 transform group-hover:scale-110 transition-transform">
                             <i class="fas fa-play ml-1"></i>

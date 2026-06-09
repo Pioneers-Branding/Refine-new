@@ -35,7 +35,7 @@ $pageDescription = "Expert diagnosis and evidence-based treatments for all clini
                 </div>
                 
                 <div class="relative rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group aspect-square lg:aspect-auto lg:h-[600px]">
-                    <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Medical Dermatology" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Medical Dermatology" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
                 </div>
 
             </div>

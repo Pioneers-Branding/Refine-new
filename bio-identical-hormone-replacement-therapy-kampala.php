@@ -32,7 +32,7 @@ $pageDescription = "Restore hormonal balance with bio-identical hormone replacem
                 </div>
 
                 <div class="relative rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group aspect-square lg:aspect-auto lg:h-[600px]">
-                    <img src="https://images.pexels.com/photos/7088489/pexels-photo-7088489.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Bio-Identical Hormone Replacement Therapy" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
+                    <img src="/assets/imagesfromsite/Sclerotherapy-Treatment.webp" alt="Bio-Identical Hormone Replacement Therapy" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
                 </div>
 
             </div>
@@ -49,7 +49,7 @@ $pageDescription = "Restore hormonal balance with bio-identical hormone replacem
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Sclerotherapy-Treatment.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Estrogen & Progesterone</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">For women in perimenopause and menopause — relieves hot flashes, brain fog, and more.</p>
@@ -57,7 +57,7 @@ $pageDescription = "Restore hormonal balance with bio-identical hormone replacem
 
                 <a href="testosterone-therapy-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/4173251/pexels-photo-4173251.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/plasma-pen-therapy-02.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Testosterone Therapy</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">For men with low T — restores energy, muscle mass, libido, and mental clarity.</p>
@@ -65,7 +65,7 @@ $pageDescription = "Restore hormonal balance with bio-identical hormone replacem
 
                 <a href="menopause-management-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/IV-Therapy_09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Thyroid & Adrenal</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Comprehensive thyroid and adrenal support for sustained energy and resilience.</p>

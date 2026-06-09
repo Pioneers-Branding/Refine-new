@@ -19,7 +19,7 @@ $pageDescription = "Meet Dr. Henry Owiny, an aesthetic physician dedicated to de
                     <div class="sticky top-32">
                         <div class="rounded-[40px] overflow-hidden shadow-2xl mb-8 relative gs-reveal-img-group aspect-[3/4]">
                             <!-- Placeholder Image -->
-                            <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Dr. Henry Owiny" class="w-full h-full object-cover filter grayscale-[0.2] gs-reveal-img" loading="lazy">
+                            <img src="/assets/imagesfromsite/family_physician_banner.png" alt="Dr. Henry Owiny" class="w-full h-full object-cover filter grayscale-[0.2] gs-reveal-img" loading="lazy">
                             <div class="absolute inset-0 bg-brand-deeper/5"></div>
                         </div>
                         

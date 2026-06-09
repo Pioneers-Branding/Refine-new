@@ -29,7 +29,7 @@ $pageDescription = "A non-invasive, cryotherapy-based facial that floods skin wi
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Cool Lifting Facial" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/Skin_Tightening_ser2.webp" alt="Cool Lifting Facial" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Cool Lifting Express</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">A quick 5-minute express treatment perfect for events, photoshoots, or pre-makeup prep.</p>
@@ -37,7 +37,7 @@ $pageDescription = "A non-invasive, cryotherapy-based facial that floods skin wi
 
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/3735619/pexels-photo-3735619.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Cool Lifting Deluxe" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/Skin_Tightening_ser2.webp" alt="Cool Lifting Deluxe" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Cool Lifting Deluxe</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Extended session with double serum infusion and a complementary hydrating mask.</p>
@@ -45,7 +45,7 @@ $pageDescription = "A non-invasive, cryotherapy-based facial that floods skin wi
 
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/4046718/pexels-photo-4046718.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Cool Lifting Eye Treatment" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/skin-tightening.webp" alt="Cool Lifting Eye Treatment" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Cool Lifting Eye Refresh</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Targeted treatment for the delicate eye area to reduce puffiness and brighten dark circles.</p>

@@ -42,7 +42,7 @@ $pageDescription = "Sculpt, tone, and refine your physique with our non-surgical
                 
                 <div class="relative rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group aspect-square lg:aspect-auto lg:h-[700px] order-1 lg:order-2">
                     <!-- Placeholder representing a body diagram/contouring photo -->
-                    <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Body Contouring" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup 4.webp" alt="Body Contouring" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
                 </div>
 
             </div>
@@ -60,7 +60,7 @@ $pageDescription = "Sculpt, tone, and refine your physique with our non-surgical
                 <!-- Treatment 1 -->
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup 3 (1).webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Cryolipolysis (Fat Freezing)</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Safely freeze and eliminate up to 25% of treated fat cells permanently without surgery or needles.</p>
@@ -69,7 +69,7 @@ $pageDescription = "Sculpt, tone, and refine your physique with our non-surgical
                 <!-- Treatment 2 -->
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup 4.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">HIFEM Muscle Toning</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">High-Intensity Focused Electromagnetic technology induces thousands of muscle contractions to build core strength and lift the buttocks.</p>
@@ -78,7 +78,7 @@ $pageDescription = "Sculpt, tone, and refine your physique with our non-surgical
                 <!-- Treatment 3 -->
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-surface-warm border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-white relative">
-                        <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup 4.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Fat Dissolving Injections</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Targeted injections using deoxycholic acid to permanently destroy fat cells under the chin (double chin) or in small stubborn pockets.</p>

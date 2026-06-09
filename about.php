@@ -156,7 +156,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <!-- Placeholder Image -->
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Team Member" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
+                        <img src="/assets/imagesfromsite/about2026.webp" alt="Team Member" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
                     <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Ahmed Ashraf</h4>
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Dermatologist (Egypt)</p>
@@ -165,7 +165,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                 <div class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
-                        <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Team Member" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
+                        <img src="/assets/imagesfromsite/about-8.webp" alt="Team Member" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
                     <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Alison Gallagher</h4>
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Psychotherapist</p>
@@ -174,7 +174,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                 <div class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Team Member" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
+                        <img src="/assets/imagesfromsite/about-8.webp" alt="Team Member" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
                     <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Wendy Emyedu</h4>
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Nutritionist</p>
@@ -183,7 +183,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                 <div class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
-                        <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Team Member" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
+                        <img src="/assets/imagesfromsite/about-8.webp" alt="Team Member" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
                     <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. William Lubega</h4>
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Plastic Surgeon</p>

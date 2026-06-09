@@ -24,7 +24,7 @@ $pageDescription = "Meet the highly skilled nurses and therapists who ensure you
                 <!-- Member 1 -->
                 <div class="glass-panel p-4 rounded-3xl group bento-item bg-white border border-brand/5 shadow-sm text-center hover:-translate-y-2 transition-transform duration-300">
                     <div class="aspect-square rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Amelia N.</h4>
                     <p class="text-xs text-brand-muted font-light mb-2">Senior Aesthetic Nurse</p>
@@ -34,7 +34,7 @@ $pageDescription = "Meet the highly skilled nurses and therapists who ensure you
                 <!-- Member 2 -->
                 <div class="glass-panel p-4 rounded-3xl group bento-item bg-white border border-brand/5 shadow-sm text-center hover:-translate-y-2 transition-transform duration-300">
                     <div class="aspect-square rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/breadcrumbsAll.webp" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Sarah K.</h4>
                     <p class="text-xs text-brand-muted font-light mb-2">Laser Technician</p>
@@ -44,7 +44,7 @@ $pageDescription = "Meet the highly skilled nurses and therapists who ensure you
                 <!-- Member 3 -->
                 <div class="glass-panel p-4 rounded-3xl group bento-item bg-white border border-brand/5 shadow-sm text-center hover:-translate-y-2 transition-transform duration-300">
                     <div class="aspect-square rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/about-8.webp" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Grace M.</h4>
                     <p class="text-xs text-brand-muted font-light mb-2">Senior Therapist</p>
@@ -54,7 +54,7 @@ $pageDescription = "Meet the highly skilled nurses and therapists who ensure you
                 <!-- Member 4 -->
                 <div class="glass-panel p-4 rounded-3xl group bento-item bg-white border border-brand/5 shadow-sm text-center hover:-translate-y-2 transition-transform duration-300">
                     <div class="aspect-square rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/about-8.webp" class="w-full h-full object-cover filter grayscale-[0.3] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Jane O.</h4>
                     <p class="text-xs text-brand-muted font-light mb-2">IV Nurse</p>

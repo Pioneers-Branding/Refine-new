@@ -38,10 +38,10 @@ $pageDescription = "A holistic approach to restoring your natural glow and vital
                 <!-- Lifestyle Imagery Grid -->
                 <div class="grid grid-cols-2 gap-4 gs-reveal-img-group">
                     <div class="rounded-3xl overflow-hidden aspect-[3/4] shadow-lg mt-12">
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Relaxation" class="w-full h-full object-cover filter grayscale-[0.2]">
+                        <img src="/assets/imagesfromsite/Laser%20Skin%20Rejuvenation-09.png" alt="Relaxation" class="w-full h-full object-cover filter grayscale-[0.2]">
                     </div>
                     <div class="rounded-3xl overflow-hidden aspect-[3/4] shadow-lg">
-                        <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Rejuvenation" class="w-full h-full object-cover filter grayscale-[0.2]">
+                        <img src="/assets/imagesfromsite/Refine-skin-tightening.webp" alt="Rejuvenation" class="w-full h-full object-cover filter grayscale-[0.2]">
                     </div>
                 </div>
 
@@ -69,7 +69,7 @@ $pageDescription = "A holistic approach to restoring your natural glow and vital
                 <!-- Treatment 2 -->
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Laser%20Skin%20Rejuvenation-09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">HydraFacial MD®</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">A multi-step treatment that deeply cleanses, exfoliates, extracts, and hydrates the skin with super serums.</p>
@@ -78,7 +78,7 @@ $pageDescription = "A holistic approach to restoring your natural glow and vital
                 <!-- Treatment 3 -->
                 <a href="prp-treatments-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Laser Skin Rejuvenation-09.png" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Cellular Regeneration (PRP)</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Utilize your body's own growth factors to naturally rejuvenate the skin on the face, neck, and décolletage.</p>

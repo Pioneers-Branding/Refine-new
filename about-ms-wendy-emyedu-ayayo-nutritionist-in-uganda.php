@@ -19,7 +19,7 @@ $pageDescription = "Meet Ms. Wendy Emyedu Ayayo, our clinical nutritionist bridg
                     <div class="sticky top-32">
                         <div class="rounded-[40px] overflow-hidden shadow-2xl mb-8 relative gs-reveal-img-group aspect-[3/4]">
                             <!-- Placeholder Image -->
-                            <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Ms. Wendy Emyedu Ayayo" class="w-full h-full object-cover filter grayscale-[0.2] gs-reveal-img" loading="lazy">
+                            <img src="/assets/imagesfromsite/Ms_Wendy_Emyedu_Ayayo.png" alt="Ms. Wendy Emyedu Ayayo" class="w-full h-full object-cover filter grayscale-[0.2] gs-reveal-img" loading="lazy">
                             <div class="absolute inset-0 bg-brand-deeper/5"></div>
                         </div>
                         

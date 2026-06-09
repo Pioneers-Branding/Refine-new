@@ -38,7 +38,7 @@ $pageDescription = "A collective of award-winning dermatologists, elite surgeons
                 <a href="about-dr-henry-owiny-aesthetic-physician-in-uganda" class="group block cursor-pointer bento-item bg-white p-6 rounded-[32px] border border-brand/5 hover:border-accent/30 shadow-sm transition-colors">
                     <div class="relative aspect-[4/5] rounded-2xl overflow-hidden mb-6 bg-surface-cool">
                         <!-- Placeholder Image -->
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Dr. Henry Owiny" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]" loading="lazy">
+                        <img src="/assets/imagesfromsite/breadcrumbsgall.webp" alt="Dr. Henry Owiny" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]" loading="lazy">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-transparent transition-colors"></div>
                     </div>
                     <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-accent transition-colors">Dr. Henry Owiny</h4>
@@ -50,7 +50,7 @@ $pageDescription = "A collective of award-winning dermatologists, elite surgeons
                 <a href="about-dr-william-lubega-plastic-surgeon-in-uganda" class="group block cursor-pointer bento-item bg-white p-6 rounded-[32px] border border-brand/5 hover:border-accent/30 shadow-sm transition-colors">
                     <div class="relative aspect-[4/5] rounded-2xl overflow-hidden mb-6 bg-surface-cool">
                         <!-- Placeholder Image -->
-                        <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Dr. William Lubega" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]" loading="lazy">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Dr. William Lubega" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]" loading="lazy">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-transparent transition-colors"></div>
                     </div>
                     <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-accent transition-colors">Dr. William Lubega</h4>
@@ -62,7 +62,7 @@ $pageDescription = "A collective of award-winning dermatologists, elite surgeons
                 <a href="dr-ahmed-ashraf-dermatologist-in-uganda" class="group block cursor-pointer bento-item bg-white p-6 rounded-[32px] border border-brand/5 hover:border-accent/30 shadow-sm transition-colors">
                     <div class="relative aspect-[4/5] rounded-2xl overflow-hidden mb-6 bg-surface-cool">
                         <!-- Placeholder Image -->
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Dr. Ahmed Ashraf" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]" loading="lazy">
+                        <img src="/assets/imagesfromsite/bg-02.webp" alt="Dr. Ahmed Ashraf" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]" loading="lazy">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-transparent transition-colors"></div>
                     </div>
                     <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-accent transition-colors">Dr. Ahmed Ashraf</h4>
@@ -74,7 +74,7 @@ $pageDescription = "A collective of award-winning dermatologists, elite surgeons
                 <a href="about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda" class="group block cursor-pointer bento-item bg-white p-6 rounded-[32px] border border-brand/5 hover:border-accent/30 shadow-sm transition-colors">
                     <div class="relative aspect-[4/5] rounded-2xl overflow-hidden mb-6 bg-surface-cool">
                         <!-- Placeholder Image -->
-                        <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Ms. Wendy Emyedu Ayayo" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/thumbnail.webp" alt="Ms. Wendy Emyedu Ayayo" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]" loading="lazy">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-transparent transition-colors"></div>
                     </div>
                     <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-accent transition-colors">Ms. Wendy Emyedu Ayayo</h4>

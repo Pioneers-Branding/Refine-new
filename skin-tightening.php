@@ -36,7 +36,7 @@ $pageDescription = "Restore firmness and elasticity. Non-surgical skin tightenin
                 </div>
                 
                 <div class="relative rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group aspect-square lg:aspect-auto lg:h-[600px]">
-                    <img src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Skin Tightening Treatment" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
+                    <img src="/assets/imagesfromsite/services/Skin Lightening with TatioActive-02.png" alt="Skin Tightening Treatment" class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2]" loading="lazy">
                 </div>
 
             </div>
@@ -54,7 +54,7 @@ $pageDescription = "Restore firmness and elasticity. Non-surgical skin tightenin
                 <!-- Treatment 1 -->
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/services/Skin_Tightening_ser2.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">RF Microneedling</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Delivers radiofrequency energy deep into the dermis via gold-plated needles for dramatic tightening of the lower face and neck.</p>
@@ -63,7 +63,7 @@ $pageDescription = "Restore firmness and elasticity. Non-surgical skin tightenin
                 <!-- Treatment 2 -->
                 <a href="#" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Refine-skin-tightening.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Non-Surgical Eye Lift</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Utilizing advanced plasma or RF energy to tighten the delicate skin around the eyes, reducing hooding and crepey texture.</p>
@@ -72,7 +72,7 @@ $pageDescription = "Restore firmness and elasticity. Non-surgical skin tightenin
                 <!-- Treatment 3 -->
                 <a href="body-contouring" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215025/pexels-photo-5215025.jpeg?auto=compress&cs=tinysrgb&w=800" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup 4.webp" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">Body Skin Tightening</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Target post-pregnancy laxity on the abdomen or crepey skin on the knees and arms using targeted ultrasound therapy.</p>

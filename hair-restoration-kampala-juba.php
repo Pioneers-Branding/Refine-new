@@ -32,7 +32,7 @@ $pageDescription = "Combat hair loss and thinning with our multi-modal approach,
                 <!-- Treatment 1 -->
                 <a href="prp-treatments-kampala-juba" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
                     <div class="aspect-video rounded-2xl overflow-hidden mb-4 bg-surface-cool relative">
-                        <img src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800" alt="PRP Hair" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
+                        <img src="/assets/imagesfromsite/Refine-laser-hair-removal.webp" alt="PRP Hair" class="w-full h-full object-cover filter grayscale-[0.2] group-hover:grayscale-0 transition-all duration-500" loading="lazy">
                     </div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 group-hover:text-accent transition-colors">PRP for Hair Loss</h4>
                     <p class="text-sm text-brand-muted font-light line-clamp-2">Injecting your own platelet-rich plasma into the scalp to awaken dormant follicles and increase hair shaft thickness.</p>
