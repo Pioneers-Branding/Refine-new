@@ -404,7 +404,7 @@ $pageDescription = "Build muscle and burn fat simultaneously with EMSCULPT — t
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

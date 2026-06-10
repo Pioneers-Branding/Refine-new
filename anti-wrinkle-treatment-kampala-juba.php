@@ -404,7 +404,7 @@ $pageDescription = "Smooth fine lines and prevent deeper wrinkles with our compr
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

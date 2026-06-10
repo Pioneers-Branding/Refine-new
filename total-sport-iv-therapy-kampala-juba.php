@@ -404,7 +404,7 @@ $pageDescription = "The performance and recovery drip for athletes — amino aci
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

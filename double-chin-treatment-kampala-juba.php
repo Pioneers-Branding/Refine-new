@@ -404,7 +404,7 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

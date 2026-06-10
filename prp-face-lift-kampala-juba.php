@@ -404,7 +404,7 @@ $pageDescription = "A non-surgical facelift using platelet-rich plasma injection
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

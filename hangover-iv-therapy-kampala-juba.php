@@ -404,7 +404,7 @@ $pageDescription = "The fastest hangover cure in Kampala and Juba — rehydrate,
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

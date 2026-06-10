@@ -404,7 +404,7 @@ $pageDescription = "Tailored aesthetic treatments designed specifically for the 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "Targeted treatments for alopecia areata and other autoimmune
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

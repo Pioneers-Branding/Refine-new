@@ -404,7 +404,7 @@ $pageDescription = "Advanced neuromodulator-based therapy for intimate wellness 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

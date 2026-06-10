@@ -404,7 +404,7 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

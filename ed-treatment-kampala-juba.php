@@ -404,7 +404,7 @@ $pageDescription = "Confidential, evidence-based ED treatments — from medicati
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

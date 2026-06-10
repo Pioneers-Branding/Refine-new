@@ -404,7 +404,7 @@ $pageDescription = "A revolutionary non-surgical treatment that lifts, tightens,
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

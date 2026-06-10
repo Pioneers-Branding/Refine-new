@@ -404,7 +404,7 @@ $pageDescription = "Medical-grade acne treatments that clear active breakouts, f
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "Permanently destroy stubborn fat cells with controlled cooli
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

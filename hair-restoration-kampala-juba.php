@@ -404,7 +404,7 @@ $pageDescription = "Combat hair loss and thinning with our multi-modal approach,
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

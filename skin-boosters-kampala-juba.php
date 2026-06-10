@@ -404,7 +404,7 @@ $pageDescription = "Micro-injections of ultra-pure hyaluronic acid to deeply hyd
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

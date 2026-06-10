@@ -404,7 +404,7 @@ $pageDescription = "Dramatically improve the appearance of acne, surgical, and t
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

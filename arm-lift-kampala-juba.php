@@ -404,7 +404,7 @@ $pageDescription = "Surgical removal of loose, sagging skin from the upper arms 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

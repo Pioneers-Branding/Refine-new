@@ -404,7 +404,7 @@ $pageDescription = "Minimize enlarged pores, refine skin texture, and achieve a 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

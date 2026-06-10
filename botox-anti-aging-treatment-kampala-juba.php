@@ -404,7 +404,7 @@ $pageDescription = "Smooth fine lines and prevent wrinkles with FDA-approved neu
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

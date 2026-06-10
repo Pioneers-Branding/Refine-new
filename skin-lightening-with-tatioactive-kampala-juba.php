@@ -404,7 +404,7 @@ $pageDescription = "Achieve a brighter, more even-toned complexion with our medi
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "Harness the healing power of light. LED therapy is a painles
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

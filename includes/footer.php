@@ -12,41 +12,26 @@
 
 
 
-        <!-- ── TOP: Brand + Tagline + Newsletter ────────────── -->
-        <div class="grid lg:grid-cols-12 gap-10 lg:gap-16 pb-12 lg:pb-16 border-b border-white/10">
-            <div class="lg:col-span-7 flex flex-col items-center lg:items-start text-center lg:text-left">
-                <a href="/" class="inline-block mb-6">
-                    <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Clinic Logo" class="h-16 lg:h-12 w-auto object-contain">
-                </a>
-                <p class="font-display text-2xl lg:text-3xl text-white/85 leading-snug mb-4 lg:mb-6 max-w-2xl text-balance">
-                    East Africa's premier destination for <br class="hidden lg:block"/><i class="text-accent font-light">aesthetic, dermatological &amp; wellness care.</i>
-                </p>
-                <p class="text-white/55 font-body text-sm font-light leading-relaxed max-w-xl mb-8">
-                    From advanced skin rejuvenation and hair restoration to medical weight loss and IV therapy — we blend world-class technology with the artistry of personalised care, across four locations in Kampala and Juba.
-                </p>
+        <!-- ── TOP: Brand + Tagline ────────────── -->
+        <div class="flex flex-col items-center text-center pb-12 lg:pb-16 border-b border-white/10">
+            <a href="/" class="inline-block mb-6">
+                <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Clinic Logo" class="h-16 lg:h-12 w-auto object-contain">
+            </a>
+            <p class="font-display text-2xl lg:text-3xl text-white/85 leading-snug mb-4 max-w-2xl text-balance">
+                East Africa's premier destination for <br class="hidden lg:block"/><i class="text-accent font-light">aesthetic, dermatological &amp; wellness care.</i>
+            </p>
+            <p class="text-white/55 font-body text-sm font-light leading-relaxed max-w-2xl mb-8">
+                From advanced skin rejuvenation and hair restoration to medical weight loss and IV therapy — we blend world-class technology with the artistry of personalised care, across four locations in Kampala and Juba.
+            </p>
 
-                <!-- Social row -->
-                <div class="flex flex-wrap items-center justify-center lg:justify-start gap-3">
-                    <span class="text-[10px] tracking-[0.3em] uppercase text-white/40 font-semibold mr-2 w-full sm:w-auto mb-2 sm:mb-0">Follow</span>
-                    <a href="https://www.instagram.com/refineskinandbodyclinic/" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="https://www.facebook.com/share/1b4epu5tXm/" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
-                    <a href="https://x.com/Refine_Skin" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
-                    <a href="https://www.tiktok.com/discover/refine-skin-and-body-clinic-uganda" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="TikTok"><i class="fa-brands fa-tiktok"></i></a>
-                    <a href="https://www.youtube.com" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
-                </div>
-            </div>
-
-            <div class="lg:col-span-5 mt-8 lg:mt-0">
-                <div class="glass-panel rounded-3xl p-6 sm:p-8 bg-white/[0.03] border border-white/10 text-center lg:text-left">
-                    <p class="text-accent text-[10px] tracking-[0.3em] uppercase font-semibold mb-3">The Refine Edit</p>
-                    <h3 class="font-display text-2xl lg:text-3xl text-white leading-tight mb-2">Insights to your inbox.</h3>
-                    <p class="text-white/55 font-body text-sm font-light leading-relaxed mb-6">Treatment guides, special offers, and event invitations — once a month, no spam.</p>
-                    <form class="flex flex-col sm:flex-row gap-3" onsubmit="event.preventDefault(); this.querySelector('button').innerText='Subscribed ✓';">
-                        <input type="email" required placeholder="your@email.com" class="w-full sm:flex-1 bg-white/5 border border-white/10 rounded-full px-5 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-accent transition-colors">
-                        <button type="submit" class="btn-magnetic magnetic-target whitespace-nowrap w-full sm:w-auto flex justify-center items-center rounded-full bg-accent text-brand-deeper font-semibold hover:bg-white transition-colors" style="padding: 12px 22px; font-size: 13px;"><span>Subscribe</span></button>
-                    </form>
-                    <p class="text-white/30 text-[10px] mt-4 leading-relaxed">By subscribing you agree to our <a href="cookie-policy" class="text-accent/70 hover:text-accent">Privacy Policy</a>. Unsubscribe anytime.</p>
-                </div>
+            <!-- Social row -->
+            <div class="flex flex-wrap items-center justify-center gap-3">
+                <span class="text-[10px] tracking-[0.3em] uppercase text-white/40 font-semibold mr-2 mb-2 sm:mb-0">Follow</span>
+                <a href="https://www.instagram.com/refineskinandbodyclinic/" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.facebook.com/share/1b4epu5tXm/" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="https://x.com/Refine_Skin" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="https://www.tiktok.com/discover/refine-skin-and-body-clinic-uganda" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="TikTok"><i class="fa-brands fa-tiktok"></i></a>
+                <a href="https://www.youtube.com" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
             </div>
         </div>
 

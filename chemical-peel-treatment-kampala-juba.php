@@ -404,7 +404,7 @@ $pageDescription = "Reveal fresher, brighter, more even-toned skin with our rang
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "A non-surgical solution to hair loss — natural-looking mic
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

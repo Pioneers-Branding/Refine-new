@@ -404,7 +404,7 @@ $pageDescription = "Surgical removal of excess skin and fat from the abdomen, wi
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

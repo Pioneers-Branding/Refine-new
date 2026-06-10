@@ -404,7 +404,7 @@ $pageDescription = "Comprehensive, doctor-led menopause care — combining bio-i
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

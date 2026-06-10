@@ -404,7 +404,7 @@ $pageDescription = "Permanent, natural hair restoration with FUE and FUT hair tr
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "Restore comfort, confidence, and intimate wellness with non-
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

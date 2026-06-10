@@ -404,7 +404,7 @@ $pageDescription = "Stimulate dormant hair follicles and reverse thinning with P
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

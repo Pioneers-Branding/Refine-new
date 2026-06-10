@@ -404,7 +404,7 @@ $pageDescription = "Regenerative injections to repair damaged joints, tendons, a
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

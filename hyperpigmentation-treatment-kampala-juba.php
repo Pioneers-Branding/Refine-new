@@ -404,7 +404,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

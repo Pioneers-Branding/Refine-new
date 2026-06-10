@@ -404,7 +404,7 @@ $pageDescription = "Safe, scar-minimizing removal of moles, warts, and skin lesi
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "Add beautiful, natural-looking volume and definition to the 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

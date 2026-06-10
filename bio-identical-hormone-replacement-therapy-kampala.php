@@ -404,7 +404,7 @@ $pageDescription = "Restore hormonal balance with bio-identical hormone replacem
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

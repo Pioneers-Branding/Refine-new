@@ -404,7 +404,7 @@ $pageDescription = "We bring the IV Lounge to you — premium IV therapy in the 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

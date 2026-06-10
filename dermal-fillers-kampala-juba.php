@@ -404,7 +404,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

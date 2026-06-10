@@ -404,7 +404,7 @@ $pageDescription = "A power-packed IV of B-complex vitamins and B12 for energy, 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

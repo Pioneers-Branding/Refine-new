@@ -404,7 +404,7 @@ $pageDescription = "Restore volume, smooth wrinkles, and harmonize your facial f
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

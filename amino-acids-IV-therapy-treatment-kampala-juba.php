@@ -404,7 +404,7 @@ $pageDescription = "A targeted blend of essential amino acids delivered IV to su
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

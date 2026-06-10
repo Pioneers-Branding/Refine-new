@@ -404,7 +404,7 @@ $pageDescription = "Achieve sustainable weight loss with our doctor-supervised m
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

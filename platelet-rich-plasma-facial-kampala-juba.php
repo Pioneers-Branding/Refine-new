@@ -404,7 +404,7 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

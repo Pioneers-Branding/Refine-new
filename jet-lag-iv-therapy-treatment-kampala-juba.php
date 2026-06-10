@@ -404,7 +404,7 @@ $pageDescription = "Recover from long flights fast with our Jet Lag IV — B vit
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

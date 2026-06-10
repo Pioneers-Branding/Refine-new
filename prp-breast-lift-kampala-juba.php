@@ -404,7 +404,7 @@ $pageDescription = "A non-surgical breast rejuvenation using your own PRP to lif
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

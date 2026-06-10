@@ -295,27 +295,34 @@ body {
     width: 100%;
 }
 
-/* ---------- Bento Grid / Services ---------- */
-.bento-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: minmax(220px, auto); /* Reduced size */
-    gap: 16px; /* Reduced gap */
-}
-.bento-item {
-    position: relative;
-    border-radius: 1.5rem;
-    overflow: hidden;
-    background: #f8f6fc;
-}
-.bento-large {
-    grid-column: span 2;
-    grid-row: span 2;
-}
-.bento-wide {
-    grid-column: span 2;
-    grid-row: span 1;
-}
+    /* ----- Bento Grid Component ----- */
+    .bento-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1rem;
+        width: 100%;
+    }
+    .bento-item {
+        position: relative;
+        border-radius: 1.5rem;
+        overflow: hidden;
+        min-height: 240px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        padding: clamp(1rem, 2vw, 1.5rem);
+        transform: translateZ(0);
+        will-change: transform;
+    }
+    .bento-large {
+        grid-column: span 2;
+        grid-row: span 2;
+        min-height: 350px;
+    }
+    .bento-wide {
+        grid-column: span 2;
+        min-height: 240px;
+    }
 
 .bento-content {
     position: absolute;
@@ -489,22 +496,19 @@ body {
     }
 
     /* Ensure images are 100% visible and not cropped on mobile */
-    .img-duotone {
+    .hero-slider-container .img-duotone {
         background-color: #1a0f3c !important; /* Fix white space below image */
     }
-    .img-parallax, .gs-reveal-img {
-        object-fit: contain !important;
-        object-position: center bottom !important; /* Move image to bottom */
-        height: 50vh !important; /* Restrict height so text has room */
-        margin-top: auto;
-    }
-
+    
     /* Specific fix for hero images on mobile so they sit at bottom and text at top */
     .hero-slider-container .img-parallax {
-        position: absolute;
-        bottom: 0;
+        position: absolute !important;
+        bottom: 0 !important;
         height: 45vh !important;
-        width: 100%;
+        width: 100% !important;
+        object-fit: contain !important;
+        object-position: center bottom !important;
+        margin-top: auto !important;
     }
 
     /* Global Padding Overrides for Mobile */

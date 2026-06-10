@@ -404,7 +404,7 @@ $pageDescription = "An award-winning injectable treatment that bio-remodels agin
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

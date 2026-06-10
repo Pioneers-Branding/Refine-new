@@ -404,7 +404,7 @@ $pageDescription = "Targeted, multi-modal treatment plans for melasma that addre
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

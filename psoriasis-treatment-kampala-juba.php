@@ -404,7 +404,7 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

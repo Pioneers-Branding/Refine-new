@@ -404,7 +404,7 @@ $pageDescription = "A customized combination of procedures to restore your pre-b
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

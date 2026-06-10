@@ -404,7 +404,7 @@ $pageDescription = "High-dose intravenous Vitamin C for immune support, collagen
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

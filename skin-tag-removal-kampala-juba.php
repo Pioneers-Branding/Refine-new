@@ -404,7 +404,7 @@ $pageDescription = "Quick, painless, scar-free removal of skin tags using radiof
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

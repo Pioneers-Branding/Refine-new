@@ -404,7 +404,7 @@ $pageDescription = "IV iron infusion for iron-deficiency anemia — a fast, effe
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

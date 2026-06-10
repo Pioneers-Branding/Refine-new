@@ -404,7 +404,7 @@ $pageDescription = "Prime your body before a big night out — boost energy, hyd
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

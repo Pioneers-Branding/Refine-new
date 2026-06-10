@@ -404,7 +404,7 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

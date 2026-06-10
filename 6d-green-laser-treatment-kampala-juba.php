@@ -404,7 +404,7 @@ $pageDescription = "A multi-wavelength green laser that targets stubborn pigment
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

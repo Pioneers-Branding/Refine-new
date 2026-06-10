@@ -404,7 +404,7 @@ $pageDescription = "Fast, effective migraine relief with a targeted IV blend of 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

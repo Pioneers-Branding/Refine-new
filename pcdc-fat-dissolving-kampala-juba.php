@@ -404,7 +404,7 @@ $pageDescription = "Permanent non-surgical fat reduction with PCDC (Phosphatidyl
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

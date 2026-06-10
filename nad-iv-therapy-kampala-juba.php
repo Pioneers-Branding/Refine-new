@@ -404,7 +404,7 @@ $pageDescription = "NAD+ IV therapy for cellular energy, longevity, and mental c
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

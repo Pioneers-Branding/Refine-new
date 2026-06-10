@@ -404,7 +404,7 @@ $pageDescription = "Life-changing, long-term weight loss solutions performed by 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "Expert diagnosis and evidence-based treatments for all clini
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

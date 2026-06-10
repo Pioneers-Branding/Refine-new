@@ -404,7 +404,7 @@ $pageDescription = "Intravenous nutrient therapy delivers 100% absorption of vit
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

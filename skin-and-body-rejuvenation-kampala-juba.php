@@ -404,7 +404,7 @@ $pageDescription = "A holistic approach to restoring your natural glow and vital
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

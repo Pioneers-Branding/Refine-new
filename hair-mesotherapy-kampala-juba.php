@@ -404,7 +404,7 @@ $pageDescription = "A non-invasive injection treatment that delivers a potent bl
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

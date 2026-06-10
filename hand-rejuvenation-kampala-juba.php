@@ -404,7 +404,7 @@ $pageDescription = "Restore youthful volume, smooth crepey skin, and erase age s
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

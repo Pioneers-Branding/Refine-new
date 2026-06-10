@@ -404,7 +404,7 @@ $pageDescription = "Wake up every day with perfect brows. Natural-looking, semi-
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

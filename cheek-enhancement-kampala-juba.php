@@ -404,7 +404,7 @@ $pageDescription = "Restore youthful cheek volume, lift the midface, and refine 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

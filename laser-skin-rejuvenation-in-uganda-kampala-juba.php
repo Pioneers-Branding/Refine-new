@@ -404,7 +404,7 @@ $pageDescription = "Reverse sun damage, smooth fine lines, and restore a youthfu
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

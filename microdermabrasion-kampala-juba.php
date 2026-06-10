@@ -404,7 +404,7 @@ $pageDescription = "A non-invasive mechanical exfoliation that buffs away dull, 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

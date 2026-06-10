@@ -404,7 +404,7 @@ $pageDescription = "The beauty-from-within IV drip — packed with glutathione, 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

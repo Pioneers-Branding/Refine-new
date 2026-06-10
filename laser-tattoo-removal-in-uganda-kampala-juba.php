@@ -404,7 +404,7 @@ $pageDescription = "Safely and effectively fade or completely remove unwanted ta
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

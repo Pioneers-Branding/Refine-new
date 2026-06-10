@@ -404,7 +404,7 @@ $pageDescription = "Cleanse, extract, and hydrate in one luxurious 30-minute tre
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

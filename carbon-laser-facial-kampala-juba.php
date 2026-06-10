@@ -404,7 +404,7 @@ $pageDescription = "The Hollywood's favorite 'China Doll' facial — a multi-ste
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

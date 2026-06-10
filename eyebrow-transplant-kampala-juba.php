@@ -404,7 +404,7 @@ $pageDescription = "Achieve naturally full, perfectly shaped brows permanently w
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

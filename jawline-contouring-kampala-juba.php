@@ -404,7 +404,7 @@ $pageDescription = "Sharpen, define, and sculpt a stronger jawline with our non-
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

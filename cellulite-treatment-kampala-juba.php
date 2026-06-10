@@ -404,7 +404,7 @@ $pageDescription = "Smooth dimpled, uneven skin on the thighs, buttocks, and hip
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

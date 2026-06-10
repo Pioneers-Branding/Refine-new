@@ -404,7 +404,7 @@ $pageDescription = "Personalized nutrition plans and one-on-one diet counselling
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

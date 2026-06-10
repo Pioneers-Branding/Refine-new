@@ -404,7 +404,7 @@ $pageDescription = "Walk down the aisle with absolute confidence. Our curated br
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

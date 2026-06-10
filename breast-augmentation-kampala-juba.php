@@ -404,7 +404,7 @@ $pageDescription = "Customized breast augmentation with silicone or saline impla
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

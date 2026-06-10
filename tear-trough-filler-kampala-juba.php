@@ -404,7 +404,7 @@ $pageDescription = "Brighten tired eyes and restore youthful volume under the ey
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "The Priapus Shot (M-Shot) uses your own platelet-rich plasma
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

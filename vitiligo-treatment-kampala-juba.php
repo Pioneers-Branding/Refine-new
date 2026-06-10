@@ -404,7 +404,7 @@ $pageDescription = "Repigment and restore confidence with our advanced vitiligo 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

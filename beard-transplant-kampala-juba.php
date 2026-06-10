@@ -404,7 +404,7 @@ $pageDescription = "Sculpt the perfect beard with a permanent FUE beard transpla
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -404,7 +404,7 @@ $pageDescription = "Surgical removal of loose skin and fat from the inner and ou
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

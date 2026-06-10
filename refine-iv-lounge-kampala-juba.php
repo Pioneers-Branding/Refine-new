@@ -404,7 +404,7 @@ $pageDescription = "Your sanctuary for premium IV therapy in Kampala and Juba â€
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

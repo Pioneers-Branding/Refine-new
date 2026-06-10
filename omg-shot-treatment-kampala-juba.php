@@ -404,7 +404,7 @@ $pageDescription = "The OMG Shot uses your own PRP to enhance female sexual well
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

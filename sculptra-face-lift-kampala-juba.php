@@ -404,7 +404,7 @@ $pageDescription = "A biostimulator injection that gradually rebuilds your own c
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

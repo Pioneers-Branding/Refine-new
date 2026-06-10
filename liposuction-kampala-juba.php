@@ -404,7 +404,7 @@ $pageDescription = "Surgical fat removal for a slimmer, more contoured body — 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

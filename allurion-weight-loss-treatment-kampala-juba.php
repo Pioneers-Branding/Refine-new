@@ -404,7 +404,7 @@ $pageDescription = "Lose 10–15% of your body weight in just 4 months — with 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

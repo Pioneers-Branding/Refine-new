@@ -404,7 +404,7 @@ $pageDescription = "High-dose IV glutathione for skin brightening, powerful anti
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

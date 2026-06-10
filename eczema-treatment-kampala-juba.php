@@ -404,7 +404,7 @@ $pageDescription = "Soothe itching, repair the skin barrier, and prevent future 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

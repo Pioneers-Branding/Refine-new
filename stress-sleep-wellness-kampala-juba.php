@@ -404,7 +404,7 @@ $pageDescription = "A holistic program to manage stress, restore deep sleep, and
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

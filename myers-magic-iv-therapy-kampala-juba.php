@@ -404,7 +404,7 @@ $pageDescription = "The original IV wellness cocktail — a powerful blend of B 
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>

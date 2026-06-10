@@ -404,7 +404,7 @@ $pageDescription = "Listen to expert interviews, deep-dive discussions, and live
             });
         });
     </script>
-    <?php include 'includes/appointment-form.php'; ?>
+    
 </main>
 
 <?php include 'includes/footer.php'; ?>
