@@ -17,14 +17,14 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 <!-- ============================================
      EDITORIAL HEADER (Conditional)
      ============================================ -->
-<header id="site-header" class="site-header fixed top-0 left-0 w-full z-[999] <?php echo $isHome ? 'bg-transparent hero-mode' : 'bg-white/95 backdrop-blur-md border-b border-brand/5 shadow-sm'; ?> py-2 transition-all duration-300">
+<header id="site-header" class="site-header fixed top-0 left-0 w-full z-[999] <?php echo $isHome ? 'bg-transparent hero-mode' : 'bg-white/95 backdrop-blur-md border-b border-brand/5 shadow-sm'; ?> py-1 lg:py-2 transition-all duration-300">
     <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
-        <div class="flex items-center justify-between h-[80px]">
+        <div class="flex items-center justify-between h-[60px] lg:h-[80px]">
 
             <!-- Logo -->
             <a href="/" class="flex-shrink-0 relative z-10 group">
-                <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Clinic Logo" class="logo-white h-16 w-auto object-contain transition-all duration-300">
-                <img src="/assets/images/refine-logo-transparent.png" alt="Refine Clinic Logo" class="logo-dark h-16 w-auto object-contain transition-all duration-300">
+                <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Clinic Logo" class="logo-white h-10 lg:h-16 w-auto object-contain transition-all duration-300">
+                <img src="/assets/images/refine-logo-transparent.png" alt="Refine Clinic Logo" class="logo-dark h-10 lg:h-16 w-auto object-contain transition-all duration-300">
             </a>
 
             <!-- Desktop Navigation -->
@@ -237,7 +237,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                 </div>
 
                 <!-- Mobile Hamburger -->
-                <button id="mobile-menu-toggle" aria-label="Open menu" class="lg:hidden w-12 h-12 flex flex-col items-center justify-center gap-1.5 rounded-full <?php echo $isHome ? 'bg-white/10 backdrop-blur-md text-white' : 'bg-brand/5 text-brand'; ?> transition-all hover:bg-accent/20">
+                <button id="mobile-menu-toggle" aria-label="Open menu" class="lg:hidden w-10 h-10 flex flex-col items-center justify-center gap-1 rounded-full <?php echo $isHome ? 'bg-white/10 backdrop-blur-md text-white' : 'bg-brand/5 text-brand'; ?> transition-all hover:bg-accent/20">
                     <span class="w-5 h-px bg-current block transition-transform origin-center" id="menu-line-1"></span>
                     <span class="w-5 h-px bg-current block transition-opacity" id="menu-line-2"></span>
                     <span class="w-5 h-px bg-current block transition-transform origin-center" id="menu-line-3"></span>

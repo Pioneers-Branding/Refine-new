@@ -1,7 +1,7 @@
 <!-- ============================================
      PAGE HERO COMPONENT
      ============================================ -->
-<section class="relative pt-32 pb-20 lg:pt-48 lg:pb-32 bg-surface-warm overflow-hidden">
+<section class="relative pt-10 lg:pt-16 pb-8 bg-surface-warm overflow-hidden">
     <!-- Abstract background elements -->
     <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-brand/5 rounded-full blur-[80px] -translate-y-1/2 translate-x-1/2 transform translateZ(0)"></div>
     <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-accent/5 rounded-full blur-[60px] translate-y-1/2 -translate-x-1/2 transform translateZ(0)"></div>

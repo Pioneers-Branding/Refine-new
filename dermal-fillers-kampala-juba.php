@@ -15,8 +15,8 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
         <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
         
-        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
-            <div class="grid xl:grid-cols-2 gap-16 xl:gap-24 items-center">
+        <div class="max-w-[1150px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="grid xl:grid-cols-2 gap-10 xl:gap-16 items-center">
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
@@ -57,57 +57,57 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
 
                 <div class="relative">
                     <!-- Subtle timeline connector -->
-                    <div class="absolute left-8 top-10 bottom-10 w-px bg-gradient-to-b from-brand/5 via-accent/30 to-brand/5 hidden sm:block"></div>
-                    <div class="space-y-8 relative z-10">
-                        <h3 class="font-display text-4xl text-brand-deeper mb-10 pl-0 sm:pl-24">The <i class="text-accent font-light">Process</i></h3>
+                    <div class="absolute left-6 top-8 bottom-8 w-px bg-gradient-to-b from-brand/5 via-accent/30 to-brand/5 hidden sm:block"></div>
+                    <div class="space-y-5 relative z-10">
+                        <h3 class="font-display text-4xl text-brand-deeper mb-10 pl-0 sm:pl-16">The <i class="text-accent font-light">Process</i></h3>
                         
                         <!-- Step 1 -->
-                        <div class="relative flex items-start gap-8 group">
-                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
-                                <span class="text-accent font-display text-2xl">1</span>
+                        <div class="relative flex items-start gap-5 group">
+                            <div class="w-12 h-12 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-xl">1</span>
                             </div>
-                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
-                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Consultation
+                            <div class="glass-panel p-5 lg:p-6 rounded-2xl bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-xl">1.</span> Consultation
                                 </h4>
                                 <p class="text-brand-muted font-body text-sm leading-relaxed">Discuss your aesthetic goals with Dr. Chirag and evaluate if this non-invasive treatment perfectly aligns with your desired profile.</p>
                             </div>
                         </div>
 
                         <!-- Step 2 -->
-                        <div class="relative flex items-start gap-8 group">
-                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
-                                <span class="text-accent font-display text-2xl">2</span>
+                        <div class="relative flex items-start gap-5 group">
+                            <div class="w-12 h-12 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-xl">2</span>
                             </div>
-                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
-                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Preparation
+                            <div class="glass-panel p-5 lg:p-6 rounded-2xl bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-xl">2.</span> Preparation
                                 </h4>
                                 <p class="text-brand-muted font-body text-sm leading-relaxed">We prioritize your comfort. A premium topical numbing cream is applied to ensure a completely painless and relaxing experience.</p>
                             </div>
                         </div>
 
                         <!-- Step 3 -->
-                        <div class="relative flex items-start gap-8 group">
-                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
-                                <span class="text-accent font-display text-2xl">3</span>
+                        <div class="relative flex items-start gap-5 group">
+                            <div class="w-12 h-12 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-xl">3</span>
                             </div>
-                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
-                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
+                            <div class="glass-panel p-5 lg:p-6 rounded-2xl bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-xl">3.</span> Procedure
                                 </h4>
                                 <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
                             </div>
                         </div>
 
                         <!-- Step 4 -->
-                        <div class="relative flex items-start gap-8 group">
-                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
-                                <span class="text-accent font-display text-2xl">4</span>
+                        <div class="relative flex items-start gap-5 group">
+                            <div class="w-12 h-12 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
+                                <span class="text-accent font-display text-xl">4</span>
                             </div>
-                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
-                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Post-Treatment
+                            <div class="glass-panel p-5 lg:p-6 rounded-2xl bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
+                                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2 flex items-center gap-3">
+                                    <span class="sm:hidden text-accent font-display text-xl">4.</span> Post-Treatment
                                 </h4>
                                 <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Walk out immediately with your stunning, refined new profile.</p>
                             </div>
@@ -121,7 +121,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
 
     <!-- Conditions Treated -->
     <section class="py-20 lg:py-32 bg-white relative">
-        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+        <div class="max-w-[1100px] mx-auto px-6 lg:px-10">
             <div class="mb-20 gs-reveal-text text-center max-w-3xl mx-auto">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Target Areas</span>
                 <h3 class="font-display text-4xl lg:text-5xl text-brand-deeper mb-6">Conditions <i class="text-accent font-light">Treated</i></h3>
@@ -132,7 +132,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
 
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[minmax(180px,auto)] gs-stagger-bento">
                 <!-- 1: Large Span -->
-                <div class="md:col-span-2 group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item overflow-hidden relative">
+                <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-[2rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item overflow-hidden relative">
                     <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
                     <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl relative z-10 border border-brand/5 group-hover:border-accent/20">
                         <i class="fas fa-wave-square"></i>
@@ -142,7 +142,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
                 </div>
                 
                 <!-- 2 -->
-                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                <div class="group glass-panel p-6 lg:p-8 rounded-[2rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
                     <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
                         <i class="fas fa-balance-scale"></i>
                     </div>
@@ -151,7 +151,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
                 </div>
                 
                 <!-- 3 -->
-                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                <div class="group glass-panel p-6 lg:p-8 rounded-[2rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
                     <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
                         <i class="fas fa-arrow-up"></i>
                     </div>
@@ -160,7 +160,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
                 </div>
                 
                 <!-- 4 -->
-                <div class="group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                <div class="group glass-panel p-6 lg:p-8 rounded-[2rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
                     <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
                         <i class="fas fa-ruler-horizontal"></i>
                     </div>
@@ -169,7 +169,7 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
                 </div>
                 
                 <!-- 5 -->
-                <div class="md:col-span-2 lg:col-span-1 group glass-panel p-10 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
+                <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-[2rem] bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 bento-item relative">
                     <div class="w-16 h-16 rounded-2xl bg-white shadow-sm flex items-center justify-center mb-8 group-hover:-translate-y-2 transition-transform duration-500 text-accent text-2xl border border-brand/5 group-hover:border-accent/20">
                         <i class="fas fa-cut"></i>
                     </div>
@@ -186,55 +186,55 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
         <div class="absolute top-0 right-0 w-[800px] h-[800px] bg-accent/20 rounded-full blur-[150px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
         <div class="absolute bottom-0 left-0 w-[600px] h-[600px] bg-brand/40 rounded-full blur-[150px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
         
-        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
-            <div class="grid lg:grid-cols-12 gap-16 xl:gap-24 items-center">
+        <div class="max-w-[1150px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="grid lg:grid-cols-12 gap-12 xl:gap-16 items-center">
                 
                 <!-- Why Dr Chirag -->
                 <div class="lg:col-span-7">
-                    <div class="mb-12">
-                        <span class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 text-white font-body text-xs tracking-[0.2em] uppercase mb-8 font-semibold backdrop-blur-md border border-white/10">
+                    <div class="mb-8">
+                        <span class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 text-white font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold backdrop-blur-md border border-white/10">
                             Quality & Excellence
                         </span>
                         
-                        <div class="flex flex-col sm:flex-row gap-8 items-start sm:items-center">
-                            <div class="w-32 h-32 sm:w-40 sm:h-40 rounded-full overflow-hidden flex-shrink-0 border-[3px] border-accent/40 shadow-[0_0_40px_rgba(var(--color-accent),0.3)] relative group">
+                        <div class="flex flex-col sm:flex-row gap-6 items-start sm:items-center">
+                            <div class="w-24 h-24 sm:w-32 sm:h-32 rounded-full overflow-hidden flex-shrink-0 border-[2px] border-accent/40 shadow-[0_0_30px_rgba(var(--color-accent),0.3)] relative group">
                                 <div class="absolute inset-0 bg-accent/20 group-hover:opacity-0 transition-opacity duration-500 z-10"></div>
                                 <img src="/assets/imagesfromsite/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.1] group-hover:grayscale-0 transition-all duration-700 scale-100 group-hover:scale-110">
                             </div>
                             <div>
-                                <h3 class="font-display text-5xl lg:text-6xl leading-tight m-0 drop-shadow-lg">Why Opt for <br/><i class="text-accent font-light">Dr. Chirag?</i></h3>
+                                <h3 class="font-display text-4xl lg:text-5xl leading-tight m-0 drop-shadow-lg">Why Opt for <br/><i class="text-accent font-light">Dr. Chirag?</i></h3>
                             </div>
                         </div>
                     </div>
                     
-                    <div class="space-y-8 pl-0 sm:pl-8 border-l border-white/10 ml-0 sm:ml-20">
-                        <div class="flex gap-6 items-start group">
-                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
+                    <div class="space-y-6 pl-0 sm:pl-6 border-l border-white/10 ml-0 sm:ml-12">
+                        <div class="flex gap-5 items-start group">
+                            <div class="w-12 h-12 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
                                 <i class="fas fa-eye"></i>
                             </div>
                             <div>
-                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Artistic Vision</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A keen, masterful aesthetic eye ensuring beautifully harmonious and perfectly proportioned results.</p>
+                                <h4 class="font-heading font-semibold text-lg mb-1 text-white">Artistic Vision</h4>
+                                <p class="text-sm text-white/70 font-light leading-relaxed">A keen, masterful aesthetic eye ensuring beautifully harmonious and perfectly proportioned results.</p>
                             </div>
                         </div>
                         
-                        <div class="flex gap-6 items-start group">
-                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
+                        <div class="flex gap-5 items-start group">
+                            <div class="w-12 h-12 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
                                 <i class="fas fa-shield-alt"></i>
                             </div>
                             <div>
-                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Safety First</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using only premium, high-quality, FDA-approved dermal fillers.</p>
+                                <h4 class="font-heading font-semibold text-lg mb-1 text-white">Safety First</h4>
+                                <p class="text-sm text-white/70 font-light leading-relaxed">Uncompromising standards using only premium, high-quality, FDA-approved dermal fillers.</p>
                             </div>
                         </div>
 
-                        <div class="flex gap-6 items-start group">
-                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
+                        <div class="flex gap-5 items-start group">
+                            <div class="w-12 h-12 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
                                 <i class="fas fa-user-md"></i>
                             </div>
                             <div>
-                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
+                                <h4 class="font-heading font-semibold text-lg mb-1 text-white">Vast Experience</h4>
+                                <p class="text-sm text-white/70 font-light leading-relaxed">A proven track record with over 800 successful, transformative non-surgical nose jobs performed.</p>
                             </div>
                         </div>
                     </div>
@@ -245,41 +245,41 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
                     <!-- Glow behind card -->
                     <div class="absolute inset-0 bg-gradient-to-br from-accent/30 to-brand-light/30 blur-3xl transform scale-90"></div>
                     
-                    <div class="glass-panel p-10 lg:p-12 rounded-[3rem] bg-[#1a2333]/60 backdrop-blur-2xl border border-white/10 shadow-2xl relative overflow-hidden h-full flex flex-col justify-center transform hover:-translate-y-2 transition-transform duration-500">
+                    <div class="glass-panel p-6 lg:p-8 rounded-[2rem] bg-[#1a2333]/60 backdrop-blur-2xl border border-white/10 shadow-2xl relative overflow-hidden h-full flex flex-col justify-center transform hover:-translate-y-2 transition-transform duration-500">
                         <div class="absolute top-0 right-0 w-40 h-40 bg-accent/40 blur-[60px] rounded-full"></div>
                         
-                        <div class="flex items-center gap-4 mb-10 relative z-10">
-                            <div class="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center text-accent text-xl border border-accent/20">
+                        <div class="flex items-center gap-4 mb-6 relative z-10">
+                            <div class="w-10 h-10 rounded-full bg-accent/20 flex items-center justify-center text-accent text-lg border border-accent/20">
                                 <i class="fas fa-lightbulb"></i>
                             </div>
-                            <h3 class="font-display text-4xl m-0"><i class="text-accent font-light">Myths</i> & Facts</h3>
+                            <h3 class="font-display text-3xl m-0"><i class="text-accent font-light">Myths</i> & Facts</h3>
                         </div>
                         
-                        <div class="space-y-8 relative z-10">
-                            <div class="bg-white/5 p-6 rounded-3xl border border-white/5 shadow-inner">
-                                <div class="flex items-center gap-3 mb-3 text-white/40">
+                        <div class="space-y-6 relative z-10">
+                            <div class="bg-white/5 p-5 rounded-2xl border border-white/5 shadow-inner">
+                                <div class="flex items-center gap-3 mb-2 text-white/40">
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Fillers stretch the skin and worsen wrinkles if not maintained."</p>
+                                <p class="font-heading text-lg font-light text-white/80 italic">"Fillers stretch the skin and worsen wrinkles if not maintained."</p>
                             </div>
                             
-                            <div class="relative py-2">
+                            <div class="relative py-1">
                                 <div class="absolute inset-0 flex items-center justify-center">
-                                    <div class="w-10 h-10 rounded-full bg-[#1a2333] border border-white/10 flex items-center justify-center z-10 shadow-lg">
-                                        <i class="fas fa-arrow-down text-accent"></i>
+                                    <div class="w-8 h-8 rounded-full bg-[#1a2333] border border-white/10 flex items-center justify-center z-10 shadow-lg">
+                                        <i class="fas fa-arrow-down text-accent text-sm"></i>
                                     </div>
                                 </div>
                                 <div class="h-px w-full bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
                             </div>
                             
-                            <div class="bg-accent/10 p-6 rounded-3xl border border-accent/20 shadow-lg relative overflow-hidden">
+                            <div class="bg-accent/10 p-5 rounded-2xl border border-accent/20 shadow-lg relative overflow-hidden">
                                 <div class="absolute top-0 right-0 w-20 h-20 bg-accent/30 blur-[30px] rounded-full pointer-events-none"></div>
-                                <div class="flex items-center gap-3 mb-3 text-accent relative z-10">
+                                <div class="flex items-center gap-3 mb-2 text-accent relative z-10">
                                     <i class="fas fa-check-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
                                 </div>
-                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">Fillers provide volume and promote collagen. Discontinuation will simply return skin to its natural aging process.</p>
+                                <p class="font-heading text-xl font-light text-white relative z-10 leading-snug">Fillers provide volume and promote collagen. Discontinuation will simply return skin to its natural aging process.</p>
                             </div>
                         </div>
                     </div>
@@ -301,86 +301,86 @@ $pageDescription = "Restore lost volume, sculpt facial contours, and smooth deep
             </div>
 
             <div class="space-y-5">
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-5 lg:p-6 flex justify-between items-center transition-colors">
                         <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">1. How long do the results from dermal fillers last?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                        <div class="w-10 h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Depending on the type of filler and individual factors, results can last anywhere from 6 months to 2 years.</p>
+                        <div class="px-5 pb-5 lg:px-6 lg:pb-6">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-0 border-t border-brand/5 pt-4">Depending on the type of filler and individual factors, results can last anywhere from 6 months to 2 years.</p>
                         </div>
                     </div>
                 </div>
                 
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-5 lg:p-6 flex justify-between items-center transition-colors">
                         <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">2. Are there any side effects?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                        <div class="w-10 h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Common side effects include temporary redness, swelling, or bruising, which typically resolve within a week.</p>
+                        <div class="px-5 pb-5 lg:px-6 lg:pb-6">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-0 border-t border-brand/5 pt-4">Common side effects include temporary redness, swelling, or bruising, which typically resolve within a week.</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-5 lg:p-6 flex justify-between items-center transition-colors">
                         <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">3. How soon can I return to normal activities?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                        <div class="w-10 h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Most patients return to daily activities immediately, but it's advised to avoid strenuous activity for 24-48 hours.</p>
+                        <div class="px-5 pb-5 lg:px-6 lg:pb-6">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-0 border-t border-brand/5 pt-4">Most patients return to daily activities immediately, but it's advised to avoid strenuous activity for 24-48 hours.</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-5 lg:p-6 flex justify-between items-center transition-colors">
                         <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">4. Can I get fillers if I'm pregnant?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                        <div class="w-10 h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Dermal fillers are not recommended for pregnant or breastfeeding individuals.</p>
+                        <div class="px-5 pb-5 lg:px-6 lg:pb-6">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-0 border-t border-brand/5 pt-4">Dermal fillers are not recommended for pregnant or breastfeeding individuals.</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-5 lg:p-6 flex justify-between items-center transition-colors">
                         <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">5. How is the best dermal filler for me determined?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                        <div class="w-10 h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">During your consultation, Dr. Kotecha will assess your skin type, concerns, and goals to recommend the best filler for your needs</p>
+                        <div class="px-5 pb-5 lg:px-6 lg:pb-6">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-0 border-t border-brand/5 pt-4">During your consultation, Dr. Kotecha will assess your skin type, concerns, and goals to recommend the best filler for your needs</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="glass-panel rounded-3xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-                    <div class="p-8 flex justify-between items-center transition-colors">
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
+                    <div class="p-5 lg:p-6 flex justify-between items-center transition-colors">
                         <h4 class="font-heading font-semibold text-brand-deeper text-xl pr-8 group-hover:text-accent transition-colors">6. What is the cost of Dermal Fillers in Uganda?</h4>
-                        <div class="w-12 h-12 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
+                        <div class="w-10 h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-                        <div class="px-8 pb-8">
-                            <p class="text-brand-muted font-body text-base leading-relaxed mt-2 border-t border-brand/5 pt-6">Dermal Fillers cost in Uganda varies depending upon several factors. The cost of Dermal Fillers at Refine Skin & Body Clinic can cost anywhere From $375 per vial.</p>
+                        <div class="px-5 pb-5 lg:px-6 lg:pb-6">
+                            <p class="text-brand-muted font-body text-base leading-relaxed mt-0 border-t border-brand/5 pt-4">Dermal Fillers cost in Uganda varies depending upon several factors. The cost of Dermal Fillers at Refine Skin & Body Clinic can cost anywhere From $375 per vial.</p>
                         </div>
                     </div>
                 </div>

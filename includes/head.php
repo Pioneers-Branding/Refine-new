@@ -63,8 +63,8 @@
                         body: ['"Inter"', 'system-ui', 'sans-serif'],
                     },
                     fontSize: {
-                        'hero': ['clamp(2.8rem, 6vw, 5.5rem)', { lineHeight: '1.02', letterSpacing: '-0.035em' }],
-                        'section': ['clamp(2rem, 3.5vw, 3.2rem)', { lineHeight: '1.1', letterSpacing: '-0.025em' }],
+                        'hero': ['clamp(2.5rem, 6vw, 5.5rem)', { lineHeight: '1.02', letterSpacing: '-0.035em' }],
+                        'section': ['clamp(1.75rem, 3.5vw, 3.2rem)', { lineHeight: '1.1', letterSpacing: '-0.025em' }],
                         'subhead': ['clamp(1.1rem, 1.8vw, 1.4rem)', { lineHeight: '1.4', letterSpacing: '-0.01em' }],
                     },
                     borderRadius: {

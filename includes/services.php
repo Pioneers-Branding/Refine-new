@@ -23,7 +23,7 @@
         <div class="bento-grid gs-stagger-bento gap-3 lg:gap-4">
             
             <!-- Large Focus Feature (Cosmetic Derm) -->
-            <a href="cosmetic-dermatology-kampala-juba" class="bento-item bento-large group">
+            <a href="cosmetic-dermatology-kampala-juba" class="bento-item group">
                 <img src="/assets/imagesfromsite/Facial-Spa-09.webp" alt="Cosmetic Dermatology" class="absolute inset-0 w-full h-full object-cover" loading="lazy">
                 <div class="absolute inset-0 bg-brand-deeper/20 group-hover:bg-brand-deeper/10 transition-colors duration-500"></div>
                 <div class="bento-content p-4">
@@ -57,7 +57,7 @@
             </a>
 
             <!-- Wide Box (IV Lounge) -->
-            <a href="refine-iv-lounge-kampala-juba" class="bento-item bento-wide group">
+            <a href="refine-iv-lounge-kampala-juba" class="bento-item group">
                 <img src="/assets/imagesfromsite/IV-Therapy_09.png" alt="IV Lounge" class="absolute inset-0 w-full h-full object-cover object-top" loading="lazy">
                 <div class="bento-content p-4">
                     <span class="inline-block px-2 py-0.5 bg-brand/80 rounded-full text-[9px] uppercase tracking-widest text-white font-semibold mb-1.5">Wellness</span>
@@ -70,7 +70,7 @@
             </a>
 
             <!-- Wide Box (Anti-Aging) -->
-            <a href="botox-anti-aging-treatment-kampala-juba" class="bento-item bento-wide group">
+            <a href="botox-anti-aging-treatment-kampala-juba" class="bento-item group">
                 <img src="/assets/imagesfromsite/dermal-filter-09.png" alt="Anti-Aging" class="absolute inset-0 w-full h-full object-cover object-top" loading="lazy">
                 <div class="bento-content p-4">
                     <span class="inline-block px-2 py-0.5 bg-brand/80 rounded-full text-[9px] uppercase tracking-widest text-white font-semibold mb-1.5">Anti-Aging</span>
@@ -103,7 +103,7 @@
             </a>
             
             <!-- Wide Box (Medical Dermatology) -->
-            <a href="medical-dermatology-kampala-juba" class="bento-item bento-wide group">
+            <a href="medical-dermatology-kampala-juba" class="bento-item group">
                 <img src="/assets/imagesfromsite/dermatology-new-09.webp" alt="Medical Dermatology" class="absolute inset-0 w-full h-full object-cover object-center" loading="lazy">
                 <div class="bento-content p-4">
                     <span class="inline-block px-2 py-0.5 bg-brand/80 rounded-full text-[9px] uppercase tracking-widest text-white font-semibold mb-1.5">Clinical</span>
@@ -116,7 +116,7 @@
             </a>
 
             <!-- Wide Box (Hair Restoration) -->
-            <a href="hair-transplant-kampala-juba" class="bento-item bento-wide group">
+            <a href="hair-transplant-kampala-juba" class="bento-item group">
                 <img src="/assets/imagesfromsite/prp-hair-restoration-09.png" alt="Hair Restoration" class="absolute inset-0 w-full h-full object-cover object-top" loading="lazy">
                 <div class="absolute inset-0 bg-brand-deeper/30 group-hover:bg-brand-deeper/10 transition-colors duration-500"></div>
                 <div class="bento-content p-4">

@@ -8,11 +8,69 @@
     <div class="absolute -bottom-40 -right-40 w-[600px] h-[600px] rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
     <div class="absolute inset-0 opacity-[0.03] pointer-events-none" style="background-image: radial-gradient(circle at 2px 2px, #fff 1px, transparent 0); background-size: 38px 38px;"></div>
 
-    <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10">
+        <!-- ── LOCATIONS MAP STRIP ────────────── -->
+        <div class="mb-16 border-b border-white/10 pb-16 pt-8 px-4 lg:px-16 max-w-[1400px] mx-auto">
+            <div class="text-center max-w-3xl mx-auto mb-12">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Find Us</span>
+                <h2 class="font-display text-3xl lg:text-4xl text-white leading-tight mb-4">
+                    Four Locations. <i class="text-accent font-light">One Standard.</i>
+                </h2>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Location 1 -->
+                <div class="flex flex-col">
+                    <div class="aspect-video rounded-2xl overflow-hidden relative mb-4 bg-white/5 border border-white/10 group">
+                        <iframe src="https://maps.google.com/maps?q=Refine+Skin+and+Body+Clinic,+Forest+Mall,+Kampala&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" class="filter grayscale-[0.2] contrast-125 group-hover:filter-none transition-all duration-500"></iframe>
+                        <a href="https://maps.app.goo.gl/ajUH37p4J33PVfM59" target="_blank" class="absolute top-3 left-3 bg-white text-brand-deeper text-xs font-semibold px-3 py-1.5 rounded shadow flex items-center gap-2 hover:bg-accent transition-colors z-10"><i class="fas fa-external-link-alt text-[10px]"></i> Open in Maps</a>
+                    </div>
+                    <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1"><i class="fas fa-map-marker-alt"></i> HEAD OFFICE (UGANDA)</p>
+                    <h4 class="font-heading text-white text-base mb-1">Refine Skin and Body Clinic</h4>
+                    <p class="text-[11px] text-white/60 leading-relaxed mb-2 font-light">Ground Floor, Unit GF4 Forest Mall Block B<br>Lugogo Bypass Kampala Uganda</p>
+                    <a href="tel:+256758232889" class="text-white text-xs mb-1 hover:text-accent transition-colors"><i class="fas fa-phone-alt mr-2 text-accent"></i>+256 758 232889</a>
+                    <a href="mailto:frontdesk@refineskinandbody.com" class="text-white text-xs hover:text-accent transition-colors"><i class="fas fa-envelope mr-2 text-accent"></i>frontdesk@refineskinandbody.com</a>
+                </div>
 
+                <!-- Location 2 -->
+                <div class="flex flex-col">
+                    <div class="aspect-video rounded-2xl overflow-hidden relative mb-4 bg-white/5 border border-white/10 group">
+                        <iframe src="https://maps.google.com/maps?q=Refine+Skin+and+Body+Clinic,+Palm+Village+Mall,+Kampala&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" class="filter grayscale-[0.2] contrast-125 group-hover:filter-none transition-all duration-500"></iframe>
+                        <a href="https://maps.app.goo.gl/Y62vXFa48F4PxQSg9" target="_blank" class="absolute top-3 left-3 bg-white text-brand-deeper text-xs font-semibold px-3 py-1.5 rounded shadow flex items-center gap-2 hover:bg-accent transition-colors z-10"><i class="fas fa-external-link-alt text-[10px]"></i> Open in Maps</a>
+                    </div>
+                    <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1"><i class="fas fa-map-marker-alt"></i> Branch</p>
+                    <h4 class="font-heading text-white text-base mb-1">Refine Skin and Body Clinic - Kabalagala</h4>
+                    <p class="text-[11px] text-white/60 leading-relaxed mb-2 font-light">Palm Village Mall, Second Floor (Opposite KIU)<br>Kampala, Uganda</p>
+                    <a href="tel:+256705035096" class="text-white text-xs mb-1 hover:text-accent transition-colors"><i class="fas fa-phone-alt mr-2 text-accent"></i>+256 705 035096</a>
+                    <a href="mailto:kabalagala@refineskinandbody.com" class="text-white text-xs hover:text-accent transition-colors"><i class="fas fa-envelope mr-2 text-accent"></i>kabalagala@refineskinandbody.com</a>
+                </div>
 
+                <!-- Location 3 -->
+                <div class="flex flex-col">
+                    <div class="aspect-video rounded-2xl overflow-hidden relative mb-4 bg-white/5 border border-white/10 group">
+                        <iframe src="https://maps.google.com/maps?q=UMC+Victoria+Hospital+Annex,+Bukoto,+Kampala&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" class="filter grayscale-[0.2] contrast-125 group-hover:filter-none transition-all duration-500"></iframe>
+                        <a href="https://maps.app.goo.gl/NJTfUUd4WxAWrHBW9" target="_blank" class="absolute top-3 left-3 bg-white text-brand-deeper text-xs font-semibold px-3 py-1.5 rounded shadow flex items-center gap-2 hover:bg-accent transition-colors z-10"><i class="fas fa-external-link-alt text-[10px]"></i> Open in Maps</a>
+                    </div>
+                    <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1"><i class="fas fa-map-marker-alt"></i> Branch</p>
+                    <h4 class="font-heading text-white text-base mb-1">UMC Victoria, Bukoto</h4>
+                    <p class="text-[11px] text-white/60 leading-relaxed mb-2 font-light">UMC Victoria Hospital Annex<br>Kampala, Uganda</p>
+                    <a href="tel:+256748951996" class="text-white text-xs mb-1 hover:text-accent transition-colors"><i class="fas fa-phone-alt mr-2 text-accent"></i>+256 748 951996</a>
+                    <a href="mailto:bukoto@refineskinandbody.com" class="text-white text-xs hover:text-accent transition-colors"><i class="fas fa-envelope mr-2 text-accent"></i>bukoto@refineskinandbody.com</a>
+                </div>
 
-        <!-- ── TOP: Brand + Tagline ────────────── -->
+                <!-- Location 4 -->
+                <div class="flex flex-col">
+                    <div class="aspect-video rounded-2xl overflow-hidden relative mb-4 bg-white/5 border border-white/10 group">
+                        <iframe src="https://maps.google.com/maps?q=Sadeco+Building,+Airport+Road,+Juba&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" class="filter grayscale-[0.2] contrast-125 group-hover:filter-none transition-all duration-500"></iframe>
+                        <a href="https://maps.app.goo.gl/z3Djk6Ah8k1Gkp3q6" target="_blank" class="absolute top-3 left-3 bg-white text-brand-deeper text-xs font-semibold px-3 py-1.5 rounded shadow flex items-center gap-2 hover:bg-accent transition-colors z-10"><i class="fas fa-external-link-alt text-[10px]"></i> Open in Maps</a>
+                    </div>
+                    <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1"><i class="fas fa-map-marker-alt"></i> Branch</p>
+                    <h4 class="font-heading text-white text-base mb-1">Refine Skin and Body Care Centre - Juba</h4>
+                    <p class="text-[11px] text-white/60 leading-relaxed mb-2 font-light">1st Floor, Sadeco Building Airport Road<br>Juba, South Sudan</p>
+                    <a href="tel:+211922687111" class="text-white text-xs mb-1 hover:text-accent transition-colors"><i class="fas fa-phone-alt mr-2 text-accent"></i>+211-922-687-111</a>
+                    <a href="mailto:juba@refineskinandbody.com" class="text-white text-xs hover:text-accent transition-colors"><i class="fas fa-envelope mr-2 text-accent"></i>juba@refineskinandbody.com</a>
+                </div>
+            </div>
+        </div>
         <div class="flex flex-col items-center text-center pb-12 lg:pb-16 border-b border-white/10">
             <a href="/" class="inline-block mb-6">
                 <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Clinic Logo" class="h-16 lg:h-12 w-auto object-contain">

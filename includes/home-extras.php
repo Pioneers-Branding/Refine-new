@@ -130,7 +130,7 @@
                 </div>
                 <div class="relative lg:absolute lg:bottom-0 lg:right-0 w-[80%] lg:w-[55%] h-[200px] lg:h-[60%] img-reveal-wrapper shadow-2xl z-20 border-4 border-white gs-reveal-img gs-delay-1 -mt-16 lg:mt-0 ml-auto lg:ml-0">
                     <div class="img-reveal-overlay"></div>
-                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="/assets/imagesfromsite/HydraFacial.webp" alt="Refine interior" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="hidden lg:block absolute top-8 right-4 z-30 glass-panel rounded-2xl p-4 max-w-[180px] gs-reveal-fade gs-delay-2">
                     <p class="font-display text-3xl text-brand-deeper leading-none">15+</p>
@@ -266,47 +266,47 @@
 <!-- ============= 5. JOURNEY / PROCESS STEPS ============= -->
 <section class="py-16 lg:py-24 bg-surface-warm">
     <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
-        <div class="text-center max-w-3xl mx-auto mb-16 gs-reveal-text">
-            <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-6 font-semibold">Your Refine Journey</span>
-            <h2 class="font-display text-section text-brand-deeper leading-tight mb-6">
+        <div class="text-center max-w-3xl mx-auto mb-10 lg:mb-16 gs-reveal-text">
+            <span class="inline-block text-accent font-body text-[10px] lg:text-xs tracking-[0.25em] uppercase mb-4 lg:mb-6 font-semibold">Your Refine Journey</span>
+            <h2 class="font-display text-section text-brand-deeper leading-tight mb-4 lg:mb-6">
                 A Calm, <i class="text-brand font-light">Confident</i> Path.
             </h2>
-            <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
+            <p class="text-brand-muted font-body text-base lg:text-lg font-light leading-relaxed">
                 From your first WhatsApp message to your final follow-up — every step is designed to feel luxurious, transparent, and effortless.
             </p>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 relative">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-6 relative">
             <!-- Connector line (desktop) -->
             <div class="hidden lg:block absolute top-12 left-[12%] right-[12%] h-px bg-gradient-to-r from-transparent via-brand/20 to-transparent"></div>
 
             <div class="relative text-center gs-reveal-fade">
-                <div class="w-24 h-24 mx-auto rounded-full bg-white border border-brand/10 flex items-center justify-center mb-6 relative z-10 shadow-sm">
-                    <span class="font-display text-3xl text-accent">01</span>
+                <div class="w-16 h-16 lg:w-24 lg:h-24 mx-auto rounded-full bg-white border border-brand/10 flex items-center justify-center mb-4 lg:mb-6 relative z-10 shadow-sm">
+                    <span class="font-display text-2xl lg:text-3xl text-accent">01</span>
                 </div>
-                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Consultation</h4>
-                <p class="text-sm text-brand-muted font-light leading-relaxed max-w-[240px] mx-auto">A complimentary 30-min conversation with a specialist to understand your goals and medical history.</p>
+                <h4 class="font-heading font-semibold text-brand-deeper text-base lg:text-lg mb-2">Consultation</h4>
+                <p class="text-xs lg:text-sm text-brand-muted font-light leading-relaxed max-w-[240px] mx-auto">A complimentary 30-min conversation with a specialist to understand your goals and medical history.</p>
             </div>
             <div class="relative text-center gs-reveal-fade">
-                <div class="w-24 h-24 mx-auto rounded-full bg-white border border-brand/10 flex items-center justify-center mb-6 relative z-10 shadow-sm">
-                    <span class="font-display text-3xl text-accent">02</span>
+                <div class="w-16 h-16 lg:w-24 lg:h-24 mx-auto rounded-full bg-white border border-brand/10 flex items-center justify-center mb-4 lg:mb-6 relative z-10 shadow-sm">
+                    <span class="font-display text-2xl lg:text-3xl text-accent">02</span>
                 </div>
-                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Bespoke Plan</h4>
-                <p class="text-sm text-brand-muted font-light leading-relaxed max-w-[240px] mx-auto">A fully personalized protocol with timeline, pricing, and expected outcomes — no surprises.</p>
+                <h4 class="font-heading font-semibold text-brand-deeper text-base lg:text-lg mb-2">Bespoke Plan</h4>
+                <p class="text-xs lg:text-sm text-brand-muted font-light leading-relaxed max-w-[240px] mx-auto">A fully personalized protocol with timeline, pricing, and expected outcomes — no surprises.</p>
             </div>
             <div class="relative text-center gs-reveal-fade">
-                <div class="w-24 h-24 mx-auto rounded-full bg-white border border-brand/10 flex items-center justify-center mb-6 relative z-10 shadow-sm">
-                    <span class="font-display text-3xl text-accent">03</span>
+                <div class="w-16 h-16 lg:w-24 lg:h-24 mx-auto rounded-full bg-white border border-brand/10 flex items-center justify-center mb-4 lg:mb-6 relative z-10 shadow-sm">
+                    <span class="font-display text-2xl lg:text-3xl text-accent">03</span>
                 </div>
-                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Treatment</h4>
-                <p class="text-sm text-brand-muted font-light leading-relaxed max-w-[240px] mx-auto">Your procedure in our serene clinic — performed by specialists using world-class technology.</p>
+                <h4 class="font-heading font-semibold text-brand-deeper text-base lg:text-lg mb-2">Treatment</h4>
+                <p class="text-xs lg:text-sm text-brand-muted font-light leading-relaxed max-w-[240px] mx-auto">Your procedure in our serene clinic — performed by specialists using world-class technology.</p>
             </div>
             <div class="relative text-center gs-reveal-fade">
-                <div class="w-24 h-24 mx-auto rounded-full bg-white border border-brand/10 flex items-center justify-center mb-6 relative z-10 shadow-sm">
-                    <span class="font-display text-3xl text-accent">04</span>
+                <div class="w-16 h-16 lg:w-24 lg:h-24 mx-auto rounded-full bg-white border border-brand/10 flex items-center justify-center mb-4 lg:mb-6 relative z-10 shadow-sm">
+                    <span class="font-display text-2xl lg:text-3xl text-accent">04</span>
                 </div>
-                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Aftercare</h4>
-                <p class="text-sm text-brand-muted font-light leading-relaxed max-w-[240px] mx-auto">Concierge follow-up with WhatsApp access to your team and scheduled check-ins for life.</p>
+                <h4 class="font-heading font-semibold text-brand-deeper text-base lg:text-lg mb-2">Aftercare</h4>
+                <p class="text-xs lg:text-sm text-brand-muted font-light leading-relaxed max-w-[240px] mx-auto">Concierge follow-up with WhatsApp access to your team and scheduled check-ins for life.</p>
             </div>
         </div>
     </div>
@@ -344,7 +344,7 @@
                 </div>
                 <div class="relative lg:absolute lg:bottom-0 lg:left-0 w-[80%] lg:w-[45%] h-[200px] lg:h-[55%] img-reveal-wrapper shadow-2xl rounded-3xl overflow-hidden z-20 border-4 border-white gs-reveal-img gs-delay-1 -mt-16 lg:mt-0 ml-auto lg:ml-0">
                     <div class="img-reveal-overlay"></div>
-                    <img src="/assets/imagesfromsite/IV%20THERAPY.webp" alt="IV detail" class="img-parallax object-cover w-full h-full" loading="lazy">
+                    <img src="/assets/imagesfromsite/IV-Therapy_09.png" alt="IV detail" class="img-parallax object-cover w-full h-full" loading="lazy">
                 </div>
                 <div class="hidden lg:block absolute top-8 left-0 z-30 glass-panel rounded-2xl p-4 max-w-[200px] gs-reveal-fade gs-delay-2">
                     <div class="flex items-center gap-2 mb-2">
@@ -359,62 +359,7 @@
 </section>
 
 
-<!-- ============= 7. LOCATIONS STRIP ============= -->
-<section class="py-16 lg:py-24 bg-surface-cool relative overflow-hidden">
-    <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
-        <div class="text-center max-w-3xl mx-auto mb-16 gs-reveal-text">
-            <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-6 font-semibold">Find Us</span>
-            <h2 class="font-display text-section text-brand-deeper leading-tight mb-6">
-                Four Locations. <i class="text-brand font-light">One Standard.</i>
-            </h2>
-            <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
-                Whether you're in Kampala or Juba, world-class aesthetic care is just around the corner.
-            </p>
-        </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 gs-stagger-bento">
-            <a href="contact" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
-                <div class="aspect-video rounded-2xl overflow-hidden mb-5 bg-surface-cool relative">
-                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_welcome-to1.webp" alt="Forest Mall HQ" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
-                </div>
-                <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Headquarters</p>
-                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Forest Mall, Lugogo</h4>
-                <p class="text-xs text-brand-muted font-light leading-relaxed mb-3">Unit GF4 Block B, Lugogo Bypass, Kampala</p>
-                <span class="text-brand text-xs font-semibold inline-flex items-center gap-2 group-hover:gap-3 transition-all">Get Directions <i class="fas fa-arrow-right text-[10px]"></i></span>
-            </a>
-
-            <a href="contact" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
-                <div class="aspect-video rounded-2xl overflow-hidden mb-5 bg-surface-cool relative">
-                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup%203%20(1).webp" alt="Kabalagala" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
-                </div>
-                <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Branch</p>
-                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Palm Village, Kabalagala</h4>
-                <p class="text-xs text-brand-muted font-light leading-relaxed mb-3">Palm Village Mall, 2nd Floor, Kampala</p>
-                <span class="text-brand text-xs font-semibold inline-flex items-center gap-2 group-hover:gap-3 transition-all">Get Directions <i class="fas fa-arrow-right text-[10px]"></i></span>
-            </a>
-
-            <a href="contact" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
-                <div class="aspect-video rounded-2xl overflow-hidden mb-5 bg-surface-cool relative">
-                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_mockup%204.webp" alt="Bukoto" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
-                </div>
-                <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">Branch</p>
-                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">UMC Victoria, Bukoto</h4>
-                <p class="text-xs text-brand-muted font-light leading-relaxed mb-3">UMC Victoria Hospital Annex, Kampala</p>
-                <span class="text-brand text-xs font-semibold inline-flex items-center gap-2 group-hover:gap-3 transition-all">Get Directions <i class="fas fa-arrow-right text-[10px]"></i></span>
-            </a>
-
-            <a href="contact" class="group block glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all bento-item">
-                <div class="aspect-video rounded-2xl overflow-hidden mb-5 bg-surface-cool relative">
-                    <img src="/assets/imagesfromsite/bg-01.webp" alt="Juba" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
-                </div>
-                <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1">International</p>
-                <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Sadeco Building, Juba</h4>
-                <p class="text-xs text-brand-muted font-light leading-relaxed mb-3">1st Floor, Sadeco Bldg, Airport Road, Juba</p>
-                <span class="text-brand text-xs font-semibold inline-flex items-center gap-2 group-hover:gap-3 transition-all">Get Directions <i class="fas fa-arrow-right text-[10px]"></i></span>
-            </a>
-        </div>
-    </div>
-</section>
 
 
 <!-- ============= 8. PRESS / FEATURED IN ============= -->

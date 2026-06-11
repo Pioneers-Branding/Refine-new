@@ -4,6 +4,14 @@
    ============================================ */
 
 /* ---------- Base & Reset ---------- */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+    position: relative;
+}
+
 *, *::before, *::after {
     margin: 0;
     padding: 0;
@@ -474,18 +482,36 @@ body {
 }
 @media (max-width: 768px) {
     .bento-grid {
-        grid-template-columns: 1fr;
+        display: flex;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        padding-bottom: 1rem;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none; /* Firefox */
+        width: calc(100% + 3rem);
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+    .bento-grid::-webkit-scrollbar {
+        display: none; /* Safari and Chrome */
+    }
+    .bento-item {
+        min-width: 80vw;
+        scroll-snap-align: center;
+        flex-shrink: 0;
     }
     .bento-large, .bento-wide {
-        grid-column: span 1;
+        grid-column: auto;
     }
     .hero-display-text {
         font-size: clamp(2.2rem, 8vw, 3.5rem);
         line-height: 1.1;
     }
     .hero-slider-container {
-        min-height: 85vh !important; /* Give more height to prevent navbar overlap */
-        height: auto !important;
+        height: 85vh !important;
+        min-height: 600px !important;
         background-color: #1a0f3c !important; /* Ensure dark background for whole hero */
     }
     
@@ -503,19 +529,20 @@ body {
     /* Specific fix for hero images on mobile so they sit at bottom and text at top */
     .hero-slider-container .img-parallax {
         position: absolute !important;
-        bottom: 0 !important;
-        height: 45vh !important;
+        bottom: 8vh !important;
+        height: 50vh !important;
         width: 100% !important;
         object-fit: contain !important;
         object-position: center bottom !important;
         margin-top: auto !important;
+        transform: scale(1) translateZ(0) !important; /* Prevent cropping from scale */
     }
 
     /* Global Padding Overrides for Mobile */
-    .py-16 { padding-top: 3rem !important; padding-bottom: 3rem !important; }
-    .py-20 { padding-top: 4rem !important; padding-bottom: 4rem !important; }
-    .py-24 { padding-top: 4rem !important; padding-bottom: 4rem !important; }
-    .py-32 { padding-top: 5rem !important; padding-bottom: 5rem !important; }
+    .py-16 { padding-top: 2rem !important; padding-bottom: 2rem !important; }
+    .py-20 { padding-top: 2.5rem !important; padding-bottom: 2.5rem !important; }
+    .py-24 { padding-top: 3rem !important; padding-bottom: 3rem !important; }
+    .py-32 { padding-top: 4rem !important; padding-bottom: 4rem !important; }
     
     /* Glass Panel optimizations */
     .glass-panel {
