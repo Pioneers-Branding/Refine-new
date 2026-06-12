@@ -1,7 +1,7 @@
 <!-- ============================================
      GRAND FOOTER — Categorised, image-rich
      ============================================ -->
-<footer id="footer" class="footer-grand relative bg-brand-deeper text-white overflow-hidden pt-20 lg:pt-28">
+<footer id="footer" class="footer-grand relative bg-brand-deeper text-white overflow-hidden pt-10 lg:pt-28">
 
     <!-- Decorative blurred orbs -->
     <div class="absolute -top-40 -left-40 w-[520px] h-[520px] rounded-full bg-brand/25 blur-3xl pointer-events-none"></div>
@@ -9,7 +9,7 @@
     <div class="absolute inset-0 opacity-[0.03] pointer-events-none" style="background-image: radial-gradient(circle at 2px 2px, #fff 1px, transparent 0); background-size: 38px 38px;"></div>
 
         <!-- ── LOCATIONS MAP STRIP ────────────── -->
-        <div class="mb-16 border-b border-white/10 pb-16 pt-8 px-4 lg:px-16 max-w-[1400px] mx-auto">
+        <div class="mb-16 border-b border-white/10 pb-16 pt-0 lg:pt-8 px-4 lg:px-16 max-w-[1400px] mx-auto">
             <div class="text-center max-w-3xl mx-auto mb-12">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Find Us</span>
                 <h2 class="text-section font-display text-white leading-tight mb-4">

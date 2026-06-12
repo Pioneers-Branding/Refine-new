@@ -5,7 +5,7 @@
     <div class="max-w-6xl mx-auto px-6 lg:px-10 relative z-10">
         
         <!-- Section Header -->
-        <div class="flex flex-col md:flex-row justify-between items-end gap-4 mb-8 gs-reveal-text">
+        <div class="flex flex-col md:flex-row justify-between items-start md:items-end gap-4 mb-8 gs-reveal-text">
             <div class="max-w-xl">
                 <span class="inline-block text-accent font-body text-[10px] tracking-[0.25em] uppercase mb-2 font-semibold">Mastery & Precision</span>
                 <h2 class="font-display text-section text-brand-deeper leading-tight text-balance">

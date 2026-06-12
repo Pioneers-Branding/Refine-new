@@ -5,7 +5,7 @@
     <!-- Abstract blurred shapes removed for performance -->
 
     <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10">
-        <div id="treatment-categories-grid" class="grid lg:grid-cols-12 gap-16 lg:gap-24 items-center">
+        <div class="grid lg:grid-cols-12 gap-10 lg:gap-24 items-center">
             
             <!-- Left Text Column -->
             <div class="lg:col-span-5 order-2 lg:order-1 gs-reveal-text">
