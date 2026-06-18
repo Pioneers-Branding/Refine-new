@@ -22,7 +22,7 @@ $pageDescription = "High-dose intravenous Vitamin C for immune support, collagen
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Vitamin C
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Vitamin C Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Vitamin C Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Discover the rejuvenating power of Refine's premium Vitamin C Treatment. Under the expert guidance of Dr Chirag Kotecha, this treatment is designed to revitalise the skin, boost collagen, and bolster immunity, providing a holistic health experience.
                     </p>

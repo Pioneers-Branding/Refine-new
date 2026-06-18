@@ -23,7 +23,7 @@ $pageDescription = "Repigment and restore confidence with our advanced vitiligo 
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Vitiligo
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Vitiligo Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Vitiligo Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Vitiligo treatment is designed to restore skin pigment and tone in individuals diagnosed with vitiligo, where the skin loses its pigment cells, resulting in discoloured patches.
                     </p>

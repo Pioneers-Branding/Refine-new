@@ -22,7 +22,7 @@ $pageDescription = "Doctor-supervised medical weight loss with semaglutide (GLP-
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Semaglutide/Ozempic Weight Loss
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Semaglutide/Ozempic?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Semaglutide/Ozempic?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Semaglutide, commercially known as Ozempic, is a game-changing medication primarily designed for Type 2 Diabetes management. It belongs to the GLP-1 receptor agonists class of drugs, which influence the body's insulin production and glucagon secretion. However, a notable side effect – appetite suppression – has pivoted its use towards weight loss. When combined with a healthy lifestyle, Semaglutide/Ozempic can offer impressive weight loss outcomes, making it a valuable tool in the fight against obesity. So for anyone struggling to lose weight, seeking to achieve excess abdominal fat removal, this is a solution for you.
                     </p>

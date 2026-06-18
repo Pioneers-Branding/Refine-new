@@ -22,7 +22,7 @@ $pageDescription = "Life-changing, long-term weight loss solutions performed by 
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Gastric Sleeve and Bypass Surgery
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Gastric Sleeve and Bypass?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Gastric Sleeve and Bypass?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Gastric Sleeve and Bypass are two of the most widely recognised surgical weight loss interventions. The Gastric Sleeve involves removing a large portion of the stomach, leaving a &quot;sleeve&quot;-shaped section that is closed with staples. Gastric Bypass, on the other hand, involves reducing the stomach's size and rerouting the small intestine to this smaller stomach pouch. Both surgeries limit the amount of food intake and, in the case of the Bypass, reduce nutrient absorption, leading to weight loss. So for anyone struggling to lose weight, seeking to achieve excess abdominal fat removal, this is an option for you.
                     </p>

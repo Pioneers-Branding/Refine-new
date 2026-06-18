@@ -22,7 +22,7 @@ $pageDescription = "Harness the healing power of light. LED therapy is a painles
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium LED Light Therapy
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is LED Light Therapy?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">LED Light Therapy?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         LED Light Therapy, a cutting-edge skin treatment, stands out for its versatility and holistic approach to skincare. Harnessing the precise wavelengths emitted by Light Emitting Diodes (LEDs), this therapy dives deep beneath the skin's surface to spark many beneficial reactions. LED Light Therapy addresses a broad spectrum of skin conditions, from spurring collagen synthesis to calming inflammation and targeting bacteria without resorting to invasive techniques.
                     </p>

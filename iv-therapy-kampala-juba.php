@@ -22,7 +22,7 @@ $pageDescription = "Intravenous nutrient therapy delivers 100% absorption of vit
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium IV Therapy
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is IV Therapy?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">IV Therapy?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         IV Therapy at Refine Skin and Body Clinic offers more than just hydration; it's a gateway to enhanced health and vitality. By directly infusing your body with a rich blend of nutrients, this therapy bypasses the digestive system, ensuring immediate and complete absorption. Here's what makes IV Therapy a preferred choice:
                     </p>

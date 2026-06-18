@@ -22,7 +22,7 @@ $pageDescription = "Permanently destroy stubborn fat cells with controlled cooli
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Best Cryolipolysis
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Cryolipolysis?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Cryolipolysis?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Cryolipolysis, commonly known as &quot;fat freezing,&quot; is a non-invasive cosmetic procedure to reduce localised fat deposits. Using controlled cooling, it targets and freezes fat cells, causing them to break down without damaging surrounding tissues. Over time, the body naturally processes and eliminates these dead cells, resulting in a more contoured physique. Famous for its efficacy and minimal downtime, Cryolipolysis offers individuals a safer alternative to surgical fat-removal treatments.
                     </p>

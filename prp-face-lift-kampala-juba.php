@@ -22,7 +22,7 @@ $pageDescription = "A non-surgical facelift using platelet-rich plasma injection
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium PRP Face Lift
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is PRP Face Lift?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">PRP Face Lift?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         The PRP Face Lift, often called the &quot;Vampire Facelift,&quot; is an avant-garde approach to anti-ageing treatments that have surged in popularity recently. Essentially, the procedure harnesses the regenerative properties of platelets in one's blood. The procedure stimulates the body's natural healing processes by isolating the Platelet Rich Plasma (PRP) from a small blood sample and re-introducing it to the skin.
                     </p>

@@ -47,7 +47,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                 </div>
 
                 <div class="relative h-[700px] rounded-[40px] overflow-hidden shadow-2xl gs-reveal-img-group">
-                    <img src="https://refineskinandbody.com/images/refine_skin_and_body_clinic_welcome-to1.webp" alt="Clinic Interior" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
+                    <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_welcome-to1.webp" alt="Clinic Interior" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
                     <div class="absolute inset-0 bg-brand-deeper/10"></div>
                 </div>
                 
@@ -105,7 +105,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                 
                 <div class="lg:col-span-5 relative gs-reveal-img-group">
                     <div class="aspect-[3/4] rounded-3xl overflow-hidden shadow-2xl">
-                        <img src="https://refineskinandbody.com/images/Dr.%20Chirag%20Kotecha.webp" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
+                        <img src="/assets/images/team/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover object-top gs-reveal-img" loading="lazy">
                     </div>
                 </div>
 
@@ -127,7 +127,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                     <!-- Accreditation Logos -->
                     <div class="flex flex-wrap items-center gap-8 border-t border-brand/10 pt-8">
                         <h4 class="font-heading font-semibold text-brand text-xs uppercase tracking-widest w-full opacity-50 mb-2">Accreditations & Memberships</h4>
-                        <img src="https://refineskinandbody.com/images/fab2.webp" alt="Accreditation 1" class="h-12 opacity-50 grayscale hover:grayscale-0 hover:opacity-100 transition-all">
+                        <img src="/assets/imagesfromsite/fab2.webp" alt="Accreditation 1" class="h-12 opacity-50 grayscale hover:grayscale-0 hover:opacity-100 transition-all">
                     </div>
                 </div>
 
@@ -150,15 +150,17 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                 </div>
             </div>
 
-            <div class="grid md:grid-cols-2 lg:grid-cols-5 gap-8 gs-stagger-bento">
+            <div class="grid md:grid-cols-2 lg:grid-cols-5 gap-8 items-start gs-stagger-bento">
                 <!-- Team Member 1: Dr. Ahmed Ashraf -->
                 <a href="dr-ahmed-ashraf-dermatologist-in-uganda" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/dr_Ahmed_Ashraf_Dermatologist.png" alt="Dr. Ahmed Ashraf" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
-                    <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Ahmed Ashraf</h4>
+                    <div class="min-h-[96px] flex flex-col justify-start">
+                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Ahmed Ashraf</h4>
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Dermatologist (Egypt)</p>
+                    </div>
                 </a>
                 <!-- Team Member 2: Alison Gallagher -->
                 <a href="about-alison-gallagher-psychotherapist-in-uganda" class="group cursor-pointer bento-item">
@@ -166,8 +168,10 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/Alison_Gallagher_picture_3.png" alt="Alison Gallagher" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
-                    <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Alison Gallagher</h4>
+                    <div class="min-h-[96px] flex flex-col justify-start">
+                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Alison Gallagher</h4>
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Psychotherapist</p>
+                    </div>
                 </a>
                 <!-- Team Member 3: Wendy Emyedu -->
                 <a href="about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda" class="group cursor-pointer bento-item">
@@ -175,8 +179,10 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/Ms_Wendy_Emyedu_Ayayo.png" alt="Ms. Wendy Emyedu Ayayo" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
-                    <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Wendy Emyedu</h4>
+                    <div class="min-h-[96px] flex flex-col justify-start">
+                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Wendy Emyedu</h4>
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Nutritionist</p>
+                    </div>
                 </a>
                 <!-- Team Member 4: Dr. William Lubega -->
                 <a href="about-dr-william-lubega-plastic-surgeon-in-uganda" class="group cursor-pointer bento-item">
@@ -184,8 +190,10 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/Dr_William_Lubega.png" alt="Dr. William Lubega" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
-                    <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. William Lubega</h4>
+                    <div class="min-h-[96px] flex flex-col justify-start">
+                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. William Lubega</h4>
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Plastic Surgeon</p>
+                    </div>
                 </a>
                 <!-- Team Member 5: Dr. Vicky Koojo Nganzi -->
                 <a href="about-dr-vicky-koojo-nganzi-dermatologist-in-uganda" class="group cursor-pointer bento-item">
@@ -193,8 +201,10 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/Dr_Vicky_Koojo_Nganzi.png" alt="Dr. Vicky Koojo Nganzi" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
-                    <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Vicky Koojo Nganzi</h4>
+                    <div class="min-h-[96px] flex flex-col justify-start">
+                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Vicky Koojo Nganzi</h4>
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Medical & Cosmetic Dermatologist</p>
+                    </div>
                 </a>
             </div>
         </div>
@@ -207,7 +217,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
             <div class="grid lg:grid-cols-2 gap-16 items-center">
                 <div class="order-2 lg:order-1 relative h-[600px] rounded-3xl overflow-hidden gs-reveal-img-group">
-                    <img src="https://refineskinandbody.com/images/about2026.webp" alt="Clinic Interior" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
+                    <img src="/assets/imagesfromsite/about2026.webp" alt="Clinic Interior" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
                 </div>
                 <div class="order-1 lg:order-2 gs-reveal-text lg:pl-12">
                     <h2 class="text-section font-display text-brand-deeper mb-8">A Sanctuary of <i class="text-accent font-light">Calm.</i></h2>
@@ -225,44 +235,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
         </div>
     </section>
 
-    <!-- ============================================
-         MILESTONE TIMELINE
-         ============================================ -->
-    <section class="py-16 lg:py-24 bg-brand-deeper text-white relative">
-        <div class="max-w-[1200px] mx-auto px-6 lg:px-10 gs-reveal-text">
-            <h2 class="text-section font-display text-center mb-20">Our <i class="text-accent font-light">Journey.</i></h2>
-            
-            <div class="relative border-l border-white/20 ml-4 md:ml-1/2 space-y-16">
-                <!-- Timeline Item 1 -->
-                <div class="relative pl-8 md:pl-0">
-                    <div class="absolute w-4 h-4 bg-accent rounded-full -left-[9px] top-1"></div>
-                    <div class="md:w-1/2 md:pr-12 md:text-right md:absolute md:left-0 md:-translate-x-full">
-                        <h3 class="font-display text-3xl text-accent mb-2">2015</h3>
-                        <h4 class="font-heading text-lg font-semibold mb-2">The Inception</h4>
-                        <p class="font-body text-sm text-white/60 font-light">Refine Skin & Body Clinic opens its first flagship location in Kampala, introducing advanced laser therapies to the market.</p>
-                    </div>
-                </div>
-                <!-- Timeline Item 2 -->
-                <div class="relative pl-8 md:pl-0 md:flex md:justify-end mt-24">
-                    <div class="absolute w-4 h-4 bg-accent rounded-full -left-[9px] top-1 md:left-auto md:-ml-[9px] md:left-1/2"></div>
-                    <div class="md:w-1/2 md:pl-12 text-left">
-                        <h3 class="font-display text-3xl text-accent mb-2">2018</h3>
-                        <h4 class="font-heading text-lg font-semibold mb-2">Expansion of Excellence</h4>
-                        <p class="font-body text-sm text-white/60 font-light">Opening of the second branch in Kabalagala and the launch of the dedicated IV Therapy Lounge.</p>
-                    </div>
-                </div>
-                <!-- Timeline Item 3 -->
-                <div class="relative pl-8 md:pl-0 mt-24">
-                    <div class="absolute w-4 h-4 bg-accent rounded-full -left-[9px] top-1"></div>
-                    <div class="md:w-1/2 md:pr-12 md:text-right md:absolute md:left-0 md:-translate-x-full">
-                        <h3 class="font-display text-3xl text-accent mb-2">2021</h3>
-                        <h4 class="font-heading text-lg font-semibold mb-2">Crossing Borders</h4>
-                        <p class="font-body text-sm text-white/60 font-light">International expansion with the grand opening of the premium Juba, South Sudan aesthetic center.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
 </main>
 

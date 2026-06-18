@@ -394,18 +394,7 @@ body {
 }
 
 /* Right-align mega menus that would overflow the viewport */
-nav > .nav-item-dropdown:nth-last-child(-n+3) > .nav-dropdown {
-    left: auto !important;
-    right: 0 !important;
-    transform: translateY(15px) scale(0.98) !important;
-    --tw-translate-x: 0 !important;
-}
-.nav-item-dropdown:nth-last-child(-n+3).show > .nav-dropdown {
-    left: auto !important;
-    right: 0 !important;
-    transform: translateY(0) scale(1) !important;
-    --tw-translate-x: 0 !important;
-}
+
 
 .mega-menu-panel {
     background: #ffffff;
@@ -568,36 +557,38 @@ nav > .nav-item-dropdown:nth-last-child(-n+3) > .nav-dropdown {
         color: #432C86 !important;
     }
     .hero-display-text {
-        font-size: clamp(2.2rem, 8vw, 3.5rem);
-        line-height: 1.1;
-    }
-    .hero-slider-container {
-        height: 85vh !important;
-        min-height: 600px !important;
-        background-color: #1a0f3c !important; /* Ensure dark background for whole hero */
+        font-size: clamp(1.8rem, 6.5vw, 2.8rem);
+        line-height: 1.15;
     }
     
-    /* Push text down so it doesn't overlap header */
-    .hero-slider-container .absolute.inset-0 {
-        padding-top: 120px !important;
-        align-items: flex-start !important; /* Move text up to start after header */
+    .btn-magnetic {
+        padding: 14px 32px !important;
+        font-size: 14px !important;
     }
 
-    /* Ensure images are 100% visible and not cropped on mobile */
-    .hero-slider-container .img-duotone {
-        background-color: #1a0f3c !important; /* Fix white space below image */
+    .hero-slider-container {
+        height: 100vh !important; 
+        min-height: 600px !important;
+        background-color: #1a0f3c !important; 
     }
     
-    /* Specific fix for hero images on mobile so they sit at bottom and text at top */
+    /* Center text vertically better on mobile */
+    .hero-slider-container .absolute.inset-0 {
+        padding-top: 80px !important;
+        align-items: center !important; /* Move text to center on mobile since image is full background */
+    }
+
+    /* Ensure images cover the entire background on mobile instead of being cropped at the bottom */
     .hero-slider-container .img-parallax {
         position: absolute !important;
-        bottom: 8vh !important;
-        height: 50vh !important;
+        top: 0 !important;
+        bottom: 0 !important;
+        height: 100% !important;
         width: 100% !important;
-        object-fit: contain !important;
-        object-position: center bottom !important;
-        margin-top: auto !important;
-        transform: scale(1) translateZ(0) !important; /* Prevent cropping from scale */
+        object-fit: cover !important;
+        object-position: center !important;
+        margin-top: 0 !important;
+        transform: scale(1) translateZ(0) !important;
     }
 
     /* Global Padding Overrides for Mobile */

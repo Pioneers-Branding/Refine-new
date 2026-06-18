@@ -22,7 +22,7 @@ $pageDescription = "The OMG Shot uses your own PRP to enhance female sexual well
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium OMG-Shot
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is the OMG-Shot?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">the OMG-Shot?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         The OMG Shot, short for &quot;Orgasm Shot,&quot; is a non-surgical and minimally invasive medical procedure designed to potentially enhance sexual function and satisfaction in women. It involves the use of platelet-rich plasma (PRP), a component of the patient's own blood, which is rich in growth factors and bioactive substances.
                     </p>

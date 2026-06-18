@@ -22,7 +22,7 @@ $pageDescription = "Permanent hair reduction with medical-grade laser technology
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Laser Hair Removal in Uganda
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Understanding Laser Hair Removal?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Laser Hair Removal?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Laser hair removal is a medical procedure that uses a concentrated beam of light (laser) to remove unwanted hair. The laser emits a light absorbed by the pigment (melanin) in the hair. The light energy is converted to heat, which damages the hair follicles, inhibiting future hair growth.
                     </p>

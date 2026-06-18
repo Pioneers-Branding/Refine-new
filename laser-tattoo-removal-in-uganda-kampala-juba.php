@@ -22,7 +22,7 @@ $pageDescription = "Safely and effectively fade or completely remove unwanted ta
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Tattoo Removal in Uganda
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Understanding Laser Tattoo Removal?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Laser Tattoo Removal?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Laser tattoo removal is a non-invasive procedure that uses laser light pulses to break down the ink particles in tattoos, making it easier for the body to eliminate them. It offers a chance for individuals to undo a decision or clear a canvas for a fresh start.
                     </p>

@@ -22,7 +22,7 @@ $pageDescription = "A non-surgical breast rejuvenation using your own PRP to lif
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium PRP Breast Lift
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is PRP Breast Lift?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">PRP Breast Lift?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         PRP Breast Lift, an innovative procedure gaining traction in the aesthetic realm, offers a non-surgical alternative to traditional breast enhancement techniques. At its core, this procedure leverages the rejuvenating potential of platelet-rich plasma (PRP) derived from a patient's blood. Once reintroduced into the breast tissue, this plasma initiates a natural healing cascade, stimulating the production of collagen and elastin — proteins essential for skin elasticity. The result? Improved breast firmness, reduced sagging, and a youthful contour were achieved without surgical interventions or implants.
                     </p>

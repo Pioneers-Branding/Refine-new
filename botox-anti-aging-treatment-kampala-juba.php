@@ -22,7 +22,7 @@ $pageDescription = "Smooth fine lines and prevent wrinkles with FDA-approved neu
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Botox
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Botox?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Botox?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Botox® medically known as Botulinum toxin, is a remarkable non-surgical cosmetic innovation. It's derived from a microorganism, and when used in small, controlled doses, it acts as a neuromodulator, temporarily paralysing specific muscles. By doing this, Botox® can soften and smooth out the appearance of facial wrinkles and lines, granting individuals a more refreshed and youthful look.
                     </p>

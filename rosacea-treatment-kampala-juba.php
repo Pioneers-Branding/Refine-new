@@ -22,7 +22,7 @@ $pageDescription = "Soothe inflammation, reduce redness, and reclaim clear, comf
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Rosacea
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Rosacea Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Rosacea Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Rosacea treatment encompasses a range of procedures and therapies to reduce rosacea symptoms—a chronic skin condition characterised by facial redness, swelling, and visible blood vessels.
                     </p>

@@ -22,7 +22,7 @@ $pageDescription = "A targeted blend of essential amino acids delivered IV to su
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Amino Acids
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Amino Acids Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Amino Acids Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Experience the healing and nourishing power of amino acids with Refine's bespoke treatment. Crafted under Dr Chirag Kotecha's expertise, this regimen amplifies skin health, muscle wellness, and overall vitality, ensuring a holistic rejuvenation.
                     </p>

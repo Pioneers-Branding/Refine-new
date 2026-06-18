@@ -22,7 +22,7 @@ $pageDescription = "Cleanse, extract, and hydrate in one luxurious 30-minute tre
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium HydraFacial
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is HydraFacial?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">HydraFacial?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         HydraFacial is a revolutionary skin treatment that cleanses, extracts and hydrates the skin simultaneously. It uses a patented device to deliver exfoliation, pore cleansing, and serum infusion, all in one swift motion, ensuring radiant and youthful skin. Discover the magic of HydraFacial – where innovative skincare meets sheer indulgence. Not just a treatment, HydraFacial is an experience that promises radiant results for every skin type. Here's why it's making waves:
                     </p>

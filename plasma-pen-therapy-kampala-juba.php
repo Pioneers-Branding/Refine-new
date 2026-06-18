@@ -22,7 +22,7 @@ $pageDescription = "A revolutionary non-surgical treatment that lifts, tightens,
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Plasma Pen Therapy
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Plasma Pen Therapy?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Plasma Pen Therapy?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Plasma Pen Therapy is an avant-garde, non-invasive skin treatment technique. Harnessing the power of plasma, it precisely targets a wide range of skin imperfections. This therapy stimulates the skin’s natural healing process, enhancing collagen production and rejuvenating the skin. For those hesitant about surgical interventions, Plasma Pen offers an excellent alternative for skin tightening and rejuvenation.
                     </p>

@@ -22,7 +22,7 @@ $pageDescription = "Build muscle and burn fat simultaneously with EMSCULPT — t
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Em Body Sculpt
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Em body sculpt?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Em body sculpt?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Em body sculpt is a cutting-edge body contouring treatment that revolutionizes the approach to achieving a toned and sculpted physique. Utilizing the power of electromagnetic energy, this non-invasive procedure induces supramaximal muscle contractions, not achievable through traditional exercise. This innovative technology fosters significant muscle development and fat reduction, offering a dual benefit of building muscle while burning fat. Embrace the future of body sculpting with Em body sculpt – where science meets aesthetics to redefine your body.
                     </p>

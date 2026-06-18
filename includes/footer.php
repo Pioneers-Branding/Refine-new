@@ -1,7 +1,7 @@
 <!-- ============================================
      GRAND FOOTER — Categorised, image-rich
      ============================================ -->
-<footer id="footer" class="footer-grand relative bg-brand-deeper text-white overflow-hidden pt-10 lg:pt-28">
+<footer id="footer" class="footer-grand relative bg-brand-deeper text-white overflow-hidden pt-16 lg:pt-24">
 
     <!-- Decorative blurred orbs -->
     <div class="absolute -top-40 -left-40 w-[520px] h-[520px] rounded-full bg-brand/25 blur-3xl pointer-events-none"></div>
@@ -9,7 +9,7 @@
     <div class="absolute inset-0 opacity-[0.03] pointer-events-none" style="background-image: radial-gradient(circle at 2px 2px, #fff 1px, transparent 0); background-size: 38px 38px;"></div>
 
         <!-- ── LOCATIONS MAP STRIP ────────────── -->
-        <div class="mb-16 border-b border-white/10 pb-16 pt-0 lg:pt-8 px-4 lg:px-16 max-w-[1400px] mx-auto">
+        <div class="mb-16 border-b border-white/10 pb-16 px-4 lg:px-16 max-w-[1400px] mx-auto">
             <div class="text-center max-w-3xl mx-auto mb-12">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Find Us</span>
                 <h2 class="text-section font-display text-white leading-tight mb-4">
@@ -86,10 +86,10 @@
             <div class="flex flex-wrap items-center justify-center gap-3">
                 <span class="text-[10px] tracking-[0.3em] uppercase text-white/40 font-semibold mr-2 mb-2 sm:mb-0">Follow</span>
                 <a href="https://www.instagram.com/refineskinandbodyclinic/" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
-                <a href="https://www.facebook.com/share/1b4epu5tXm/" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="https://www.facebook.com/refineskinandbodyclinic?rdid=7FBWkw4HlxQOf0lC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1b4epu5tXm%2F" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
                 <a href="https://x.com/Refine_Skin" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
                 <a href="https://www.tiktok.com/discover/refine-skin-and-body-clinic-uganda" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="TikTok"><i class="fa-brands fa-tiktok"></i></a>
-                <a href="https://www.youtube.com" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+                <a href="https://www.youtube.com/channel/UC7u54E9nKohl8w4MziXB-Zg" target="_blank" class="w-10 h-10 rounded-full bg-white/5 hover:bg-accent text-white/70 hover:text-brand-deeper flex items-center justify-center transition-all" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
             </div>
         </div>
 
@@ -177,7 +177,6 @@
                     <li><a href="about" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Our Philosophy</a></li>
                     <li><a href="clinical-team" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Clinical Team</a></li>
                     <li><a href="gallery" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Clinic Gallery</a></li>
-                    <li><a href="testimonials" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Client Stories</a></li>
                     <li><a href="patient-stories" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Patient Stories</a></li>
                     <li><a href="videos" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Video Library</a></li>
                     <li><a href="podcast" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Podcast</a></li>

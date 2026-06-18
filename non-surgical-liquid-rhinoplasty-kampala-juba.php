@@ -22,7 +22,7 @@ $pageDescription = "Liquid Rhinoplasty employs fillers to tweak the nose's shape
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Liquid Rhinoplasty
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Liquid Rhinoplasty?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Liquid Rhinoplasty?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Liquid Rhinoplasty, often termed a non-surgical nose job, employs fillers to tweak the nose's shape and profile without the downtime and invasiveness of surgery. Dr Chirag Kotecha masterfully uses this technique, delivering astounding results highlighting a patient's natural beauty.
                     </p>

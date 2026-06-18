@@ -22,7 +22,7 @@ $pageDescription = "Permanent non-surgical fat reduction with PCDC (Phosphatidyl
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium PCDC Fat Dissolving
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is PCDC Fat Dissolving?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">PCDC Fat Dissolving?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         PCDC Fat Dissolving is a groundbreaking, minimally invasive treatment designed to target and dissolve stubborn fat deposits. This innovative procedure involves the injection of a specialized solution, known as phosphatidylcholine deoxycholate (PCDC), directly into localized fat areas. The PCDC solution works by breaking down fat cells, which are then naturally eliminated by the body. Perfect for those who struggle with fat pockets that resist diet and exercise, for example abdominal fat removal. PCDC Fat Dissolving offers a tailored approach to achieving a more contoured and refined silhouette without the need for surgery.
                     </p>

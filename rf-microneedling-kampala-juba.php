@@ -22,7 +22,7 @@ $pageDescription = "Radiofrequency Microneedling combines two powerful technolog
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium RF Microneedling
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is RF Microneedling?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">RF Microneedling?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Stepping into RF Microneedling is like unlocking the secret to ageless, flawless skin! Imagine merging the rejuvenating prowess of microneedling with the depth and precision of radiofrequency (RF) energy. That’s RF Microneedling for you. Here’s what you should know:
                     </p>

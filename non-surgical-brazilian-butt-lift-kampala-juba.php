@@ -22,7 +22,7 @@ $pageDescription = "Lift, round, and shape the buttocks without surgery — usin
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Non-Surgical Brazilian Butt Lift
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Non-Surgical Brazilian Butt Lift?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Non-Surgical Brazilian Butt Lift?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         The non-surgical Brazilian butt lift is an innovative treatment that offers a lifted, firmer, and fuller derrière without the need for invasive surgeries. Using dermal fillers and advanced techniques, the procedure augments and contours the buttocks to provide an enviable silhouette.
                     </p>

@@ -26,7 +26,7 @@ $pageDescription = "Achieve a brighter, more even-toned complexion with our medi
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Skin Lightening with TatioActive
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Skin Lightening with TatioActive?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Skin Lightening with TatioActive?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Experience the transformative power of TatioActive for skin lightening, exclusively at Refine Skin and Body, under Dr Chirag Kotecha's supervision. This treatment is meticulously designed to address various skin concerns and reveal your skin's radiant glow.
                     </p>

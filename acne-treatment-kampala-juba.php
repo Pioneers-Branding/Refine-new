@@ -22,7 +22,7 @@ $pageDescription = "Medical-grade acne treatments that clear active breakouts, f
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Acne
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Acne Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Acne Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Acne treatment refers to the various procedures and medications used to treat pimples (skin care for pimples), blackheads, cysts, and other blemishes caused by acne. These treatments help reduce inflammation, clear out pores, and enhance the skin's appearance.
                     </p>

@@ -22,7 +22,7 @@ $pageDescription = "A multi-wavelength green laser that targets stubborn pigment
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium 6D Green Laser Treatment In Kampala
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is a 6D Green Laser?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">a 6D Green Laser?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         The 6D Green Laser is an innovative, non-invasive body contouring and skin rejuvenation procedure. Using advanced green laser technology, it effectively targets and reduces cellulite, tightens loose skin, and sculpts the body. As a result, it offers individuals a safe and efficient way to achieve their desired body aesthetics without surgery or prolonged recovery time.
                     </p>

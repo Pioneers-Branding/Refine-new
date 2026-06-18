@@ -22,7 +22,7 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Skin Cancer
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Skin Cancer Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Skin Cancer Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Skin cancer treatment involves procedures to remove cancerous growths and prevent their spread. Dr Chirag Kotecha at Refine Skin and Body provides comprehensive care, from early detection to post-treatment guidance, ensuring patients in Kampala get the best possible outcomes.
                     </p>

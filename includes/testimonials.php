@@ -7,9 +7,11 @@
 
         <!-- Section Header -->
         <div class="text-center max-w-3xl mx-auto mb-20 gs-reveal-text">
-            <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-6 font-semibold">Client Stories</span>
+            <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand/5 border border-brand/10 mb-6">
+                <span class="text-accent font-body text-[10px] tracking-[0.25em] uppercase font-semibold">Client Stories</span>
+            </div>
             <h2 class="font-display text-section text-brand-deeper leading-tight mb-6">
-                Voices of <i class="text-brand font-light">Transformation.</i>
+                Voices of <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Transformation.</i>
             </h2>
             <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
                 Discover the experiences of those who have entrusted their aesthetic journey to Refine Skin & Body Clinic.

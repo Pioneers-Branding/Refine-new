@@ -21,7 +21,7 @@ $pageDescription = "Hair Loss Treatments in Kampala";
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Hair Loss Prevention
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Hair Loss Prevention??</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Hair Loss Prevention??</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Hair loss prevention focuses on proactive measures and treatments aimed at slowing or stopping hair thinning. At Kosmoderma, our dermatologists use a range of therapies, lifestyle adjustments, and hair care products designed to support the health of your scalp and hair follicles. These solutions help prevent further hair loss, promote regrowth, and enhance hair thickness and strength.
                     </p>

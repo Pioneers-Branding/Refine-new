@@ -22,7 +22,7 @@ $pageDescription = "Eliminate stubborn submental fat and define your jawline wit
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Double Chin
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Understanding the Double Chin?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">the Double Chin?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         A double chin, medically termed submental fat, is a common concern among men and women. This excess fat beneath the chin can result from various causes, such as genetics, weight gain, or ageing.
                     </p>

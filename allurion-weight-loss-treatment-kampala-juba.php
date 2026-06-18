@@ -22,7 +22,7 @@ $pageDescription = "Lose 10–15% of your body weight in just 4 months — with 
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Allurion Weight Loss
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Allurion?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Allurion?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Allurion presents a groundbreaking, non-surgical solution to the weight loss challenge, bridging the gap between traditional dieting and surgical procedures. By focusing on creating a sensation of fullness, Allurion aids in naturally curbing appetite, allowing individuals to practice better portion control. Combined with dietary guidance and support, this treatment offers a comprehensive approach to weight management, making it an appealing choice for those seeking effective and safe weight loss alternatives. So if you are struggling to lose weight, seeking to achieve excess abdominal fat removal, this is a solution for you.
                     </p>

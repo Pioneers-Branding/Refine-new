@@ -22,7 +22,7 @@ $pageDescription = "Regenerative injections to repair damaged joints, tendons, a
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Joint and Tissue Rejuvenation
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Joint &amp; Tissue Rejuvenation with PRP?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Joint &amp; Tissue Rejuvenation with PRP?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Joint and tissue Rejuvenation with PRP is a cutting-edge medical treatment that harnesses the body's innate healing capabilities to restore and revitalise damaged tissues, especially in the joints. PRP, or platelet-rich plasma, is derived from the patient's blood and is rich in growth factors. When injected into affected areas, PRP promotes cellular repair, reduces inflammation, and enhances tissue regeneration, offering a natural approach to managing pain and improving mobility.
                     </p>

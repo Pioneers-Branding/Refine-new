@@ -22,7 +22,7 @@ $pageDescription = "Reveal fresher, brighter, more even-toned skin with our rang
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Chemical Peel
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is a Chemical Peel?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">a Chemical Peel?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Dive into the world of rejuvenated skin with a Chemical Peel! A game-changer in skincare, Chemical Peels employs a specially formulated solution to gently whisk away the topmost layer of dead skin. The magic happens when the fresher, more radiant complexion beneath is unveiled. Not only does the Chemical Peeling Treatment offer a fresh slate for your skin, but it also addresses a myriad of skin concerns. This treatment is causing a stir:
                     </p>

@@ -18,7 +18,6 @@ $routeMap = [
     '/about' => 'about.php',
     '/services' => 'services.php',
     '/gallery' => 'gallery.php',
-    '/testimonials' => 'testimonials.php',
     '/contact' => 'contact.php',
     '/book-appointment' => 'book-appointment.php',
     '/pricing' => 'pricing.php',

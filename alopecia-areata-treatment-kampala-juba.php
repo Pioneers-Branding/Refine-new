@@ -23,7 +23,7 @@ $pageDescription = "Targeted treatments for alopecia areata and other autoimmune
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium What is Alopecia Areata Treatment?
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Alopecia Areata Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Alopecia Areata Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Alopecia Areata is an autoimmune disorder causing hair loss in small, round patches on the scalp and occasionally on the body. Effective treatments at Refine Skin and Body, led by Dr Chirag Kotecha, aim to promote hair regrowth and mitigate the condition's impact.
                     </p>

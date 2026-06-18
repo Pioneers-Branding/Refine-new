@@ -22,7 +22,7 @@ $pageDescription = "The Priapus Shot (M-Shot) uses your own platelet-rich plasma
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium M-Shot
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is the M-Shot?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">the M-Shot?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         M-shot is a medical procedure that involves the injection of platelet-rich plasma (PRP) into specific areas of the penis. The goal of the M-shot is to potentially improve sexual function and treat certain conditions related to male sexual health.
                     </p>

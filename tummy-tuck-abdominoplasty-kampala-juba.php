@@ -22,7 +22,7 @@ $pageDescription = "Surgical removal of excess skin and fat from the abdomen, wi
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Tummy Tuck Abdominoplasty
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Tummy Tuck Abdominoplasty?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Tummy Tuck Abdominoplasty?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Tummy Tuck Abdominoplasty is a transformative surgical procedure designed to reshape and tighten the abdominal area. This procedure involves the removal of excess skin and fat, and often the restoration of weakened or separated muscles, resulting in a smoother and firmer abdominal profile. Ideal for those who have experienced significant changes in their abdominal region due to weight fluctuations, pregnancy, aging, or hereditary factors, a Tummy Tuck offers a pathway to reclaiming confidence and comfort in your body. Embrace a renewed silhouette with Tummy Tuck Abdominoplasty – where advanced surgical techniques meet individualized care.
                     </p>

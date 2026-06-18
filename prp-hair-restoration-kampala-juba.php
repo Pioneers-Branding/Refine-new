@@ -22,7 +22,7 @@ $pageDescription = "Stimulate dormant hair follicles and reverse thinning with P
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium PRP Hair Restoration
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is PRP Hair Restoration?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">PRP Hair Restoration?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         PRP Hair Restoration is a groundbreaking technique capitalising on the body's innate regenerative potential. By utilising Platelet-Rich Plasma (PRP) from an individual's blood, it aims to stimulate hair follicles and promote natural growth. This treatment offers an organic and non-surgical approach to hair restoration, making it a preferred choice for many facing hair thinning or loss issues.
                     </p>

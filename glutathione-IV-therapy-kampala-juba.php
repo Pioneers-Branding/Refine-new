@@ -22,7 +22,7 @@ $pageDescription = "High-dose IV glutathione for skin brightening, powerful anti
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium Glutathione Therapy
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is Glutathione Therapy?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Glutathione Therapy?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Harness the detoxifying powers of Glutathione Therapy, a potent antioxidant treatment tailored to refresh and revitalise. At Refine Skin and Body, we deliver this rejuvenating solution, offering both aesthetic and health improvements.
                     </p>

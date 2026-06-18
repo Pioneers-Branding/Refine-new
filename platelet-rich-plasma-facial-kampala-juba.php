@@ -22,7 +22,7 @@ $pageDescription = "Harness your own growth factors to rejuvenate skin, fade sca
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Premium PRP Facial
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">What is PRP Facial?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">PRP Facial?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         The PRP Facial, also renowned as the &quot;vampire facial&quot;, taps into the body's natural healing potential. Using a patient's Platelet-Rich Plasma (PRP) revitalises the skin, offering a range of rejuvenating benefits.
                     </p>
