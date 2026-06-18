@@ -118,12 +118,7 @@
 
         </div>
 
-        <!-- View All Button -->
-        <div class="mt-8 flex justify-center gs-reveal-fade">
-            <a href="cosmetic-dermatology-kampala-juba" class="btn-magnetic magnetic-target">
-                <span>View Full Menu <i class="fas fa-arrow-right text-xs ml-2"></i></span>
-            </a>
-        </div>
+
 
     </div>
 </section>
