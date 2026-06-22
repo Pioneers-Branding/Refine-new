@@ -18,7 +18,7 @@ $pageDescription = "Discover the visionary behind Refine Skin & Body Clinic. Dr.
                 <div class="lg:col-span-4">
                     <div class="sticky top-32">
                         <div class="rounded-[40px] overflow-hidden shadow-2xl mb-8 relative gs-reveal-img-group aspect-[3/4]">
-                            <img src="https://refineskinandbody.com/images/Dr.%20Chirag%20Kotecha.webp" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
+                            <img src="/assets/images/team/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
                             <div class="absolute inset-0 bg-brand-deeper/5"></div>
                         </div>
                         
