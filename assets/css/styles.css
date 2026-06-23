@@ -670,3 +670,15 @@ body {
 .site-header .logo-dark { display: block; }
 .site-header.hero-mode:not(.scrolled) .logo-white { display: block; }
 .site-header.hero-mode:not(.scrolled) .logo-dark { display: none; }
+
+/* Fix gap between fixed header/navbar and page content */
+main.pt-20 {
+    padding-top: calc(60px + 0.5rem) !important; /* Matches mobile header height (h-[60px] + py-1) */
+}
+
+@media (min-width: 1024px) {
+    main.pt-20 {
+        padding-top: calc(80px + 1rem) !important; /* Matches desktop header height (h-[80px] + py-2) */
+    }
+}
+

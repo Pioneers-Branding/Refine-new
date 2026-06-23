@@ -116,7 +116,50 @@
                 </div>
             </a>
 
+            <!-- Card 5 (Patient Reviews) -->
+            <a href="patient-reviews"
+                class="group relative rounded-2xl overflow-hidden aspect-video shadow-lg">
+                <img src="/assets/imagesfromsite/about-8.webp" alt="Patient Reviews"
+                    class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                    loading="lazy">
+                <div
+                    class="absolute inset-0 bg-brand-deeper/30 group-hover:bg-brand-deeper/10 transition-colors duration-500">
+                </div>
+                <div class="absolute inset-0 p-6 md:p-8 flex flex-col justify-end">
+                    <span
+                        class="inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3 self-start">Reviews</span>
+                    <h3 class="font-display text-2xl md:text-3xl text-white mb-2 shadow-sm">Patient Reviews</h3>
+                    <p class="font-body text-white/90 text-sm font-light max-w-md mb-4 drop-shadow-sm">Read verified feedback and stories of renewal from our client family.</p>
+                    <div
+                        class="flex items-center gap-2 text-white text-xs font-semibold uppercase tracking-wider group-hover:gap-4 transition-all">
+                        Read Reviews <i class="fas fa-arrow-right"></i>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Card 6 (Before & After) -->
+            <a href="before-after"
+                class="group relative rounded-2xl overflow-hidden aspect-video shadow-lg">
+                <img src="/assets/images/services/injectables/Lip Volumization_09.png" alt="Before & After"
+                    class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                    loading="lazy">
+                <div
+                    class="absolute inset-0 bg-brand-deeper/30 group-hover:bg-brand-deeper/10 transition-colors duration-500">
+                </div>
+                <div class="absolute inset-0 p-6 md:p-8 flex flex-col justify-end">
+                    <span
+                        class="inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3 self-start">Results</span>
+                    <h3 class="font-display text-2xl md:text-3xl text-white mb-2 shadow-sm">Before & After</h3>
+                    <p class="font-body text-white/90 text-sm font-light max-w-md mb-4 drop-shadow-sm">Browse unretouched transformations and clinical outcomes across our treatments.</p>
+                    <div
+                        class="flex items-center gap-2 text-white text-xs font-semibold uppercase tracking-wider group-hover:gap-4 transition-all">
+                        View Results <i class="fas fa-arrow-right"></i>
+                    </div>
+                </div>
+            </a>
+
         </div>
+
 
 
 

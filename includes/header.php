@@ -46,6 +46,8 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                     <a href="about" class="block text-sm text-gray-600 hover:text-brand transition-colors">About Us</a>
                                     <a href="gallery" class="block text-sm text-gray-600 hover:text-brand transition-colors">Gallery</a>
                                     <a href="blog" class="block text-sm text-gray-600 hover:text-brand transition-colors">Blogs</a>
+                                    <a href="patient-reviews" class="block text-sm text-gray-600 hover:text-brand transition-colors">Patient Reviews</a>
+                                    <a href="before-after" class="block text-sm text-gray-600 hover:text-brand transition-colors">Before & After</a>
                                 </div>
                             </div>
                             <!-- Col 2: Our Specialists -->
@@ -300,6 +302,8 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="about" class="block font-body text-sm text-white/80 py-1 hover:text-accent">About Us</a>
                         <a href="gallery" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Gallery</a>
                         <a href="blog" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Blogs</a>
+                        <a href="patient-reviews" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Patient Reviews</a>
+                        <a href="before-after" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Before & After</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Our Specialists</p>
