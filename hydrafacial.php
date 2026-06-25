@@ -276,6 +276,247 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
         </div>
     </section>
 
+    <!-- ============================================
+         HAPPY PATIENTS / REVIEWS
+         ============================================ -->
+    <section id="patient-reviews" class="py-16 lg:py-24 bg-surface-cool relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-accent/5 rounded-full blur-[100px] -translate-y-1/2 translate-x-1/4 pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 w-[500px] h-[500px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
+
+        <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10">
+            <!-- Section Header -->
+            <div class="text-center max-w-3xl mx-auto mb-20 gs-reveal-text">
+                <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand/5 border border-brand/10 mb-6">
+                    <span class="text-accent font-body text-[10px] tracking-[0.25em] uppercase font-semibold">Testimonials</span>
+                </div>
+                <h2 class="font-display text-section text-brand-deeper leading-tight mb-6">
+                    Our Happy <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Patients.</i>
+                </h2>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
+                    Discover why we are the top-rated clinic for HydraFacial treatments. Here is what our patients say about their journey with us.
+                </p>
+            </div>
+
+            <!-- Editorial Swiper Carousel -->
+            <div class="testimonials-swiper swiper gs-reveal-fade">
+                <div class="swiper-wrapper">
+
+                    <!-- Review 1 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                I had the most amazing experience getting a <strong class="text-brand font-semibold">HydraFacial in Kampala</strong> at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">N</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Nalule H.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 2 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Best <strong class="text-brand font-semibold">HydraFacial treatment in Kampala</strong> by far! The clinic is beautiful, and the therapists are so gentle. My pores look cleaner than ever.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">P</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Peter O.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 3 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Refine Clinic has set a new standard for <strong class="text-brand font-semibold">HydraFacial in Uganda</strong>. The treatment was incredibly relaxing, and my dry skin feels completely hydrated and refreshed.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">B</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Brenda A.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 4 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                If you're looking for an authentic <strong class="text-brand font-semibold">HydraFacial in Kampala</strong>, this is the place. My complexion is noticeably brighter, and the post-treatment glow lasted for days.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">M</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Michael K.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 5 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Absolutely loved my <strong class="text-brand font-semibold">HydraFacial treatment in Kampala</strong>! The extraction step was painless, and my skin felt so smooth right after. I've already booked my next session.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">S</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Sarah N.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 6 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                The ultimate destination for <strong class="text-brand font-semibold">HydraFacial in Uganda</strong>. The quality of care at Refine is unmatched, and my skin has never looked so clear and healthy.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">D</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">David M.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 7 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                My skin feels incredibly soft and clear. This was my first <strong class="text-brand font-semibold">HydraFacial in Kampala</strong>, and the results exceeded my expectations. I will definitely be back.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">F</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Fatuma S.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 8 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                I noticed a visible reduction in my open pores after just one <strong class="text-brand font-semibold">HydraFacial treatment in Kampala</strong>. The staff explained every step clearly and made me feel so comfortable.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">J</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Joseph L.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 9 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Refine is the absolute best for <strong class="text-brand font-semibold">HydraFacial in Uganda</strong>. The clinic uses top-of-the-line equipment, and my skin feels deeply nourished.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">G</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Grace T.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 10 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Highly professional service! The <strong class="text-brand font-semibold">HydraFacial treatment in Kampala</strong> at Refine has completely rejuvenated my skin. Perfect for anyone wanting a fresh, radiant look.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">A</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Alex R.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Custom Navigation / Pagination -->
+                <div class="flex items-center justify-center gap-6 mt-12">
+                    <div class="testi-prev w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
+                        <i class="fas fa-chevron-left text-sm"></i>
+                    </div>
+                    <div class="swiper-pagination !relative !bottom-0 !w-auto"></div>
+                    <div class="testi-next w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
+                        <i class="fas fa-chevron-right text-sm"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ Block -->
   <section class="py-16 lg:py-24 bg-[#faf9f6]">
     <div class="max-w-[900px] mx-auto px-6">
