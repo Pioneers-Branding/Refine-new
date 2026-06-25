@@ -566,29 +566,155 @@ body {
         font-size: 14px !important;
     }
 
-    .hero-slider-container {
-        height: 100vh !important; 
-        min-height: 600px !important;
-        background-color: #1a0f3c !important; 
+    /* Mobile Header: solid white instead of transparent to support hero below header */
+    .site-header.hero-mode {
+        background: rgba(255, 255, 255, 0.96) !important;
+        border-bottom: 1px solid rgba(67, 44, 134, 0.06) !important;
+        box-shadow: 0 4px 30px rgba(26, 15, 60, 0.05) !important;
+        color: #1a0f3c !important;
     }
-    
-    /* Center text vertically better on mobile */
-    .hero-slider-container .absolute.inset-0 {
-        padding-top: 80px !important;
-        align-items: center !important; /* Move text to center on mobile since image is full background */
+    .site-header.hero-mode .logo-white {
+        display: none !important;
+    }
+    .site-header.hero-mode .logo-dark {
+        display: block !important;
+    }
+    .site-header.hero-mode .nav-link-item,
+    .site-header.hero-mode .nav-item-dropdown > a {
+        color: #1a0f3c !important;
+    }
+    .site-header.hero-mode #mobile-menu-toggle {
+        background-color: #432C86 !important;
+        color: #ffffff !important;
+    }
+    .site-header.hero-mode #mobile-menu-toggle span {
+        background-color: #ffffff !important;
     }
 
-    /* Ensure images cover the entire background on mobile instead of being cropped at the bottom */
-    .hero-slider-container .img-parallax {
-        position: absolute !important;
-        top: 0 !important;
-        bottom: 0 !important;
+    .hero-slider-container {
+        margin-top: 60px !important; /* Push hero container below the 60px mobile header */
+        height: calc(100vh - 60px) !important; 
+        min-height: 0 !important;
+        background-color: #ffffff !important; 
+    }
+    
+    .hero-slider-container .hero-swiper,
+    .hero-slider-container .swiper-wrapper,
+    .hero-slider-container .swiper-slide {
+        height: 100% !important;
+    }
+    
+    .hero-slider-container .img-duotone {
+        display: flex !important;
+        flex-direction: column !important;
         height: 100% !important;
         width: 100% !important;
-        object-fit: cover !important;
+        position: relative !important;
+        background-color: #ffffff !important;
+    }
+
+    /* Disable the purple/blue duotone overlay on the image on mobile */
+    .hero-slider-container .img-duotone::after {
+        display: none !important;
+    }
+
+    /* Remove top gradient now that header is solid white and doesn't overlap the image */
+    .hero-slider-container .hero-overlay-gradient {
+        display: none !important;
+    }
+
+    /* Stack text content below the image on mobile with a clean white background */
+    .hero-slider-container .absolute.inset-0 {
+        position: relative !important;
+        top: auto !important;
+        left: auto !important;
+        right: auto !important;
+        bottom: auto !important;
+        width: 100% !important;
+        height: auto !important;
+        flex-grow: 1 !important;
+        min-height: 0 !important;
+        background-color: #ffffff !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+        padding: 2rem 1.5rem 3.5rem 1.5rem !important; /* Spaced padding */
+        z-index: 3 !important;
+    }
+
+    /* Force all main text elements, descriptions, and highlights inside the text wrapper to be readable on white */
+    .hero-slider-container .absolute.inset-0 .hero-display-text {
+        color: #1a0f3c !important;
+        text-shadow: none !important;
+    }
+    .hero-slider-container .absolute.inset-0 .hero-display-text i {
+        color: #C9A96E !important;
+    }
+    .hero-slider-container .absolute.inset-0 span.text-accent,
+    .hero-slider-container .absolute.inset-0 span.block.text-accent {
+        color: #C9A96E !important;
+    }
+    .hero-slider-container .absolute.inset-0 p,
+    .hero-slider-container .absolute.inset-0 p.text-white\/80 {
+        color: rgba(26, 15, 60, 0.8) !important;
+    }
+
+    /* Stylize Slide 1's pill subtitle to look clean on white */
+    .hero-slider-container .absolute.inset-0 .hero-stagger-text.inline-flex {
+        background-color: rgba(67, 44, 134, 0.08) !important;
+        border-color: rgba(67, 44, 134, 0.15) !important;
+        box-shadow: none !important;
+    }
+    .hero-slider-container .absolute.inset-0 .hero-stagger-text.inline-flex span,
+    .hero-slider-container .absolute.inset-0 .hero-stagger-text.inline-flex span.text-white {
+        color: #432C86 !important;
+    }
+
+    /* Stylize Slide 4's white logo to brand purple/gray on white */
+    .hero-slider-container .absolute.inset-0 img[src*="refine-logo-white"] {
+        filter: invert(1) brightness(0.2) !important;
+    }
+
+    /* Stylize Slide 4's outline button */
+    .hero-slider-container .absolute.inset-0 .btn-outline {
+        border-color: rgba(26, 15, 60, 0.2) !important;
+        color: #1a0f3c !important;
+    }
+    .hero-slider-container .absolute.inset-0 .btn-outline:hover {
+        background-color: #1a0f3c !important;
+        color: #ffffff !important;
+        border-color: #1a0f3c !important;
+    }
+
+    /* Display the image at the top covering exactly 33vh height, cropping slightly for a taller aspect ratio */
+    .hero-slider-container .img-parallax {
+        position: relative !important;
+        top: 0 !important;
+        bottom: 0 !important;
+        height: 33vh !important;
+        width: 100% !important;
+        aspect-ratio: auto !important; 
+        object-fit: cover !important; /* Crop left/right slightly so it looks taller and consistent */
         object-position: center !important;
         margin-top: 0 !important;
-        transform: scale(1) translateZ(0) !important;
+        transform: none !important;
+        will-change: auto !important;
+        z-index: 1 !important;
+        display: block !important;
+    }
+
+    /* Make the Swiper pagination dots dark gray so they are visible on the white text area */
+    .hero-slider-container .creative-pagination {
+        bottom: 1.25rem !important;
+        z-index: 10 !important;
+    }
+    .hero-slider-container .creative-pagination .swiper-pagination-bullet {
+        background: rgba(26, 15, 60, 0.2) !important;
+    }
+    .hero-slider-container .creative-pagination .swiper-pagination-bullet::after {
+        background: #C9A96E !important;
     }
 
     /* Global Padding Overrides for Mobile */
