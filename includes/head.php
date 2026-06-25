@@ -7,8 +7,8 @@
     <meta name="author" content="Refine Skin and Body Clinic">
 
     <!-- SEO -->
-    <title>Dermatology Clinic in Kampala | Refine Skin &amp; Body Clinic</title>
-    <meta name="description" content="Expert dermatologists in Kampala &amp; Juba providing professional skin care for all conditions. From medical dermatology to aesthetic treatments, get personalised care at Refine Skin and Body Clinic.">
+    <title><?php echo isset($metaTitle) ? $metaTitle : "Dermatology Clinic in Kampala | Refine Skin &amp; Body Clinic"; ?></title>
+    <meta name="description" content="<?php echo isset($metaDescription) ? htmlspecialchars($metaDescription) : "Expert dermatologists in Kampala &amp; Juba providing professional skin care for all conditions. From medical dermatology to aesthetic treatments, get personalised care at Refine Skin and Body Clinic."; ?>">
     <meta name="keywords" content="Skin Care Clinic Kampala, Dermatology clinics in Kampala, Dermatologist in Kampala, Skin treatments Uganda, Refine clinic juba">
     <link rel="canonical" href="https://refineskinandbody.com">
 
@@ -16,8 +16,8 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://refineskinandbody.com/">
     <meta property="og:image" content="https://refineskinandbody.com/images/refine-logo.webp">
-    <meta property="og:title" content="Dermatology &amp; Aesthetic Clinic in Kampala | Refine Skin &amp; Body Clinic">
-    <meta property="og:description" content="Experience top-tier aesthetic treatments in Kampala &amp; Juba at Refine Skin and Body Clinic.">
+    <meta property="og:title" content="<?php echo isset($metaTitle) ? $metaTitle : "Dermatology &amp; Aesthetic Clinic in Kampala | Refine Skin &amp; Body Clinic"; ?>">
+    <meta property="og:description" content="<?php echo isset($metaDescription) ? htmlspecialchars($metaDescription) : "Experience top-tier aesthetic treatments in Kampala &amp; Juba at Refine Skin and Body Clinic."; ?>">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="https://refineskinandbody.com/images/fab2.webp" type="image/x-icon">

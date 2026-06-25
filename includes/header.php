@@ -89,7 +89,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/hydra-facial-09.png" alt="Skin/Body Rejuvenation" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Skin/Body Rejuvenation</h5>
                                 <div class="space-y-2">
-                                    <a href="hydrafacial-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">HydraFacial</a>
+                                    <a href="hydrafacial" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">HydraFacial</a>
                                     <a href="chemical-peel-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Chemical Peel</a>
                                     <a href="iv-therapy-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">IV Therapy</a>
                                     <a href="bio-identical-hormone-replacement-therapy-kampala" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Bio-Identical Hormone Replacement Therapy</a>
@@ -330,7 +330,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                 <div class="mt-4 mb-2 space-y-5 pl-3 border-l-2 border-brand-light/20">
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Skin/Body Rejuvenation</p>
-                        <a href="hydrafacial-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">HydraFacial</a>
+                        <a href="hydrafacial" class="block font-body text-sm text-white/80 py-1 hover:text-accent">HydraFacial</a>
                         <a href="chemical-peel-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Chemical Peel</a>
                         <a href="iv-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">IV Therapy</a>
                         <a href="bio-identical-hormone-replacement-therapy-kampala" class="block font-body text-sm text-white/80 py-1 hover:text-accent leading-tight">Bio-Identical Hormone Replacement</a>

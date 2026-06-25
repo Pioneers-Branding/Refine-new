@@ -44,7 +44,7 @@ FILES = [
     "hair-transplant-kampala-juba.php",
     "hand-rejuvenation-kampala-juba.php",
     "hangover-iv-therapy-kampala-juba.php",
-    "hydrafacial-treatment-kampala-juba.php",
+    "hydrafacial.php",
     "hyperpigmentation-treatment-kampala-juba.php",
     "immunity-iv-therapy-kampala-juba.php",
     "injectables-kampala-juba.php",

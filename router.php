@@ -9,7 +9,11 @@ if (file_exists(__DIR__ . $path) && is_file(__DIR__ . $path)) {
     return false; // let the web server serve the file as is
 }
 
-// Handle 301 Redirects — moved to direct route below
+// Handle 301 Redirects
+if ($path === '/hydrafacial-treatment-kampala-juba') {
+    header("Location: /hydrafacial", true, 301);
+    exit();
+}
 
 // Map clean URLs to .php files
 $routeMap = [
@@ -66,7 +70,7 @@ $routeMap = [
     '/stretch-marks-treatment-kampala-juba' => 'stretch-marks-treatment-kampala-juba.php',
     '/skin-cancer-treatment-kampala-juba' => 'skin-cancer-treatment-kampala-juba.php',
     '/chemical-peel-treatment-kampala-juba' => 'chemical-peel-treatment-kampala-juba.php',
-    '/hydrafacial-treatment-kampala-juba' => 'hydrafacial-treatment-kampala-juba.php',
+    '/hydrafacial' => 'hydrafacial.php',
     '/cool-lifting-skin-rejuvenation-kampala-juba' => 'cool-lifting-skin-rejuvenation-kampala-juba.php',
     '/laser-skin-rejuvenation-in-uganda-kampala-juba' => 'laser-skin-rejuvenation-in-uganda-kampala-juba.php',
     '/co2-laser-scar-removal-kampala-juba' => 'co2-laser-scar-removal-kampala-juba.php',

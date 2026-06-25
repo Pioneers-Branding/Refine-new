@@ -106,7 +106,7 @@
                     <li><a href="botox-anti-aging-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Botox®</a></li>
                     <li><a href="dermal-fillers-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Dermal Fillers</a></li>
                     <li><a href="sculptra-face-lift-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Sculptra Face Lift</a></li>
-                    <li><a href="hydrafacial-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">HydraFacial</a></li>
+                    <li><a href="hydrafacial" class="text-white/55 hover:text-accent text-sm font-light transition-colors">HydraFacial</a></li>
                     <li><a href="chemical-peel-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Chemical Peel</a></li>
                     <li><a href="rf-microneedling-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">RF Microneedling</a></li>
                     <li><a href="co2-laser-scar-removal-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">CO2 Laser</a></li>
