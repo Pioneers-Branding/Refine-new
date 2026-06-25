@@ -4,6 +4,7 @@ $pageTitle = "HydraFacial <i class='text-brand font-light'>MD.</i>";
 $pageDescription = "Cleanse, extract, and hydrate in one luxurious 30-minute treatment. The HydraFacial delivers instant, visible glow with zero downtime.";
 $metaTitle = "Hydrafacial Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking Hydrafacial treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
+$canonicalUrl = "https://refineskinandbody.com/hydrafacial";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
