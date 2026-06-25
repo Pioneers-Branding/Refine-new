@@ -2,9 +2,9 @@ import os
 import re
 
 files_to_fix = [
-    'double-chin-treatment-kampala-juba.php',
-    'laser-hair-removal-in-uganda-kampala-juba.php',
-    'laser-tattoo-removal-in-uganda-kampala-juba.php'
+    'double-chin.php',
+    'laser-hair-removal.php',
+    'laser-tattoo-removal.php'
 ]
 
 for filename in files_to_fix:

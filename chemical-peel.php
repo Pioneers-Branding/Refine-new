@@ -1,11 +1,11 @@
 <?php
-$pageCategory = "Signature Facial";
-$pageTitle = "HydraFacial <i class='text-brand font-light'>MD.</i>";
-$pageDescription = "Cleanse, extract, and hydrate in one luxurious 30-minute treatment. The HydraFacial delivers instant, visible glow with zero downtime.";
-$metaTitle = "Hydrafacial Treatment in Kampala, Uganda | Refine Clinic";
-$metaDescription = "Seeking Hydrafacial treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
-$canonicalUrl = "https://refineskinandbody.com/hydrafacial";
-$metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydrafacial in Uganda";
+$pageCategory = "Skin Resurfacing";
+$pageTitle = "Chemical <i class='text-brand font-light'>Peels.</i>";
+$pageDescription = "Reveal fresher, brighter, more even-toned skin with our range of medical-grade chemical peels, tailored to your skin type and concern.";
+$metaTitle = "Chemical Peel Treatment in Kampala, Uganda | Refine Clinic";
+$metaDescription = "Seeking chemical peel treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
+$canonicalUrl = "https://refineskinandbody.com/chemical-peel";
+$metaKeywords = "Chemical Peel in Kampala, Chemical Peel treatment in Kampal, Chemical Peel in Uganda";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
@@ -13,7 +13,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is HydraFacial? -->
+    <!-- What is a Chemical Peel? -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -24,16 +24,16 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        Premium HydraFacial
+                        Premium Chemical Peel
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">HydraFacial?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">a Chemical Peel?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Looking for the best <strong>HydraFacial in Kampala</strong>? HydraFacial is a revolutionary skin treatment that cleanses, extracts and hydrates the skin simultaneously. It uses a patented device to deliver exfoliation, pore cleansing, and serum infusion, all in one swift motion, ensuring radiant and youthful skin. If you are seeking a professional <strong>HydraFacial treatment in Kampala</strong>, Refine Skin & Body Clinic is your premier choice. Discover the magic of <strong>HydraFacial in Uganda</strong> – where innovative skincare meets sheer indulgence. Not just a treatment, HydraFacial is an experience that promises radiant results for every skin type. Here's why it's making waves:
+                        Dive into the world of rejuvenated skin with a Chemical Peel! A game-changer in skincare, Chemical Peels employs a specially formulated solution to gently whisk away the topmost layer of dead skin. The magic happens when the fresher, more radiant complexion beneath is unveiled. Not only does the Chemical Peeling Treatment offer a fresh slate for your skin, but it also addresses a myriad of skin concerns. This treatment is causing a stir:
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/images/services/skincare_general/HydraFacial.webp" alt="Hydrafacial Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/images/services/skincare_general/chemical.webp" alt="Chemical Peel Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
                 </div>
 
@@ -50,9 +50,9 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Step 1. Skin Analysis
+                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Consultation
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">A thorough examination to understand your skin's needs.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Personalized skin analysis to determine the best treatment approach.</p>
                             </div>
                         </div>
 
@@ -63,9 +63,9 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Step 2. Cleansing and Exfoliation
+                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Preparation
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Dead skin cells are removed, revealing fresh skin.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Cleaning the skin and selecting the right peel solution.</p>
                             </div>
                         </div>
 
@@ -76,9 +76,9 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Step 3. Extraction
+                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Application
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Gentle suction to clean out pores.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Applying the chemical solution.</p>
                             </div>
                         </div>
 
@@ -89,9 +89,9 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Step 4. Hydration
+                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Peeling
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Infusion of hydrating serums for a radiant glow.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">The solution is left on the skin for a predetermined time.</p>
                             </div>
                         </div>
 
@@ -116,8 +116,8 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Dry Skin</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Lacks enough moisture and often feels tight or flaky. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Acne Scars</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Marks left behind after acne healing. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -126,8 +126,8 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Oily Skin</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Overproduction of sebum leads to shiny skin and clogged pores.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Age Spots</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Small dark areas on your skin.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -136,8 +136,8 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Acne-prone Skin</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Susceptible to breakouts and pimples.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Wrinkles</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Lines and creases in the skin.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -146,8 +146,8 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Uneven Skin Tone</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Discoloration or redness on the skin.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Sun-damaged Skin</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Skin harmed by prolonged sun exposure.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -156,8 +156,8 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Fine Lines and Wrinkles</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Signs of skin ageing.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hyperpigmentation</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Darkening of parts of the skin.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -248,7 +248,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"HydraFacial results are temporary and don't last long."</p>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Only people with certain skin types can benefit from chemical peels."</p>
                             </div>
                             
                             <div class="relative py-2">
@@ -266,7 +266,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                     <i class="fas fa-check-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
                                 </div>
-                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">While the immediate glow and smoothness might be more noticeable right after the treatment, HydraFacials can have long-lasting benefits for the skin. Regular treatments can improve skin texture, reduce signs of ageing, and manage issues like acne over time.</p>
+                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">Chemical peels have various strengths and formulations, making them suitable for various skin types and concerns. A skincare professional can choose the appropriate type of peel to match an individual's skin needs, whether for acne, ageing, pigmentation, or texture improvement.<</p>
                             </div>
                         </div>
                     </div>
@@ -276,6 +276,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
         </div>
     </section>
 
+    
     <!-- ============================================
          HAPPY PATIENTS / REVIEWS
          ============================================ -->
@@ -293,7 +294,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                     Our Happy <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Patients.</i>
                 </h2>
                 <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
-                    Discover why we are the top-rated clinic for HydraFacial treatments. Here is what our patients say about their journey with us.
+                    Discover why we are the top-rated clinic for Chemical Peel treatments. Here is what our patients say about their skincare journey with us.
                 </p>
             </div>
 
@@ -312,7 +313,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 I had the most amazing experience getting a session at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">N</div>
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
                                 <div>
                                     <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Nalule H.</p>
                                     <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
@@ -329,7 +330,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Best <strong class="text-brand font-semibold">HydraFacial treatment in Kampala</strong> by far! The clinic is beautiful, and the therapists are so gentle. My pores look cleaner than ever.
+                                Best <strong class="text-brand font-semibold">Chemical Peel treatment in Kampala</strong> by far! The clinic is beautiful, and the therapists are so gentle. My skin looks cleaner than ever.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">P</div>
@@ -349,10 +350,10 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Refine Clinic has set a new standard for quality care. The treatment was incredibly relaxing, and my dry skin feels completely hydrated and refreshed.
+                                Refine Clinic has set a new standard for quality care. The treatment was incredibly relaxing, and my skin feels completely hydrated and refreshed.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">B</div>
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">B</div>
                                 <div>
                                     <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Brenda A.</p>
                                     <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
@@ -389,10 +390,10 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Absolutely loved my <strong class="text-brand font-semibold">HydraFacial treatment in Kampala</strong>! The extraction step was painless, and my skin felt so smooth right after. I've already booked my next session.
+                                Absolutely loved my <strong class="text-brand font-semibold">Chemical Peel treatment in Kampala</strong>! The extraction step was painless, and my skin felt so smooth right after. I've already booked my next session.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">S</div>
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">S</div>
                                 <div>
                                     <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Sarah N.</p>
                                     <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
@@ -429,10 +430,10 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                My skin feels incredibly soft and clear. This was my first <strong class="text-brand font-semibold">HydraFacial in Kampala</strong>, and the results exceeded my expectations. I will definitely be back.
+                                My skin feels incredibly soft and clear. This was my first <strong class="text-brand font-semibold">Chemical Peel in Kampala</strong>, and the results exceeded my expectations. I will definitely be back.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">F</div>
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">F</div>
                                 <div>
                                     <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Fatuma S.</p>
                                     <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
@@ -449,7 +450,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I noticed a visible reduction in my open pores after just one session. The staff explained every step clearly and made me feel so comfortable.
+                                I noticed visible improvements and a reduction in open pores after just one session. The staff explained every step clearly and made me feel so comfortable.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">J</div>
@@ -469,10 +470,10 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Refine is the absolute best for <strong class="text-brand font-semibold">HydraFacial in Uganda</strong>. The clinic uses top-of-the-line equipment, and my skin feels deeply nourished.
+                                Refine is the absolute best for <strong class="text-brand font-semibold">Chemical Peel in Uganda</strong>. The clinic uses top-of-the-line equipment, and my skin feels deeply nourished.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">G</div>
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">G</div>
                                 <div>
                                     <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Grace T.</p>
                                     <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
@@ -524,91 +525,91 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
         <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
         <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
         <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
-          Explore our comprehensive FAQ section for quick answers to common queries about Hydrafacial Treatment. Find the clarity you need without delay.
+          Explore our comprehensive FAQ section for quick answers to common queries about Chemical Peel Treatment. Find the clarity you need without delay.
         </p>
       </div>
 
       <div class="space-y-3">
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. How long does a HydraFacial session last?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. How long does the Chemical Peel process take?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Typically, a session lasts between 30 to 60 minutes.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The procedure typically takes between 10 to 20 minutes.</p>
             </div>
           </div>
         </div>
         
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. How often should I get a HydraFacial?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. How often should I get a Chemical Peel?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">For optimal results, it's recommended every 4-6 weeks.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Depending on the type of peel, sessions can be repeated every 4-6 weeks.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Is HydraFacial suitable for sensitive skin?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Is there downtime post-treatment?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">It's gentle enough for all skin types.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Light peels have minimal downtime, while deep peels might require up to 2 weeks.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. What post-treatment care is needed?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. Are there any side effects?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Minimal! Just ensure to wear sunscreen and avoid direct sunlight.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Temporary redness or sensitivity is expected, which subsides quickly.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. What is the cost of Hydrafacial in Uganda?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. What is the cost of Chemical Peel in Uganda?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">HydraFacial cost in Uganda varies depending upon several factors. The cost of a single session at Refine Skin & Body Clinic can cost anywhere around $140 per session.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Chemical Peel cost in Uganda varies depending upon several factors. The cost of a single session at Refine Skin & Body Clinic can cost anywhere from $50 per session.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. Can I wear makeup after HydraFacial?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. Can I wear makeup post-treatment?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">It's best to let your skin breathe for the day, but makeup can be applied the next day.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">For light and medium peels, after 24 hours. For deep peels, consult with the doctor.</p>
             </div>
           </div>
         </div>

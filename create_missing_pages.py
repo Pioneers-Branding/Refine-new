@@ -168,7 +168,7 @@ def main():
          ]),
         
         # Thread Lifting
-        ('thread-lifting-treatment-kampala-juba.html', 'thread-lifting-treatment-kampala-juba.php', 'Cosmetic Dermatology',
+        ('thread-lifting.html', 'thread-lifting.php', 'Cosmetic Dermatology',
          'Non-Surgical Face Lift', 'Thread Lifting', '/assets/imagesfromsite/Facial-Spa-09.webp',
          'Elevate your beauty with thread lifting at Refine Skin and Body Clinic — a non-surgical facelift that lifts sagging skin, redefines contours, and rejuvenates your appearance.',
          [

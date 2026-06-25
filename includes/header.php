@@ -90,16 +90,16 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Skin/Body Rejuvenation</h5>
                                 <div class="space-y-2">
                                     <a href="hydrafacial" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">HydraFacial</a>
-                                    <a href="chemical-peel-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Chemical Peel</a>
-                                    <a href="iv-therapy-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">IV Therapy</a>
-                                    <a href="bio-identical-hormone-replacement-therapy-kampala" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Bio-Identical Hormone Replacement Therapy</a>
-                                    <a href="rf-microneedling-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">RF Microneedling for Scars</a>
-                                    <a href="stretch-marks-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Stretch Marks</a>
-                                    <a href="non-surgical-brazilian-butt-lift-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Non-Surgical Brazilian Butt Lift</a>
-                                    <a href="lip-volumization-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Lip Volumization</a>
-                                    <a href="non-surgical-liquid-rhinoplasty-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Liquid Rhinoplasty</a>
-                                    <a href="double-chin-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Double Chin</a>
-                                    <a href="platelet-rich-plasma-facial-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Platelet-Rich Plasma Therapy (PRP)</a>
+                                    <a href="chemical-peel" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Chemical Peel</a>
+                                    <a href="iv-therapy" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">IV Therapy</a>
+                                    <a href="bio-identical-hormone-replacement-therapy" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Bio-Identical Hormone Replacement Therapy</a>
+                                    <a href="rf-microneedling" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">RF Microneedling for Scars</a>
+                                    <a href="stretch-marks" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Stretch Marks</a>
+                                    <a href="non-surgical-brazilian-butt-lift" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Non-Surgical Brazilian Butt Lift</a>
+                                    <a href="lip-volumization" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Lip Volumization</a>
+                                    <a href="non-surgical-liquid-rhinoplasty" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Liquid Rhinoplasty</a>
+                                    <a href="double-chin" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Double Chin</a>
+                                    <a href="platelet-rich-plasma-facial" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Platelet-Rich Plasma Therapy (PRP)</a>
                                 </div>
                             </div>
                             
@@ -108,10 +108,10 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/Laser%20Skin%20Rejuvenation-09.png" alt="Laser Treatments" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Laser Treatments</h5>
                                 <div class="space-y-2">
-                                    <a href="laser-hair-removal-in-uganda-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Laser Hair Removal</a>
-                                    <a href="laser-tattoo-removal-in-uganda-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Laser Tattoo Removal</a>
-                                    <a href="co2-laser-scar-removal-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">CO2 Laser for Scars</a>
-                                    <a href="laser-skin-rejuvenation-in-uganda-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Laser Skin Rejuvenation</a>
+                                    <a href="laser-hair-removal" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Laser Hair Removal</a>
+                                    <a href="laser-tattoo-removal" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Laser Tattoo Removal</a>
+                                    <a href="co2-laser-scar-removal" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">CO2 Laser for Scars</a>
+                                    <a href="laser-skin-rejuvenation" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Laser Skin Rejuvenation</a>
                                 </div>
                             </div>
 
@@ -120,12 +120,12 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/dermal-filter-09.png" alt="Anti Aging" class="w-full aspect-video object-cover object-top bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Anti Aging</h5>
                                 <div class="space-y-2">
-                                    <a href="botox-anti-aging-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Botox&reg;</a>
-                                    <a href="dermal-fillers-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Dermal Fillers</a>
-                                    <a href="thread-lifting-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Thread Lifting</a>
-                                    <a href="sculptra-face-lift-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Sculptra Face Lift</a>
-                                    <a href="cool-lifting-skin-rejuvenation-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Coolifting&reg;</a>
-                                    <a href="led-light-therapy-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">LED Light Therapy</a>
+                                    <a href="botox" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Botox&reg;</a>
+                                    <a href="dermal-fillers" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Dermal Fillers</a>
+                                    <a href="thread-lifting" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Thread Lifting</a>
+                                    <a href="sculptra-face-lift" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Sculptra Face Lift</a>
+                                    <a href="cool-lifting" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Coolifting&reg;</a>
+                                    <a href="led-light-therapy" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">LED Light Therapy</a>
                                 </div>
                             </div>
 
@@ -134,15 +134,15 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/prp-hair-restoration-09.png" alt="PRP Treatments" class="w-full aspect-video object-cover object-top bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">PRP Treatments</h5>
                                 <div class="space-y-2">
-                                    <a href="hair-transplant-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Hair Transplant</a>
-                                    <a href="prp-face-lift-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">The PRP Facelift</a>
-                                    <a href="prp-breast-lift-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">The PRP Breast Lift</a>
-                                    <a href="platelet-rich-plasma-facial-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">PRP Facial</a>
-                                    <a href="prp-hair-restoration-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">PRP Hair Restoration</a>
-                                    <a href="plasma-pen-therapy-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Plasma Pen Therapy</a>
-                                    <a href="omg-shot-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">The OMG-Shot</a>
-                                    <a href="m-shot-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">The M-Shot</a>
-                                    <a href="joint-and-tissue-rejuvenation-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Joint &amp; Tissue Rejuvenation with PRP</a>
+                                    <a href="hair-transplant" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Hair Transplant</a>
+                                    <a href="prp-face-lift" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">The PRP Facelift</a>
+                                    <a href="prp-breast-lift" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">The PRP Breast Lift</a>
+                                    <a href="platelet-rich-plasma-facial" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">PRP Facial</a>
+                                    <a href="prp-hair-restoration" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">PRP Hair Restoration</a>
+                                    <a href="plasma-pen-therapy" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Plasma Pen Therapy</a>
+                                    <a href="omg-shot" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">The OMG-Shot</a>
+                                    <a href="m-shot" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">The M-Shot</a>
+                                    <a href="joint-and-tissue-rejuvenation" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Joint &amp; Tissue Rejuvenation with PRP</a>
                                 </div>
                             </div>
 
@@ -151,9 +151,9 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/Gastric%20Sleeve%20and%20Bypass-09.png" alt="Weight Loss" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Weight Loss</h5>
                                 <div class="space-y-2">
-                                    <a href="allurion-weight-loss-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Allurion</a>
-                                    <a href="semaglutide-ozempic-weight-loss-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Semaglutide/Ozempic</a>
-                                    <a href="gastric-sleeve-and-bypass-surgery-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Gastric Sleeve and Bypass</a>
+                                    <a href="allurion-weight-loss" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Allurion</a>
+                                    <a href="semaglutide-ozempic-weight-loss" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Semaglutide/Ozempic</a>
+                                    <a href="gastric-sleeve-and-bypass-surgery" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Gastric Sleeve and Bypass</a>
                                 </div>
                             </div>
 
@@ -162,12 +162,12 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/Fat%20Dissolving-09.png" alt="Body Contouring" class="w-full aspect-video object-cover object-top bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Body Contouring</h5>
                                 <div class="space-y-2">
-                                    <a href="wonder-axon-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Wonder Axon Treatment</a>
-                                    <a href="cryolipolysis-fat-freezing-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Cryolipolysis</a>
-                                    <a href="pcdc-fat-dissolving-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">PCDC Fat Dissolving Injections</a>
-                                    <a href="tummy-tuck-abdominoplasty-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Tummy Tuck / Abdominoplasty</a>
-                                    <a href="em-body-sculpt-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Em Body Sculpt</a>
-                                    <a href="6d-green-laser-treatment-kampala-juba" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">6D Green Laser</a>
+                                    <a href="wonder-axon-treatment" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Wonder Axon Treatment</a>
+                                    <a href="cryolipolysis" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Cryolipolysis</a>
+                                    <a href="pcdc-fat-dissolving" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">PCDC Fat Dissolving Injections</a>
+                                    <a href="tummy-tuck" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Tummy Tuck / Abdominoplasty</a>
+                                    <a href="em-body-sculpt" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Em Body Sculpt</a>
+                                    <a href="6d-green-laser" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">6D Green Laser</a>
                                 </div>
                             </div>
                         </div>
@@ -217,13 +217,13 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/Combo%20of%20vit%20B-12%20and%20B%20complex-09_.png" alt="IV Therapy" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">IV Therapy</h5>
                                 <div class="space-y-2.5">
-                                    <a href="inner-beauty-iv-therapy-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Inner Beauty</a>
+                                    <a href="inner-beauty-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Inner Beauty</a>
                                     <a href="jet-lag-iv-therapy-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Jet Lag</a>
-                                    <a href="pre-party-iv-therapy-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Pre-Party</a>
-                                    <a href="myers-magic-iv-therapy-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Myers Magic</a>
-                                    <a href="post-party-iv-therapy-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Post Party</a>
-                                    <a href="anti-migraine-iv-therapy-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Anti Migraine</a>
-                                    <a href="total-sport-iv-therapy-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Total Sport</a>
+                                    <a href="pre-party-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Pre-Party</a>
+                                    <a href="myers-magic-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Myers Magic</a>
+                                    <a href="post-party-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Post Party</a>
+                                    <a href="anti-migraine-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Anti Migraine</a>
+                                    <a href="total-sport-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Total Sport</a>
                                     <a href="skin-lightening-with-tatioactive-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Skin Lightening with Tatioactive</a>
                                     <a href="vitamin-b12-combo-IV-therapy-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Combo of Vit B 12 and B Complex</a>
                                     <a href="vitamin-c-treatment-IV-therapy-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Vitamin C</a>
@@ -331,59 +331,59 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Skin/Body Rejuvenation</p>
                         <a href="hydrafacial" class="block font-body text-sm text-white/80 py-1 hover:text-accent">HydraFacial</a>
-                        <a href="chemical-peel-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Chemical Peel</a>
-                        <a href="iv-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">IV Therapy</a>
-                        <a href="bio-identical-hormone-replacement-therapy-kampala" class="block font-body text-sm text-white/80 py-1 hover:text-accent leading-tight">Bio-Identical Hormone Replacement</a>
-                        <a href="rf-microneedling-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">RF Microneedling</a>
-                        <a href="stretch-marks-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Stretch Marks</a>
-                        <a href="non-surgical-brazilian-butt-lift-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Non-Surgical BBL</a>
-                        <a href="lip-volumization-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Lip Volumization</a>
-                        <a href="non-surgical-liquid-rhinoplasty-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Liquid Rhinoplasty</a>
-                        <a href="double-chin-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Double Chin</a>
-                        <a href="platelet-rich-plasma-facial-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PRP Therapy</a>
+                        <a href="chemical-peel" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Chemical Peel</a>
+                        <a href="iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">IV Therapy</a>
+                        <a href="bio-identical-hormone-replacement-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent leading-tight">Bio-Identical Hormone Replacement</a>
+                        <a href="rf-microneedling" class="block font-body text-sm text-white/80 py-1 hover:text-accent">RF Microneedling</a>
+                        <a href="stretch-marks" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Stretch Marks</a>
+                        <a href="non-surgical-brazilian-butt-lift" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Non-Surgical BBL</a>
+                        <a href="lip-volumization" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Lip Volumization</a>
+                        <a href="non-surgical-liquid-rhinoplasty" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Liquid Rhinoplasty</a>
+                        <a href="double-chin" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Double Chin</a>
+                        <a href="platelet-rich-plasma-facial" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PRP Therapy</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Laser Treatments</p>
-                        <a href="laser-hair-removal-in-uganda-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Laser Hair Removal</a>
-                        <a href="laser-tattoo-removal-in-uganda-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Laser Tattoo Removal</a>
-                        <a href="co2-laser-scar-removal-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">CO2 Laser for Scars</a>
-                        <a href="laser-skin-rejuvenation-in-uganda-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Laser Skin Rejuvenation</a>
+                        <a href="laser-hair-removal" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Laser Hair Removal</a>
+                        <a href="laser-tattoo-removal" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Laser Tattoo Removal</a>
+                        <a href="co2-laser-scar-removal" class="block font-body text-sm text-white/80 py-1 hover:text-accent">CO2 Laser for Scars</a>
+                        <a href="laser-skin-rejuvenation" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Laser Skin Rejuvenation</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Anti Aging</p>
-                        <a href="botox-anti-aging-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Botox&reg;</a>
-                        <a href="dermal-fillers-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Dermal Fillers</a>
-                        <a href="thread-lifting-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Thread Lifting</a>
-                        <a href="sculptra-face-lift-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Sculptra Face Lift</a>
-                        <a href="cool-lifting-skin-rejuvenation-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Coolifting&reg;</a>
-                        <a href="led-light-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">LED Light Therapy</a>
+                        <a href="botox" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Botox&reg;</a>
+                        <a href="dermal-fillers" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Dermal Fillers</a>
+                        <a href="thread-lifting" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Thread Lifting</a>
+                        <a href="sculptra-face-lift" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Sculptra Face Lift</a>
+                        <a href="cool-lifting" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Coolifting&reg;</a>
+                        <a href="led-light-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">LED Light Therapy</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">PRP Treatments</p>
-                        <a href="hair-transplant-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Hair Transplant</a>
-                        <a href="prp-face-lift-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The PRP Facelift</a>
-                        <a href="prp-breast-lift-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The PRP Breast Lift</a>
-                        <a href="platelet-rich-plasma-facial-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PRP Facial</a>
-                        <a href="prp-hair-restoration-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PRP Hair Restoration</a>
-                        <a href="plasma-pen-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Plasma Pen Therapy</a>
-                        <a href="omg-shot-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The OMG-Shot</a>
-                        <a href="m-shot-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The M-Shot</a>
-                        <a href="joint-and-tissue-rejuvenation-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Joint &amp; Tissue Rejuvenation</a>
+                        <a href="hair-transplant" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Hair Transplant</a>
+                        <a href="prp-face-lift" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The PRP Facelift</a>
+                        <a href="prp-breast-lift" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The PRP Breast Lift</a>
+                        <a href="platelet-rich-plasma-facial" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PRP Facial</a>
+                        <a href="prp-hair-restoration" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PRP Hair Restoration</a>
+                        <a href="plasma-pen-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Plasma Pen Therapy</a>
+                        <a href="omg-shot" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The OMG-Shot</a>
+                        <a href="m-shot" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The M-Shot</a>
+                        <a href="joint-and-tissue-rejuvenation" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Joint &amp; Tissue Rejuvenation</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Weight Loss</p>
-                        <a href="allurion-weight-loss-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Allurion</a>
-                        <a href="semaglutide-ozempic-weight-loss-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Semaglutide/Ozempic</a>
-                        <a href="gastric-sleeve-and-bypass-surgery-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Gastric Sleeve and Bypass</a>
+                        <a href="allurion-weight-loss" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Allurion</a>
+                        <a href="semaglutide-ozempic-weight-loss" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Semaglutide/Ozempic</a>
+                        <a href="gastric-sleeve-and-bypass-surgery" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Gastric Sleeve and Bypass</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Body Contouring</p>
-                        <a href="wonder-axon-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Wonder Axon Treatment</a>
-                        <a href="cryolipolysis-fat-freezing-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Cryolipolysis</a>
-                        <a href="pcdc-fat-dissolving-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PCDC Fat Dissolving</a>
-                        <a href="tummy-tuck-abdominoplasty-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Tummy Tuck / Abdominoplasty</a>
-                        <a href="em-body-sculpt-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Em Body Sculpt</a>
-                        <a href="6d-green-laser-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">6D Green Laser</a>
+                        <a href="wonder-axon-treatment" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Wonder Axon Treatment</a>
+                        <a href="cryolipolysis" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Cryolipolysis</a>
+                        <a href="pcdc-fat-dissolving" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PCDC Fat Dissolving</a>
+                        <a href="tummy-tuck" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Tummy Tuck / Abdominoplasty</a>
+                        <a href="em-body-sculpt" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Em Body Sculpt</a>
+                        <a href="6d-green-laser" class="block font-body text-sm text-white/80 py-1 hover:text-accent">6D Green Laser</a>
                     </div>
                 </div>
             </details>
@@ -421,13 +421,13 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                 <div class="mt-4 mb-2 space-y-5 pl-3 border-l-2 border-brand-light/20">
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">IV Therapy</p>
-                        <a href="inner-beauty-iv-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Inner Beauty</a>
+                        <a href="inner-beauty-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Inner Beauty</a>
                         <a href="jet-lag-iv-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Jet Lag</a>
-                        <a href="pre-party-iv-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Pre-Party</a>
-                        <a href="myers-magic-iv-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Myers Magic</a>
-                        <a href="post-party-iv-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Post Party</a>
-                        <a href="anti-migraine-iv-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Anti Migraine</a>
-                        <a href="total-sport-iv-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Total Sport</a>
+                        <a href="pre-party-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Pre-Party</a>
+                        <a href="myers-magic-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Myers Magic</a>
+                        <a href="post-party-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Post Party</a>
+                        <a href="anti-migraine-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Anti Migraine</a>
+                        <a href="total-sport-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Total Sport</a>
                         <a href="skin-lightening-with-tatioactive-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Skin Lightening with Tatioactive</a>
                         <a href="vitamin-b12-combo-IV-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Combo of Vit B 12 and B Complex</a>
                         <a href="vitamin-c-treatment-IV-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Vitamin C</a>

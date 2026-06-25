@@ -103,15 +103,15 @@
                 </h4>
                 <ul class="space-y-3">
                     <li><a href="cosmetic-dermatology-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">All Cosmetic</a></li>
-                    <li><a href="botox-anti-aging-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Botox®</a></li>
-                    <li><a href="dermal-fillers-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Dermal Fillers</a></li>
-                    <li><a href="sculptra-face-lift-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Sculptra Face Lift</a></li>
+                    <li><a href="botox" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Botox®</a></li>
+                    <li><a href="dermal-fillers" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Dermal Fillers</a></li>
+                    <li><a href="sculptra-face-lift" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Sculptra Face Lift</a></li>
                     <li><a href="hydrafacial" class="text-white/55 hover:text-accent text-sm font-light transition-colors">HydraFacial</a></li>
-                    <li><a href="chemical-peel-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Chemical Peel</a></li>
-                    <li><a href="rf-microneedling-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">RF Microneedling</a></li>
-                    <li><a href="co2-laser-scar-removal-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">CO2 Laser</a></li>
-                    <li><a href="laser-hair-removal-in-uganda-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Laser Hair Removal</a></li>
-                    <li><a href="thread-lifting-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Thread Lifting</a></li>
+                    <li><a href="chemical-peel" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Chemical Peel</a></li>
+                    <li><a href="rf-microneedling" class="text-white/55 hover:text-accent text-sm font-light transition-colors">RF Microneedling</a></li>
+                    <li><a href="co2-laser-scar-removal" class="text-white/55 hover:text-accent text-sm font-light transition-colors">CO2 Laser</a></li>
+                    <li><a href="laser-hair-removal" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Laser Hair Removal</a></li>
+                    <li><a href="thread-lifting" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Thread Lifting</a></li>
                 </ul>
             </div>
 
@@ -138,15 +138,15 @@
                     <i class="fas fa-head-side text-accent text-[10px]"></i> Hair &amp; Body
                 </h4>
                 <ul class="space-y-3">
-                    <li><a href="hair-transplant-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Hair Transplant</a></li>
-                    <li><a href="prp-hair-restoration-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">PRP Hair</a></li>
+                    <li><a href="hair-transplant" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Hair Transplant</a></li>
+                    <li><a href="prp-hair-restoration" class="text-white/55 hover:text-accent text-sm font-light transition-colors">PRP Hair</a></li>
                     <li><a href="beard-transplant-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Beard Transplant</a></li>
                     <li><a href="eyebrow-transplant-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Eyebrow Transplant</a></li>
                     <li><a href="microblading-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Microblading</a></li>
                     <li><a href="body-contouring-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Body Contouring</a></li>
                     <li><a href="liposuction-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Liposuction</a></li>
                     <li><a href="mommy-makeover-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Mommy Makeover</a></li>
-                    <li><a href="tummy-tuck-abdominoplasty-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Tummy Tuck</a></li>
+                    <li><a href="tummy-tuck" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Tummy Tuck</a></li>
                 </ul>
             </div>
 
@@ -157,13 +157,13 @@
                 </h4>
                 <ul class="space-y-3">
                     <li><a href="refine-iv-lounge-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">IV Lounge Hub</a></li>
-                    <li><a href="myers-magic-iv-therapy-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Myers' Magic IV</a></li>
-                    <li><a href="nad-iv-therapy-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">NAD+ IV</a></li>
-                    <li><a href="inner-beauty-iv-therapy-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Inner Beauty IV</a></li>
-                    <li><a href="immunity-iv-therapy-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Immunity Boost</a></li>
-                    <li><a href="semaglutide-ozempic-weight-loss-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Weight Loss</a></li>
-                    <li><a href="bio-identical-hormone-replacement-therapy-kampala" class="text-white/55 hover:text-accent text-sm font-light transition-colors">BHRT</a></li>
-                    <li><a href="m-shot-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Intimate Wellness</a></li>
+                    <li><a href="myers-magic-iv-therapy" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Myers' Magic IV</a></li>
+                    <li><a href="nad-iv-therapy" class="text-white/55 hover:text-accent text-sm font-light transition-colors">NAD+ IV</a></li>
+                    <li><a href="inner-beauty-iv-therapy" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Inner Beauty IV</a></li>
+                    <li><a href="immunity-iv-therapy" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Immunity Boost</a></li>
+                    <li><a href="semaglutide-ozempic-weight-loss" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Weight Loss</a></li>
+                    <li><a href="bio-identical-hormone-replacement-therapy" class="text-white/55 hover:text-accent text-sm font-light transition-colors">BHRT</a></li>
+                    <li><a href="m-shot" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Intimate Wellness</a></li>
                     <li><a href="mobile-iv-service-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Mobile IV Service</a></li>
                 </ul>
             </div>

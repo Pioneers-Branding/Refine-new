@@ -931,22 +931,22 @@ FILENAME_TEMPLATES = {}
 
 # IV Therapy files
 iv_files = [
-    'nad-iv-therapy-kampala-juba.php',
-    'post-party-iv-therapy-kampala-juba.php',
-    'pre-party-iv-therapy-kampala-juba.php', 
+    'nad-iv-therapy.php',
+    'post-party-iv-therapy.php',
+    'pre-party-iv-therapy.php', 
     'iron-infusion-kampala-juba.php',
-    'immunity-iv-therapy-kampala-juba.php',
-    'inner-beauty-iv-therapy-kampala-juba.php',
+    'immunity-iv-therapy.php',
+    'inner-beauty-iv-therapy.php',
     'jet-lag-iv-therapy-treatment-kampala-juba.php',
-    'myers-magic-iv-therapy-kampala-juba.php',
-    'total-sport-iv-therapy-kampala-juba.php',
-    'hangover-iv-therapy-kampala-juba.php',
+    'myers-magic-iv-therapy.php',
+    'total-sport-iv-therapy.php',
+    'hangover-iv-therapy.php',
     'vitamin-shots-kampala-juba.php',
     'refine-iv-lounge-kampala-juba.php',
     'testosterone-therapy-kampala-juba.php',
-    'anti-migraine-iv-therapy-kampala-juba.php',
-    'm-shot-treatment-kampala-juba.php',
-    'wonder-axon-treatment-kampala-juba.php',
+    'anti-migraine-iv-therapy.php',
+    'm-shot.php',
+    'wonder-axon-treatment.php',
     'mobile-iv-service-kampala-juba.php',
 ]
 
@@ -954,7 +954,7 @@ for f in iv_files:
     FILENAME_TEMPLATES[f] = IV_TEMPLATE
 
 # Hair transplant - use HAIR template
-FILENAME_TEMPLATES['hair-transplant-kampala-juba.php'] = HAIR_TEMPLATE
+FILENAME_TEMPLATES['hair-transplant.php'] = HAIR_TEMPLATE
 FILENAME_TEMPLATES['hair-restoration-kampala-juba.php'] = HAIR_TEMPLATE
 FILENAME_TEMPLATES['hair-mesotherapy-kampala-juba.php'] = HAIR_TEMPLATE
 FILENAME_TEMPLATES['scalp-micropigmentation-kampala-juba.php'] = HAIR_TEMPLATE
@@ -964,12 +964,12 @@ FILENAME_TEMPLATES['eyebrow-transplant-kampala-juba.php'] = HAIR_TEMPLATE
 # Body contouring
 body_files = [
     'body-contouring.php',
-    'cryolipolysis-fat-freezing-treatment-kampala-juba.php',
+    'cryolipolysis.php',
     'cellulite-treatment-kampala-juba.php',
     'liposuction-kampala-juba.php',
     'vaser-lipo-kampala-juba.php',
     'mommy-makeover-kampala-juba.php',
-    'non-surgical-brazilian-butt-lift-kampala-juba.php',
+    'non-surgical-brazilian-butt-lift.php',
     'thigh-lift-kampala-juba.php',
     'arm-lift-kampala-juba.php',
     'skin-tightening.php',
@@ -986,7 +986,7 @@ skin_files = [
     'anti-aging-kampala-juba.php',
     'anti-wrinkle-treatment-kampala-juba.php',
     'profhilo-treatment-kampala-juba.php',
-    'cool-lifting-skin-rejuvenation-kampala-juba.php',
+    'cool-lifting.php',
     'skin-and-body-rejuvenation-kampala-juba.php',
     'carbon-laser-facial-kampala-juba.php',
     'dermaplaning-kampala-juba.php',
@@ -1031,12 +1031,12 @@ FILENAME_TEMPLATES['eyelash-treatment-kampala-juba.php'] = FACIAL_TEMPLATE
 
 # Weight loss
 FILENAME_TEMPLATES['weight-loss-kampala-juba.php'] = WEIGHT_TEMPLATE
-FILENAME_TEMPLATES['allurion-weight-loss-treatment-kampala-juba.php'] = WEIGHT_TEMPLATE
+FILENAME_TEMPLATES['allurion-weight-loss.php'] = WEIGHT_TEMPLATE
 
 # Women's health
 FILENAME_TEMPLATES['menopause-management-kampala-juba.php'] = WOMENS_HEALTH_TEMPLATE
 FILENAME_TEMPLATES['breast-augmentation-kampala-juba.php'] = BODY_TEMPLATE
-FILENAME_TEMPLATES['prp-breast-lift-kampala-juba.php'] = BODY_TEMPLATE
+FILENAME_TEMPLATES['prp-breast-lift.php'] = BODY_TEMPLATE
 FILENAME_TEMPLATES['vaginal-rejuvenation-kampala-juba.php'] = VAGINAL_TEMPLATE
 
 # Men's health
@@ -1045,7 +1045,7 @@ FILENAME_TEMPLATES['ed-treatment-kampala-juba.php'] = ED_TEMPLATE
 
 # PRP
 FILENAME_TEMPLATES['prp-treatments-kampala-juba.php'] = PRP_TEMPLATE
-FILENAME_TEMPLATES['platelet-rich-plasma-facial-kampala-juba.php'] = PRP_TEMPLATE
+FILENAME_TEMPLATES['platelet-rich-plasma-facial.php'] = PRP_TEMPLATE
 
 # Bridal
 FILENAME_TEMPLATES['bridal-packages-kampala-juba.php'] = BRIDAL_TEMPLATE
@@ -1055,13 +1055,13 @@ FILENAME_TEMPLATES['stress-sleep-wellness-kampala-juba.php'] = MISC_WELLNESS_TEM
 FILENAME_TEMPLATES['nutrition-counselling-kampala-juba.php'] = MISC_WELLNESS_TEMPLATE
 
 # Non-surgical rhinoplasty - keep it correct (nose content is appropriate here)
-FILENAME_TEMPLATES['non-surgical-liquid-rhinoplasty-kampala-juba.php'] = RHINOPLASTY_TEMPLATE
+FILENAME_TEMPLATES['non-surgical-liquid-rhinoplasty.php'] = RHINOPLASTY_TEMPLATE
 
 # OMG shot (weight loss/metabolic)
-FILENAME_TEMPLATES['omg-shot-treatment-kampala-juba.php'] = WEIGHT_TEMPLATE
+FILENAME_TEMPLATES['omg-shot.php'] = WEIGHT_TEMPLATE
 
 # Laser hair removal
-FILENAME_TEMPLATES['laser-hair-removal-in-uganda-kampala-juba.php'] = LASER_HAIR_TEMPLATE
+FILENAME_TEMPLATES['laser-hair-removal.php'] = LASER_HAIR_TEMPLATE
 
 # --- REPLACEMENT LOGIC ---
 # The section to replace starts with:

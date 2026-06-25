@@ -112,7 +112,7 @@
             </a>
 
             <!-- Card: Hair -->
-            <a href="hair-transplant-kampala-juba"
+            <a href="hair-transplant"
                 class="group relative overflow-hidden rounded-3xl h-72 lg:h-96 bento-item">
                 <img src="/assets/imagesfromsite/prp-hair-restoration-09.png" alt="Hair"
                     class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"

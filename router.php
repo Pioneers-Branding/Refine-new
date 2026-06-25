@@ -10,6 +10,155 @@ if (file_exists(__DIR__ . $path) && is_file(__DIR__ . $path)) {
 }
 
 // Handle 301 Redirects
+if ($path === '/chemical-peel-treatment-kampala-juba') {
+    header("Location: /chemical-peel", true, 301);
+    exit();
+}
+if ($path === '/iv-therapy-kampala-juba') {
+    header("Location: /iv-therapy", true, 301);
+    exit();
+}
+if ($path === '/bio-identical-hormone-replacement-therapy-kampala') {
+    header("Location: /bio-identical-hormone-replacement-therapy", true, 301);
+    exit();
+}
+if ($path === '/rf-microneedling-kampala-juba') {
+    header("Location: /rf-microneedling", true, 301);
+    exit();
+}
+if ($path === '/stretch-marks-treatment-kampala-juba') {
+    header("Location: /stretch-marks", true, 301);
+    exit();
+}
+if ($path === '/non-surgical-brazilian-butt-lift-kampala-juba') {
+    header("Location: /non-surgical-brazilian-butt-lift", true, 301);
+    exit();
+}
+if ($path === '/lip-volumization-kampala-juba') {
+    header("Location: /lip-volumization", true, 301);
+    exit();
+}
+if ($path === '/non-surgical-liquid-rhinoplasty-kampala-juba') {
+    header("Location: /non-surgical-liquid-rhinoplasty", true, 301);
+    exit();
+}
+if ($path === '/double-chin-treatment-kampala-juba') {
+    header("Location: /double-chin", true, 301);
+    exit();
+}
+if ($path === '/platelet-rich-plasma-facial-kampala-juba') {
+    header("Location: /platelet-rich-plasma-facial", true, 301);
+    exit();
+}
+if ($path === '/laser-hair-removal-in-uganda-kampala-juba') {
+    header("Location: /laser-hair-removal", true, 301);
+    exit();
+}
+if ($path === '/laser-tattoo-removal-in-uganda-kampala-juba') {
+    header("Location: /laser-tattoo-removal", true, 301);
+    exit();
+}
+if ($path === '/co2-laser-scar-removal-kampala-juba') {
+    header("Location: /co2-laser-scar-removal", true, 301);
+    exit();
+}
+if ($path === '/laser-skin-rejuvenation-in-uganda-kampala-juba') {
+    header("Location: /laser-skin-rejuvenation", true, 301);
+    exit();
+}
+if ($path === '/botox-anti-aging-treatment-kampala-juba') {
+    header("Location: /botox", true, 301);
+    exit();
+}
+if ($path === '/dermal-fillers-kampala-juba') {
+    header("Location: /dermal-fillers", true, 301);
+    exit();
+}
+if ($path === '/thread-lifting-treatment-kampala-juba') {
+    header("Location: /thread-lifting", true, 301);
+    exit();
+}
+if ($path === '/sculptra-face-lift-kampala-juba') {
+    header("Location: /sculptra-face-lift", true, 301);
+    exit();
+}
+if ($path === '/cool-lifting-skin-rejuvenation-kampala-juba') {
+    header("Location: /cool-lifting", true, 301);
+    exit();
+}
+if ($path === '/led-light-therapy-kampala-juba') {
+    header("Location: /led-light-therapy", true, 301);
+    exit();
+}
+if ($path === '/hair-transplant-kampala-juba') {
+    header("Location: /hair-transplant", true, 301);
+    exit();
+}
+if ($path === '/prp-face-lift-kampala-juba') {
+    header("Location: /prp-face-lift", true, 301);
+    exit();
+}
+if ($path === '/prp-breast-lift-kampala-juba') {
+    header("Location: /prp-breast-lift", true, 301);
+    exit();
+}
+if ($path === '/prp-hair-restoration-kampala-juba') {
+    header("Location: /prp-hair-restoration", true, 301);
+    exit();
+}
+if ($path === '/plasma-pen-therapy-kampala-juba') {
+    header("Location: /plasma-pen-therapy", true, 301);
+    exit();
+}
+if ($path === '/omg-shot-treatment-kampala-juba') {
+    header("Location: /omg-shot", true, 301);
+    exit();
+}
+if ($path === '/m-shot-treatment-kampala-juba') {
+    header("Location: /m-shot", true, 301);
+    exit();
+}
+if ($path === '/joint-and-tissue-rejuvenation-kampala-juba') {
+    header("Location: /joint-and-tissue-rejuvenation", true, 301);
+    exit();
+}
+if ($path === '/allurion-weight-loss-treatment-kampala-juba') {
+    header("Location: /allurion-weight-loss", true, 301);
+    exit();
+}
+if ($path === '/semaglutide-ozempic-weight-loss-kampala-juba') {
+    header("Location: /semaglutide-ozempic-weight-loss", true, 301);
+    exit();
+}
+if ($path === '/gastric-sleeve-and-bypass-surgery-kampala-juba') {
+    header("Location: /gastric-sleeve-and-bypass-surgery", true, 301);
+    exit();
+}
+if ($path === '/wonder-axon-treatment-kampala-juba') {
+    header("Location: /wonder-axon-treatment", true, 301);
+    exit();
+}
+if ($path === '/cryolipolysis-fat-freezing-treatment-kampala-juba') {
+    header("Location: /cryolipolysis", true, 301);
+    exit();
+}
+if ($path === '/pcdc-fat-dissolving-kampala-juba') {
+    header("Location: /pcdc-fat-dissolving", true, 301);
+    exit();
+}
+if ($path === '/tummy-tuck-abdominoplasty-kampala-juba') {
+    header("Location: /tummy-tuck", true, 301);
+    exit();
+}
+if ($path === '/em-body-sculpt-kampala-juba') {
+    header("Location: /em-body-sculpt", true, 301);
+    exit();
+}
+if ($path === '/6d-green-laser-treatment-kampala-juba') {
+    header("Location: /6d-green-laser", true, 301);
+    exit();
+}
+
 if ($path === '/hydrafacial-treatment-kampala-juba') {
     header("Location: /hydrafacial", true, 301);
     exit();
@@ -57,7 +206,7 @@ $routeMap = [
     '/scar-treatment-kampala-juba' => 'scar-treatment-kampala-juba.php',
     '/hair-loss-treatment-kampala-juba' => 'hair-loss-treatment-kampala-juba.php',
     '/Hyperpigmentation-Melasma-treatment-kampala-juba' => 'Hyperpigmentation-Melasma-treatment-kampala-juba.php',
-    '/thread-lifting-treatment-kampala-juba' => 'thread-lifting-treatment-kampala-juba.php',
+    '/thread-lifting' => 'thread-lifting.php',
     '/anti-migraine' => 'anti-migraine.php',
     '/hair-restoration-kampala-juba' => 'hair-restoration-kampala-juba.php',
     '/injectables-kampala-juba' => 'injectables-kampala-juba.php',
@@ -67,17 +216,17 @@ $routeMap = [
     '/rosacea-treatment-kampala-juba' => 'rosacea-treatment-kampala-juba.php',
     '/acne-treatment-kampala-juba' => 'acne-treatment-kampala-juba.php',
     '/vitiligo-treatment-kampala-juba' => 'vitiligo-treatment-kampala-juba.php',
-    '/stretch-marks-treatment-kampala-juba' => 'stretch-marks-treatment-kampala-juba.php',
+    '/stretch-marks' => 'stretch-marks.php',
     '/skin-cancer-treatment-kampala-juba' => 'skin-cancer-treatment-kampala-juba.php',
-    '/chemical-peel-treatment-kampala-juba' => 'chemical-peel-treatment-kampala-juba.php',
+    '/chemical-peel' => 'chemical-peel.php',
     '/hydrafacial' => 'hydrafacial.php',
-    '/cool-lifting-skin-rejuvenation-kampala-juba' => 'cool-lifting-skin-rejuvenation-kampala-juba.php',
-    '/laser-skin-rejuvenation-in-uganda-kampala-juba' => 'laser-skin-rejuvenation-in-uganda-kampala-juba.php',
-    '/co2-laser-scar-removal-kampala-juba' => 'co2-laser-scar-removal-kampala-juba.php',
-    '/led-light-therapy-kampala-juba' => 'led-light-therapy-kampala-juba.php',
-    '/rf-microneedling-kampala-juba' => 'rf-microneedling-kampala-juba.php',
-    '/plasma-pen-therapy-kampala-juba' => 'plasma-pen-therapy-kampala-juba.php',
-    '/6d-green-laser-treatment-kampala-juba' => '6d-green-laser-treatment-kampala-juba.php',
+    '/cool-lifting' => 'cool-lifting.php',
+    '/laser-skin-rejuvenation' => 'laser-skin-rejuvenation.php',
+    '/co2-laser-scar-removal' => 'co2-laser-scar-removal.php',
+    '/led-light-therapy' => 'led-light-therapy.php',
+    '/rf-microneedling' => 'rf-microneedling.php',
+    '/plasma-pen-therapy' => 'plasma-pen-therapy.php',
+    '/6d-green-laser' => '6d-green-laser.php',
     '/melasma-treatment-kampala-juba' => 'melasma-treatment-kampala-juba.php',
     '/hyperpigmentation-treatment-kampala-juba' => 'hyperpigmentation-treatment-kampala-juba.php',
     '/under-eye-treatment-kampala-juba' => 'under-eye-treatment-kampala-juba.php',
@@ -90,15 +239,15 @@ $routeMap = [
     '/carbon-laser-facial-kampala-juba' => 'carbon-laser-facial-kampala-juba.php',
     '/dermaplaning-kampala-juba' => 'dermaplaning-kampala-juba.php',
     '/microdermabrasion-kampala-juba' => 'microdermabrasion-kampala-juba.php',
-    '/botox-anti-aging-treatment-kampala-juba' => 'botox-anti-aging-treatment-kampala-juba.php',
-    '/dermal-fillers-kampala-juba' => 'dermal-fillers-kampala-juba.php',
-    '/lip-volumization-kampala-juba' => 'lip-volumization-kampala-juba.php',
-    '/sculptra-face-lift-kampala-juba' => 'sculptra-face-lift-kampala-juba.php',
-    '/non-surgical-liquid-rhinoplasty-kampala-juba' => 'non-surgical-liquid-rhinoplasty-kampala-juba.php',
-    '/double-chin-treatment-kampala-juba' => 'double-chin-treatment-kampala-juba.php',
-    '/pcdc-fat-dissolving-kampala-juba' => 'pcdc-fat-dissolving-kampala-juba.php',
-    '/platelet-rich-plasma-facial-kampala-juba' => 'platelet-rich-plasma-facial-kampala-juba.php',
-    '/prp-face-lift-kampala-juba' => 'prp-face-lift-kampala-juba.php',
+    '/botox' => 'botox.php',
+    '/dermal-fillers' => 'dermal-fillers.php',
+    '/lip-volumization' => 'lip-volumization.php',
+    '/sculptra-face-lift' => 'sculptra-face-lift.php',
+    '/non-surgical-liquid-rhinoplasty' => 'non-surgical-liquid-rhinoplasty.php',
+    '/double-chin' => 'double-chin.php',
+    '/pcdc-fat-dissolving' => 'pcdc-fat-dissolving.php',
+    '/platelet-rich-plasma-facial' => 'platelet-rich-plasma-facial.php',
+    '/prp-face-lift' => 'prp-face-lift.php',
     '/profhilo-treatment-kampala-juba' => 'profhilo-treatment-kampala-juba.php',
     '/jawline-contouring-kampala-juba' => 'jawline-contouring-kampala-juba.php',
     '/cheek-enhancement-kampala-juba' => 'cheek-enhancement-kampala-juba.php',
@@ -106,25 +255,25 @@ $routeMap = [
     '/hand-rejuvenation-kampala-juba' => 'hand-rejuvenation-kampala-juba.php',
     '/mesotherapy-kampala-juba' => 'mesotherapy-kampala-juba.php',
     '/skin-boosters-kampala-juba' => 'skin-boosters-kampala-juba.php',
-    '/prp-hair-restoration-kampala-juba' => 'prp-hair-restoration-kampala-juba.php',
-    '/hair-transplant-kampala-juba' => 'hair-transplant-kampala-juba.php',
+    '/prp-hair-restoration' => 'prp-hair-restoration.php',
+    '/hair-transplant' => 'hair-transplant.php',
     '/alopecia-areata-treatment-kampala-juba' => 'alopecia-areata-treatment-kampala-juba.php',
-    '/laser-hair-removal-in-uganda-kampala-juba' => 'laser-hair-removal-in-uganda-kampala-juba.php',
-    '/laser-tattoo-removal-in-uganda-kampala-juba' => 'laser-tattoo-removal-in-uganda-kampala-juba.php',
+    '/laser-hair-removal' => 'laser-hair-removal.php',
+    '/laser-tattoo-removal' => 'laser-tattoo-removal.php',
     '/microblading-kampala-juba' => 'microblading-kampala-juba.php',
     '/eyelash-treatment-kampala-juba' => 'eyelash-treatment-kampala-juba.php',
     '/scalp-micropigmentation-kampala-juba' => 'scalp-micropigmentation-kampala-juba.php',
     '/beard-transplant-kampala-juba' => 'beard-transplant-kampala-juba.php',
     '/eyebrow-transplant-kampala-juba' => 'eyebrow-transplant-kampala-juba.php',
     '/hair-mesotherapy-kampala-juba' => 'hair-mesotherapy-kampala-juba.php',
-    '/em-body-sculpt-kampala-juba' => 'em-body-sculpt-kampala-juba.php',
-    '/cryolipolysis-fat-freezing-treatment-kampala-juba' => 'cryolipolysis-fat-freezing-treatment-kampala-juba.php',
-    '/non-surgical-brazilian-butt-lift-kampala-juba' => 'non-surgical-brazilian-butt-lift-kampala-juba.php',
-    '/tummy-tuck-abdominoplasty-kampala-juba' => 'tummy-tuck-abdominoplasty-kampala-juba.php',
-    '/gastric-sleeve-and-bypass-surgery-kampala-juba' => 'gastric-sleeve-and-bypass-surgery-kampala-juba.php',
-    '/semaglutide-ozempic-weight-loss-kampala-juba' => 'semaglutide-ozempic-weight-loss-kampala-juba.php',
-    '/allurion-weight-loss-treatment-kampala-juba' => 'allurion-weight-loss-treatment-kampala-juba.php',
-    '/prp-breast-lift-kampala-juba' => 'prp-breast-lift-kampala-juba.php',
+    '/em-body-sculpt' => 'em-body-sculpt.php',
+    '/cryolipolysis' => 'cryolipolysis.php',
+    '/non-surgical-brazilian-butt-lift' => 'non-surgical-brazilian-butt-lift.php',
+    '/tummy-tuck' => 'tummy-tuck.php',
+    '/gastric-sleeve-and-bypass-surgery' => 'gastric-sleeve-and-bypass-surgery.php',
+    '/semaglutide-ozempic-weight-loss' => 'semaglutide-ozempic-weight-loss.php',
+    '/allurion-weight-loss' => 'allurion-weight-loss.php',
+    '/prp-breast-lift' => 'prp-breast-lift.php',
     '/liposuction-kampala-juba' => 'liposuction-kampala-juba.php',
     '/mommy-makeover-kampala-juba' => 'mommy-makeover-kampala-juba.php',
     '/breast-augmentation-kampala-juba' => 'breast-augmentation-kampala-juba.php',
@@ -133,18 +282,18 @@ $routeMap = [
     '/nutrition-counselling-kampala-juba' => 'nutrition-counselling-kampala-juba.php',
     '/cellulite-treatment-kampala-juba' => 'cellulite-treatment-kampala-juba.php',
     '/vaser-lipo-kampala-juba' => 'vaser-lipo-kampala-juba.php',
-    '/m-shot-treatment-kampala-juba' => 'm-shot-treatment-kampala-juba.php',
-    '/omg-shot-treatment-kampala-juba' => 'omg-shot-treatment-kampala-juba.php',
-    '/wonder-axon-treatment-kampala-juba' => 'wonder-axon-treatment-kampala-juba.php',
-    '/bio-identical-hormone-replacement-therapy-kampala' => 'bio-identical-hormone-replacement-therapy-kampala.php',
-    '/joint-and-tissue-rejuvenation-kampala-juba' => 'joint-and-tissue-rejuvenation-kampala-juba.php',
+    '/m-shot' => 'm-shot.php',
+    '/omg-shot' => 'omg-shot.php',
+    '/wonder-axon-treatment' => 'wonder-axon-treatment.php',
+    '/bio-identical-hormone-replacement-therapy' => 'bio-identical-hormone-replacement-therapy.php',
+    '/joint-and-tissue-rejuvenation' => 'joint-and-tissue-rejuvenation.php',
     '/vaginal-rejuvenation-kampala-juba' => 'vaginal-rejuvenation-kampala-juba.php',
     '/ed-treatment-kampala-juba' => 'ed-treatment-kampala-juba.php',
     '/menopause-management-kampala-juba' => 'menopause-management-kampala-juba.php',
     '/testosterone-therapy-kampala-juba' => 'testosterone-therapy-kampala-juba.php',
     '/stress-sleep-wellness-kampala-juba' => 'stress-sleep-wellness-kampala-juba.php',
     '/refine-iv-lounge-kampala-juba' => 'refine-iv-lounge-kampala-juba.php',
-    '/iv-therapy-kampala-juba' => 'iv-therapy-kampala-juba.php',
+    '/iv-therapy' => 'iv-therapy.php',
     '/inner-beauty-iv-therapy-kampala-juba' => 'inner-beauty-iv-therapy-kampala-juba.php',
     '/glutathione-IV-therapy-kampala-juba' => 'glutathione-IV-therapy-kampala-juba.php',
     '/vitamin-c-treatment-IV-therapy-treatment-kampala-juba' => 'vitamin-c-treatment-IV-therapy-treatment-kampala-juba.php',

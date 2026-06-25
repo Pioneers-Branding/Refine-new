@@ -73,7 +73,7 @@
             </a>
 
             <!-- Card 3 (Anti-Aging) -->
-            <a href="botox-anti-aging-treatment-kampala-juba"
+            <a href="botox"
                 class="group relative rounded-2xl overflow-hidden aspect-video shadow-lg">
                 <img src="/assets/imagesfromsite/dermal-filter-09.png" alt="Anti-Aging"
                     class="absolute inset-0 w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-700"
