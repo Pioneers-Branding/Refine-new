@@ -2,6 +2,8 @@
 $pageCategory = "Aesthetic Physician";
 $pageTitle = "Dr. Henry <i class='text-brand font-light'>Owiny.</i>";
 $pageDescription = "Meet Dr. Henry Owiny, an aesthetic physician dedicated to delivering natural, harmonious results through advanced cosmetic dermatology.";
+
+$canonicalUrl = "https://refineskinandbody.com/dr-henry-owiny";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

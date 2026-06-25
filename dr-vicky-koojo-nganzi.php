@@ -2,6 +2,8 @@
 $pageCategory = "Dermatologist";
 $pageTitle = "Dr. Vicky Koojo <i class='text-brand font-light'>Nganzi</i>";
 $pageDescription = "Dr. Vicky Koojo Nganzi is a skilled medical and cosmetic dermatologist specializing in skin conditions, rejuvenation, and evidence-based aesthetic treatments with a patient-centered approach.";
+
+$canonicalUrl = "https://refineskinandbody.com/dr-vicky-koojo-nganzi";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

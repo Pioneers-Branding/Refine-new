@@ -2,6 +2,8 @@
 $pageCategory = "Plastic Surgeon";
 $pageTitle = "Dr. William <i class='text-brand font-light'>Lubega.</i>";
 $pageDescription = "Meet Dr. William Lubega, a board-certified plastic surgeon specializing in reconstructive and aesthetic surgical procedures.";
+
+$canonicalUrl = "https://refineskinandbody.com/dr-william-lubega";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

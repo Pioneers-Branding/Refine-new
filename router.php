@@ -10,6 +10,35 @@ if (file_exists(__DIR__ . $path) && is_file(__DIR__ . $path)) {
 }
 
 // Handle 301 Redirects
+if ($path === '/dr-chirag-kotecha-dermatologist-in-uganda') {
+    header("Location: /dr-chirag-kotecha", true, 301);
+    exit();
+}
+if ($path === '/about-dr-henry-owiny-aesthetic-physician-in-uganda') {
+    header("Location: /dr-henry-owiny", true, 301);
+    exit();
+}
+if ($path === '/about-dr-william-lubega-plastic-surgeon-in-uganda') {
+    header("Location: /dr-william-lubega", true, 301);
+    exit();
+}
+if ($path === '/dr-ahmed-ashraf-dermatologist-in-uganda') {
+    header("Location: /dr-ahmed-ashraf", true, 301);
+    exit();
+}
+if ($path === '/about-alison-gallagher-psychotherapist-in-uganda') {
+    header("Location: /alison-gallagher", true, 301);
+    exit();
+}
+if ($path === '/about-dr-vicky-koojo-nganzi-dermatologist-in-uganda') {
+    header("Location: /dr-vicky-koojo-nganzi", true, 301);
+    exit();
+}
+if ($path === '/about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda') {
+    header("Location: /wendy-emyedu-ayayo", true, 301);
+    exit();
+}
+
 if ($path === '/medical-dermatology-kampala-juba') {
     header("Location: /medical-dermatology", true, 301);
     exit();
@@ -247,13 +276,13 @@ $routeMap = [
     '/press' => 'press.php',
     '/our-team' => 'our-team.php',
     '/clinical-team' => 'clinical-team.php',
-    '/dr-chirag-kotecha-dermatologist-in-uganda' => 'dr-chirag-kotecha-dermatologist-in-uganda.php',
-    '/about-dr-henry-owiny-aesthetic-physician-in-uganda' => 'about-dr-henry-owiny-aesthetic-physician-in-uganda.php',
-    '/about-dr-william-lubega-plastic-surgeon-in-uganda' => 'about-dr-william-lubega-plastic-surgeon-in-uganda.php',
-    '/dr-ahmed-ashraf-dermatologist-in-uganda' => 'dr-ahmed-ashraf-dermatologist-in-uganda.php',
-    '/about-alison-gallagher-psychotherapist-in-uganda' => 'about-alison-gallagher-psychotherapist-in-uganda.php',
-    '/about-dr-vicky-koojo-nganzi-dermatologist-in-uganda' => 'about-dr-vicky-koojo-nganzi-dermatologist-in-uganda.php',
-    '/about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda' => 'about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda.php',
+    '/dr-chirag-kotecha' => 'dr-chirag-kotecha.php',
+    '/dr-henry-owiny' => 'dr-henry-owiny.php',
+    '/dr-william-lubega' => 'dr-william-lubega.php',
+    '/dr-ahmed-ashraf' => 'dr-ahmed-ashraf.php',
+    '/alison-gallagher' => 'alison-gallagher.php',
+    '/dr-vicky-koojo-nganzi' => 'dr-vicky-koojo-nganzi.php',
+    '/wendy-emyedu-ayayo' => 'wendy-emyedu-ayayo.php',
     '/cosmetic-dermatology-kampala-juba' => 'cosmetic-dermatology-kampala-juba.php',
     '/medical-dermatology' => 'medical-dermatology.php',
     '/laser-treatments-kampala-juba' => 'laser-treatments-kampala-juba.php',

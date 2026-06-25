@@ -2,6 +2,8 @@
 $pageCategory = "Nutritionist";
 $pageTitle = "Ms. Wendy <i class='text-brand font-light'>Emyedu Ayayo.</i>";
 $pageDescription = "Meet Ms. Wendy Emyedu Ayayo, our clinical nutritionist bridging the gap between internal wellness and external radiance.";
+
+$canonicalUrl = "https://refineskinandbody.com/wendy-emyedu-ayayo";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

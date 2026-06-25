@@ -2,6 +2,8 @@
 $pageCategory = "Dermatologist";
 $pageTitle = "Dr. Ahmed <i class='text-brand font-light'>Ashraf.</i>";
 $pageDescription = "Meet Dr. Ahmed Ashraf, our visiting Dermatologist bringing international expertise and specialized care to Refine Skin & Body Clinic.";
+
+$canonicalUrl = "https://refineskinandbody.com/dr-ahmed-ashraf";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

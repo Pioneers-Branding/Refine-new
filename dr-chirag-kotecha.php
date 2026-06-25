@@ -2,6 +2,8 @@
 $pageCategory = "Lead Dermatologist";
 $pageTitle = "Dr. Chirag <i class='text-brand font-light'>Kotecha.</i>";
 $pageDescription = "Discover the visionary behind Refine Skin & Body Clinic. Dr. Chirag Kotecha is a leading dermatologist dedicated to elevating aesthetic medicine in East Africa.";
+
+$canonicalUrl = "https://refineskinandbody.com/dr-chirag-kotecha";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

@@ -2,6 +2,8 @@
 $pageCategory = "Psychotherapist";
 $pageTitle = "Alison Gallagher <i class='text-brand font-light'>Psychotherapist.</i>";
 $pageDescription = "Meet Alison Gallagher, a UK-qualified psychotherapist and hypnotherapist offering transformative mental health therapy at Refine Skin & Body Clinic in Kampala, Uganda.";
+
+$canonicalUrl = "https://refineskinandbody.com/alison-gallagher";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

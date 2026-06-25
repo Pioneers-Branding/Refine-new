@@ -288,7 +288,7 @@
 
         <div id="doctors-grid" class="grid grid-cols-2 lg:grid-cols-5 gap-5 lg:gap-7 gs-stagger-bento">
             <!-- Dr 1 (Chirag) -->
-            <a href="dr-chirag-kotecha-dermatologist-in-uganda" class="group block bento-item">
+            <a href="dr-chirag-kotecha" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
                     <img src="/assets/images/team/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha"
                         class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700"
@@ -304,7 +304,7 @@
             </a>
 
             <!-- Dr 2 (Henry) -->
-            <a href="about-dr-henry-owiny-aesthetic-physician-in-uganda" class="group block bento-item">
+            <a href="dr-henry-owiny" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
                     <img src="/assets/imagesfromsite/blog/Refine_Skin_and_Body_Clinic_-_Dr_Henry_Owiny.webp"
                         alt="Dr. Henry Owiny"
@@ -321,7 +321,7 @@
             </a>
 
             <!-- Dr 3 (William) -->
-            <a href="about-dr-william-lubega-plastic-surgeon-in-uganda" class="group block bento-item">
+            <a href="dr-william-lubega" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
                     <img src="/assets/images/team/Dr_William_Lubega.png" alt="Dr. William Lubega"
                         class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700"
@@ -337,7 +337,7 @@
             </a>
 
             <!-- Nutritionist -->
-            <a href="about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda" class="group block bento-item">
+            <a href="wendy-emyedu-ayayo" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
                     <img src="/assets/imagesfromsite/Ms_Wendy_Emyedu_Ayayo.png" alt="Wendy Emyedu"
                         class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700"
@@ -352,7 +352,7 @@
             </a>
 
             <!-- Dr 5 (Vicky) -->
-            <a href="about-dr-vicky-koojo-nganzi-dermatologist-in-uganda" class="group block bento-item">
+            <a href="dr-vicky-koojo-nganzi" class="group block bento-item">
                 <div class="aspect-[3/4] rounded-2xl overflow-hidden bg-white/5 relative">
                     <img src="/assets/images/team/Dr_Vicky_Koojo_Nganzi.png" alt="Dr. Vicky Koojo Nganzi"
                         class="w-full h-full object-cover filter grayscale-[0.4] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-700"

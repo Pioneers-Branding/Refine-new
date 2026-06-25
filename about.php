@@ -152,7 +152,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
 
             <div class="grid md:grid-cols-2 lg:grid-cols-5 gap-8 items-start gs-stagger-bento">
                 <!-- Team Member 1: Dr. Ahmed Ashraf -->
-                <a href="dr-ahmed-ashraf-dermatologist-in-uganda" class="group cursor-pointer bento-item">
+                <a href="dr-ahmed-ashraf" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/dr_Ahmed_Ashraf_Dermatologist.png" alt="Dr. Ahmed Ashraf" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
@@ -163,7 +163,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                     </div>
                 </a>
                 <!-- Team Member 2: Alison Gallagher -->
-                <a href="about-alison-gallagher-psychotherapist-in-uganda" class="group cursor-pointer bento-item">
+                <a href="alison-gallagher" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/Alison_Gallagher_picture_3.png" alt="Alison Gallagher" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
@@ -174,7 +174,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                     </div>
                 </a>
                 <!-- Team Member 3: Wendy Emyedu -->
-                <a href="about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda" class="group cursor-pointer bento-item">
+                <a href="wendy-emyedu-ayayo" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/Ms_Wendy_Emyedu_Ayayo.png" alt="Ms. Wendy Emyedu Ayayo" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
@@ -185,7 +185,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                     </div>
                 </a>
                 <!-- Team Member 4: Dr. William Lubega -->
-                <a href="about-dr-william-lubega-plastic-surgeon-in-uganda" class="group cursor-pointer bento-item">
+                <a href="dr-william-lubega" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/Dr_William_Lubega.png" alt="Dr. William Lubega" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
@@ -196,7 +196,7 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                     </div>
                 </a>
                 <!-- Team Member 5: Dr. Vicky Koojo Nganzi -->
-                <a href="about-dr-vicky-koojo-nganzi-dermatologist-in-uganda" class="group cursor-pointer bento-item">
+                <a href="dr-vicky-koojo-nganzi" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
                         <img src="/assets/images/team/Dr_Vicky_Koojo_Nganzi.png" alt="Dr. Vicky Koojo Nganzi" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
