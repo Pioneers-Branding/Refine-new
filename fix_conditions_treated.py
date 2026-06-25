@@ -943,7 +943,7 @@ iv_files = [
     'hangover-iv-therapy.php',
     'vitamin-shots-kampala-juba.php',
     'refine-iv-lounge-kampala-juba.php',
-    'testosterone-therapy-kampala-juba.php',
+    'testosterone-therapy.php',
     'anti-migraine-iv-therapy.php',
     'm-shot.php',
     'wonder-axon-treatment.php',
@@ -1034,14 +1034,14 @@ FILENAME_TEMPLATES['weight-loss-kampala-juba.php'] = WEIGHT_TEMPLATE
 FILENAME_TEMPLATES['allurion-weight-loss.php'] = WEIGHT_TEMPLATE
 
 # Women's health
-FILENAME_TEMPLATES['menopause-management-kampala-juba.php'] = WOMENS_HEALTH_TEMPLATE
+FILENAME_TEMPLATES['menopause-management.php'] = WOMENS_HEALTH_TEMPLATE
 FILENAME_TEMPLATES['breast-augmentation-kampala-juba.php'] = BODY_TEMPLATE
 FILENAME_TEMPLATES['prp-breast-lift.php'] = BODY_TEMPLATE
-FILENAME_TEMPLATES['vaginal-rejuvenation-kampala-juba.php'] = VAGINAL_TEMPLATE
+FILENAME_TEMPLATES['vaginal-rejuvenation.php'] = VAGINAL_TEMPLATE
 
 # Men's health
 FILENAME_TEMPLATES['mens-aesthetics-kampala-juba.php'] = MENS_HEALTH_TEMPLATE
-FILENAME_TEMPLATES['ed-treatment-kampala-juba.php'] = ED_TEMPLATE
+FILENAME_TEMPLATES['ed-treatment.php'] = ED_TEMPLATE
 
 # PRP
 FILENAME_TEMPLATES['prp-treatments-kampala-juba.php'] = PRP_TEMPLATE
@@ -1051,8 +1051,8 @@ FILENAME_TEMPLATES['platelet-rich-plasma-facial.php'] = PRP_TEMPLATE
 FILENAME_TEMPLATES['bridal-packages-kampala-juba.php'] = BRIDAL_TEMPLATE
 
 # Miscellaneous wellness  
-FILENAME_TEMPLATES['stress-sleep-wellness-kampala-juba.php'] = MISC_WELLNESS_TEMPLATE
-FILENAME_TEMPLATES['nutrition-counselling-kampala-juba.php'] = MISC_WELLNESS_TEMPLATE
+FILENAME_TEMPLATES['stress-sleep-wellness.php'] = MISC_WELLNESS_TEMPLATE
+FILENAME_TEMPLATES['nutrition-counselling.php'] = MISC_WELLNESS_TEMPLATE
 
 # Non-surgical rhinoplasty - keep it correct (nose content is appropriate here)
 FILENAME_TEMPLATES['non-surgical-liquid-rhinoplasty.php'] = RHINOPLASTY_TEMPLATE

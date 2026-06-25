@@ -10,6 +10,31 @@ if (file_exists(__DIR__ . $path) && is_file(__DIR__ . $path)) {
 }
 
 // Handle 301 Redirects
+if ($path === '/nutrition-counselling-kampala-juba') {
+    header("Location: /nutrition-counselling", true, 301);
+    exit();
+}
+if ($path === '/vaginal-rejuvenation-kampala-juba') {
+    header("Location: /vaginal-rejuvenation", true, 301);
+    exit();
+}
+if ($path === '/ed-treatment-kampala-juba') {
+    header("Location: /ed-treatment", true, 301);
+    exit();
+}
+if ($path === '/menopause-management-kampala-juba') {
+    header("Location: /menopause-management", true, 301);
+    exit();
+}
+if ($path === '/testosterone-therapy-kampala-juba') {
+    header("Location: /testosterone-therapy", true, 301);
+    exit();
+}
+if ($path === '/stress-sleep-wellness-kampala-juba') {
+    header("Location: /stress-sleep-wellness", true, 301);
+    exit();
+}
+
 if ($path === '/dr-chirag-kotecha-dermatologist-in-uganda') {
     header("Location: /dr-chirag-kotecha", true, 301);
     exit();
@@ -369,7 +394,7 @@ $routeMap = [
     '/breast-augmentation-kampala-juba' => 'breast-augmentation-kampala-juba.php',
     '/arm-lift-kampala-juba' => 'arm-lift-kampala-juba.php',
     '/thigh-lift-kampala-juba' => 'thigh-lift-kampala-juba.php',
-    '/nutrition-counselling-kampala-juba' => 'nutrition-counselling-kampala-juba.php',
+    '/nutrition-counselling' => 'nutrition-counselling.php',
     '/cellulite-treatment-kampala-juba' => 'cellulite-treatment-kampala-juba.php',
     '/vaser-lipo-kampala-juba' => 'vaser-lipo-kampala-juba.php',
     '/m-shot' => 'm-shot.php',
@@ -377,11 +402,11 @@ $routeMap = [
     '/wonder-axon-treatment' => 'wonder-axon-treatment.php',
     '/bio-identical-hormone-replacement-therapy' => 'bio-identical-hormone-replacement-therapy.php',
     '/joint-and-tissue-rejuvenation' => 'joint-and-tissue-rejuvenation.php',
-    '/vaginal-rejuvenation-kampala-juba' => 'vaginal-rejuvenation-kampala-juba.php',
-    '/ed-treatment-kampala-juba' => 'ed-treatment-kampala-juba.php',
-    '/menopause-management-kampala-juba' => 'menopause-management-kampala-juba.php',
-    '/testosterone-therapy-kampala-juba' => 'testosterone-therapy-kampala-juba.php',
-    '/stress-sleep-wellness-kampala-juba' => 'stress-sleep-wellness-kampala-juba.php',
+    '/vaginal-rejuvenation' => 'vaginal-rejuvenation.php',
+    '/ed-treatment' => 'ed-treatment.php',
+    '/menopause-management' => 'menopause-management.php',
+    '/testosterone-therapy' => 'testosterone-therapy.php',
+    '/stress-sleep-wellness' => 'stress-sleep-wellness.php',
     '/refine-iv-lounge-kampala-juba' => 'refine-iv-lounge-kampala-juba.php',
     '/iv-therapy' => 'iv-therapy.php',
     '/inner-beauty-iv-therapy-kampala-juba' => 'inner-beauty-iv-therapy-kampala-juba.php',

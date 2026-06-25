@@ -2,6 +2,8 @@
 $pageCategory = "Intimate Wellness";
 $pageTitle = "Vaginal <i class='text-brand font-light'>Rejuvenation.</i>";
 $pageDescription = "Restore comfort, confidence, and intimate wellness with non-surgical vaginal rejuvenation — using laser or radiofrequency technology.";
+
+$canonicalUrl = "https://refineskinandbody.com/vaginal-rejuvenation";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
