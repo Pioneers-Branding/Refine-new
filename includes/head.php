@@ -9,7 +9,7 @@
     <!-- SEO -->
     <title><?php echo isset($metaTitle) ? $metaTitle : "Dermatology Clinic in Kampala | Refine Skin &amp; Body Clinic"; ?></title>
     <meta name="description" content="<?php echo isset($metaDescription) ? htmlspecialchars($metaDescription) : "Expert dermatologists in Kampala &amp; Juba providing professional skin care for all conditions. From medical dermatology to aesthetic treatments, get personalised care at Refine Skin and Body Clinic."; ?>">
-    <meta name="keywords" content="Skin Care Clinic Kampala, Dermatology clinics in Kampala, Dermatologist in Kampala, Skin treatments Uganda, Refine clinic juba">
+    <meta name="keywords" content="<?php echo isset($metaKeywords) ? htmlspecialchars($metaKeywords) : "Skin Care Clinic Kampala, Dermatology clinics in Kampala, Dermatologist in Kampala, Skin treatments Uganda, Refine clinic juba"; ?>">
     <link rel="canonical" href="<?php echo isset($canonicalUrl) ? $canonicalUrl : "https://refineskinandbody.com"; ?>">
 
     <!-- Open Graph -->

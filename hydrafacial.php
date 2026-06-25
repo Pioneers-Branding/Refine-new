@@ -5,6 +5,7 @@ $pageDescription = "Cleanse, extract, and hydrate in one luxurious 30-minute tre
 $metaTitle = "Hydrafacial Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking Hydrafacial treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
 $canonicalUrl = "https://refineskinandbody.com/hydrafacial";
+$metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydrafacial in Uganda, Hydrafacial treatment in Kampala";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
