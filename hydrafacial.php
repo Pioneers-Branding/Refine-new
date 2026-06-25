@@ -389,7 +389,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Absolutely loved my <strong class="text-brand font-semibold">HydraFacial treatment in Kampala</strong>! The extraction step was painless, and my skin felt so smooth right after. I've already booked my next session.
+                                Absolutely loved my session! The extraction step was painless, and my skin felt so smooth right after. I've already booked my next appointment.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">S</div>
@@ -409,7 +409,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                The ultimate destination for <strong class="text-brand font-semibold">HydraFacial in Uganda</strong>. The quality of care at Refine is unmatched, and my skin has never looked so clear and healthy.
+                                The ultimate destination for skincare. The quality of care at Refine is unmatched, and my skin has never looked so clear and healthy.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">D</div>
@@ -429,7 +429,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                My skin feels incredibly soft and clear. This was my first <strong class="text-brand font-semibold">HydraFacial in Kampala</strong>, and the results exceeded my expectations. I will definitely be back.
+                                My skin feels incredibly soft and clear. This was my first visit, and the results exceeded my expectations. I will definitely be back.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">F</div>
@@ -449,7 +449,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I noticed a visible reduction in my open pores after just one <strong class="text-brand font-semibold">HydraFacial treatment in Kampala</strong>. The staff explained every step clearly and made me feel so comfortable.
+                                I noticed a visible reduction in my open pores after just one session. The staff explained every step clearly and made me feel so comfortable.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">J</div>
@@ -469,7 +469,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Refine is the absolute best for <strong class="text-brand font-semibold">HydraFacial in Uganda</strong>. The clinic uses top-of-the-line equipment, and my skin feels deeply nourished.
+                                Refine is the absolute best. The clinic uses top-of-the-line equipment, and my skin feels deeply nourished and radiant.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand-deeper flex items-center justify-center text-white font-display text-lg">G</div>
@@ -489,7 +489,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Highly professional service! The <strong class="text-brand font-semibold">HydraFacial treatment in Kampala</strong> at Refine has completely rejuvenated my skin. Perfect for anyone wanting a fresh, radiant look.
+                                Highly professional service! The treatment has completely rejuvenated my skin. Perfect for anyone wanting a fresh, radiant look.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">A</div>
