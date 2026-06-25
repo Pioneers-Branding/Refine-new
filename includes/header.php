@@ -176,7 +176,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                 <!-- Medical Dermatology Mega Menu -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="medical-dermatology-kampala-juba" class="nav-link-item flex items-center gap-1.5">
+                    <a href="medical-dermatology" class="nav-link-item flex items-center gap-1.5">
                         Medical Dermatology <i class="fas fa-chevron-down text-[8px] opacity-70"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[800px] max-w-[95vw]">
@@ -185,20 +185,20 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/acne-09.png" alt="Inflammatory Skin" class="w-full aspect-video object-cover rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">Inflammatory Skin</h5>
                                 <div class="space-y-2.5">
-                                    <a href="acne-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Acne</a>
-                                    <a href="scar-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Scars</a>
-                                    <a href="Hyperpigmentation-Melasma-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Hyperpigmentation/Melasma</a>
-                                    <a href="hair-loss-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Hair Loss</a>
-                                    <a href="rosacea-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Rosacea</a>
+                                    <a href="acne" class="block text-sm text-gray-600 hover:text-brand transition-colors">Acne</a>
+                                    <a href="scar" class="block text-sm text-gray-600 hover:text-brand transition-colors">Scars</a>
+                                    <a href="hyperpigmentation-melasma" class="block text-sm text-gray-600 hover:text-brand transition-colors">Hyperpigmentation/Melasma</a>
+                                    <a href="hair-loss" class="block text-sm text-gray-600 hover:text-brand transition-colors">Hair Loss</a>
+                                    <a href="rosacea" class="block text-sm text-gray-600 hover:text-brand transition-colors">Rosacea</a>
                                 </div>
                             </div>
                             <div>
                                 <img src="/assets/imagesfromsite/skin-cancer-09.png" alt="Autoimmune Disorders" class="w-full aspect-video object-cover rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">Autoimmune Disorders</h5>
                                 <div class="space-y-2.5">
-                                    <a href="vitiligo-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Vitiligo</a>
-                                    <a href="alopecia-areata-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Alopecia Areata</a>
-                                    <a href="skin-cancer-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Skin Cancer</a>
+                                    <a href="vitiligo" class="block text-sm text-gray-600 hover:text-brand transition-colors">Vitiligo</a>
+                                    <a href="alopecia-areata" class="block text-sm text-gray-600 hover:text-brand transition-colors">Alopecia Areata</a>
+                                    <a href="skin-cancer" class="block text-sm text-gray-600 hover:text-brand transition-colors">Skin Cancer</a>
                                 </div>
                             </div>
                         </div>
@@ -397,17 +397,17 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                 <div class="mt-4 mb-2 space-y-5 pl-3 border-l-2 border-brand-light/20">
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Inflammatory Skin</p>
-                        <a href="acne-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Acne Treatment</a>
-                        <a href="rosacea-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Rosacea</a>
+                        <a href="acne" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Acne Treatment</a>
+                        <a href="rosacea" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Rosacea</a>
                         <a href="eczema-dermatitis-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Eczema (Dermatitis)</a>
-                        <a href="psoriasis-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Psoriasis</a>
+                        <a href="psoriasis" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Psoriasis</a>
                         <a href="contact-dermatitis-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Contact Dermatitis</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Autoimmune Disorders</p>
-                        <a href="vitiligo-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Vitiligo</a>
-                        <a href="melasma-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Melasma</a>
-                        <a href="keloid-scar-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Keloids</a>
+                        <a href="vitiligo" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Vitiligo</a>
+                        <a href="melasma" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Melasma</a>
+                        <a href="keloid-scar" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Keloids</a>
                     </div>
                 </div>
             </details>

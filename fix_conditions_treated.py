@@ -999,14 +999,14 @@ for f in skin_files:
 
 # Medical dermatology
 medderm_files = [
-    'medical-dermatology-kampala-juba.php',
+    'medical-dermatology.php',
     'cosmetic-dermatology-kampala-juba.php',
-    'psoriasis-treatment-kampala-juba.php',
-    'mole-wart-removal-kampala-juba.php',
-    'skin-tag-removal-kampala-juba.php',
-    'eczema-treatment-kampala-juba.php',
-    'hyperpigmentation-treatment-kampala-juba.php',
-    'melasma-treatment-kampala-juba.php',
+    'psoriasis.php',
+    'mole-wart-removal.php',
+    'skin-tag-removal.php',
+    'eczema.php',
+    'hyperpigmentation.php',
+    'melasma.php',
 ]
 
 for f in medderm_files:

@@ -51,7 +51,7 @@
             </a>
 
             <!-- Card 2 (Medical Dermatology) -->
-            <a href="medical-dermatology-kampala-juba"
+            <a href="medical-dermatology"
                 class="group relative rounded-2xl overflow-hidden aspect-video shadow-lg">
                 <img src="/assets/imagesfromsite/dermatology-new-09.webp" alt="Medical Dermatology"
                     class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"

@@ -1,7 +1,11 @@
 <?php
-$pageCategory = "Pigmentation";
-$pageTitle = "Hyperpigmentation <i class='text-brand font-light'>Treatment.</i>";
-$pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory hyperpigmentation for a clear, even-toned complexion.";
+$pageCategory = "Medical Dermatology";
+$pageTitle = "Psoriasis <i class='text-brand font-light'>Treatment.</i>";
+$pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to reduce plaques, calm inflammation, and restore your quality of life.";
+$metaTitle = "Psoriasis Treatment in Kampala, Uganda | Refine Clinic";
+$metaDescription = "Seeking experienced dermatologists for psoriasis treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced medical dermatology treatments.";
+$canonicalUrl = "https://refineskinandbody.com/psoriasis";
+$metaKeywords = "Psoriasis Treatment in Kampala, Psoriasis Treatment treatment in Kampal, Psoriasis Treatment in Uganda";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
@@ -9,7 +13,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- $pageTitle = "Hyperpigmentation Treatment."; -->
+    <!-- $pageTitle = "Psoriasis Treatment."; -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -22,14 +26,14 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Expert Aesthetic Care
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Hyperpigmentation Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Psoriasis Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Experience top-tier Hyperpigmentation Treatment at Refine Skin and Body Clinic. Our advanced approach ensures optimal results tailored to your unique needs, helping you achieve your aesthetic goals safely and effectively under the guidance of our expert team.
+                        Experience top-tier Psoriasis Treatment at Refine Skin and Body Clinic. Our advanced approach ensures optimal results tailored to your unique needs, helping you achieve your aesthetic goals safely and effectively under the guidance of our expert team.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/images/services/pigmentation/pigmentation.jpg" alt="Hyperpigmentation Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/imagesfromsite/Facial-Spa-09.webp" alt="Psoriasis Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
                 </div>
 
@@ -244,7 +248,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Results from Hyperpigmentation Treatment are instantaneous and permanent without any maintenance."</p>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Results from Psoriasis Treatment are instantaneous and permanent without any maintenance."</p>
                             </div>
                             
                             <div class="relative py-2">
@@ -272,6 +276,248 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
         </div>
     </section>
 
+    
+    <!-- ============================================
+         HAPPY PATIENTS / REVIEWS
+         ============================================ -->
+    <section id="patient-reviews" class="py-16 lg:py-24 bg-surface-cool relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-accent/5 rounded-full blur-[100px] -translate-y-1/2 translate-x-1/4 pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 w-[500px] h-[500px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
+
+        <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10">
+            <!-- Section Header -->
+            <div class="text-center max-w-3xl mx-auto mb-20 gs-reveal-text">
+                <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand/5 border border-brand/10 mb-6">
+                    <span class="text-accent font-body text-[10px] tracking-[0.25em] uppercase font-semibold">Testimonials</span>
+                </div>
+                <h2 class="font-display text-section text-brand-deeper leading-tight mb-6">
+                    Our Happy <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Patients.</i>
+                </h2>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
+                    Discover why we are the top-rated clinic for Psoriasis Treatment treatments. Here is what our patients say about their clinical dermatology journey with us.
+                </p>
+            </div>
+
+            <!-- Editorial Swiper Carousel -->
+            <div class="testimonials-swiper swiper gs-reveal-fade">
+                <div class="swiper-wrapper">
+
+                    <!-- Review 1 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                I had a wonderful experience at Refine Clinic. The medical team is highly professional and diagnosed my skin condition immediately.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Nalule H.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 2 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Best <strong class="text-brand font-semibold">Psoriasis Treatment treatment in Kampala</strong> in Kampala! The dermatologists are highly experienced and the treatment plan actually works.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">P</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Peter O.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 3 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Refine Clinic has set a new standard for clinical dermatology. The staff is professional, and my skin condition is completely under control now.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">B</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Brenda A.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 4 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                If you're looking for expert medical dermatologists, this is the place. My skin health has improved dramatically since I started my treatment.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">M</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Michael K.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 5 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Absolutely loved my care during the <strong class="text-brand font-semibold">Psoriasis Treatment treatment in Kampala</strong>! The treatment was highly effective and the follow-ups were excellent.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">S</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Sarah N.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 6 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                The ultimate clinic for clinical dermatology. The expertise of Dr. Chirag and the team is unmatched in Uganda.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">D</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">David M.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 7 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                My skin is completely clear and healthy. This was my first <strong class="text-brand font-semibold">Psoriasis Treatment in Kampala</strong>, and the results exceeded my expectations.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">F</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Fatuma S.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 8 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                I noticed visible improvements and relief from my symptoms very quickly. The dermatologists explained the root cause of my condition clearly.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">J</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Joseph L.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 9 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Refine is the absolute best clinic for <strong class="text-brand font-semibold">Psoriasis Treatment in Uganda</strong>. They use advanced clinical therapies and provide top-notch patient care.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">G</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Grace T.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 10 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Highly professional service! The medical treatment has restored my skin health and confidence. Highly recommend their dermatology team.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">A</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Alex R.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Custom Navigation / Pagination -->
+                <div class="flex items-center justify-center gap-6 mt-12">
+                    <div class="testi-prev w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
+                        <i class="fas fa-chevron-left text-sm"></i>
+                    </div>
+                    <div class="swiper-pagination !relative !bottom-0 !w-auto"></div>
+                    <div class="testi-next w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
+                        <i class="fas fa-chevron-right text-sm"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ Block -->
   <section class="py-16 lg:py-24 bg-[#faf9f6]">
     <div class="max-w-[900px] mx-auto px-6">
@@ -279,28 +525,28 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
         <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
         <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
         <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
-          Explore our comprehensive FAQ section for quick answers to common queries about Hyperpigmentation Treatment. Find the clarity you need without delay.
+          Explore our comprehensive FAQ section for quick answers to common queries about Psoriasis Treatment. Find the clarity you need without delay.
         </p>
       </div>
 
       <div class="space-y-3">
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is Hyperpigmentation Treatment painful?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is Psoriasis Treatment painful?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Most patients experience minimal discomfort. We prioritize your comfort throughout the Hyperpigmentation Treatment procedure.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Most patients experience minimal discomfort. We prioritize your comfort throughout the Psoriasis Treatment procedure.</p>
             </div>
           </div>
         </div>
         
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. When can I resume normal activities after Hyperpigmentation Treatment?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. When can I resume normal activities after Psoriasis Treatment?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
@@ -314,7 +560,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Can I combine Hyperpigmentation Treatment with other treatments?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Can I combine Psoriasis Treatment with other treatments?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
@@ -328,7 +574,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. When will I see results from Hyperpigmentation Treatment?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. When will I see results from Psoriasis Treatment?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
@@ -342,7 +588,7 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Are there any risks involved with Hyperpigmentation Treatment?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Are there any risks involved with Psoriasis Treatment?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
@@ -356,14 +602,14 @@ $pageDescription = "Fade stubborn dark spots, sun damage, and post-inflammatory 
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Hyperpigmentation Treatment in Uganda?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Psoriasis Treatment in Uganda?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Hyperpigmentation Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Psoriasis Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
             </div>
           </div>
         </div>

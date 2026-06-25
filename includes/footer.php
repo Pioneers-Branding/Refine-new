@@ -121,13 +121,13 @@
                     <i class="fas fa-stethoscope text-accent text-[10px]"></i> Medical
                 </h4>
                 <ul class="space-y-3">
-                    <li><a href="medical-dermatology-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">All Medical Derm</a></li>
-                    <li><a href="acne-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Acne Solutions</a></li>
-                    <li><a href="scar-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Scar Revision</a></li>
-                    <li><a href="hyperpigmentation-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Melasma &amp; Pigmentation</a></li>
-                    <li><a href="eczema-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Eczema</a></li>
-                    <li><a href="hair-loss-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Hair Loss Prevention</a></li>
-                    <li><a href="alopecia-areata-treatment-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Alopecia Areata</a></li>
+                    <li><a href="medical-dermatology" class="text-white/55 hover:text-accent text-sm font-light transition-colors">All Medical Derm</a></li>
+                    <li><a href="acne" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Acne Solutions</a></li>
+                    <li><a href="scar" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Scar Revision</a></li>
+                    <li><a href="hyperpigmentation" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Melasma &amp; Pigmentation</a></li>
+                    <li><a href="eczema" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Eczema</a></li>
+                    <li><a href="hair-loss" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Hair Loss Prevention</a></li>
+                    <li><a href="alopecia-areata" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Alopecia Areata</a></li>
                     <li><a href="anti-aging-kampala-juba" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Anti-Aging</a></li>
                 </ul>
             </div>

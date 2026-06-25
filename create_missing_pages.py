@@ -138,7 +138,7 @@ def main():
         # (scraped_html, php_filename, category, badge, heading, image, description, why_choose_items)
         
         # Scar Treatment
-        ('scar-treatment-kampala-juba.html', 'scar-treatment-kampala-juba.php', 'Medical Dermatology',
+        ('scar.html', 'scar.php', 'Medical Dermatology',
          'Scar Revision & Removal', 'Scar Treatment', '/assets/imagesfromsite/dermatology-new-09.webp',
          'Advanced scar treatment options at Refine Skin and Body Clinic using laser, microneedling, and chemical peels to reduce the appearance of scars and restore smooth, healthy skin.',
          [
@@ -148,7 +148,7 @@ def main():
          ]),
         
         # Hair Loss Treatment
-        ('hair-loss-treatment-kampala-juba.html', 'hair-loss-treatment-kampala-juba.php', 'Hair Restoration',
+        ('hair-loss.html', 'hair-loss.php', 'Hair Restoration',
          'Hair Loss Prevention', 'Hair Loss Treatment', '/assets/imagesfromsite/prp-hair-restoration-09.png',
          'Comprehensive hair loss prevention and treatment solutions at Refine Skin and Body Clinic, combining PRP therapy, medications, and advanced laser treatments to restore hair health.',
          [
@@ -158,7 +158,7 @@ def main():
          ]),
         
         # Hyperpigmentation/Melasma
-        ('Hyperpigmentation-Melasma-treatment-kampala-juba.html', 'Hyperpigmentation-Melasma-treatment-kampala-juba.php', 'Medical Dermatology',
+        ('hyperpigmentation-melasma.html', 'hyperpigmentation-melasma.php', 'Medical Dermatology',
          'Pigmentation & Melasma Treatment', 'Hyperpigmentation & Melasma Treatment', '/assets/imagesfromsite/dermatology-new-09.webp',
          'Effective treatment for hyperpigmentation, melasma, and dark spots at Refine Skin and Body Clinic using advanced dermatological techniques.',
          [

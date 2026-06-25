@@ -1,7 +1,11 @@
 <?php
 $pageCategory = "Medical Dermatology";
-$pageTitle = "Skin Cancer <i class='text-brand font-light'>Treatment.</i>";
-$pageDescription = "Early detection and expert treatment of all forms of skin cancer, from mole checks to Mohs surgery, with our board-certified dermatologists.";
+$pageTitle = "Rosacea <i class='text-brand font-light'>Treatment.</i>";
+$pageDescription = "Soothe inflammation, reduce redness, and reclaim clear, comfortable skin with our advanced, evidence-based rosacea treatment protocols in Kampala and Juba.";
+$metaTitle = "Rosacea Treatment in Kampala, Uganda | Refine Clinic";
+$metaDescription = "Seeking experienced dermatologists for rosacea treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced medical dermatology treatments.";
+$canonicalUrl = "https://refineskinandbody.com/rosacea";
+$metaKeywords = "Rosacea Treatment in Kampala, Rosacea Treatment treatment in Kampal, Rosacea Treatment in Uganda";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
@@ -9,7 +13,7 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Skin Cancer Treatment? -->
+    <!-- What is Rosacea Treatment? -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -20,16 +24,16 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        Premium Skin Cancer
+                        Premium Rosacea
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Skin Cancer Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Rosacea Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Skin cancer treatment involves procedures to remove cancerous growths and prevent their spread. Dr Chirag Kotecha at Refine Skin and Body provides comprehensive care, from early detection to post-treatment guidance, ensuring patients in Kampala get the best possible outcomes.
+                        Rosacea treatment encompasses a range of procedures and therapies to reduce rosacea symptoms—a chronic skin condition characterised by facial redness, swelling, and visible blood vessels.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/images/uncategorized/skin-cancer-09.png" alt="Skin Cancer Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/images/services/acne_and_scars/Rosacea.webp" alt="Rosacea Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
                 </div>
 
@@ -46,9 +50,9 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Comfortable Ambience
+                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Comprehensive Evaluation
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">A serene environment for consultations and procedures.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Deep insights into individual skin challenges.</p>
                             </div>
                         </div>
 
@@ -59,9 +63,9 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Thorough Communication
+                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Holistic Treatment Approach
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Clarity on diagnosis, treatment options, and expectations.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Combining the best of technology and care.</p>
                             </div>
                         </div>
 
@@ -72,9 +76,9 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Minimal Downtime
+                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Comforting Atmosphere
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Aim for swift recovery post-procedure.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Ensuring patients remain relaxed throughout.</p>
                             </div>
                         </div>
 
@@ -85,9 +89,9 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Comprehensive Care
+                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Tangible Results
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">From detection to post-treatment support.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Visible skin improvements post-treatment.</p>
                             </div>
                         </div>
 
@@ -112,8 +116,8 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Basal Cell Carcinoma (BCC)</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Most common and least aggressive skin cancer. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Facial Redness</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Erythematotelangiectatic rosacea management. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -122,8 +126,8 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Squamous Cell Carcinoma (SCC)</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">More aggressive than BCC, often found on sun-exposed skin.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Acne-like Breakouts</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Papulopustular rosacea treatment.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -132,8 +136,8 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Melanoma</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">The most dangerous form, originating in pigment-producing cells.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Skin Thickening</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Addressing phymatous rosacea.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -142,8 +146,8 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Actinic Keratosis</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Precancerous skin lesions caused by sun exposure.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Eye Irritation</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Treating ocular rosacea symptoms.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -152,8 +156,8 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Merkel Cell Carcinoma</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Rare but aggressive cancer often appearing as firm, painless lesions.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Visible Blood Vessels</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Reduction of telangiectasias.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -244,7 +248,7 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Skin cancer isn’t serious."</p>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Rosacea is caused by poor hygiene."</p>
                             </div>
                             
                             <div class="relative py-2">
@@ -262,12 +266,254 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
                                     <i class="fas fa-check-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
                                 </div>
-                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">Some types, like melanoma, can be deadly if not detected early.</p>
+                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">Rosacea's exact cause remains unknown, but it's unrelated to personal hygiene.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 
+            </div>
+        </div>
+    </section>
+
+    
+    <!-- ============================================
+         HAPPY PATIENTS / REVIEWS
+         ============================================ -->
+    <section id="patient-reviews" class="py-16 lg:py-24 bg-surface-cool relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-accent/5 rounded-full blur-[100px] -translate-y-1/2 translate-x-1/4 pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 w-[500px] h-[500px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
+
+        <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10">
+            <!-- Section Header -->
+            <div class="text-center max-w-3xl mx-auto mb-20 gs-reveal-text">
+                <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand/5 border border-brand/10 mb-6">
+                    <span class="text-accent font-body text-[10px] tracking-[0.25em] uppercase font-semibold">Testimonials</span>
+                </div>
+                <h2 class="font-display text-section text-brand-deeper leading-tight mb-6">
+                    Our Happy <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Patients.</i>
+                </h2>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
+                    Discover why we are the top-rated clinic for Rosacea Treatment treatments. Here is what our patients say about their clinical dermatology journey with us.
+                </p>
+            </div>
+
+            <!-- Editorial Swiper Carousel -->
+            <div class="testimonials-swiper swiper gs-reveal-fade">
+                <div class="swiper-wrapper">
+
+                    <!-- Review 1 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                I had a wonderful experience at Refine Clinic. The medical team is highly professional and diagnosed my skin condition immediately.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Nalule H.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 2 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Best <strong class="text-brand font-semibold">Rosacea Treatment treatment in Kampala</strong> in Kampala! The dermatologists are highly experienced and the treatment plan actually works.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">P</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Peter O.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 3 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Refine Clinic has set a new standard for clinical dermatology. The staff is professional, and my skin condition is completely under control now.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">B</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Brenda A.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 4 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                If you're looking for expert medical dermatologists, this is the place. My skin health has improved dramatically since I started my treatment.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">M</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Michael K.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 5 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Absolutely loved my care during the <strong class="text-brand font-semibold">Rosacea Treatment treatment in Kampala</strong>! The treatment was highly effective and the follow-ups were excellent.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">S</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Sarah N.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 6 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                The ultimate clinic for clinical dermatology. The expertise of Dr. Chirag and the team is unmatched in Uganda.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">D</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">David M.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 7 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                My skin is completely clear and healthy. This was my first <strong class="text-brand font-semibold">Rosacea Treatment in Kampala</strong>, and the results exceeded my expectations.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">F</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Fatuma S.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 8 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                I noticed visible improvements and relief from my symptoms very quickly. The dermatologists explained the root cause of my condition clearly.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">J</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Joseph L.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 9 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Refine is the absolute best clinic for <strong class="text-brand font-semibold">Rosacea Treatment in Uganda</strong>. They use advanced clinical therapies and provide top-notch patient care.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">G</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Grace T.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 10 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Highly professional service! The medical treatment has restored my skin health and confidence. Highly recommend their dermatology team.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">A</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Alex R.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Custom Navigation / Pagination -->
+                <div class="flex items-center justify-center gap-6 mt-12">
+                    <div class="testi-prev w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
+                        <i class="fas fa-chevron-left text-sm"></i>
+                    </div>
+                    <div class="swiper-pagination !relative !bottom-0 !w-auto"></div>
+                    <div class="testi-next w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
+                        <i class="fas fa-chevron-right text-sm"></i>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -279,91 +525,91 @@ $pageDescription = "Early detection and expert treatment of all forms of skin ca
         <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
         <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
         <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
-          Explore our comprehensive FAQ section for quick answers to common queries about Skin Cancer Treatment. Find the clarity you need without delay.
+          Explore our comprehensive FAQ section for quick answers to common queries about Rosacea Treatment. Find the clarity you need without delay.
         </p>
       </div>
 
       <div class="space-y-3">
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is every mole a sign of skin cancer?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. How long does it take to see results?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">No, but any change in a mole's appearance should be evaluated.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">It varies, but many patients notice improvement within 4-6 weeks.</p>
             </div>
           </div>
         </div>
         
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. How often should I get skin checks?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. Is the treatment painful?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Annual checks are recommended, but those at higher risk might need more frequent evaluations.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Most find it mildly uncomfortable but not painful. Procedures like lasers might have a tingling sensation.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Can skin cancer be prevented?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Can I wear makeup after the treatment?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">While not entirely preventable, risks can be significantly reduced with sun protection measures.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">It's best to avoid makeup for at least 24 hours post-treatment.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. Is skin cancer treatment painful?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. Are there side effects?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Modern techniques aim for minimal discomfort, and pain management options are available.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Some may experience temporary redness, dryness, or peeling.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Are there any side effects to skin cancer treatments?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Do I need multiple sessions?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Possible side effects depend on the treatment type and are usually discussed during consultations.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Depending on the acne severity, multiple sessions might be recommended.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Skin Cancer Treatment in Uganda?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Rosacea Treatment in Uganda?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Skin Cancer Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Rosacea Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
             </div>
           </div>
         </div>

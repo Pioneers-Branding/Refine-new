@@ -1,7 +1,11 @@
 <?php
 $pageCategory = "Medical Dermatology";
-$pageTitle = "Psoriasis <i class='text-brand font-light'>Treatment.</i>";
-$pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to reduce plaques, calm inflammation, and restore your quality of life.";
+$pageTitle = "Vitiligo <i class='text-brand font-light'>Treatment.</i>";
+$pageDescription = "Repigment and restore confidence with our advanced vitiligo treatment options, including phototherapy, excimer laser, and surgical grafting in Kampala and Juba.";
+$metaTitle = "Vitiligo Treatment in Kampala, Uganda | Refine Clinic";
+$metaDescription = "Seeking experienced dermatologists for vitiligo treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced medical dermatology treatments.";
+$canonicalUrl = "https://refineskinandbody.com/vitiligo";
+$metaKeywords = "Vitiligo Treatment in Kampala, Vitiligo Treatment treatment in Kampal, Vitiligo Treatment in Uganda";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
@@ -9,7 +13,8 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- $pageTitle = "Psoriasis Treatment."; -->
+    <!-- What is Vitiligo Treatment?
+ -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -20,16 +25,16 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        Expert Aesthetic Care
+                        Premium Vitiligo
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Psoriasis Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Vitiligo Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Experience top-tier Psoriasis Treatment at Refine Skin and Body Clinic. Our advanced approach ensures optimal results tailored to your unique needs, helping you achieve your aesthetic goals safely and effectively under the guidance of our expert team.
+                        Vitiligo treatment is designed to restore skin pigment and tone in individuals diagnosed with vitiligo, where the skin loses its pigment cells, resulting in discoloured patches.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/imagesfromsite/Facial-Spa-09.webp" alt="Psoriasis Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/images/services/pigmentation/Vitiligo%20Treatment-09.png" alt="Vitiligo Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
                 </div>
 
@@ -46,9 +51,9 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Consultation
+                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Empathetic Consultation
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Discuss your aesthetic goals with Dr. Chirag and evaluate if this non-invasive treatment perfectly aligns with your desired profile.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Dr. Kotecha understands the emotional toll and provides supportive care.</p>
                             </div>
                         </div>
 
@@ -59,9 +64,9 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Preparation
+                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Customised Therapy
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">We prioritize your comfort. A premium topical numbing cream is applied to ensure a completely painless and relaxing experience.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Each vitiligo case is treated uniquely, ensuring optimal results.</p>
                             </div>
                         </div>
 
@@ -72,9 +77,9 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
+                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Safe & Proven Techniques
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Highest safety standards adhered to during treatments.</p>
                             </div>
                         </div>
 
@@ -85,9 +90,9 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Post-Treatment
+                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Visible Improvements
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Walk out immediately with your stunning, refined new profile.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Patients often report noticeable changes in a few sessions.</p>
                             </div>
                         </div>
 
@@ -108,12 +113,12 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
         </p>
       </div>
 
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Acne & Breakouts</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Persistent acne, cystic breakouts, and post-inflammatory hyperpigmentation can be effectively managed with personalised treatment plans. Our expert dermatologists combine medical therapies with advanced aesthetic treatments to clear your skin and prevent future breakouts.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Segmental Vitiligo</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Limited to one side or part of the body. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -122,8 +127,8 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Pigmentation Disorders</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Melasma, hyperpigmentation, and other pigmentary conditions are treated with a combination of medical-grade topicals, peels, and advanced laser therapies.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Non-segmental Vitiligo</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Appears on both sides of the body symmetrically.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -132,8 +137,8 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Skin Growths & Lesions</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Moles, skin tags, warts, and other benign or suspicious growths can be safely examined and removed by our experienced dermatology team.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Localised (Focal) Vitiligo</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Affects one or few areas.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -142,8 +147,8 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Eczema & Psoriasis</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Chronic inflammatory skin conditions like eczema and psoriasis are managed with comprehensive care plans that reduce flare-ups and improve skin comfort.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Trichrome Vitiligo</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Three shades of colour on the skin.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -152,8 +157,8 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Scar Management</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Acne scars, surgical scars, and keloids can be improved with advanced treatments including laser therapy, microneedling, and topical regimens.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Universal Vitiligo</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Nearly complete pigment loss.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -244,7 +249,7 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Results from Psoriasis Treatment are instantaneous and permanent without any maintenance."</p>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Vitiligo represents a form of skin damage."</p>
                             </div>
                             
                             <div class="relative py-2">
@@ -262,12 +267,254 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
                                     <i class="fas fa-check-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
                                 </div>
-                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">While highly effective, results vary per individual and may require occasional maintenance sessions to preserve optimal outcomes.</p>
+                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">Vitiligo is an absence of pigment and is not due to skin damage.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 
+            </div>
+        </div>
+    </section>
+
+    
+    <!-- ============================================
+         HAPPY PATIENTS / REVIEWS
+         ============================================ -->
+    <section id="patient-reviews" class="py-16 lg:py-24 bg-surface-cool relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-accent/5 rounded-full blur-[100px] -translate-y-1/2 translate-x-1/4 pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 w-[500px] h-[500px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
+
+        <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10">
+            <!-- Section Header -->
+            <div class="text-center max-w-3xl mx-auto mb-20 gs-reveal-text">
+                <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand/5 border border-brand/10 mb-6">
+                    <span class="text-accent font-body text-[10px] tracking-[0.25em] uppercase font-semibold">Testimonials</span>
+                </div>
+                <h2 class="font-display text-section text-brand-deeper leading-tight mb-6">
+                    Our Happy <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Patients.</i>
+                </h2>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
+                    Discover why we are the top-rated clinic for Vitiligo Treatment treatments. Here is what our patients say about their clinical dermatology journey with us.
+                </p>
+            </div>
+
+            <!-- Editorial Swiper Carousel -->
+            <div class="testimonials-swiper swiper gs-reveal-fade">
+                <div class="swiper-wrapper">
+
+                    <!-- Review 1 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                I had a wonderful experience at Refine Clinic. The medical team is highly professional and diagnosed my skin condition immediately.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Nalule H.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 2 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Best <strong class="text-brand font-semibold">Vitiligo Treatment treatment in Kampala</strong> in Kampala! The dermatologists are highly experienced and the treatment plan actually works.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">P</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Peter O.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 3 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Refine Clinic has set a new standard for clinical dermatology. The staff is professional, and my skin condition is completely under control now.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">B</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Brenda A.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 4 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                If you're looking for expert medical dermatologists, this is the place. My skin health has improved dramatically since I started my treatment.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">M</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Michael K.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 5 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Absolutely loved my care during the <strong class="text-brand font-semibold">Vitiligo Treatment treatment in Kampala</strong>! The treatment was highly effective and the follow-ups were excellent.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">S</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Sarah N.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 6 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                The ultimate clinic for clinical dermatology. The expertise of Dr. Chirag and the team is unmatched in Uganda.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">D</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">David M.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 7 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                My skin is completely clear and healthy. This was my first <strong class="text-brand font-semibold">Vitiligo Treatment in Kampala</strong>, and the results exceeded my expectations.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">F</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Fatuma S.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 8 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                I noticed visible improvements and relief from my symptoms very quickly. The dermatologists explained the root cause of my condition clearly.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">J</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Joseph L.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 9 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Refine is the absolute best clinic for <strong class="text-brand font-semibold">Vitiligo Treatment in Uganda</strong>. They use advanced clinical therapies and provide top-notch patient care.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">G</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Grace T.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 10 -->
+                    <div class="swiper-slide w-full md:w-[600px]">
+                        <div class="testimonial-slide-inner relative">
+                            <span class="quote-mark">"</span>
+                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
+                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                            </div>
+                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
+                                Highly professional service! The medical treatment has restored my skin health and confidence. Highly recommend their dermatology team.
+                            </h4>
+                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
+                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">A</div>
+                                <div>
+                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Alex R.</p>
+                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Custom Navigation / Pagination -->
+                <div class="flex items-center justify-center gap-6 mt-12">
+                    <div class="testi-prev w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
+                        <i class="fas fa-chevron-left text-sm"></i>
+                    </div>
+                    <div class="swiper-pagination !relative !bottom-0 !w-auto"></div>
+                    <div class="testi-next w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
+                        <i class="fas fa-chevron-right text-sm"></i>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -279,91 +526,91 @@ $pageDescription = "Comprehensive, multi-modal psoriasis treatment plans to redu
         <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
         <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
         <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
-          Explore our comprehensive FAQ section for quick answers to common queries about Psoriasis Treatment. Find the clarity you need without delay.
+          Explore our comprehensive FAQ section for quick answers to common queries about Vitiligo Treatment. Find the clarity you need without delay.
         </p>
       </div>
 
       <div class="space-y-3">
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is Psoriasis Treatment painful?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is vitiligo hereditary?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Most patients experience minimal discomfort. We prioritize your comfort throughout the Psoriasis Treatment procedure.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">While genetic predisposition exists, not everyone with genes will develop it.</p>
             </div>
           </div>
         </div>
         
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. When can I resume normal activities after Psoriasis Treatment?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. How long does treatment take?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Recovery time varies, but many patients can resume normal activities shortly after the procedure. Your specialist will provide specific aftercare instructions.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Duration varies based on vitiligo's extent and type.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Can I combine Psoriasis Treatment with other treatments?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Are there side effects to the treatment?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Absolutely. Discuss your holistic aesthetic goals during your consultation to curate a comprehensive, personalized treatment plan.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Most treatments are safe, but individual responses may vary. Consult with Dr Chirag for clarity.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. When will I see results from Psoriasis Treatment?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. Can vitiligo be cured entirely?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Results can vary depending on the individual and the specifics of the treatment. Many notice improvements quickly, while optimal results may develop over time.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">While it can't be &quot;cured&quot;, treatments can significantly reduce its appearance.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Are there any risks involved with Psoriasis Treatment?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Is sun exposure good for vitiligo?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Like all procedures, minor risks exist, but they are exceedingly minimal when conducted by highly experienced specialists. We will discuss all potential risks during your consultation.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Sunburn can worsen vitiligo; always protect your skin.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Psoriasis Treatment in Uganda?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Vitiligo Treatment in Uganda?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Psoriasis Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Vitiligo Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
             </div>
           </div>
         </div>

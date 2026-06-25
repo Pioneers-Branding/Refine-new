@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-url = "https://refineskinandbody.com/acne-treatment-kampala-juba"
+url = "https://refineskinandbody.com/acne"
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
 

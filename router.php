@@ -10,6 +10,67 @@ if (file_exists(__DIR__ . $path) && is_file(__DIR__ . $path)) {
 }
 
 // Handle 301 Redirects
+if ($path === '/medical-dermatology-kampala-juba') {
+    header("Location: /medical-dermatology", true, 301);
+    exit();
+}
+if ($path === '/acne-treatment-kampala-juba') {
+    header("Location: /acne", true, 301);
+    exit();
+}
+if ($path === '/scar-treatment-kampala-juba') {
+    header("Location: /scar", true, 301);
+    exit();
+}
+if ($path === '/Hyperpigmentation-Melasma-treatment-kampala-juba') {
+    header("Location: /hyperpigmentation-melasma", true, 301);
+    exit();
+}
+if ($path === '/hair-loss-treatment-kampala-juba') {
+    header("Location: /hair-loss", true, 301);
+    exit();
+}
+if ($path === '/rosacea-treatment-kampala-juba') {
+    header("Location: /rosacea", true, 301);
+    exit();
+}
+if ($path === '/vitiligo-treatment-kampala-juba') {
+    header("Location: /vitiligo", true, 301);
+    exit();
+}
+if ($path === '/alopecia-areata-treatment-kampala-juba') {
+    header("Location: /alopecia-areata", true, 301);
+    exit();
+}
+if ($path === '/skin-cancer-treatment-kampala-juba') {
+    header("Location: /skin-cancer", true, 301);
+    exit();
+}
+if ($path === '/melasma-treatment-kampala-juba') {
+    header("Location: /melasma", true, 301);
+    exit();
+}
+if ($path === '/hyperpigmentation-treatment-kampala-juba') {
+    header("Location: /hyperpigmentation", true, 301);
+    exit();
+}
+if ($path === '/eczema-treatment-kampala-juba') {
+    header("Location: /eczema", true, 301);
+    exit();
+}
+if ($path === '/psoriasis-treatment-kampala-juba') {
+    header("Location: /psoriasis", true, 301);
+    exit();
+}
+if ($path === '/mole-wart-removal-kampala-juba') {
+    header("Location: /mole-wart-removal", true, 301);
+    exit();
+}
+if ($path === '/skin-tag-removal-kampala-juba') {
+    header("Location: /skin-tag-removal", true, 301);
+    exit();
+}
+
 if ($path === '/chemical-peel-treatment-kampala-juba') {
     header("Location: /chemical-peel", true, 301);
     exit();
@@ -194,7 +255,7 @@ $routeMap = [
     '/about-dr-vicky-koojo-nganzi-dermatologist-in-uganda' => 'about-dr-vicky-koojo-nganzi-dermatologist-in-uganda.php',
     '/about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda' => 'about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda.php',
     '/cosmetic-dermatology-kampala-juba' => 'cosmetic-dermatology-kampala-juba.php',
-    '/medical-dermatology-kampala-juba' => 'medical-dermatology-kampala-juba.php',
+    '/medical-dermatology' => 'medical-dermatology.php',
     '/laser-treatments-kampala-juba' => 'laser-treatments-kampala-juba.php',
     '/prp-treatments-kampala-juba' => 'prp-treatments-kampala-juba.php',
     '/anti-aging-kampala-juba' => 'anti-aging-kampala-juba.php',
@@ -203,9 +264,9 @@ $routeMap = [
     '/skin-tightening' => 'skin-tightening.php',
     '/body-contouring' => 'body-contouring.php',
     '/body-contouring-kampala-juba' => 'body-contouring-kampala-juba.php',
-    '/scar-treatment-kampala-juba' => 'scar-treatment-kampala-juba.php',
-    '/hair-loss-treatment-kampala-juba' => 'hair-loss-treatment-kampala-juba.php',
-    '/Hyperpigmentation-Melasma-treatment-kampala-juba' => 'Hyperpigmentation-Melasma-treatment-kampala-juba.php',
+    '/scar' => 'scar.php',
+    '/hair-loss' => 'hair-loss.php',
+    '/hyperpigmentation-melasma' => 'hyperpigmentation-melasma.php',
     '/thread-lifting' => 'thread-lifting.php',
     '/anti-migraine' => 'anti-migraine.php',
     '/hair-restoration-kampala-juba' => 'hair-restoration-kampala-juba.php',
@@ -213,11 +274,11 @@ $routeMap = [
     '/mens-aesthetics-kampala-juba' => 'mens-aesthetics-kampala-juba.php',
     '/bridal-packages-kampala-juba' => 'bridal-packages-kampala-juba.php',
     '/skin-lightening-with-tatioactive-kampala-juba' => 'skin-lightening-with-tatioactive-kampala-juba.php',
-    '/rosacea-treatment-kampala-juba' => 'rosacea-treatment-kampala-juba.php',
-    '/acne-treatment-kampala-juba' => 'acne-treatment-kampala-juba.php',
-    '/vitiligo-treatment-kampala-juba' => 'vitiligo-treatment-kampala-juba.php',
+    '/rosacea' => 'rosacea.php',
+    '/acne' => 'acne.php',
+    '/vitiligo' => 'vitiligo.php',
     '/stretch-marks' => 'stretch-marks.php',
-    '/skin-cancer-treatment-kampala-juba' => 'skin-cancer-treatment-kampala-juba.php',
+    '/skin-cancer' => 'skin-cancer.php',
     '/chemical-peel' => 'chemical-peel.php',
     '/hydrafacial' => 'hydrafacial.php',
     '/cool-lifting' => 'cool-lifting.php',
@@ -227,13 +288,13 @@ $routeMap = [
     '/rf-microneedling' => 'rf-microneedling.php',
     '/plasma-pen-therapy' => 'plasma-pen-therapy.php',
     '/6d-green-laser' => '6d-green-laser.php',
-    '/melasma-treatment-kampala-juba' => 'melasma-treatment-kampala-juba.php',
-    '/hyperpigmentation-treatment-kampala-juba' => 'hyperpigmentation-treatment-kampala-juba.php',
+    '/melasma' => 'melasma.php',
+    '/hyperpigmentation' => 'hyperpigmentation.php',
     '/under-eye-treatment-kampala-juba' => 'under-eye-treatment-kampala-juba.php',
-    '/eczema-treatment-kampala-juba' => 'eczema-treatment-kampala-juba.php',
-    '/psoriasis-treatment-kampala-juba' => 'psoriasis-treatment-kampala-juba.php',
-    '/mole-wart-removal-kampala-juba' => 'mole-wart-removal-kampala-juba.php',
-    '/skin-tag-removal-kampala-juba' => 'skin-tag-removal-kampala-juba.php',
+    '/eczema' => 'eczema.php',
+    '/psoriasis' => 'psoriasis.php',
+    '/mole-wart-removal' => 'mole-wart-removal.php',
+    '/skin-tag-removal' => 'skin-tag-removal.php',
     '/open-pores-treatment-kampala-juba' => 'open-pores-treatment-kampala-juba.php',
     '/anti-wrinkle-treatment-kampala-juba' => 'anti-wrinkle-treatment-kampala-juba.php',
     '/carbon-laser-facial-kampala-juba' => 'carbon-laser-facial-kampala-juba.php',
@@ -257,7 +318,7 @@ $routeMap = [
     '/skin-boosters-kampala-juba' => 'skin-boosters-kampala-juba.php',
     '/prp-hair-restoration' => 'prp-hair-restoration.php',
     '/hair-transplant' => 'hair-transplant.php',
-    '/alopecia-areata-treatment-kampala-juba' => 'alopecia-areata-treatment-kampala-juba.php',
+    '/alopecia-areata' => 'alopecia-areata.php',
     '/laser-hair-removal' => 'laser-hair-removal.php',
     '/laser-tattoo-removal' => 'laser-tattoo-removal.php',
     '/microblading-kampala-juba' => 'microblading-kampala-juba.php',
