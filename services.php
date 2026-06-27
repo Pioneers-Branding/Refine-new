@@ -146,7 +146,7 @@ $pageDescription = "Explore our comprehensive suite of advanced aesthetic and me
                 </div>
                 <div class="glass-panel p-6 rounded-2xl bg-white border border-brand/5">
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Is there any downtime for injectables?</h4>
-                    <p class="text-brand-muted font-body text-sm font-light">Most injectable treatments (like Botox and Fillers) have minimal to zero downtime. You may experience slight redness or minor bruising which typically subsides within 24-48 hours.</p>
+                    <p class="text-brand-muted font-body text-sm font-light">Most injectable treatments (like Botox&reg; and Fillers) have minimal to zero downtime. You may experience slight redness or minor bruising which typically subsides within 24-48 hours.</p>
                 </div>
             </div>
             

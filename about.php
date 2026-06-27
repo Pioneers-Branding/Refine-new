@@ -150,40 +150,43 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                 </div>
             </div>
 
-            <div class="grid md:grid-cols-2 lg:grid-cols-5 gap-8 items-start gs-stagger-bento">
-                <!-- Team Member 1: Dr. Ahmed Ashraf -->
-                <a href="dr-ahmed-ashraf" class="group cursor-pointer bento-item">
+                        <div class="grid md:grid-cols-2 lg:grid-cols-5 gap-8 items-start gs-stagger-bento">
+                <!-- Team Member 1: Dr. Henry Owiny -->
+                <a href="dr-henry-owiny" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
-                        <img src="/assets/images/team/dr_Ahmed_Ashraf_Dermatologist.png" alt="Dr. Ahmed Ashraf" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
+                        <img src="/assets/imagesfromsite/blog/Refine_Skin_and_Body_Clinic_-_Dr_Henry_Owiny.webp" alt="Dr. Henry Owiny" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
                     <div class="min-h-[96px] flex flex-col justify-start">
-                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Ahmed Ashraf</h4>
-                    <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Dermatologist (Egypt)</p>
+                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Henry Owiny</h4>
+                    <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Aesthetic Physician</p>
                     </div>
                 </a>
-                <!-- Team Member 2: Alison Gallagher -->
-                <a href="alison-gallagher" class="group cursor-pointer bento-item">
+                
+                <!-- Team Member 2: Dr. Vicky Koojo Nganzi -->
+                <a href="dr-vicky-koojo-nganzi" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
-                        <img src="/assets/images/team/Alison_Gallagher_picture_3.png" alt="Alison Gallagher" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
+                        <img src="/assets/images/team/Dr_Vicky_Koojo_Nganzi.png" alt="Dr. Vicky Koojo Nganzi" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
                     <div class="min-h-[96px] flex flex-col justify-start">
-                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Alison Gallagher</h4>
-                    <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Psychotherapist</p>
+                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Vicky Koojo Nganzi</h4>
+                    <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Medical & Cosmetic Dermatologist</p>
                     </div>
                 </a>
-                <!-- Team Member 3: Wendy Emyedu -->
-                <a href="wendy-emyedu-ayayo" class="group cursor-pointer bento-item">
-                    <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
-                        <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
-                        <img src="/assets/images/team/Ms_Wendy_Emyedu_Ayayo.png" alt="Ms. Wendy Emyedu Ayayo" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
+                
+                <!-- Team Member 3: Dr. Fauzia Anjum -->
+                <a href="#" class="group cursor-pointer bento-item">
+                    <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool flex items-center justify-center">
+                        <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/10 transition-colors duration-500 z-10"></div>
+                        <span class="text-brand-muted font-body text-sm uppercase tracking-widest">Photo Pending</span>
                     </div>
                     <div class="min-h-[96px] flex flex-col justify-start">
-                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Wendy Emyedu</h4>
-                    <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Nutritionist</p>
+                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Fauzia Anjum</h4>
+                    <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Specialist</p>
                     </div>
                 </a>
+                
                 <!-- Team Member 4: Dr. William Lubega -->
                 <a href="dr-william-lubega" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
@@ -195,15 +198,16 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
                     <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Plastic Surgeon</p>
                     </div>
                 </a>
-                <!-- Team Member 5: Dr. Vicky Koojo Nganzi -->
-                <a href="dr-vicky-koojo-nganzi" class="group cursor-pointer bento-item">
+                
+                <!-- Team Member 5: Wendy Emyedu -->
+                <a href="wendy-emyedu-ayayo" class="group cursor-pointer bento-item">
                     <div class="relative aspect-[4/5] rounded-3xl overflow-hidden mb-6 bg-surface-cool">
                         <div class="absolute inset-0 bg-brand-deeper/5 group-hover:bg-brand-deeper/20 transition-colors duration-500 z-10"></div>
-                        <img src="/assets/images/team/Dr_Vicky_Koojo_Nganzi.png" alt="Dr. Vicky Koojo Nganzi" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
+                        <img src="/assets/images/team/Ms_Wendy_Emyedu_Ayayo.png" alt="Ms. Wendy Emyedu Ayayo" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700 filter grayscale-[0.2]">
                     </div>
                     <div class="min-h-[96px] flex flex-col justify-start">
-                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Dr. Vicky Koojo Nganzi</h4>
-                    <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Medical & Cosmetic Dermatologist</p>
+                        <h4 class="font-display text-2xl text-brand-deeper mb-1 group-hover:text-brand transition-colors">Wendy Emyedu</h4>
+                    <p class="font-heading text-xs text-accent font-semibold uppercase tracking-widest">Nutritionist</p>
                     </div>
                 </a>
             </div>

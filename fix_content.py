@@ -1,215 +1,97 @@
-#!/usr/bin/env python3
-"""
-Extract accurate treatment content from scraped HTML pages 
-and replace Rhinoplasty placeholder text in the current PHP pages.
-"""
 import re
-import os
-import shutil
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-SCRAPED_DIR = os.path.join(BASE_DIR, 'scraped_site', 'pages')
-PHP_DIR = BASE_DIR
-
-def extract_scraped_content(html_file):
-    """Extract the 'What is...' section content from scraped HTML."""
-    with open(html_file, 'r', encoding='utf-8') as f:
+def update_file(filename, replacements):
+    with open(filename, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Extract H1 page title
-    h1_match = re.search(r'<h1 class="h1-sm">([^<]+)</h1>', content)
-    page_title = h1_match.group(1) if h1_match else ''
-    
-    # Extract the main "about" section heading (h3)
-    # We look for the FIRST about-section after page hero
-    about_section = re.search(
-        r'<section class="wide-60 about-section division mt-40"[^>]*>.*?<h3 class="h3-md">([^<]+)</h3>',
-        content, re.DOTALL
-    )
-    about_heading = about_section.group(1) if about_section else ''
-    
-    # Extract the paragraph text
-    about_para = ''
-    if about_section:
-        para_match = re.search(
-            r'<h3 class="h3-md">[^<]+</h3>\s*<!-- Text -->\s*<p class="txt-color-05">([^<]+)',
-            content, re.DOTALL
-        )
-        if para_match:
-            about_para = para_match.group(1).strip()
-    
-    # If heading not found in mt-40 section, try without mt-40
-    if not about_heading:
-        about_section = re.search(
-            r'<section class="wide-60 about-section division[^"]*"[^>]*>.*?<h3 class="h3-md">([^<]+)</h3>',
-            content, re.DOTALL
-        )
-        if about_section:
-            about_heading = about_section.group(1)
-            
-    # Extract FAQ section
-    faq_section = ''
-    faq_match = re.search(
-        r'<section id="faqs-1"[^>]*>(.*?)</section>',
-        content, re.DOTALL
-    )
-    if not faq_match:
-        faq_match = re.search(
-            r'<div class="faqs-section[^"]*"[^>]*>(.*?)<div class="faqs-section',
-            content, re.DOTALL
-        )
-    
-    # Extract "Why choose us" section
-    why_choose = ''
-    why_match = re.search(
-        r'<h5 class="h5-lg">So, why choose us\?</h5>(.*?)(?=<h5 class="h5-lg">|</section>)',
-        content, re.DOTALL
-    )
-    
-    return {
-        'page_title': page_title,
-        'about_heading': about_heading,
-        'about_para': about_para,
-        'why_choose': why_match.group(0) if why_match else '',
-        'faq': faq_match.group(0) if faq_match else '',
-    }
-
-def fix_php_file(php_file, scraped_html_file):
-    """Replace Rhinoplasty placeholder text in PHP with correct content from scraped HTML."""
-    scraped = extract_scraped_content(scraped_html_file)
-    
-    with open(php_file, 'r', encoding='utf-8') as f:
-        php_content = f.read()
-    
-    # 1. Remove the "What is Liquid Rhinoplasty?" comment
-    php_content = php_content.replace(
-        '<!-- What is Liquid Rhinoplasty? -->',
-        f'<!-- {scraped["about_heading"]} -->' if scraped['about_heading'] else '<!-- Treatment Overview -->'
-    )
-    
-    # 2. Fix the badge text "The Non-Surgical Nose Job"
-    if scraped['page_title']:
-        # Create a treatment-appropriate badge based on category
-        treatment_name = scraped['page_title'].replace('Treatment in Kampala', '').replace('in Kampala', '').strip()
-        badge_text = f'Premium {treatment_name}'
-        if not treatment_name:
-            # Try to get from PHP variable
-            cat_match = re.search(r'\$pageCategory\s*=\s*"([^"]+)"', php_content)
-            if cat_match:
-                badge_text = f'Expert {cat_match.group(1)}'
+    for old, new in replacements:
+        content = content.replace(old, new)
         
-        old_badge = re.search(
-            r'<span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>\s*\n\s*([^\n<]+)',
-            php_content
-        )
-        if old_badge:
-            old_text = old_badge.group(1).strip()
-            php_content = php_content.replace(
-                f'<span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>\n                        {old_text}',
-                f'<span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>\n                        {badge_text}'
-            )
-    
-    # 3. Fix the heading "What is <Treatment>?"
-    if scraped['about_heading']:
-        # Extract treatment name from the heading
-        heading_text = scraped['about_heading'].strip()
-        # Remove trailing question mark
-        heading_text = heading_text.rstrip('?')
-        
-        # Find and replace the "What is" heading in PHP
-        old_heading_match = re.search(
-            r'<h2 class="text-section font-display text-brand-deeper mb-6 leading-\[1\.1\]">What is <br/>.*?</h2>',
-            php_content, re.DOTALL
-        )
-        if old_heading_match:
-            new_heading = f'<h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">{heading_text}?</i></h2>'
-            php_content = php_content.replace(old_heading_match.group(0), new_heading)
-    
-    # 4. Fix the description paragraph
-    if scraped['about_para']:
-        # Find the paragraph after the heading
-        old_para_match = re.search(
-            r'<p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">\s*\n\s*([^<]+)\s*\n\s*</p>',
-            php_content
-        )
-        if old_para_match:
-            old_para = old_para_match.group(0)
-            # Only replace if it contains Rhinoplasty-specific text
-            if 'Liquid Rhinoplasty' in old_para or 'nose job' in old_para.lower() or 'nasal' in old_para.lower() or 'Chirag' in old_para:
-                php_content = php_content.replace(
-                    old_para,
-                    f'<p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">\n                        {scraped["about_para"]}\n                    </p>'
-                )
-    
-    # 5. Fix pageTitle and pageDescription if scraped has them
-    if scraped['page_title']:
-        old_title_match = re.search(
-            r'\$pageTitle = "([^"]+)"',
-            php_content
-        )
-        if old_title_match:
-            old_title = old_title_match.group(1)
-            # Don't replace if it already seems correct (not containing Rhinoplasty)
-            if 'Rhinoplasty' in old_title or 'rhinoplasty' in old_title:
-                new_title = scraped['page_title'].replace('Treatment in Kampala', 'Treatment').replace('in Kampala', '')
-                # Remove "& Juba" if present
-                new_title = new_title.replace(' Kampala', '')
-                new_title_parts = new_title.split(' - ')
-                if len(new_title_parts) > 1:
-                    new_title = new_title_parts[0].strip()
-    
-    with open(php_file, 'w', encoding='utf-8') as f:
-        f.write(php_content)
-    
-    return scraped
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(content)
 
-def main():
-    php_files = [f for f in os.listdir(PHP_DIR) if f.endswith('.php') and 'include' not in f and 'build' not in f and 'fix' not in f and 'router' not in f]
-    scraped_files = os.listdir(SCRAPED_DIR) if os.path.isdir(SCRAPED_DIR) else []
-    
-    # Build mapping: scraped filename without .html -> PHP filename without .php
-    scraped_map = {}
-    for sf in scraped_files:
-        if sf.endswith('.html'):
-            base = sf[:-5]
-            scraped_map[base] = sf
-    
-    fixed = 0
-    not_found = []
-    no_scraped = []
-    
-    for php_file in sorted(php_files):
-        php_base = php_file[:-4]
-        scraped_file = scraped_map.get(php_base)
-        
-        if scraped_file:
-            scraped_path = os.path.join(SCRAPED_DIR, scraped_file)
-            php_path = os.path.join(PHP_DIR, php_file)
-            
-            try:
-                result = fix_php_file(php_path, scraped_path)
-                fixed += 1
-                print(f"✓ {php_file} <- {scraped_file} [{result['about_heading'][:50]}...]")
-            except Exception as e:
-                print(f"✗ {php_file}: {e}")
-        else:
-            no_scraped.append(php_file)
-    
-    print(f"\n=== Summary ===")
-    print(f"Fixed: {fixed} files")
-    
-    if no_scraped:
-        print(f"\nPHP files without scraped counterpart (need manual content):")
-        for f in sorted(no_scraped):
-            print(f"  - {f}")
-    
-    # Also show scraped files without PHP counterpart
-    php_bases = {f[:-4] for f in php_files}
-    missing_php = [sf for sf in scraped_map.keys() if sf not in php_bases]
-    if missing_php:
-        print(f"\nScraped pages without PHP counterpart (need to be created):")
-        for f in sorted(missing_php):
-            print(f"  - {f}.html -> {f}.php")
+# OMG Shot Fixes
+omg_replacements = [
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Medical Weight Loss</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Achieve sustainable weight loss with medically supervised programmes that combine nutritional guidance, lifestyle coaching, and advanced treatments. Our expert team creates personalised plans that address your unique metabolism, health goals, and lifestyle.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Decreased Libido</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Helps rejuvenate intimate tissues and increase sexual desire by stimulating natural cell regeneration and blood flow.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Appetite Control</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Innovative treatments that help manage hunger cues and reduce cravings, making it easier to maintain a healthy eating plan.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Difficulty Achieving Orgasm</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Enhances clitoral and vaginal sensitivity, making orgasms easier to achieve and often more intense.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Metabolic Boost</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Treatments and supplements designed to support healthy metabolism and energy expenditure for more effective weight management.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Vaginal Dryness</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Improves natural lubrication by restoring healthy tissue, reducing discomfort and enhancing intimacy.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Body Composition</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Improve your body composition with treatments that target fat reduction while preserving lean muscle mass for a healthier, more toned physique.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Urinary Incontinence</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Strengthens the tissues around the urethra, significantly improving or resolving mild to moderate stress incontinence.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Lifestyle Integration</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Ongoing support and guidance to help you integrate healthy habits into your daily life for lasting, sustainable weight management success.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Pain During Intercourse</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Reduces pain (dyspareunia) by healing and rejuvenating the vaginal walls, leading to more comfortable and enjoyable sex.</p>'
+    )
+]
+update_file('omg-shot-treatment-kampala-juba.php', omg_replacements)
 
-if __name__ == '__main__':
-    main()
+
+# M-Shot Fixes
+m_replacements = [
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Energy & Vitality</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Combat fatigue and low energy with a potent blend of B vitamins, minerals, and amino acids delivered directly into your bloodstream. Our IV therapy supports cellular energy production and helps you feel revitalised and ready to take on the day.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Erectile Dysfunction (ED)</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Improves blood flow and stimulates the growth of new blood vessels, resulting in stronger, firmer, and more sustainable erections.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Immune Support</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Strengthen your immune system with high-dose vitamin C, zinc, and other immune-supporting nutrients for maximum absorption and effectiveness.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Decreased Sensitivity</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Regenerates nerve tissue to heighten sensitivity and increase overall sexual pleasure and satisfaction.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hydration & Recovery</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Rapidly rehydrate and replenish electrolytes after illness, travel, or intense physical activity for fast, effective recovery.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Performance Anxiety</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">By enhancing physical performance and function, the M-Shot can significantly boost sexual confidence and reduce anxiety.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Detox & Glow</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Support your body\'s natural detoxification pathways with glutathione and antioxidants that help clear toxins and promote radiant health.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Peyronie\'s Disease</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Helps break down scar tissue and plaque, which can reduce penile curvature and associated pain or discomfort.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Total Wellness Boost</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Our comprehensive IV therapy combines essential nutrients, hydration, and vitamins to support your overall health and wellbeing — helping you feel your best every day.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Overall Sexual Wellness</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Promotes healthier tissue and optimal function for a revitalized sex life and improved intimate wellness.</p>'
+    )
+]
+update_file('m-shot-treatment-kampala-juba.php', m_replacements)
+
+# Wonder Axon Fixes
+wonder_axon_replacements = m_replacements.copy()  # Uses the exact same IV texts currently!
+wonder_axon_replacements = [
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Energy & Vitality</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Combat fatigue and low energy with a potent blend of B vitamins, minerals, and amino acids delivered directly into your bloodstream. Our IV therapy supports cellular energy production and helps you feel revitalised and ready to take on the day.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Muscle Toning & Building</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Stimulates intense muscle contractions that build, strengthen, and tone core, glute, arm, and leg muscles far beyond normal exercise.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Immune Support</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Strengthen your immune system with high-dose vitamin C, zinc, and other immune-supporting nutrients for maximum absorption and effectiveness.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Fat Reduction</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">The high-intensity metabolic stimulation accelerates fat burning in targeted areas, helping to reduce stubborn localized fat deposits.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hydration & Recovery</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Rapidly rehydrate and replenish electrolytes after illness, travel, or intense physical activity for fast, effective recovery.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Body Contouring</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Sculpts and defines the body without surgery or downtime, providing a noticeable lifting and firming effect.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Detox & Glow</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Support your body\'s natural detoxification pathways with glutathione and antioxidants that help clear toxins and promote radiant health.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Natal Recovery</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Helps restore abdominal muscle tone and strength after pregnancy, safely assisting in diastasis recti improvement.</p>'
+    ),
+    (
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Total Wellness Boost</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Our comprehensive IV therapy combines essential nutrients, hydration, and vitamins to support your overall health and wellbeing — helping you feel your best every day.</p>',
+        '<h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Athletic Performance</h4>\n          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Enhances muscular endurance and strength, providing a supplementary boost for athletes and fitness enthusiasts.</p>'
+    ),
+    (
+        'muscle wasting, metabolic disturbance',
+        'muscle building process, metabolic stimulation'
+    ),
+    (
+        'muscle wasting',
+        'muscle building'
+    )
+]
+update_file('wonder-axon-treatment-kampala-juba.php', wonder_axon_replacements)
+

@@ -78,7 +78,7 @@ $metaKeywords = "Melasma Treatment in Kampala, Melasma Treatment treatment in Ka
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Expertly applied treatments, which may include advanced peels, laser therapy, or topical prescriptions, are administered to target excess pigmentation and restore an even skin tone.</p>
                             </div>
                         </div>
 
@@ -91,7 +91,7 @@ $metaKeywords = "Melasma Treatment in Kampala, Melasma Treatment treatment in Ka
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">4.</span> Post-Treatment
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Walk out immediately with your stunning, refined new profile.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Receive personalized skincare guidance and a maintenance routine to protect your skin, ensuring long-lasting, clear, and radiant results.</p>
                             </div>
                         </div>
 
@@ -201,7 +201,7 @@ $metaKeywords = "Melasma Treatment in Kampala, Melasma Treatment treatment in Ka
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Artistic Vision</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A keen, masterful aesthetic eye ensuring beautifully harmonious and perfectly proportioned results.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">A deep understanding of diverse skin types and pigmentation triggers, ensuring safe, effective, and customized care.</p>
                             </div>
                         </div>
                         
@@ -211,7 +211,7 @@ $metaKeywords = "Melasma Treatment in Kampala, Melasma Treatment treatment in Ka
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Safety First</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using only premium, high-quality, FDA-approved dermal fillers.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising safety standards using scientifically proven, medical-grade treatments and clinically validated technologies.</p>
                             </div>
                         </div>
 
@@ -609,7 +609,7 @@ $metaKeywords = "Melasma Treatment in Kampala, Melasma Treatment treatment in Ka
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Melasma Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
             </div>
           </div>
         </div>

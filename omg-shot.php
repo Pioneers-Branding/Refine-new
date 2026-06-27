@@ -116,8 +116,8 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Medical Weight Loss</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Achieve sustainable weight loss with medically supervised programmes that combine nutritional guidance, lifestyle coaching, and advanced treatments. Our expert team creates personalised plans that address your unique metabolism, health goals, and lifestyle.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Decreased Libido</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Helps rejuvenate intimate tissues and increase sexual desire by stimulating natural cell regeneration and blood flow.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -126,8 +126,8 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Appetite Control</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Innovative treatments that help manage hunger cues and reduce cravings, making it easier to maintain a healthy eating plan.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Difficulty Achieving Orgasm</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Enhances clitoral and vaginal sensitivity, making orgasms easier to achieve and often more intense.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -136,8 +136,8 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Metabolic Boost</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Treatments and supplements designed to support healthy metabolism and energy expenditure for more effective weight management.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Vaginal Dryness</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Improves natural lubrication by restoring healthy tissue, reducing discomfort and enhancing intimacy.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -146,8 +146,8 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Body Composition</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Improve your body composition with treatments that target fat reduction while preserving lean muscle mass for a healthier, more toned physique.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Urinary Incontinence</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Strengthens the tissues around the urethra, significantly improving or resolving mild to moderate stress incontinence.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -156,8 +156,8 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Lifestyle Integration</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Ongoing support and guidance to help you integrate healthy habits into your daily life for lasting, sustainable weight management success.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Pain During Intercourse</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Reduces pain (dyspareunia) by healing and rejuvenating the vaginal walls, leading to more comfortable and enjoyable sex.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -609,7 +609,7 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Omg Shot Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
             </div>
           </div>
         </div>

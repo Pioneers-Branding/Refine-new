@@ -44,7 +44,7 @@ $pageDescription = "Explore our premium treatment packages and pricing structure
                     <p class="text-xs text-white/50 font-light mb-6">Complete non-surgical rejuvenation.</p>
                     <div class="font-display text-3xl text-accent mb-8">Bespoke<span class="text-xs text-white/50 font-body block mt-1">Custom quote upon consultation</span></div>
                     <ul class="text-sm font-body space-y-3 mb-8">
-                        <li class="flex items-start gap-3"><i class="fas fa-check text-accent mt-1"></i> Strategic Botox Placement</li>
+                        <li class="flex items-start gap-3"><i class="fas fa-check text-accent mt-1"></i> Strategic Botox&reg; Placement</li>
                         <li class="flex items-start gap-3"><i class="fas fa-check text-accent mt-1"></i> Multi-syringe Dermal Filler</li>
                         <li class="flex items-start gap-3"><i class="fas fa-check text-accent mt-1"></i> Complimentary Review Session</li>
                     </ul>

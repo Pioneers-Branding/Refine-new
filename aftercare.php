@@ -30,7 +30,7 @@ $pageDescription = "Proper aftercare is crucial for achieving optimal results an
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6" id="pdfGrid">
                 
                 <!-- PDF Box -->
-                <div class="pdf-item glass-panel p-6 flex items-center justify-between group hover:bg-white transition-colors rounded-2xl cursor-pointer border border-brand/5 hover:border-brand/30 shadow-sm" data-category="injectables" data-title="botox aftercare">
+                <div class="pdf-item glass-panel p-6 flex items-center justify-between group hover:bg-white transition-colors rounded-2xl cursor-pointer border border-brand/5 hover:border-brand/30 shadow-sm" data-category="injectables" data-title="Botox&reg; aftercare">
                     <div class="flex items-center gap-4">
                         <div class="w-12 h-12 bg-brand/10 rounded-xl flex items-center justify-center text-brand text-xl">
                             <i class="far fa-file-pdf"></i>

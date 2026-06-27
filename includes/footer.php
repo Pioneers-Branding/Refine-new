@@ -51,7 +51,7 @@
                         <a href="https://maps.app.goo.gl/NJTfUUd4WxAWrHBW9" target="_blank" class="absolute top-3 left-3 bg-white text-brand-deeper text-xs font-semibold px-3 py-1.5 rounded shadow flex items-center gap-2 hover:bg-accent transition-colors z-10"><i class="fas fa-external-link-alt text-[10px]"></i> Open in Maps</a>
                     </div>
                     <p class="text-accent text-[10px] tracking-widest uppercase font-semibold mb-1"><i class="fas fa-map-marker-alt"></i> Branch</p>
-                    <h4 class="font-heading text-white text-base mb-1">UMC Victoria, Bukoto</h4>
+                    <h4 class="font-heading text-white text-base mb-1">Refine Skin & Body Clinic @ UMC Bukoto</h4>
                     <p class="text-[11px] text-white/60 leading-relaxed mb-2 font-light">UMC Victoria Hospital Annex<br>Kampala, Uganda</p>
                     <a href="tel:+256748951996" class="text-white text-xs mb-1 hover:text-accent transition-colors"><i class="fas fa-phone-alt mr-2 text-accent"></i>+256 748 951996</a>
                     <a href="mailto:bukoto@refineskinandbody.com" class="text-white text-xs hover:text-accent transition-colors"><i class="fas fa-envelope mr-2 text-accent"></i>bukoto@refineskinandbody.com</a>

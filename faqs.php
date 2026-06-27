@@ -48,7 +48,7 @@ $pageDescription = "Find answers to the most common questions about our treatmen
                             <!-- FAQ Item -->
                             <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group">
                                 <div class="p-6 flex justify-between items-center bg-white/50 group-hover:bg-white transition-colors">
-                                    <h4 class="font-heading font-semibold text-brand-deeper text-lg">How long does Botox take to show results?</h4>
+                                    <h4 class="font-heading font-semibold text-brand-deeper text-lg">How long does Botox&reg; take to show results?</h4>
                                     <i class="fas fa-plus text-brand transition-transform duration-300 transform group-[.active]:rotate-45"></i>
                                 </div>
                                 <div class="faq-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">

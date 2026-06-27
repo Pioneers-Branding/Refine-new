@@ -17,7 +17,7 @@ $pageDescription = "Download and review the consent forms required for your spec
             <div class="glass-panel p-4 rounded-2xl bg-white border border-brand/5 mb-12 flex flex-col md:flex-row gap-4 items-center justify-between shadow-sm">
                 <div class="relative w-full md:w-96">
                     <i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-brand/30"></i>
-                    <input type="text" id="pdfSearch" placeholder="Search forms (e.g. Botox, Laser)..." class="w-full bg-surface-warm border-none rounded-xl pl-12 pr-4 py-3 text-sm focus:outline-none focus:ring-1 focus:ring-accent transition-all">
+                    <input type="text" id="pdfSearch" placeholder="Search forms (e.g. Botox&reg;, Laser)..." class="w-full bg-surface-warm border-none rounded-xl pl-12 pr-4 py-3 text-sm focus:outline-none focus:ring-1 focus:ring-accent transition-all">
                 </div>
                 <div class="flex gap-2 w-full md:w-auto overflow-x-auto hide-scrollbar">
                     <button class="px-4 py-2 rounded-lg bg-brand text-white text-xs font-semibold whitespace-nowrap">All Forms</button>
@@ -30,7 +30,7 @@ $pageDescription = "Download and review the consent forms required for your spec
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6" id="pdfGrid">
                 
                 <!-- PDF Box -->
-                <div class="pdf-item glass-panel p-6 flex items-center justify-between group hover:bg-white transition-colors rounded-2xl cursor-pointer border border-brand/5 hover:border-accent/30 shadow-sm" data-category="injectables" data-title="botox consent">
+                <div class="pdf-item glass-panel p-6 flex items-center justify-between group hover:bg-white transition-colors rounded-2xl cursor-pointer border border-brand/5 hover:border-accent/30 shadow-sm" data-category="injectables" data-title="Botox&reg; consent">
                     <div class="flex items-center gap-4">
                         <div class="w-12 h-12 bg-accent/10 rounded-xl flex items-center justify-center text-accent text-xl">
                             <i class="far fa-file-pdf"></i>

@@ -224,27 +224,38 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // ─── NAV DROPDOWN HOVER INTENT ────────────────
     let closeTimer = null;
+    let openTimer = null;
 
     document.querySelectorAll('.nav-item-dropdown').forEach(item => {
         const dropdown = item.querySelector('.nav-dropdown');
 
         // Cancel close on any interaction inside the item
-        const cancelClose = () => clearTimeout(closeTimer);
+        const cancelClose = () => {
+            clearTimeout(closeTimer);
+            clearTimeout(openTimer);
+        };
 
         item.addEventListener('mouseenter', () => {
             clearTimeout(closeTimer);
-            // Close all other dropdowns immediately
-            document.querySelectorAll('.nav-item-dropdown.show').forEach(other => {
-                if (other !== item) other.classList.remove('show');
-            });
-            if (dropdown) {
-                item.classList.add('show');
-                // Force pointer-events in case CSS transition lags
-                dropdown.style.pointerEvents = 'auto';
-            }
+            clearTimeout(openTimer);
+            
+            // Wait a small delay before opening to prevent diagonal move issues
+            openTimer = setTimeout(() => {
+                // Close all other dropdowns immediately
+                document.querySelectorAll('.nav-item-dropdown.show').forEach(other => {
+                    if (other !== item) other.classList.remove('show');
+                });
+                if (dropdown) {
+                    item.classList.add('show');
+                    // Force pointer-events in case CSS transition lags
+                    dropdown.style.pointerEvents = 'auto';
+                }
+            }, 150); // Hover intent delay
         });
 
         item.addEventListener('mouseleave', (e) => {
+            clearTimeout(openTimer); // Cancel if mouse leaves before it opens
+            
             // Only start close timer if mouse actually left the item
             // (not just moved to a child element)
             const related = e.relatedTarget;
@@ -259,6 +270,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (dropdown) {
             dropdown.addEventListener('mouseenter', cancelClose);
             dropdown.addEventListener('mouseleave', () => {
+                clearTimeout(openTimer);
                 closeTimer = setTimeout(() => {
                     item.classList.remove('show');
                 }, 400);

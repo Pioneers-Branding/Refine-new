@@ -113,7 +113,7 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                                                     <option value="microneedling">RF Microneedling</option>
                                                 </optgroup>
                                                 <optgroup label="Anti-Aging">
-                                                    <option value="botox">Botox®</option>
+                                                    <option value="Botox&reg;">Botox®</option>
                                                     <option value="fillers">Dermal Fillers</option>
                                                     <option value="sculptra">Sculptra Face Lift</option>
                                                 </optgroup>

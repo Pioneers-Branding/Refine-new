@@ -28,7 +28,7 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
                     </div>
                     <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Wonder Axon Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        A 25-minute session that produces the same muscle wasting, metabolic disturbance and caloric consumption as several hours of training in the gym.
+                        A 25-minute session that produces the same muscle building process, metabolic stimulation and caloric consumption as several hours of training in the gym.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
@@ -116,8 +116,8 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Energy & Vitality</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Combat fatigue and low energy with a potent blend of B vitamins, minerals, and amino acids delivered directly into your bloodstream. Our IV therapy supports cellular energy production and helps you feel revitalised and ready to take on the day.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Muscle Toning & Building</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Stimulates intense muscle contractions that build, strengthen, and tone core, glute, arm, and leg muscles far beyond normal exercise.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -126,8 +126,8 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Immune Support</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Strengthen your immune system with high-dose vitamin C, zinc, and other immune-supporting nutrients for maximum absorption and effectiveness.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Fat Reduction</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">The high-intensity metabolic stimulation accelerates fat burning in targeted areas, helping to reduce stubborn localized fat deposits.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -136,8 +136,8 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hydration & Recovery</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Rapidly rehydrate and replenish electrolytes after illness, travel, or intense physical activity for fast, effective recovery.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Body Contouring</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Sculpts and defines the body without surgery or downtime, providing a noticeable lifting and firming effect.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -146,8 +146,8 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Detox & Glow</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Support your body's natural detoxification pathways with glutathione and antioxidants that help clear toxins and promote radiant health.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Natal Recovery</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Helps restore abdominal muscle tone and strength after pregnancy, safely assisting in diastasis recti improvement.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -156,8 +156,8 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Total Wellness Boost</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Our comprehensive IV therapy combines essential nutrients, hydration, and vitamins to support your overall health and wellbeing — helping you feel your best every day.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Athletic Performance</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Enhances muscular endurance and strength, providing a supplementary boost for athletes and fitness enthusiasts.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -609,7 +609,7 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for Wonder Axon Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
             </div>
           </div>
         </div>

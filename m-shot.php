@@ -116,8 +116,8 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Energy & Vitality</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Combat fatigue and low energy with a potent blend of B vitamins, minerals, and amino acids delivered directly into your bloodstream. Our IV therapy supports cellular energy production and helps you feel revitalised and ready to take on the day.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Erectile Dysfunction (ED)</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Improves blood flow and stimulates the growth of new blood vessels, resulting in stronger, firmer, and more sustainable erections.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -126,8 +126,8 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Immune Support</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Strengthen your immune system with high-dose vitamin C, zinc, and other immune-supporting nutrients for maximum absorption and effectiveness.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Decreased Sensitivity</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Regenerates nerve tissue to heighten sensitivity and increase overall sexual pleasure and satisfaction.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -136,8 +136,8 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hydration & Recovery</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Rapidly rehydrate and replenish electrolytes after illness, travel, or intense physical activity for fast, effective recovery.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Performance Anxiety</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">By enhancing physical performance and function, the M-Shot can significantly boost sexual confidence and reduce anxiety.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -146,8 +146,8 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Detox & Glow</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Support your body's natural detoxification pathways with glutathione and antioxidants that help clear toxins and promote radiant health.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Peyronie's Disease</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Helps break down scar tissue and plaque, which can reduce penile curvature and associated pain or discomfort.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -156,8 +156,8 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Total Wellness Boost</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Our comprehensive IV therapy combines essential nutrients, hydration, and vitamins to support your overall health and wellbeing — helping you feel your best every day.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Overall Sexual Wellness</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Promotes healthier tissue and optimal function for a revitalized sex life and improved intimate wellness.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -609,7 +609,7 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The cost for M Shot Treatment varies depending on your individual requirements. Please contact Refine Skin & Body Clinic for a personalized consultation and quote.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
             </div>
           </div>
         </div>

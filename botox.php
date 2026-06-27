@@ -1,11 +1,11 @@
 <?php
 $pageCategory = "Injectables";
-$pageTitle = "Botox Anti-Aging <i class='text-brand font-light'>Treatment.</i>";
-$pageDescription = "Smooth fine lines and prevent wrinkles with FDA-approved neuromodulators — Botox, Dysport, and Xeomin — administered by our expert injectors.";
-$metaTitle = "Botox Anti-Aging Treatment Treatment in Kampala, Uganda | Refine Clinic";
+$pageTitle = "Botox&reg; Anti-Aging <i class='text-brand font-light'>Treatment.</i>";
+$pageDescription = "Smooth fine lines and prevent wrinkles with FDA-approved neuromodulators — Botox&reg;, Dysport, and Xeomin — administered by our expert injectors.";
+$metaTitle = "Botox&reg; Anti-Aging Treatment Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking botox anti-aging treatment treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
 $canonicalUrl = "https://refineskinandbody.com/botox";
-$metaKeywords = "Botox Anti-Aging Treatment in Kampala, Botox Anti-Aging Treatment treatment in Kampal, Botox Anti-Aging Treatment in Uganda";
+$metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Aging Treatment treatment in Kampal, Botox&reg; Anti-Aging Treatment in Uganda";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
@@ -294,7 +294,7 @@ $metaKeywords = "Botox Anti-Aging Treatment in Kampala, Botox Anti-Aging Treatme
                     Our Happy <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Patients.</i>
                 </h2>
                 <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
-                    Discover why we are the top-rated clinic for Botox Anti-Aging Treatment treatments. Here is what our patients say about their skincare journey with us.
+                    Discover why we are the top-rated clinic for Botox&reg; Anti-Aging Treatment treatments. Here is what our patients say about their skincare journey with us.
                 </p>
             </div>
 
@@ -330,7 +330,7 @@ $metaKeywords = "Botox Anti-Aging Treatment in Kampala, Botox Anti-Aging Treatme
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Best <strong class="text-brand font-semibold">Botox Anti-Aging Treatment treatment in Kampala</strong> by far! The clinic is beautiful, and the therapists are so gentle. My skin looks cleaner than ever.
+                                Best <strong class="text-brand font-semibold">Botox&reg; Anti-Aging Treatment treatment in Kampala</strong> by far! The clinic is beautiful, and the therapists are so gentle. My skin looks cleaner than ever.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">P</div>
@@ -390,7 +390,7 @@ $metaKeywords = "Botox Anti-Aging Treatment in Kampala, Botox Anti-Aging Treatme
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Absolutely loved my <strong class="text-brand font-semibold">Botox Anti-Aging Treatment treatment in Kampala</strong>! The extraction step was painless, and my skin felt so smooth right after. I've already booked my next session.
+                                Absolutely loved my <strong class="text-brand font-semibold">Botox&reg; Anti-Aging Treatment treatment in Kampala</strong>! The extraction step was painless, and my skin felt so smooth right after. I've already booked my next session.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">S</div>
@@ -430,7 +430,7 @@ $metaKeywords = "Botox Anti-Aging Treatment in Kampala, Botox Anti-Aging Treatme
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                My skin feels incredibly soft and clear. This was my first <strong class="text-brand font-semibold">Botox Anti-Aging Treatment in Kampala</strong>, and the results exceeded my expectations. I will definitely be back.
+                                My skin feels incredibly soft and clear. This was my first <strong class="text-brand font-semibold">Botox&reg; Anti-Aging Treatment in Kampala</strong>, and the results exceeded my expectations. I will definitely be back.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">F</div>
@@ -470,7 +470,7 @@ $metaKeywords = "Botox Anti-Aging Treatment in Kampala, Botox Anti-Aging Treatme
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Refine is the absolute best for <strong class="text-brand font-semibold">Botox Anti-Aging Treatment in Uganda</strong>. The clinic uses top-of-the-line equipment, and my skin feels deeply nourished.
+                                Refine is the absolute best for <strong class="text-brand font-semibold">Botox&reg; Anti-Aging Treatment in Uganda</strong>. The clinic uses top-of-the-line equipment, and my skin feels deeply nourished.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">G</div>
