@@ -1,11 +1,11 @@
 <?php
 $pageCategory = "Injectables";
-$pageTitle = "Botox&reg; Anti-Aging <i class='text-brand font-light'>Treatment.</i>";
-$pageDescription = "Smooth fine lines and prevent wrinkles with FDA-approved neuromodulators — Botox&reg;, Dysport, and Xeomin — administered by our expert injectors.";
-$metaTitle = "Botox&reg; Anti-Aging Treatment Treatment in Kampala, Uganda | Refine Clinic";
+$pageTitle = "Botox&reg;&reg; Anti-Aging <i class='text-brand font-light'>Treatment.</i>";
+$pageDescription = "Smooth fine lines and prevent wrinkles with FDA-approved neuromodulators — Botox&reg;&reg;, Dysport, and Xeomin — administered by our expert injectors.";
+$metaTitle = "Botox&reg;&reg; Anti-Aging Treatment Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking botox anti-aging treatment treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
 $canonicalUrl = "https://refineskinandbody.com/botox";
-$metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Aging Treatment treatment in Kampal, Botox&reg; Anti-Aging Treatment in Uganda";
+$metaKeywords = "Botox&reg;&reg; Anti-Aging Treatment in Kampala, Botox&reg;&reg; Anti-Aging Treatment treatment in Kampal, Botox&reg;&reg; Anti-Aging Treatment in Uganda";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
@@ -13,7 +13,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Botox? -->
+    <!-- What is Botox&reg;? -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -24,16 +24,16 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        Premium Botox
+                        Premium Botox&reg;
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Botox?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Botox&reg;?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Botox® medically known as Botulinum toxin, is a remarkable non-surgical cosmetic innovation. It's derived from a microorganism, and when used in small, controlled doses, it acts as a neuromodulator, temporarily paralysing specific muscles. By doing this, Botox® can soften and smooth out the appearance of facial wrinkles and lines, granting individuals a more refreshed and youthful look.
+                        Botox&reg;® medically known as Botulinum toxin, is a remarkable non-surgical cosmetic innovation. It's derived from a microorganism, and when used in small, controlled doses, it acts as a neuromodulator, temporarily paralysing specific muscles. By doing this, Botox&reg;® can soften and smooth out the appearance of facial wrinkles and lines, granting individuals a more refreshed and youthful look.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/images/services/injectables/Botox.webp" alt="Botox Anti Aging Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/images/services/injectables/Botox.webp" alt="Botox&reg; Anti Aging Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
                 </div>
 
@@ -78,7 +78,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">3.</span> Injection
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">The Botox® is carefully injected into the targeted areas.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">The Botox&reg;® is carefully injected into the targeted areas.</p>
                             </div>
                         </div>
 
@@ -147,7 +147,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
           <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Excessive Sweating</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Botox® can also help manage hyperhidrosis by blocking the nerve signals responsible for sweating.</p>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Botox&reg;® can also help manage hyperhidrosis by blocking the nerve signals responsible for sweating.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -248,7 +248,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Botox® is painful."</p>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Botox&reg;® is painful."</p>
                             </div>
                             
                             <div class="relative py-2">
@@ -294,7 +294,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
                     Our Happy <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Patients.</i>
                 </h2>
                 <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
-                    Discover why we are the top-rated clinic for Botox&reg; Anti-Aging Treatment treatments. Here is what our patients say about their skincare journey with us.
+                    Discover why we are the top-rated clinic for Botox&reg;&reg; Anti-Aging Treatment treatments. Here is what our patients say about their skincare journey with us.
                 </p>
             </div>
 
@@ -330,7 +330,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Best <strong class="text-brand font-semibold">Botox&reg; Anti-Aging Treatment treatment in Kampala</strong> by far! The clinic is beautiful, and the therapists are so gentle. My skin looks cleaner than ever.
+                                Best <strong class="text-brand font-semibold">Botox&reg;&reg; Anti-Aging Treatment treatment in Kampala</strong> by far! The clinic is beautiful, and the therapists are so gentle. My skin looks cleaner than ever.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">P</div>
@@ -390,7 +390,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Absolutely loved my <strong class="text-brand font-semibold">Botox&reg; Anti-Aging Treatment treatment in Kampala</strong>! The extraction step was painless, and my skin felt so smooth right after. I've already booked my next session.
+                                Absolutely loved my <strong class="text-brand font-semibold">Botox&reg;&reg; Anti-Aging Treatment treatment in Kampala</strong>! The extraction step was painless, and my skin felt so smooth right after. I've already booked my next session.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">S</div>
@@ -430,7 +430,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                My skin feels incredibly soft and clear. This was my first <strong class="text-brand font-semibold">Botox&reg; Anti-Aging Treatment in Kampala</strong>, and the results exceeded my expectations. I will definitely be back.
+                                My skin feels incredibly soft and clear. This was my first <strong class="text-brand font-semibold">Botox&reg;&reg; Anti-Aging Treatment in Kampala</strong>, and the results exceeded my expectations. I will definitely be back.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">F</div>
@@ -470,7 +470,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Refine is the absolute best for <strong class="text-brand font-semibold">Botox&reg; Anti-Aging Treatment in Uganda</strong>. The clinic uses top-of-the-line equipment, and my skin feels deeply nourished.
+                                Refine is the absolute best for <strong class="text-brand font-semibold">Botox&reg;&reg; Anti-Aging Treatment in Uganda</strong>. The clinic uses top-of-the-line equipment, and my skin feels deeply nourished.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">G</div>
@@ -525,28 +525,28 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
         <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
         <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
         <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
-          Explore our comprehensive FAQ section for quick answers to common queries about Botox Anti Aging Treatment. Find the clarity you need without delay.
+          Explore our comprehensive FAQ section for quick answers to common queries about Botox&reg; Anti Aging Treatment. Find the clarity you need without delay.
         </p>
       </div>
 
       <div class="space-y-3">
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is Botox®safe?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is Botox&reg;®safe?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Yes, when administered by a qualified dermatologist like Dr. Chirag Kotecha, Botox® is generally safe.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Yes, when administered by a qualified dermatologist like Dr. Chirag Kotecha, Botox&reg;® is generally safe.</p>
             </div>
           </div>
         </div>
         
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. How long do the effects of Botox® last?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. How long do the effects of Botox&reg;® last?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
@@ -560,7 +560,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. How much does Botox® treatment cost in Kampala?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. How much does Botox&reg;® treatment cost in Kampala?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
@@ -588,7 +588,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Can Botox® treat conditions other than wrinkles?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Can Botox&reg;® treat conditions other than wrinkles?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
@@ -602,14 +602,14 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Botox in Uganda?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Botox&reg; in Uganda?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Botox cost in Uganda varies depending upon several factors. The cost of Botox at Refine Skin & Body Clinic can cost anywhere From $10 per unit.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Botox&reg; cost in Uganda varies depending upon several factors. The cost of Botox&reg; at Refine Skin & Body Clinic can cost anywhere From $10 per unit.</p>
             </div>
           </div>
         </div>

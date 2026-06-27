@@ -103,7 +103,7 @@
                 </div>
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
                     <h3 class="font-display text-2xl lg:text-3xl mb-2">Skin &amp; Face</h3>
-                    <p class="text-white/70 text-xs lg:text-sm font-light leading-relaxed mb-4">Botox, fillers,
+                    <p class="text-white/70 text-xs lg:text-sm font-light leading-relaxed mb-4">Botox&reg;, fillers,
                         HydraFacial, peels, microneedling, CO2 laser.</p>
                     <span
                         class="text-accent text-[11px] uppercase tracking-widest font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">Explore
