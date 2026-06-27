@@ -5,11 +5,14 @@
 
 /* ---------- Base & Reset ---------- */
 html {
-    overflow-x: clip; /* clip doesn't break fixed positioning like hidden does */
+    overflow-x: clip;
+    /* clip doesn't break fixed positioning like hidden does */
     width: 100%;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -31,13 +34,17 @@ body {
 ::-webkit-scrollbar {
     width: 6px;
 }
+
 ::-webkit-scrollbar-track {
     background: #f8f6fc;
 }
+
 ::-webkit-scrollbar-thumb {
-    background: #1a0f3c; /* Deeper brand color */
+    background: #1a0f3c;
+    /* Deeper brand color */
     border-radius: 3px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
     background: #432C86;
 }
@@ -65,7 +72,8 @@ body {
     justify-content: center;
     padding: 16px 36px;
     border-radius: 100px;
-    background: #1a0f3c; /* Brand Deeper */
+    background: #1a0f3c;
+    /* Brand Deeper */
     color: #ffffff;
     font-family: 'Inter', sans-serif;
     font-weight: 500;
@@ -77,8 +85,10 @@ body {
 }
 
 .btn-magnetic:hover {
-    background-color: #C9A96E; /* Accent Gold */
-    color: #1a0f3c; /* Dark text on gold */
+    background-color: #C9A96E;
+    /* Accent Gold */
+    color: #1a0f3c;
+    /* Dark text on gold */
 }
 
 /* Outline variation */
@@ -110,7 +120,7 @@ body {
 /* ---------- Gradient Mesh Backgrounds ---------- */
 .mesh-gradient {
     background-color: #ede9f5;
-    background-image: 
+    background-image:
         radial-gradient(at 0% 0%, rgba(67, 44, 134, 0.15) 0px, transparent 50%),
         radial-gradient(at 100% 0%, rgba(201, 169, 110, 0.1) 0px, transparent 50%),
         radial-gradient(at 100% 100%, rgba(67, 44, 134, 0.1) 0px, transparent 50%),
@@ -119,7 +129,7 @@ body {
 
 .mesh-gradient-dark {
     background-color: #1a0f3c;
-    background-image: 
+    background-image:
         radial-gradient(at 0% 0%, rgba(67, 44, 134, 0.4) 0px, transparent 50%),
         radial-gradient(at 100% 0%, rgba(201, 169, 110, 0.15) 0px, transparent 50%),
         radial-gradient(at 100% 100%, rgba(46, 29, 94, 0.6) 0px, transparent 50%),
@@ -130,7 +140,8 @@ body {
 .img-reveal-wrapper {
     position: relative;
     overflow: hidden;
-    border-radius: 1.5rem; /* Subtle elegant radius */
+    border-radius: 1.5rem;
+    /* Subtle elegant radius */
 }
 
 .img-reveal-overlay {
@@ -145,7 +156,8 @@ body {
 }
 
 .img-parallax {
-    transform: scale(1.1) translateZ(0); /* Force hardware acceleration */
+    transform: scale(1.1) translateZ(0);
+    /* Force hardware acceleration */
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -156,17 +168,21 @@ body {
 .img-duotone {
     position: relative;
 }
+
 .img-duotone::after {
     content: '';
     position: absolute;
     inset: 0;
-    background: rgba(67, 44, 134, 0.45); /* Flat overlay instead of mix-blend for performance */
+    background: rgba(67, 44, 134, 0.45);
+    /* Flat overlay instead of mix-blend for performance */
     transition: opacity 0.5s ease;
     pointer-events: none;
     z-index: 5;
 }
+
 .img-duotone:hover::after {
-    opacity: 0; /* Reveal true colors on hover */
+    opacity: 0;
+    /* Reveal true colors on hover */
 }
 
 /* ---------- Hero Specific ---------- */
@@ -181,12 +197,10 @@ body {
     position: absolute;
     inset: 0;
     /* Soft multi-layered gradient for depth, not just a flat block */
-    background: linear-gradient(
-        180deg, 
-        rgba(26,15,60,0.1) 0%, 
-        rgba(26,15,60,0.4) 50%, 
-        rgba(26,15,60,0.85) 100%
-    );
+    background: linear-gradient(180deg,
+            rgba(26, 15, 60, 0.1) 0%,
+            rgba(26, 15, 60, 0.4) 50%,
+            rgba(26, 15, 60, 0.85) 100%);
     z-index: 2;
     pointer-events: none;
 }
@@ -199,24 +213,27 @@ body {
     color: #ffffff;
     font-weight: 400;
     letter-spacing: -0.025em;
-    text-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    text-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
 }
+
 .hero-display-text i {
     font-family: 'Playfair Display', serif;
     font-style: italic;
-    color: #e5cc98; /* Lighter Gold accent in heading for better contrast */
+    color: #e5cc98;
+    /* Lighter Gold accent in heading for better contrast */
     font-weight: 300;
 }
 
 /* Custom Swiper Navigation for Hero */
-.creative-nav-prev, .creative-nav-next {
+.creative-nav-prev,
+.creative-nav-next {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    border: 1px solid rgba(255,255,255,0.2);
+    border: 1px solid rgba(255, 255, 255, 0.2);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -226,10 +243,17 @@ body {
     transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
     background: rgba(255, 255, 255, 0.1);
 }
-.creative-nav-prev { left: 40px; }
-.creative-nav-next { right: 40px; }
 
-.creative-nav-prev:hover, .creative-nav-next:hover {
+.creative-nav-prev {
+    left: 40px;
+}
+
+.creative-nav-next {
+    right: 40px;
+}
+
+.creative-nav-prev:hover,
+.creative-nav-next:hover {
     background: #ffffff;
     color: #1a0f3c;
     transform: translateY(-50%) scale(1.1);
@@ -245,16 +269,18 @@ body {
     display: flex;
     gap: 12px;
 }
+
 .creative-pagination .swiper-pagination-bullet {
     width: 40px;
     height: 2px;
-    background: rgba(255,255,255,0.3);
+    background: rgba(255, 255, 255, 0.3);
     border-radius: 0;
     opacity: 1;
     margin: 0 !important;
     position: relative;
     overflow: hidden;
 }
+
 .creative-pagination .swiper-pagination-bullet::after {
     content: '';
     position: absolute;
@@ -263,40 +289,45 @@ body {
     height: 100%;
     width: 0;
     background: #C9A96E;
-    transition: width 5s linear; /* Sync with autoplay */
+    transition: width 5s linear;
+    /* Sync with autoplay */
 }
+
 .creative-pagination .swiper-pagination-bullet-active::after {
     width: 100%;
 }
 
-    /* ----- Bento Grid Component ----- */
-    .bento-grid {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        gap: 1rem;
-        width: 100%;
-    }
-    .bento-item {
-        position: relative;
-        border-radius: 1.5rem;
-        overflow: hidden;
-        min-height: 240px;
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-end;
-        padding: clamp(1rem, 2vw, 1.5rem);
-        transform: translateZ(0);
-        will-change: transform;
-    }
-    .bento-large {
-        grid-column: span 2;
-        grid-row: span 2;
-        min-height: 350px;
-    }
-    .bento-wide {
-        grid-column: span 2;
-        min-height: 240px;
-    }
+/* ----- Bento Grid Component ----- */
+.bento-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    width: 100%;
+}
+
+.bento-item {
+    position: relative;
+    border-radius: 1.5rem;
+    overflow: hidden;
+    min-height: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: clamp(1rem, 2vw, 1.5rem);
+    transform: translateZ(0);
+    will-change: transform;
+}
+
+.bento-large {
+    grid-column: span 2;
+    grid-row: span 2;
+    min-height: 350px;
+}
+
+.bento-wide {
+    grid-column: span 2;
+    min-height: 240px;
+}
 
 .bento-content {
     position: absolute;
@@ -304,7 +335,7 @@ body {
     left: 0;
     width: 100%;
     padding: 30px;
-    background: linear-gradient(to top, rgba(26,15,60,0.95) 0%, rgba(26,15,60,0.4) 70%, transparent 100%);
+    background: linear-gradient(to top, rgba(26, 15, 60, 0.95) 0%, rgba(26, 15, 60, 0.4) 70%, transparent 100%);
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
     color: white;
@@ -317,9 +348,11 @@ body {
     transform: translateY(0);
     opacity: 1;
 }
+
 .bento-item img {
     transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
 }
+
 .bento-item:hover img {
     transform: scale(1.05);
 }
@@ -327,15 +360,18 @@ body {
 /* ---------- Header & Nav ---------- */
 .site-header {
     transition: background-color 0.4s ease, border-color 0.4s ease, transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-    border-bottom: 1px solid rgba(255,255,255,0.05);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
+
 .site-header.scrolled {
     background: rgba(255, 255, 255, 0.95) !important;
     border-bottom: 1px solid rgba(26, 15, 60, 0.05);
 }
+
 .site-header.scrolled .nav-link-item {
     color: #1a0f3c;
 }
+
 .site-header.scrolled .logo-text {
     color: #1a0f3c;
 }
@@ -363,6 +399,7 @@ body {
     transform-origin: right;
     transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
 }
+
 .nav-link-item:hover::after {
     transform: scaleX(1);
     transform-origin: left;
@@ -373,7 +410,7 @@ body {
     opacity: 0;
     visibility: hidden;
     transform: translateY(15px) scale(0.98);
-    transition: 
+    transition:
         opacity 0.15s ease,
         visibility 0s linear 0.15s,
         transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
@@ -387,7 +424,7 @@ body {
     visibility: visible;
     transform: translateY(0) scale(1);
     pointer-events: auto;
-    transition: 
+    transition:
         opacity 0.2s ease,
         visibility 0s linear 0s,
         transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
@@ -417,6 +454,7 @@ body {
     transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.5s ease;
     height: 100%;
 }
+
 .swiper-slide-active .testimonial-slide-inner {
     box-shadow: 0 30px 60px rgba(26, 15, 60, 0.08);
 }
@@ -425,7 +463,8 @@ body {
     font-family: 'Playfair Display', serif;
     font-size: 120px;
     line-height: 1;
-    color: rgba(201, 169, 110, 0.15); /* Faint gold */
+    color: rgba(201, 169, 110, 0.15);
+    /* Faint gold */
     position: absolute;
     top: 20px;
     left: 30px;
@@ -434,17 +473,19 @@ body {
 
 /* ---------- Footer ---------- */
 .footer-editorial {
-    background: #0d071e; /* Very dark brand */
+    background: #0d071e;
+    /* Very dark brand */
     color: #ffffff;
     position: relative;
     overflow: hidden;
 }
 
 .footer-link {
-    color: rgba(255,255,255,0.6);
+    color: rgba(255, 255, 255, 0.6);
     transition: color 0.3s ease, transform 0.3s ease;
     display: inline-block;
 }
+
 .footer-link:hover {
     color: #C9A96E;
     transform: translateX(4px);
@@ -452,12 +493,19 @@ body {
 
 /* ---------- Responsive ---------- */
 @media (max-width: 1024px) {
-    .creative-nav-prev, .creative-nav-next { display: none; }
+
+    .creative-nav-prev,
+    .creative-nav-next {
+        display: none;
+    }
+
     .bento-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
 @media (max-width: 768px) {
+
     /* Services bento carousel */
     #services .bento-grid {
         display: flex;
@@ -465,33 +513,43 @@ body {
         scroll-snap-type: x mandatory;
         padding-bottom: 1rem;
         -webkit-overflow-scrolling: touch;
-        scrollbar-width: none; /* Firefox */
+        scrollbar-width: none;
+        /* Firefox */
         width: calc(100% + 3rem);
         margin-left: -1.5rem;
         margin-right: -1.5rem;
         padding-left: 1.5rem;
         padding-right: 1.5rem;
     }
+
     #services .bento-grid::-webkit-scrollbar {
-        display: none; /* Safari and Chrome */
+        display: none;
+        /* Safari and Chrome */
     }
+
     #services .bento-grid .bento-item {
-        min-width: 72vw; max-width: 72vw;
+        min-width: 72vw;
+        max-width: 72vw;
         scroll-snap-align: center;
         flex-shrink: 0;
     }
+
     /* Other grids using bento-item stay normal */
     .bento-grid {
         grid-template-columns: 1fr;
     }
-    .bento-large, .bento-wide {
+
+    .bento-large,
+    .bento-wide {
         grid-column: span 1;
     }
+
     /* Always show card labels on mobile (no hover on touch screens) */
     #services .bento-content {
         opacity: 1;
         transform: translateY(0);
     }
+
     /* Doctors horizontal carousel on mobile */
     #doctors-grid {
         display: flex !important;
@@ -507,9 +565,11 @@ body {
         padding-right: 1.5rem;
         gap: 1rem !important;
     }
+
     #doctors-grid::-webkit-scrollbar {
         display: none;
     }
+
     /* 72vw so ~28vw of next card peeks through */
     #doctors-grid .bento-item {
         min-width: 72vw;
@@ -517,8 +577,10 @@ body {
         scroll-snap-align: start;
         flex-shrink: 0;
     }
+
     /* Treatment categories horizontal carousel on mobile */
-    #treatment-categories-grid, #services-carousel {
+    #treatment-categories-grid,
+    #services-carousel {
         display: flex !important;
         overflow-x: auto;
         scroll-snap-type: x mandatory;
@@ -532,10 +594,14 @@ body {
         padding-right: 1.5rem;
         gap: 1rem !important;
     }
-    #treatment-categories-grid::-webkit-scrollbar, #services-carousel::-webkit-scrollbar {
+
+    #treatment-categories-grid::-webkit-scrollbar,
+    #services-carousel::-webkit-scrollbar {
         display: none;
     }
-    #treatment-categories-grid .bento-item, #services-carousel > a {
+
+    #treatment-categories-grid .bento-item,
+    #services-carousel>a {
         min-width: 72vw;
         max-width: 72vw;
         height: 260px !important;
@@ -544,23 +610,28 @@ body {
         border-radius: 1.25rem !important;
         position: relative;
     }
+
     /* Always show text labels on treatment category cards on mobile */
-    #treatment-categories-grid .bento-item > div:last-child {
+    #treatment-categories-grid .bento-item>div:last-child {
         opacity: 1 !important;
     }
+
     /* Scrolled hamburger menu color */
     #site-header.scrolled #mobile-menu-toggle span {
         background-color: var(--color-brand, #432C86) !important;
     }
+
     #site-header.scrolled #mobile-menu-toggle {
-        background-color: rgba(67, 44, 134, 0.05) !important; /* brand faint */
+        background-color: rgba(67, 44, 134, 0.05) !important;
+        /* brand faint */
         color: #432C86 !important;
     }
+
     .hero-display-text {
         font-size: clamp(1.8rem, 6.5vw, 2.8rem);
         line-height: 1.15;
     }
-    
+
     .btn-magnetic {
         padding: 14px 32px !important;
         font-size: 14px !important;
@@ -573,44 +644,52 @@ body {
         box-shadow: 0 4px 30px rgba(26, 15, 60, 0.05) !important;
         color: #1a0f3c !important;
     }
+
     .site-header.hero-mode .logo-white {
         display: none !important;
     }
+
     .site-header.hero-mode .logo-dark {
         display: block !important;
     }
+
     .site-header.hero-mode .nav-link-item,
-    .site-header.hero-mode .nav-item-dropdown > a {
+    .site-header.hero-mode .nav-item-dropdown>a {
         color: #1a0f3c !important;
     }
+
     .site-header.hero-mode #mobile-menu-toggle {
         background-color: #432C86 !important;
         color: #ffffff !important;
     }
+
     .site-header.hero-mode #mobile-menu-toggle span {
         background-color: #ffffff !important;
     }
 
     .hero-slider-container {
-        margin-top: 60px !important; /* Push hero container below the 60px mobile header */
-        height: calc(100vh - 60px) !important; 
+        margin-top: 60px !important;
+        /* Push hero container below the 60px mobile header */
+        height: calc(100vh - 60px) !important;
         min-height: 0 !important;
-        background-color: #ffffff !important; 
+        background-color: #1a0f3c !important;
+        /* Changed from white to deep brand color for glassmorphism */
     }
-    
+
     .hero-slider-container .hero-swiper,
     .hero-slider-container .swiper-wrapper,
     .hero-slider-container .swiper-slide {
         height: 100% !important;
     }
-    
+
     .hero-slider-container .img-duotone {
         display: flex !important;
         flex-direction: column !important;
         height: 100% !important;
         width: 100% !important;
         position: relative !important;
-        background-color: #ffffff !important;
+        background-color: #1a0f3c !important;
+        /* Match dark background */
     }
 
     /* Disable the purple/blue duotone overlay on the image on mobile */
@@ -623,7 +702,7 @@ body {
         display: none !important;
     }
 
-    /* Stack text content below the image on mobile with a clean white background */
+    /* Stack text content below the image on mobile with a glassmorphic background */
     .hero-slider-container .absolute.inset-0 {
         position: relative !important;
         top: auto !important;
@@ -634,60 +713,72 @@ body {
         height: auto !important;
         flex-grow: 1 !important;
         min-height: 0 !important;
-        background-color: #ffffff !important;
+        background: rgba(255, 255, 255, 0.12) !important; /* Made lighter for a brighter frosted glass */
+        backdrop-filter: blur(16px) !important;
+        -webkit-backdrop-filter: blur(16px) !important;
+        border-top: 1px solid rgba(255, 255, 255, 0.2) !important;
         display: flex !important;
         flex-direction: column !important;
         align-items: center !important;
         justify-content: center !important;
         text-align: center !important;
-        padding: 2rem 1.5rem 3.5rem 1.5rem !important; /* Spaced padding */
+        padding: 2rem 1.5rem 3.5rem 1.5rem !important;
+        /* Spaced padding */
         z-index: 3 !important;
+        overflow: hidden !important;
     }
 
-    /* Force all main text elements, descriptions, and highlights inside the text wrapper to be readable on white */
-    .hero-slider-container .absolute.inset-0 .hero-display-text {
-        color: #1a0f3c !important;
-        text-shadow: none !important;
-    }
-    .hero-slider-container .absolute.inset-0 .hero-display-text i {
-        color: #C9A96E !important;
-    }
-    .hero-slider-container .absolute.inset-0 span.text-accent,
-    .hero-slider-container .absolute.inset-0 span.block.text-accent {
-        color: #C9A96E !important;
-    }
-    .hero-slider-container .absolute.inset-0 p,
-    .hero-slider-container .absolute.inset-0 p.text-white\/80 {
-        color: rgba(26, 15, 60, 0.8) !important;
-    }
-
-    /* Stylize Slide 1's pill subtitle to look clean on white */
-    .hero-slider-container .absolute.inset-0 .hero-stagger-text.inline-flex {
-        background-color: rgba(67, 44, 134, 0.08) !important;
-        border-color: rgba(67, 44, 134, 0.15) !important;
-        box-shadow: none !important;
-    }
-    .hero-slider-container .absolute.inset-0 .hero-stagger-text.inline-flex span,
-    .hero-slider-container .absolute.inset-0 .hero-stagger-text.inline-flex span.text-white {
-        color: #432C86 !important;
-    }
-
-    /* Stylize Slide 4's white logo to brand purple/gray on white */
-    .hero-slider-container .absolute.inset-0 img[src*="refine-logo-white"] {
-        filter: invert(1) brightness(0.2) !important;
-    }
-
-    /* Stylize Slide 4's outline button */
-    .hero-slider-container .absolute.inset-0 .btn-outline {
-        border-color: rgba(26, 15, 60, 0.2) !important;
-        color: #1a0f3c !important;
-    }
-    .hero-slider-container .absolute.inset-0 .btn-outline:hover {
-        background-color: #1a0f3c !important;
+    /* Separate the buttons from the background and add a golden border */
+    .hero-slider-container .absolute.inset-0 .btn-magnetic {
+        border: 1px solid #C9A96E !important;
+        background-color: rgba(26, 15, 60, 0.85) !important; /* Dark solid base to contrast the lighter glass */
         color: #ffffff !important;
-        border-color: #1a0f3c !important;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
     }
 
+    /* Add animated bubbles behind the glass background */
+    .hero-slider-container .absolute.inset-0::before,
+    .hero-slider-container .absolute.inset-0::after {
+        content: '';
+        position: absolute;
+        border-radius: 50%;
+        filter: blur(35px);
+        z-index: -1;
+        opacity: 0.6;
+        animation: floatBubbles 8s infinite alternate ease-in-out;
+    }
+
+    .hero-slider-container .absolute.inset-0::before {
+        width: 200px;
+        height: 200px;
+        background: rgba(180, 140, 255, 0.4);
+        top: 5%;
+        left: -20%;
+        animation-delay: 0s;
+    }
+
+    .hero-slider-container .absolute.inset-0::after {
+        width: 180px;
+        height: 180px;
+        background: rgba(201, 169, 110, 0.35);
+        /* Accent gold color */
+        bottom: -5%;
+        right: -15%;
+        animation-duration: 11s;
+        animation-direction: alternate-reverse;
+    }
+
+    @keyframes floatBubbles {
+        0% {
+            transform: translate(0, 0) scale(1);
+        }
+
+        100% {
+            transform: translate(40px, -50px) scale(1.15);
+        }
+    }
+
+    /* Keep the original white text and pill subtitle styling from desktop */
     /* Display the image at the top covering exactly 33vh height, cropping slightly for a taller aspect ratio */
     .hero-slider-container .img-parallax {
         position: relative !important;
@@ -695,8 +786,9 @@ body {
         bottom: 0 !important;
         height: 33vh !important;
         width: 100% !important;
-        aspect-ratio: auto !important; 
-        object-fit: cover !important; /* Crop left/right slightly so it looks taller and consistent */
+        aspect-ratio: auto !important;
+        object-fit: cover !important;
+        /* Crop left/right slightly so it looks taller and consistent */
         object-position: center !important;
         margin-top: 0 !important;
         transform: none !important;
@@ -710,23 +802,42 @@ body {
         bottom: 1.25rem !important;
         z-index: 10 !important;
     }
+
     .hero-slider-container .creative-pagination .swiper-pagination-bullet {
         background: rgba(26, 15, 60, 0.2) !important;
     }
+
     .hero-slider-container .creative-pagination .swiper-pagination-bullet::after {
         background: #C9A96E !important;
     }
 
     /* Global Padding Overrides for Mobile */
-    .py-16 { padding-top: 2rem !important; padding-bottom: 2rem !important; }
-    .py-20 { padding-top: 2.5rem !important; padding-bottom: 2.5rem !important; }
-    .py-24 { padding-top: 3rem !important; padding-bottom: 3rem !important; }
-    .py-32 { padding-top: 4rem !important; padding-bottom: 4rem !important; }
-    
+    .py-16 {
+        padding-top: 2rem !important;
+        padding-bottom: 2rem !important;
+    }
+
+    .py-20 {
+        padding-top: 2.5rem !important;
+        padding-bottom: 2.5rem !important;
+    }
+
+    .py-24 {
+        padding-top: 3rem !important;
+        padding-bottom: 3rem !important;
+    }
+
+    .py-32 {
+        padding-top: 4rem !important;
+        padding-bottom: 4rem !important;
+    }
+
     /* Glass Panel optimizations */
     .glass-panel {
-        padding: 1.5rem !important; /* from p-8/p-12 */
+        padding: 1.5rem !important;
+        /* from p-8/p-12 */
     }
+
     .glass-panel.faq-item {
         padding: 0 !important;
     }
@@ -739,15 +850,18 @@ body {
 .site-header.hero-mode {
     color: #ffffff;
 }
+
 .site-header.hero-mode .logo-text,
 .site-header.hero-mode .nav-link-item,
-.site-header.hero-mode .nav-item-dropdown > a {
+.site-header.hero-mode .nav-item-dropdown>a {
     color: #ffffff;
 }
-.site-header.hero-mode .nav-item-dropdown > a:hover,
+
+.site-header.hero-mode .nav-item-dropdown>a:hover,
 .site-header.hero-mode .nav-link-item:hover {
     color: #C9A96E;
 }
+
 .site-header.hero-mode .nav-dropdown .mega-menu-panel {
     background: #ffffff;
     color: #1a0f3c;
@@ -761,15 +875,18 @@ body {
     border-bottom: 1px solid rgba(67, 44, 134, 0.06);
     box-shadow: 0 4px 30px rgba(26, 15, 60, 0.05);
 }
+
 .site-header.hero-mode.scrolled .logo-text,
 .site-header.hero-mode.scrolled .nav-link-item,
-.site-header.hero-mode.scrolled .nav-item-dropdown > a {
+.site-header.hero-mode.scrolled .nav-item-dropdown>a {
     color: #1a0f3c;
 }
-.site-header.hero-mode.scrolled .nav-item-dropdown > a:hover,
+
+.site-header.hero-mode.scrolled .nav-item-dropdown>a:hover,
 .site-header.hero-mode.scrolled .nav-link-item:hover {
     color: #C9A96E;
 }
+
 /* Make hamburger visible on white navbar - give it a brand purple bg */
 .site-header.hero-mode.scrolled #mobile-menu-toggle,
 .site-header:not(.hero-mode) #mobile-menu-toggle {
@@ -781,30 +898,44 @@ body {
 .site-header:not(.hero-mode) {
     background: #ffffff;
 }
+
 .site-header:not(.hero-mode) .logo-text,
 .site-header:not(.hero-mode) .nav-link-item,
-.site-header:not(.hero-mode) .nav-item-dropdown > a {
+.site-header:not(.hero-mode) .nav-item-dropdown>a {
     color: #1a0f3c;
 }
-.site-header:not(.hero-mode) .nav-item-dropdown > a:hover,
+
+.site-header:not(.hero-mode) .nav-item-dropdown>a:hover,
 .site-header:not(.hero-mode) .nav-link-item:hover {
     color: #C9A96E;
 }
 
 /* Logo toggling for transparent/solid header states */
-.site-header .logo-white { display: none; }
-.site-header .logo-dark { display: block; }
-.site-header.hero-mode:not(.scrolled) .logo-white { display: block; }
-.site-header.hero-mode:not(.scrolled) .logo-dark { display: none; }
+.site-header .logo-white {
+    display: none;
+}
+
+.site-header .logo-dark {
+    display: block;
+}
+
+.site-header.hero-mode:not(.scrolled) .logo-white {
+    display: block;
+}
+
+.site-header.hero-mode:not(.scrolled) .logo-dark {
+    display: none;
+}
 
 /* Fix gap between fixed header/navbar and page content */
 main.pt-20 {
-    padding-top: calc(60px + 0.5rem) !important; /* Matches mobile header height (h-[60px] + py-1) */
+    padding-top: calc(60px + 0.5rem) !important;
+    /* Matches mobile header height (h-[60px] + py-1) */
 }
 
 @media (min-width: 1024px) {
     main.pt-20 {
-        padding-top: calc(80px + 1rem) !important; /* Matches desktop header height (h-[80px] + py-2) */
+        padding-top: calc(80px + 1rem) !important;
+        /* Matches desktop header height (h-[80px] + py-2) */
     }
 }
-
