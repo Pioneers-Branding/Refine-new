@@ -26,9 +26,18 @@ $metaKeywords = "Melasma Treatment in Kampala, Melasma Treatment treatment in Ka
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Expert Aesthetic Care
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Melasma Treatment?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Melasma?</i></h2>
+                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-6 max-w-xl">
+                        Melasma is a common yet complex skin condition characterised by dark, discoloured patches that typically appear on the face — most often on the cheeks, forehead, bridge of the nose, chin, and upper lip. It is more prevalent in women and in individuals with darker skin tones (Fitzpatrick types III–VI), though it can affect anyone.
+                    </p>
+                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-6 max-w-xl">
+                        Unlike simple sun spots, melasma is driven by a combination of <strong class="text-brand-deeper font-medium">hormonal changes</strong> (pregnancy, oral contraceptives, hormone replacement therapy), <strong class="text-brand-deeper font-medium">UV exposure</strong>, <strong class="text-brand-deeper font-medium">genetic predisposition</strong>, and even <strong class="text-brand-deeper font-medium">heat and visible light</strong>. This makes it particularly stubborn and prone to recurrence without a comprehensive, multi-modal approach.
+                    </p>
+                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-6 max-w-xl">
+                        There are three clinical types: <em>epidermal melasma</em> (brown patches, affects the top skin layer), <em>dermal melasma</em> (blue-grey patches, deeper in the skin), and <em>mixed melasma</em> — the most common form. At Refine, our dermatologists use Wood's lamp examination and dermoscopy to accurately diagnose the type and depth, ensuring a precisely targeted treatment plan.
+                    </p>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Experience top-tier Melasma Treatment at Refine Skin and Body Clinic. Our advanced approach ensures optimal results tailored to your unique needs, helping you achieve your aesthetic goals safely and effectively under the guidance of our expert team.
+                        Our advanced treatment approach combines medical-grade topicals (hydroquinone, azelaic acid, retinoids, tranexamic acid), chemical peels, laser therapy, and strict sun protection protocols to suppress pigment production, lighten existing discolouration, and prevent recurrence — delivering lasting, even-toned results for all skin types.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">

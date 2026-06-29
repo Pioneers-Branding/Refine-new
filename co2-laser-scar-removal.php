@@ -609,7 +609,7 @@ $metaKeywords = "CO2 Laser Scar Removal in Kampala, CO2 Laser Scar Removal treat
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">CO2 Laser for Scars cost in Uganda varies depending upon several factors. The cost of CO2 Laser for Scars at Refine Skin & Body Clinic can cost anywhere From $350.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
             </div>
           </div>
         </div>

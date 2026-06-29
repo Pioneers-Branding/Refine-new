@@ -250,7 +250,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     // Force pointer-events in case CSS transition lags
                     dropdown.style.pointerEvents = 'auto';
                 }
-            }, 150); // Hover intent delay
+            }, 300); // Increased hover intent delay to fix diagonal cursor flicking
         });
 
         item.addEventListener('mouseleave', (e) => {

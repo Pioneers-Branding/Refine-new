@@ -49,7 +49,7 @@ $pageDescription = "Please read these terms carefully before booking a treatment
                         </ul>
 
                         <h3 class="font-display text-2xl text-brand-deeper mt-12 mb-4">4. Treatment Outcomes</h3>
-                        <p>Aesthetic medicine is both an art and a science; outcomes vary significantly from patient to patient based on anatomy, skin quality, age, and adherence to aftercare instructions. While our specialists strive for clinical excellence, we cannot guarantee specific or identical results as shown in before-and-after photographs.</p>
+                        <p>The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
 
                         <h3 class="font-display text-2xl text-brand-deeper mt-12 mb-4">5. Pricing & Payments</h3>
                         <p>All prices quoted on the website are indicative and subject to change without notice. The final cost of your treatment plan will be confirmed during your formal consultation. Payment is due in full at the time of service unless a financing plan has been pre-approved.</p>

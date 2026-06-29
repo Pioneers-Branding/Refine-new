@@ -294,7 +294,7 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
                     Our Happy <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Patients.</i>
                 </h2>
                 <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
-                    Discover why we are the top-rated clinic for The OMG-Shot treatments. Here is what our patients say about their wellness and vitality journey.
+                    Discover why we are the top-rated clinic for The OMG-Shot treatments. Here is what our patients say about their intimate wellness journey.
                 </p>
             </div>
 
@@ -390,7 +390,7 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Absolutely loved my <strong class="text-brand font-semibold">The OMG-Shot treatment in Kampala</strong>! The hydration and nutrient boost was exactly what I needed. I feel energized and refreshed.
+                                Absolutely loved my <strong class="text-brand font-semibold">The OMG-Shot treatment in Kampala</strong>! The rejuvenation and renewed confidence was exactly what I needed. I feel energized and refreshed.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">S</div>
@@ -430,7 +430,7 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                My energy levels and focus have improved dramatically. This was my first <strong class="text-brand font-semibold">The OMG-Shot in Kampala</strong>, and it exceeded my expectations. I will definitely be back.
+                                My intimate wellness and sensitivity have improved dramatically. This was my first <strong class="text-brand font-semibold">The OMG-Shot in Kampala</strong>, and it exceeded my expectations. I will definitely be back.
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">F</div>

@@ -67,7 +67,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/Ms_Wendy_Emyedu_Ayayo.png" alt="Wellness & Support" class="w-full aspect-video object-cover object-top bg-brand-faint rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">Wellness &amp; Support</h5>
                                 <div class="space-y-2.5">
-                                    <a href="alison-gallagher" class="block text-sm text-gray-600 hover:text-brand transition-colors">Psychotherapist</a>
+
                                     <a href="wendy-emyedu-ayayo" class="block text-sm text-gray-600 hover:text-brand transition-colors">Nutritionist</a>
                                 </div>
                             </div>
@@ -315,7 +315,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Wellness &amp; Support</p>
-                        <a href="alison-gallagher" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Psychotherapist</a>
+
                         <a href="wendy-emyedu-ayayo" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Nutritionist</a>
                     </div>
                 </div>

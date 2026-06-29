@@ -142,7 +142,7 @@ $pageDescription = "Explore our comprehensive suite of advanced aesthetic and me
             <div class="space-y-4">
                 <div class="glass-panel p-6 rounded-2xl bg-white border border-brand/5">
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Do consultations cost money?</h4>
-                    <p class="text-brand-muted font-body text-sm font-light">Yes, we charge a nominal consultation fee to secure the specialist's time. However, this fee is fully redeemable against any treatment booked on the same day.</p>
+                    <p class="text-brand-muted font-body text-sm font-light">The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
                 </div>
                 <div class="glass-panel p-6 rounded-2xl bg-white border border-brand/5">
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Is there any downtime for injectables?</h4>
