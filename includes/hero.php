@@ -148,10 +148,7 @@
                     <div class="absolute inset-0 flex items-center justify-center z-10 pt-20 text-center">
                         <div class="max-w-[1600px] w-full mx-auto px-6 lg:px-10 flex justify-center">
                             <div class="max-w-3xl flex flex-col items-center">
-                                <div class="overflow-hidden mb-8">
-                                    <img src="/assets/imagesfromsite/refine-logo-white.webp" alt="Refine Logo"
-                                        class="h-24 hero-stagger-text object-contain">
-                                </div>
+
                                 <div class="overflow-hidden mb-8">
                                     <h2 class="hero-display-text hero-stagger-text"><i>Excellence in</i> <br>Aesthetics.
                                     </h2>
@@ -186,7 +183,7 @@
 
     <!-- Trust & Info Block Overlay (Bottom of Hero) -->
     <div class="absolute bottom-0 left-0 w-full z-20 hidden md:block">
-        <div class="max-w-[1600px] mx-auto px-6 lg:px-10 pb-16 lg:pb-24">
+        <div class="max-w-7xl mx-auto px-6 lg:px-8 pb-8 lg:pb-12">
             <div class="grid grid-cols-2 md:grid-cols-4 gap-3 lg:gap-4 rounded-[2rem] bg-white/10 backdrop-blur-2xl border border-white/20 text-white shadow-[0_30px_60px_rgba(0,0,0,0.3),inset_0_1px_0_rgba(255,255,255,0.4)] overflow-hidden">
 
                 <!-- USP 1: Specialists -->

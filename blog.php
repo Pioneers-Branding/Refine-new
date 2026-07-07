@@ -9,32 +9,12 @@ $pageDescription = "Expert articles, treatment guides, wellness tips, and the la
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- Introduction -->
-    <section class="py-16 lg:py-24 bg-white border-b border-brand/5">
-        <div class="max-w-[1000px] mx-auto px-6 text-center gs-reveal-fade">
-            <h2 class="text-section font-display text-brand-deeper mb-6">Insightful, Evidence-Based <i class="text-accent font-light">Content.</i></h2>
-            <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
-                The Refine Blog is your trusted source for everything aesthetic, wellness, and longevity. Our doctors and expert contributors share practical guides, the latest research, and honest advice — so you can make confident, informed decisions about your health and beauty.
-            </p>
-        </div>
-    </section>
 
     <!-- Blog Posts Section -->
     <section class="py-16 lg:py-24 bg-surface-warm">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             
-            <!-- Category Navigation -->
-            <div class="mb-12 gs-reveal-text">
-                <div class="flex flex-wrap items-center justify-center gap-2 bg-white/50 p-2 rounded-2xl border border-brand/5 max-w-fit mx-auto shadow-sm">
-                    <button class="filter-btn active px-6 py-3 rounded-xl bg-brand-deeper text-white font-medium text-sm transition-all" data-filter="all">All Posts</button>
-                    <button class="filter-btn px-6 py-3 rounded-xl text-brand-muted hover:text-brand-deeper hover:bg-brand/5 font-medium text-sm transition-all" data-filter="skin">Skin & Dermatology</button>
-                    <button class="filter-btn px-6 py-3 rounded-xl text-brand-muted hover:text-brand-deeper hover:bg-brand/5 font-medium text-sm transition-all" data-filter="weight-loss">Weight Loss</button>
-                    <button class="filter-btn px-6 py-3 rounded-xl text-brand-muted hover:text-brand-deeper hover:bg-brand/5 font-medium text-sm transition-all" data-filter="hormones">Hormones</button>
-                    <button class="filter-btn px-6 py-3 rounded-xl text-brand-muted hover:text-brand-deeper hover:bg-brand/5 font-medium text-sm transition-all" data-filter="hair">Hair & Scalp</button>
-                    <button class="filter-btn px-6 py-3 rounded-xl text-brand-muted hover:text-brand-deeper hover:bg-brand/5 font-medium text-sm transition-all" data-filter="body-contouring">Body Contouring</button>
-                    <button class="filter-btn px-6 py-3 rounded-xl text-brand-muted hover:text-brand-deeper hover:bg-brand/5 font-medium text-sm transition-all" data-filter="iv-therapy">IV Therapy</button>
-                </div>
-            </div>
+
 
             <!-- Blog Grid -->
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 gs-stagger-bento" id="blog-grid">
@@ -227,14 +207,7 @@ $pageDescription = "Expert articles, treatment guides, wellness tips, and the la
 
             </div>
             
-            <!-- Empty State (Hidden by default) -->
-            <div id="no-results" class="hidden py-16 text-center">
-                <div class="w-16 h-16 mx-auto mb-4 bg-brand/5 rounded-full flex items-center justify-center text-brand-muted text-2xl">
-                    <i class="far fa-folder-open"></i>
-                </div>
-                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2">No articles found</h4>
-                <p class="text-brand-muted font-light text-sm">Check back later for new content in this category.</p>
-            </div>
+
 
         </div>
     </section>
@@ -283,51 +256,7 @@ $pageDescription = "Expert articles, treatment guides, wellness tips, and the la
             });
         });
 
-        // Blog Category Filtering
-        document.addEventListener('DOMContentLoaded', function() {
-            const filterBtns = document.querySelectorAll('.filter-btn');
-            const blogCards = document.querySelectorAll('.blog-card');
-            const noResults = document.getElementById('no-results');
 
-            if (filterBtns.length > 0) {
-                filterBtns.forEach(btn => {
-                    btn.addEventListener('click', function(e) {
-                        e.preventDefault();
-                        
-                        // Reset all buttons to inactive state
-                        filterBtns.forEach(b => {
-                            b.className = 'filter-btn px-6 py-3 rounded-xl text-brand-muted hover:text-brand-deeper hover:bg-brand/5 font-medium text-sm transition-all';
-                        });
-                        
-                        // Set clicked button to active state
-                        this.className = 'filter-btn active px-6 py-3 rounded-xl bg-brand-deeper text-white font-medium text-sm transition-all';
-
-                        const filter = this.dataset.filter;
-                        let visibleCount = 0;
-
-                        blogCards.forEach(card => {
-                            if (filter === 'all' || card.dataset.category === filter) {
-                                card.style.display = 'flex';
-                                card.style.animation = 'fadeIn 0.5s ease';
-                                visibleCount++;
-                            } else {
-                                card.style.display = 'none';
-                                card.style.animation = 'none';
-                            }
-                        });
-
-                        // Show/hide empty state
-                        if (noResults) {
-                            if (visibleCount === 0) {
-                                noResults.classList.remove('hidden');
-                            } else {
-                                noResults.classList.add('hidden');
-                            }
-                        }
-                    });
-                });
-            }
-        });
     </script>
     <style>
         @keyframes fadeIn {
