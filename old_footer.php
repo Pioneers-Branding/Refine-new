@@ -251,12 +251,9 @@
                 </h4>
                 <ul class="space-y-3">
                     <li><a href="about" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Our Philosophy</a></li>
-                    <li><a href="clinical-team" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Clinical Team</a></li>
                     <li><a href="gallery" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Clinic Gallery</a></li>
                     <li><a href="testimonials" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Client Stories</a></li>
-                    <li><a href="patient-stories" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Patient Stories</a></li>
                     <li><a href="videos" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Video Library</a></li>
-                    <li><a href="podcast" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Podcast</a></li>
                     <li><a href="blog" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Blog</a></li>
                     <li><a href="careers" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Careers</a></li>
                 </ul>

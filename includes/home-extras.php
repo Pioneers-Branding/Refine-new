@@ -280,7 +280,7 @@
                     Masters of the <i class="text-accent font-light drop-shadow-md">Craft.</i>
                 </h2>
             </div>
-            <a href="clinical-team" class="btn-magnetic magnetic-target"
+            <a href="our-team" class="btn-magnetic magnetic-target"
                 style="background: transparent; border: 1px solid rgba(255,255,255,0.3); color: #fff;">
                 <span>Meet Full Team <i class="fas fa-arrow-right text-xs ml-2"></i></span>
             </a>

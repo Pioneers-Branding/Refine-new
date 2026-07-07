@@ -3,9 +3,10 @@
 
 $path = parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH);
 $path = rtrim($path, '/'); // Remove trailing slash
+$decodedPath = urldecode($path);
 
 // Direct file access (CSS, JS, Images)
-if (file_exists(__DIR__ . $path) && is_file(__DIR__ . $path)) {
+if (file_exists(__DIR__ . $decodedPath) && is_file(__DIR__ . $decodedPath)) {
     return false; // let the web server serve the file as is
 }
 
@@ -300,7 +301,6 @@ $routeMap = [
     '/aftercare' => 'aftercare.php',
     '/press' => 'press.php',
     '/our-team' => 'our-team.php',
-    '/clinical-team' => 'clinical-team.php',
     '/dr-chirag-kotecha' => 'dr-chirag-kotecha.php',
     '/dr-henry-owiny' => 'dr-henry-owiny.php',
     '/dr-william-lubega' => 'dr-william-lubega.php',
@@ -427,9 +427,7 @@ $routeMap = [
     '/iron-infusion-kampala-juba' => 'iron-infusion-kampala-juba.php',
     '/vitamin-shots-kampala-juba' => 'vitamin-shots-kampala-juba.php',
     '/mobile-iv-service-kampala-juba' => 'mobile-iv-service-kampala-juba.php',
-    '/patient-stories' => 'patient-stories.php',
     '/videos' => 'videos.php',
-    '/podcast' => 'podcast.php',
     '/blog' => 'blog.php',
 ];
 

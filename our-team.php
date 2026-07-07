@@ -78,16 +78,7 @@ $pageDescription = "A collective of award-winning dermatologists, elite surgeons
                     <span class="text-xs font-semibold text-brand">View Profile <i class="fas fa-arrow-right ml-1"></i></span>
                 </a>
 
-                <!-- Clinical Team Link Box -->
-                <a href="clinical-team" class="group block cursor-pointer bento-item bg-brand-deeper p-6 rounded-[32px] shadow-xl relative overflow-hidden flex flex-col items-center justify-center text-center">
-                    <div class="absolute inset-0 bg-accent/5"></div>
-                    <i class="fas fa-users text-5xl text-accent mb-6 opacity-80 group-hover:scale-110 transition-transform duration-500"></i>
-                    <h4 class="font-display text-3xl text-white mb-2 relative z-10">Nurses &<br>Therapists</h4>
-                    <p class="font-heading text-xs text-white/70 font-semibold uppercase tracking-widest mb-6 relative z-10">The Clinical Team</p>
-                    <span class="btn-magnetic bg-white text-brand-deeper border-none px-8 relative z-10">
-                        <span>Meet the Team</span>
-                    </span>
-                </a>
+
 
             </div>
         </div>

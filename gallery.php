@@ -89,139 +89,80 @@ $pageDescription = "Browse through our collection of authentic transformations, 
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="video" style="display: none;">
                     <video src="/assets/images/refineskinandbodyclinic_2025-03-04_DGxUvxFPG6e.mp4" class="gallery-video w-full h-auto rounded-3xl cursor-pointer" controls preload="metadata"></video>
                 </div>
+                
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-04_DEZwbgbt5oM.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/Rejuvenation_10_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-04_DEZwbgbt5oM_2.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/Sclerotherapy_11_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-06_DEfAF3tCWpM.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/PRP_8_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-09_DEm1ViZOmdu.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/HydraFacial.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-11_DErcfb-q6K-.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/Microblading-new.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-14_DEz3SauKwqq.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/Facial_4_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-16_DE4yFvTNaPK.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/Scrub%20Massage_12_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-20_DFDT9hQR-Mt.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/hot%20stone%20therapy_5_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-22_DFIRSzZojS1.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/plasma%20pen%20therapy_6_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-26_DFSPLfMosyk.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/injectables/Botox.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-27_DFU0LbXqmo6.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/injectables/threadlifts_13_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-01-30_DFcplK7Imol.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/injectables/4.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-02-03_DFmZ7b7u8KZ.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/acne_and_scars/Acne1.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-02-04_DFpDc1OPnqJ.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/pigmentation/vitiligo_14_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-02-05_DFriU0ru94t.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/hair-restoration/prp%20hair%20restoration_7_11zon.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-02-07_DFwzFfvNOGA.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/clinic_and_brand/tempgallery2.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-02-16_DGHqRGLITGG.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/uncategorized/IV%20THERAPY.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-02-19_DGPkP7vtPQX.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/uncategorized/dermatology-new.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-02-24_DGcdntDtuKb.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-02-27_DGkJA3FMjoK.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-03-01_DGpUwckMkrB.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-03-05_DGzxF3TNfAF.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-03-13_DHIRQohqkXb.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-03-26_DHpjnyCoNYP.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-04-01_DH5Lm_IodCu.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-04-04_DIA1KpRoj-T.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-04-09_DIOAXVnNbo6.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-04-15_DIeALYuIY-P.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-04-15_DIeALYuIY-P_2.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-04-15_DIeALYuIY-P_3.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-04-15_DIeALYuIY-P_4.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-04-15_DIeALYuIY-P_5.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-                <!-- Image -->
-                <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/refineskinandbodyclinic_2025-04-23_DIxruatIUFp.jpg" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
-                </div>
-            </div>
+</div>
             
             <div class="mt-16 text-center flex justify-center gap-4" id="load-more-container">
                 <button id="load-more-btn" class="btn-magnetic btn-outline magnetic-target">
@@ -415,7 +356,7 @@ $pageDescription = "Browse through our collection of authentic transformations, 
                         <img src="/assets/imagesfromsite/Refine-hydra-facial.webp" alt="HydraFacial Machine" class="w-full h-full object-cover filter grayscale group-hover:grayscale-0 transition-all duration-500">
                     </div>
                     <div>
-                        <h3 class="font-heading font-semibold text-brand-deeper text-xl mb-2">HydraFacial MD®</h3>
+                        <h3 class="font-heading font-semibold text-brand-deeper text-xl mb-2">HydraFacial MDÃ‚Â®</h3>
                         <p class="text-sm text-brand-muted font-light leading-relaxed">Medical-grade resurfacing and hydration system.</p>
                     </div>
                 </div>

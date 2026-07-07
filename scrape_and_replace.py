@@ -83,7 +83,6 @@ FILES = [
     "pcdc-fat-dissolving.php",
     "plasma-pen-therapy.php",
     "platelet-rich-plasma-facial.php",
-    "podcast.php",
     "post-party-iv-therapy.php",
     "pre-party-iv-therapy.php",
     "profhilo-treatment-kampala-juba.php",
