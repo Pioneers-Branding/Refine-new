@@ -1,7 +1,7 @@
 <?php
-$pageCategory = "Intimate Wellness";
+$pageCategory = "Body Contouring";
 $pageTitle = "Wonder Axon <i class='text-brand font-light'>Treatment.</i>";
-$pageDescription = "Advanced neuromodulator-based therapy for intimate wellness — relaxes overactive muscles to improve comfort, performance, and confidence.";
+$pageDescription = "Advanced Neuromuscular based therapy designed to invigorate muscle and nerve activity thereby burning calories and reducing visceral fat, building muscle and increasing definition in a targeted and controlled way";
 $metaTitle = "Wonder Axon Treatment Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking wonder axon treatment treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
 $canonicalUrl = "https://refineskinandbody.com/wonder-axon-treatment";
@@ -28,7 +28,7 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
                     </div>
                     <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Wonder Axon Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        A 25-minute session that produces the same muscle building process, metabolic stimulation and caloric consumption as several hours of training in the gym. Advanced Neuromuscular based therapy designed to invigorate muscle and nerve activity thereby burning calories and reducing visceral fat, building muscle and increasing definition in a targeted and controlled way.
+                        A 25-minute session that produces the same muscle building process, metabolic stimulation and caloric consumption as several hours of training in the gym.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
@@ -52,7 +52,7 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">1.</span> Consultation
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Discuss your body toning and fat reduction goals with our specialists to customize your treatment plan.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Discuss your aesthetic goals with Dr. Chirag and evaluate if this non-invasive treatment perfectly aligns with your desired profile.</p>
                             </div>
                         </div>
 
@@ -63,9 +63,9 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Target Setup
+                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Preparation
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Specialized electromagnetic and neuromuscular pads are comfortably positioned on your target muscle groups.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">We prioritize your comfort. A premium topical numbing cream is applied to ensure a completely painless and relaxing experience.</p>
                             </div>
                         </div>
 
@@ -76,9 +76,9 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Stimulation Session
+                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">The Wonder Axon machine delivers precise neuromuscular stimulation to contract muscles and trigger deep metabolic activity.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
                             </div>
                         </div>
 
@@ -89,9 +89,9 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Toned Results
+                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Post-Treatment
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Complete your session with zero downtime. Walk out immediately with a stimulated metabolism and start building muscle definition.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Walk out immediately with your stunning, refined new profile.</p>
                             </div>
                         </div>
 
