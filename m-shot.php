@@ -50,9 +50,9 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Advocates of the M-shot claim potential benefits such as
+                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Assessment of Need
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed"></p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Assessment of need and reason behind the symptoms.</p>
                             </div>
                         </div>
 
@@ -63,9 +63,9 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Step 2
+                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Blood Centrifugation
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Improved Erectile Function</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Drawing of a small amount of blood to centrifuge and separate the Plasma Rich Proteins (PRP's).</p>
                             </div>
                         </div>
 
@@ -76,9 +76,9 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Step 3
+                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Minimally Invasive Injections
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Enhanced Sensitivity</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Simple, minimally invasive injections of PRP's.</p>
                             </div>
                         </div>
 
@@ -89,9 +89,9 @@ $metaKeywords = "The M-Shot in Kampala, The M-Shot treatment in Kampal, The M-Sh
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Step 4
+                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Enhanced Vitality
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Potential Relief from Certain Sexual Health Issues</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Enjoy improved sexual function and increased girth and sensation.</p>
                             </div>
                         </div>
 
