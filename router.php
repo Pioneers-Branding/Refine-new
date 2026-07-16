@@ -5,6 +5,16 @@ $path = parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH);
 $path = rtrim($path, '/'); // Remove trailing slash
 $decodedPath = urldecode($path);
 
+// Force clean URLs: redirect any GET request ending in .php to its extensionless equivalent
+if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] === 'GET' && substr($path, -4) === '.php') {
+    $cleanPath = substr($path, 0, -4);
+    if ($cleanPath === '/index' || $cleanPath === '') {
+        $cleanPath = '/';
+    }
+    header("Location: " . $cleanPath, true, 301);
+    exit();
+}
+
 // Direct file access (CSS, JS, Images)
 if (file_exists(__DIR__ . $decodedPath) && is_file(__DIR__ . $decodedPath)) {
     return false; // let the web server serve the file as is
