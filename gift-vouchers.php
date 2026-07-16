@@ -37,7 +37,7 @@ $pageDescription = "Give the gift of radiant skin and ultimate relaxation. Our l
                 <div class="glass-panel p-8 md:p-12 rounded-[40px] gs-reveal-fade bg-white border border-brand/5 shadow-xl">
                     <h3 class="font-display text-3xl text-brand-deeper mb-8">Customize Your Gift</h3>
                     
-                    <form action="#" method="POST" class="space-y-8">
+                    <form accept-charset='UTF-8' action='https://app.formester.com/forms/9f739eec-3fbd-49bf-a7a9-ebf490069756/submissions' method='POST' class="space-y-8">
                         
                         <div>
                             <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-3">Voucher Value (UGX)</label>

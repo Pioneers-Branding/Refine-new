@@ -404,7 +404,7 @@
                 </div>
                 <h4 class="font-heading font-semibold text-brand-deeper text-base lg:text-lg mb-2">Consultation</h4>
                 <p class="text-xs lg:text-sm text-brand-muted font-light leading-relaxed max-w-[240px] mx-auto">A
-                    complimentary 30-min conversation with a specialist to understand your goals and medical history.
+                    30-min conversation with a specialist to understand your goals and medical history ($20 fee).
                 </p>
             </div>
             <div class="relative text-center gs-reveal-fade">
@@ -514,12 +514,12 @@
             Your Most Radiant Self <i class="text-accent font-light drop-shadow-lg">Awaits.</i>
         </h2>
         <p class="text-white/70 font-body text-lg font-light leading-relaxed max-w-2xl mx-auto mb-12">
-            Book a complimentary consultation with one of our specialists. We'll listen to your goals, answer your
+            Book a consultation with one of our specialists ($20 fee). We'll listen to your goals, answer your
             questions, and craft a personalized plan — with no pressure and no obligation.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="book-appointment" class="btn-magnetic magnetic-target"
-                style="background: white; color: #1a0f3c;"><span>Book Free Consultation <i
+                style="background: white; color: #1a0f3c;"><span>Book Consultation <i
                         class="fas fa-arrow-right text-xs ml-2"></i></span></a>
             <a href="https://api.whatsapp.com/send?phone=256749574546" target="_blank"
                 class="btn-magnetic magnetic-target" style="background: #25D366; color: white;"><i

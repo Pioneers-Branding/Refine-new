@@ -18,7 +18,7 @@ $pageDescription = "We are always looking for passionate, skilled professionals 
 
             <div class="glass-panel p-8 md:p-12 rounded-[40px] bg-surface-warm shadow-xl gs-reveal-fade border border-brand/5">
 
-                <form action="https://api.web3forms.com/submit" method="POST" enctype="multipart/form-data" class="space-y-10">
+                <form accept-charset='UTF-8' action='https://app.formester.com/forms/9f739eec-3fbd-49bf-a7a9-ebf490069756/submissions' method='POST' enctype="multipart/form-data" class="space-y-10">
                     <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
                     <input type="hidden" name="subject" value="New Career Application – Refine Skin & Body">
 

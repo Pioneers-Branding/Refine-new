@@ -97,7 +97,7 @@ $pageDescription = "We are here to assist you. Reach out to book a consultation 
                 <div class="glass-panel p-8 md:p-12 rounded-3xl gs-reveal-fade bg-surface-warm border border-brand/5 shadow-xl">
                     <h3 class="font-display text-3xl text-brand-deeper mb-8">Send a Message</h3>
                     
-                    <form action="#" method="POST" class="space-y-6">
+                    <form accept-charset='UTF-8' action='https://app.formester.com/forms/9f739eec-3fbd-49bf-a7a9-ebf490069756/submissions' method='POST' class="space-y-6">
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div>
                                 <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">First Name</label>

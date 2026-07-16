@@ -119,7 +119,7 @@
             <!-- Card 5 (Patient Reviews) -->
             <a href="patient-reviews"
                 class="group relative rounded-2xl overflow-hidden aspect-video shadow-lg">
-                <img src="/assets/imagesfromsite/about-8.webp" alt="Patient Reviews"
+                <img src="/assets/imagesfromsite/patient-reviews-new.png" alt="Patient Reviews"
                     class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                     loading="lazy">
                 <div

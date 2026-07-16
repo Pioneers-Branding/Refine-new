@@ -2,6 +2,9 @@
 $pageCategory = "Refine IV Lounge";
 $pageTitle = "Inner Beauty <i class='text-brand font-light'>IV.</i>";
 $pageDescription = "The beauty-from-within IV drip — packed with glutathione, biotin, and Vitamin C for radiant skin, strong hair, and healthy nails.";
+
+$metaTitle = "Inner Beauty IV Therapy | Refine Skin & Body Clinic";
+$metaDescription = $pageDescription;
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

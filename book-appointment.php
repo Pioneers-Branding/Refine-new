@@ -56,7 +56,7 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                 <div class="lg:col-span-8">
                     <div class="glass-panel p-8 md:p-12 rounded-[40px] bg-surface-warm shadow-xl gs-reveal-fade border border-brand/5">
                         
-                        <form action="#" method="POST" class="space-y-10">
+                        <form accept-charset='UTF-8' action='https://app.formester.com/forms/9f739eec-3fbd-49bf-a7a9-ebf490069756/submissions' method='POST' class="space-y-10">
                             
                             <!-- Section 1: Patient Details -->
                             <div>
