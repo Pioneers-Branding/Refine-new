@@ -28,7 +28,7 @@ $metaKeywords = "Wonder Axon Treatment in Bukoto, Wonder Axon Treatment treatmen
                     </div>
                     <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Wonder Axon Treatment?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        A 25-minute session that produces the same muscle building process, metabolic stimulation and caloric consumption as several hours of training in the gym.
+                        Advanced Neuromuscular based therapy designed to invigorate muscle and nerve activity thereby burning calories and reducing visceral fat, building muscle and increasing definition in a targeted and controlled way. A 25-minute session produces the same muscle building process, metabolic stimulation and caloric consumption as several hours of training in the gym.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">

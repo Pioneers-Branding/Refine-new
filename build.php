@@ -7,6 +7,10 @@ if (!is_dir($dist)) {
     mkdir($dist, 0755, true);
 }
 
+// Generate sitemap.xml dynamically
+echo "Generating sitemap...\n";
+include __DIR__ . '/generate_sitemap.php';
+
 // Function to copy directory recursively
 function copy_dir($src, $dst) {
     if (!is_dir($src)) return;

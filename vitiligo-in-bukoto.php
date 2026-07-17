@@ -1,12 +1,4 @@
 <?php
-<<<<<<<< Updated upstream:inner-beauty-iv-therapy.php
-$pageCategory = "Refine IV Lounge";
-$pageTitle = "Inner Beauty <i class='text-brand font-light'>IV.</i>";
-$pageDescription = "The beauty-from-within IV drip — packed with glutathione, biotin, and Vitamin C for radiant skin, strong hair, and healthy nails.";
-
-$metaTitle = "Inner Beauty IV Therapy | Refine Skin & Body Clinic";
-$metaDescription = $pageDescription;
-========
 $pageCategory = "Medical Dermatology";
 $pageTitle = "Vitiligo Treatment in Bukoto";
 $pageDescription = "Repigment and restore confidence with our advanced vitiligo treatment options, including phototherapy, excimer laser, and surgical grafting in Bukoto and Juba.";
@@ -14,7 +6,6 @@ $metaTitle = "Vitiligo Treatment in Bukoto | Refine Clinic";
 $metaDescription = "Seeking experienced dermatologists for vitiligo treatment in Bukoto? Refine Skin & Body Clinic offers advanced medical dermatology treatments.";
 $canonicalUrl = "https://refineskinandbody.com/vitiligo-in-bukoto";
 $metaKeywords = "Vitiligo Treatment in Bukoto, Vitiligo Treatment treatment in Kampal";
->>>>>>>> Stashed changes:vitiligo-in-bukoto.php
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
