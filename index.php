@@ -3,6 +3,9 @@
  * Refine Skin & Body Clinic — Homepage
  * Premium redesign with PHP includes, Tailwind CSS, GSAP, and Swiper.js
  */
+$metaTitle = "Skin Clinic in Kampala, Uganda | Dermatologist- Refine Clinic";
+$metaDescription = "Seeking the best Skin Clinic in Kampala, Uganda? Refine Clinic offers expert dermatologist care for acne, pigmentation, eczema, hair loss, and healthy skin.";
+$canonicalUrl = "https://refineskinandbody.com/";
 ?>
 <?php include 'includes/head.php'; ?>
 

@@ -30,10 +30,10 @@
                                     </div>
                                 </div>
                                 <div class="overflow-hidden mb-2">
-                                    <h1 class="hero-display-text hero-stagger-text">Glowing Skin</h1>
+                                    <h2 class="hero-display-text hero-stagger-text">Glowing Skin</h2>
                                 </div>
                                 <div class="overflow-hidden mb-8">
-                                    <h1 class="hero-display-text hero-stagger-text"><i>Starts Here.</i></h1>
+                                    <h2 class="hero-display-text hero-stagger-text"><i>Starts Here.</i></h2>
                                 </div>
                                 <div class="overflow-hidden mb-12">
                                     <p
