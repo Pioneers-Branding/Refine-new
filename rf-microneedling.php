@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Skin Remodeling";
-$pageTitle = "RF <i class='text-brand font-light'>Microneedling.</i>";
+$pageTitle = "RF Microneedling in Kampala";
 $pageDescription = "Radiofrequency Microneedling combines two powerful technologies to remodel collagen, tighten skin, and erase scars with minimal downtime.";
 $metaTitle = "RF Microneedling Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking rf microneedling treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
@@ -310,7 +310,7 @@ $metaKeywords = "RF Microneedling in Kampala, RF Microneedling treatment in Kamp
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a session at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
+                                I had the most amazing experience getting a <strong class="text-brand font-semibold">RF Microneedling in Kampala</strong> at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -634,6 +634,7 @@ $metaKeywords = "RF Microneedling in Kampala, RF Microneedling treatment in Kamp
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

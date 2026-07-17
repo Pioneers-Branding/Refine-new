@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Body Contouring";
-$pageTitle = "Wonder Axon <i class='text-brand font-light'>Treatment.</i>";
+$pageTitle = "Wonder Axon Treatment in Kampala";
 $pageDescription = "Advanced Neuromuscular based therapy designed to invigorate muscle and nerve activity thereby burning calories and reducing visceral fat, building muscle and increasing definition in a targeted and controlled way";
 $metaTitle = "Wonder Axon Treatment Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking wonder axon treatment treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
@@ -310,7 +310,7 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a session at Refine Clinic. The staff is professional, and the results are truly life-changing!
+                                I had the most amazing experience getting a <strong class="text-brand font-semibold">Wonder Axon Treatment in Kampala</strong> at Refine Clinic. The staff is professional, and the results are truly life-changing!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -634,6 +634,7 @@ $metaKeywords = "Wonder Axon Treatment in Kampala, Wonder Axon Treatment treatme
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

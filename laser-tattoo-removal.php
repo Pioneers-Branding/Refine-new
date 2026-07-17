@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Laser & Aesthetic";
-$pageTitle = "Laser Tattoo <i class='text-brand font-light'>Removal.</i>";
+$pageTitle = "Laser Tattoo Removal in Kampala";
 $pageDescription = "Safely and effectively fade or completely remove unwanted tattoos with our advanced Q-switched laser technology.";
 $metaTitle = "Laser Tattoo Removal Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking laser tattoo removal treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
@@ -310,7 +310,7 @@ $metaKeywords = "Laser Tattoo Removal in Kampala, Laser Tattoo Removal treatment
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a session at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
+                                I had the most amazing experience getting a <strong class="text-brand font-semibold">Laser Tattoo Removal in Kampala</strong> at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -634,6 +634,7 @@ $metaKeywords = "Laser Tattoo Removal in Kampala, Laser Tattoo Removal treatment
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

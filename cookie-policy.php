@@ -55,6 +55,7 @@ $pageDescription = "Information on how we use cookies and tracking technologies 
         </div>
     </section>
 
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

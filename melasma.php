@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Pigmentation";
-$pageTitle = "Melasma <i class='text-brand font-light'>Treatment.</i>";
+$pageTitle = "Melasma Treatment in Kampala";
 $pageDescription = "Targeted, multi-modal treatment plans for melasma that address the root cause and deliver lasting, even-toned results for all skin types.";
 $metaTitle = "Melasma Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking experienced dermatologists for melasma treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced medical dermatology treatments.";
@@ -13,7 +13,7 @@ $metaKeywords = "Melasma Treatment in Kampala, Melasma Treatment treatment in Ka
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- $pageTitle = "Melasma Treatment."; -->
+    <!-- $pageTitle = "Melasma Treatment in Kampala"; -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -319,7 +319,7 @@ $metaKeywords = "Melasma Treatment in Kampala, Melasma Treatment treatment in Ka
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had a wonderful experience at Refine Clinic. The medical team is highly professional and diagnosed my skin condition immediately.
+                                I had the most amazing experience getting <strong class="text-brand font-semibold">Melasma Treatment in Kampala</strong> at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -643,6 +643,7 @@ $metaKeywords = "Melasma Treatment in Kampala, Melasma Treatment treatment in Ka
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

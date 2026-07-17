@@ -388,6 +388,7 @@ $pageDescription = "Sculpt, tone, and refine your physique with our non-surgical
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

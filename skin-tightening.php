@@ -388,6 +388,7 @@ $pageDescription = "Restore firmness and elasticity. Non-surgical skin tightenin
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

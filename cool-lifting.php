@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Skin Rejuvenation";
-$pageTitle = "Cool Lifting <i class='text-brand font-light'>Rejuvenation.</i>";
+$pageTitle = "Cool Lifting Rejuvenation in Kampala";
 $pageDescription = "A non-invasive, cryotherapy-based facial that floods skin with botanical actives for instant radiance, hydration, and lift — in just 5 minutes.";
 $metaTitle = "Cool Lifting Skin Rejuvenation Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking cool lifting skin rejuvenation treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
@@ -13,7 +13,7 @@ $metaKeywords = "Cool Lifting Skin Rejuvenation in Kampala, Cool Lifting Skin Re
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- $pageTitle = "Cool Lifting Rejuvenation."; -->
+    <!-- $pageTitle = "Cool Lifting Rejuvenation in Kampala"; -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
         <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -310,7 +310,7 @@ $metaKeywords = "Cool Lifting Skin Rejuvenation in Kampala, Cool Lifting Skin Re
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a session at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
+                                I had the most amazing experience getting a <strong class="text-brand font-semibold">Cool Lifting in Kampala</strong> at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -634,6 +634,7 @@ $metaKeywords = "Cool Lifting Skin Rejuvenation in Kampala, Cool Lifting Skin Re
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

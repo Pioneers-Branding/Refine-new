@@ -390,6 +390,7 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling";
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

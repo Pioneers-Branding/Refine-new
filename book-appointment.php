@@ -196,6 +196,7 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
         </div>
     </section>
 
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

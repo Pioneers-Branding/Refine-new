@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Body Contouring";
-$pageTitle = "Cryolipolysis (Fat <i class='text-brand font-light'>Freezing).</i>";
+$pageTitle = "Cryolipolysis Fat Freezing in Kampala";
 $pageDescription = "Permanently destroy stubborn fat cells with controlled cooling — no surgery, no needles, no downtime.";
 $metaTitle = "Cryolipolysis Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking cryolipolysis treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
@@ -310,7 +310,7 @@ $metaKeywords = "Cryolipolysis in Kampala, Cryolipolysis treatment in Kampal, Cr
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a session at Refine Clinic. The staff is professional, and the results are truly life-changing!
+                                I had the most amazing experience getting a <strong class="text-brand font-semibold">Cryolipolysis in Kampala</strong> at Refine Clinic. The staff is professional, and the results are truly life-changing!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -634,6 +634,7 @@ $metaKeywords = "Cryolipolysis in Kampala, Cryolipolysis treatment in Kampal, Cr
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

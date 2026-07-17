@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Refine IV Lounge";
-$pageTitle = "IV Therapy <i class='text-brand font-light'>Overview.</i>";
+$pageTitle = "IV Therapy in Kampala";
 $pageDescription = "Intravenous nutrient therapy delivers 100% absorption of vitamins, minerals, and antioxidants directly into your bloodstream for instant wellness benefits.";
 $metaTitle = "IV Therapy Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking iv therapy treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
@@ -310,7 +310,7 @@ $metaKeywords = "IV Therapy in Kampala, IV Therapy treatment in Kampal, IV Thera
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a session at Refine Clinic. The staff is professional, and the atmosphere is incredibly relaxing.
+                                I had the most amazing experience getting an <strong class="text-brand font-semibold">IV Therapy in Kampala</strong> at Refine Clinic. The staff is professional, and the results are truly life-changing!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -599,21 +599,6 @@ $metaKeywords = "IV Therapy in Kampala, IV Therapy treatment in Kampal, IV Thera
             </div>
           </div>
         </div>
-
-        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Iv Therapy in Uganda?</h4>
-            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-            </div>
-          </div>
-          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   </section>
 
@@ -634,6 +619,7 @@ $metaKeywords = "IV Therapy in Kampala, IV Therapy treatment in Kampal, IV Thera
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

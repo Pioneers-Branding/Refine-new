@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Medical Dermatology";
-$pageTitle = "Pigmentaion &amp; Melasma Treatment in Kampala";
+$pageTitle = "Pigmentation & Melasma Treatment in Kampala";
 $pageDescription = "Pigmentaion &amp; Melasma Treatment in Kampala";
 $metaTitle = "Hyperpigmentation and Melasma Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking experienced dermatologists for hyperpigmentation and melasma treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced medical dermatology treatments.";
@@ -106,7 +106,7 @@ $metaKeywords = "Hyperpigmentation and Melasma Treatment in Kampala, Hyperpigmen
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had a wonderful experience at Refine Clinic. The medical team is highly professional and diagnosed my skin condition immediately.
+                                I had the most amazing experience getting <strong class="text-brand font-semibold">Hyperpigmentation and Melasma Treatment in Kampala</strong> at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -314,6 +314,7 @@ $metaKeywords = "Hyperpigmentation and Melasma Treatment in Kampala, Hyperpigmen
         </div>
     </section>
 
+    <?php include 'includes/locations-selector.php'; ?>
     <?php include 'includes/appointment-form.php'; ?>
 </main>
 

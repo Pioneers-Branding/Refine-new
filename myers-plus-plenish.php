@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Refine IV Lounge";
-$pageTitle = "Myers' Plus <i class='text-brand font-light'>Plenish.</i>";
+$pageTitle = "Myers' Plus Plenish IV Therapy in Kampala";
 $pageDescription = "The supercharged version of the classic Myers' Cocktail — extra glutathione, zinc, and trace minerals for advanced wellness and recovery.";
 ?>
 <?php include 'includes/head.php'; ?>
@@ -388,6 +388,7 @@ $pageDescription = "The supercharged version of the classic Myers' Cocktail — 
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -72,6 +72,7 @@ $metaKeywords = "Thread Lifting Treatment in Kampala, Thread Lifting Treatment t
 
     
 
+    <?php include 'includes/locations-selector.php'; ?>
     <?php include 'includes/appointment-form.php'; ?>
 </main>
 

@@ -634,6 +634,7 @@ $metaKeywords = "Skin Tag Removal in Kampala, Skin Tag Removal treatment in Kamp
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Body Contouring";
-$pageTitle = "EM Body <i class='text-brand font-light'>Sculpt.</i>";
+$pageTitle = "EM Body Sculpt Treatment in Kampala";
 $pageDescription = "Build muscle and burn fat simultaneously with EMSCULPT — the non-invasive treatment that delivers the equivalent of 20,000 crunches in 30 minutes.";
 $metaTitle = "Em Body Sculpt Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking em body sculpt treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
@@ -310,7 +310,7 @@ $metaKeywords = "Em Body Sculpt in Kampala, Em Body Sculpt treatment in Kampal, 
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a session at Refine Clinic. The staff is professional, and the results are truly life-changing!
+                                I had the most amazing experience getting an <strong class="text-brand font-semibold">EM Body Sculpt in Kampala</strong> at Refine Clinic. The staff is professional, and the results are truly life-changing!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -634,6 +634,7 @@ $metaKeywords = "Em Body Sculpt in Kampala, Em Body Sculpt treatment in Kampal, 
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

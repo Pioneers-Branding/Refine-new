@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Specialty";
-$pageTitle = "Medical <i class='text-brand font-light'>Dermatology.</i>";
+$pageTitle = "Medical Dermatology in Kampala";
 $pageDescription = "Expert diagnosis and evidence-based treatments for all clinical skin conditions, ensuring your skin is as healthy as it is beautiful.";
 $metaTitle = "Medical Dermatology in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking experienced dermatologists for medical dermatology in Kampala, Uganda? Refine Skin & Body Clinic offers advanced medical dermatology treatments.";
@@ -310,7 +310,7 @@ $metaKeywords = "Medical Dermatology in Kampala, Medical Dermatology treatment i
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had a wonderful experience at Refine Clinic. The medical team is highly professional and diagnosed my skin condition immediately.
+                                I had the most amazing experience getting <strong class="text-brand font-semibold">Medical Dermatology in Kampala</strong> at Refine Clinic. My skin was deeply cleansed, and the glow was instant. Highly recommend their professional staff!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -634,6 +634,7 @@ $metaKeywords = "Medical Dermatology in Kampala, Medical Dermatology treatment i
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

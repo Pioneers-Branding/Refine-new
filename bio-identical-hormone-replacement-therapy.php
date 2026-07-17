@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Wellness & Hormones";
-$pageTitle = "Bio-Identical Hormone <i class='text-brand font-light'>Replacement Therapy.</i>";
+$pageTitle = "Bio-Identical Hormone Replacement Therapy in Kampala";
 $pageDescription = "Restore hormonal balance with bio-identical hormone replacement therapy (BHRT) — for energy, mood, libido, and optimal wellness at any age.";
 $metaTitle = "Bio-Identical Hormone Replacement Therapy Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking bio-identical hormone replacement therapy treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
@@ -310,7 +310,7 @@ $metaKeywords = "Bio-Identical Hormone Replacement Therapy in Kampala, Bio-Ident
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a session at Refine Clinic. The staff is professional, and the atmosphere is incredibly relaxing.
+                                I had the most amazing experience getting <strong class="text-brand font-semibold">Bio-Identical Hormone Replacement Therapy in Kampala</strong> at Refine Clinic. The staff is professional, and the results are truly life-changing!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -634,6 +634,7 @@ $metaKeywords = "Bio-Identical Hormone Replacement Therapy in Kampala, Bio-Ident
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

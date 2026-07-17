@@ -1,6 +1,6 @@
 <?php
 $pageCategory = "Intimate Wellness";
-$pageTitle = "OMG Shot <i class='text-brand font-light'>Treatment.</i>";
+$pageTitle = "OMG Shot Treatment in Kampala";
 $pageDescription = "The OMG Shot uses your own PRP to enhance female sexual wellness, sensitivity, and confidence — performed discreetly by our medical team.";
 $metaTitle = "The OMG-Shot Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking the omg-shot treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
@@ -310,7 +310,7 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
                                 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                             </div>
                             <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a session at Refine Clinic. The staff is professional, and the atmosphere is incredibly relaxing.
+                                I had the most amazing experience getting an <strong class="text-brand font-semibold">OMG Shot in Kampala</strong> at Refine Clinic. The staff is professional, and the results are truly life-changing!
                             </h4>
                             <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
                                 <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
@@ -634,6 +634,7 @@ $metaKeywords = "The OMG-Shot in Kampala, The OMG-Shot treatment in Kampal, The 
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

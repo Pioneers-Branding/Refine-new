@@ -390,6 +390,7 @@ $canonicalUrl = "https://refineskinandbody.com/testosterone-therapy";
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

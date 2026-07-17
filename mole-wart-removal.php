@@ -634,6 +634,7 @@ $metaKeywords = "Mole and Wart Removal in Kampala, Mole and Wart Removal treatme
         });
     </script>
     
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>
