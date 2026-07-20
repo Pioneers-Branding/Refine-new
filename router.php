@@ -256,6 +256,10 @@ if ($path === '/semaglutide-ozempic-weight-loss-kampala-juba') {
     header("Location: /semaglutide-ozempic-weight-loss", true, 301);
     exit();
 }
+if ($path === '/weight-loss-kampala-juba') {
+    header("Location: /semaglutide-ozempic-weight-loss", true, 301);
+    exit();
+}
 if ($path === '/gastric-sleeve-and-bypass-surgery-kampala-juba') {
     header("Location: /gastric-sleeve-and-bypass-surgery", true, 301);
     exit();
@@ -323,7 +327,6 @@ $routeMap = [
     '/laser-treatments-kampala-juba' => 'laser-treatments-kampala-juba.php',
     '/prp-treatments-kampala-juba' => 'prp-treatments-kampala-juba.php',
     '/anti-aging-kampala-juba' => 'anti-aging-kampala-juba.php',
-    '/weight-loss-kampala-juba' => 'weight-loss-kampala-juba.php',
     '/skin-and-body-rejuvenation-kampala-juba' => 'skin-and-body-rejuvenation-kampala-juba.php',
     '/skin-tightening' => 'skin-tightening.php',
     '/body-contouring' => 'body-contouring.php',

@@ -7,3 +7,15 @@
   to = "/body-contouring"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/laser-hair-removal-in-uganda-kampala-juba"
+  to = "/laser-hair-removal"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/weight-loss-kampala-juba"
+  to = "/semaglutide-ozempic-weight-loss"
+  status = 301
+  force = true

@@ -15,6 +15,8 @@ RewriteEngine On
 DirectoryIndex index.php
 
 # Handle 301 Redirects
+RewriteRule ^laser-hair-removal-in-uganda-kampala-juba$ /laser-hair-removal [R=301,L]
+RewriteRule ^weight-loss-kampala-juba$ /semaglutide-ozempic-weight-loss [R=301,L]
 
 # Redirect trailing slashes to non-trailing slashes (optional, but good for SEO)
 RewriteCond %{REQUEST_FILENAME} !-d
