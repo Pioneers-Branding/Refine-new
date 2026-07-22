@@ -95,6 +95,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
 
     <!-- Custom Styles -->
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
 <body class="font-body text-gray-800 antialiased overflow-x-hidden bg-white">
