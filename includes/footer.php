@@ -179,7 +179,7 @@
                     <li><a href="patient-reviews" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Patient Reviews</a></li>
                     <li><a href="before-after" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Before & After</a></li>
                     <li><a href="videos" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Video Library</a></li>
-                    <li><a href="blog" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Blog</a></li>
+                    <li><a href="/blog" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Blog</a></li>
                     <li><a href="careers" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Careers</a></li>
                 </ul>
             </div>

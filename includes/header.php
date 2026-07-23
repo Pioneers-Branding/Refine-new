@@ -306,7 +306,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">The Clinic</p>
                         <a href="about" class="block font-body text-sm text-white/80 py-1 hover:text-accent">About Us</a>
                         <a href="gallery" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Gallery</a>
-                        <a href="blog" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Blogs</a>
+                        <a href="/blog" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Blogs</a>
                         <a href="patient-reviews" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Patient Reviews</a>
                         <a href="before-after" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Before & After</a>
                     </div>
