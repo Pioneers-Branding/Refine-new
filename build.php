@@ -66,4 +66,42 @@ foreach ($phpFiles as $file) {
     file_put_contents($dist . '/' . $htmlFile, $content);
 }
 
+// Generate static HTML for Blog articles
+if (file_exists(__DIR__ . '/blog.php')) {
+    echo "Rendering blog articles...\n";
+    @mkdir($dist . '/blog', 0755, true);
+    
+    // Copy blog.html to dist/blog/index.html
+    if (file_exists($dist . '/blog.html')) {
+        copy($dist . '/blog.html', $dist . '/blog/index.html');
+    }
+
+    // Extract articles dataset from blog.php
+    $articles = [];
+    $blogPhpContent = file_get_contents(__DIR__ . '/blog.php');
+    
+    // Safely render each article by setting URI and slug
+    $articleSlugs = [
+        'botox-vs-dermal-fillers-which-one-should-you-choose',
+        'top-10-daily-skincare-habits-healthy-glowing-skin',
+        'what-is-melasma-can-it-be-permanently-treated',
+        'can-iv-therapy-improve-skin-glow-overall-wellness'
+    ];
+
+    foreach ($articleSlugs as $artSlug) {
+        $_SERVER['REQUEST_URI'] = '/blog/' . $artSlug;
+        $_GET['slug'] = $artSlug;
+        
+        ob_start();
+        include __DIR__ . '/blog.php';
+        $artContent = ob_get_clean();
+
+        // Save as dist/blog/slug.html and dist/blog/slug/index.html
+        file_put_contents($dist . '/blog/' . $artSlug . '.html', $artContent);
+        @mkdir($dist . '/blog/' . $artSlug, 0755, true);
+        file_put_contents($dist . '/blog/' . $artSlug . '/index.html', $artContent);
+    }
+    echo "Rendered " . count($articleSlugs) . " blog articles to /dist/blog/\n";
+}
+
 echo "Build complete. Static HTML files generated in /dist\n";

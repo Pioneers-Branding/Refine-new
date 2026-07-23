@@ -51,7 +51,25 @@ foreach ($pages as $page) {
     $xml .= '  </url>' . "\n";
 }
 
+// Include Blog Articles in Sitemap
+$blogSlugs = [
+    'botox-vs-dermal-fillers-which-one-should-you-choose',
+    'top-10-daily-skincare-habits-healthy-glowing-skin',
+    'what-is-melasma-can-it-be-permanently-treated',
+    'can-iv-therapy-improve-skin-glow-overall-wellness'
+];
+
+foreach ($blogSlugs as $slug) {
+    $url = $baseUrl . '/blog/' . $slug;
+    $xml .= '  <url>' . "\n";
+    $xml .= '    <loc>' . htmlspecialchars($url) . '</loc>' . "\n";
+    $xml .= '    <lastmod>' . $today . '</lastmod>' . "\n";
+    $xml .= '    <changefreq>weekly</changefreq>' . "\n";
+    $xml .= '    <priority>0.8</priority>' . "\n";
+    $xml .= '  </url>' . "\n";
+}
+
 $xml .= '</urlset>' . "\n";
 
 file_put_contents($dir . '/sitemap.xml', $xml);
-echo "Sitemap generated successfully in root sitemap.xml (" . count($pages) . " pages).\n";
+echo "Sitemap generated successfully in root sitemap.xml (" . (count($pages) + count($blogSlugs)) . " pages).\n";

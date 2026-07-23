@@ -12,6 +12,7 @@ if (strpos($pathClean, '/blog/') === 0) {
 } elseif (isset($_GET['article'])) {
     $slug = trim($_GET['article']);
 }
+$slug = trim($slug, '/');
 
 // Complete Articles Dataset
 $articles = [
