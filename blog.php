@@ -1,4 +1,8 @@
 <?php
+ini_set('display_errors', '1');
+ini_set('display_startup_errors', '1');
+error_reporting(E_ALL);
+
 // Determine path and slug for routing
 $requestUri = $_SERVER['REQUEST_URI'] ?? '/blog';
 $parsedPath = parse_url($requestUri, PHP_URL_PATH);
