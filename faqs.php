@@ -1,4 +1,5 @@
 <?php
+header('X-PHP-Version: ' . PHP_VERSION);
 $pageCategory = "Knowledge Base";
 $pageTitle = "Frequently Asked <i class='text-brand font-light'>Questions.</i>";
 $pageDescription = "Find answers to the most common questions about our treatments, booking processes, and clinic policies.";
