@@ -28,20 +28,20 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
             </a>
 
             <!-- Desktop Navigation (original site structure) -->
-            <nav class="hidden lg:flex items-center gap-7 z-10">
+            <nav class="hidden lg:flex items-center gap-5 xl:gap-6 z-10">
                 <a href="/" class="nav-link-item">Home</a>
 
                 <!-- About Us Dropdown -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="/about" class="nav-link-item inline-flex items-center gap-1.5">
-                        <span>About Us</span><i class="fas fa-chevron-down text-[8px] opacity-70"></i>
+                    <a href="/about" class="nav-link-item inline-flex items-center gap-1">
+                        <span>About Us</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1000px] max-w-[95vw]">
                         <div class="mega-menu-panel p-8 grid grid-cols-3 gap-8 relative">
                             <!-- Col 1: The Clinic -->
                             <div>
                                 <img src="/assets/imagesfromsite/about2026.webp" alt="The Clinic" class="w-full aspect-video object-cover bg-brand-faint rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">The Clinic</h5>
+                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">The Clinic</h5>
                                 <div class="space-y-2.5">
                                     <a href="/about" class="block text-sm text-gray-600 hover:text-brand transition-colors">About Us</a>
                                     <a href="/gallery" class="block text-sm text-gray-600 hover:text-brand transition-colors">Gallery</a>
@@ -53,7 +53,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 2: Our Specialists -->
                             <div>
                                 <img src="/assets/images/team/dr_chirag_kotecha.png" alt="Our Specialists" class="w-full aspect-video object-cover object-top bg-brand-faint rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">Our Specialists</h5>
+                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">Our Specialists</h5>
                                 <div class="space-y-2.5">
                                     <a href="/dr-chirag-kotecha" class="block text-sm text-gray-600 hover:text-brand transition-colors">Lead Specialist</a>
                                     <a href="/dr-william-lubega" class="block text-sm text-gray-600 hover:text-brand transition-colors">Plastic Surgeon</a>
@@ -65,7 +65,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 3: Wellness & Support -->
                             <div>
                                 <img src="/assets/imagesfromsite/Ms_Wendy_Emyedu_Ayayo.png" alt="Wellness & Support" class="w-full aspect-video object-cover object-top bg-brand-faint rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">Wellness &amp; Support</h5>
+                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">Wellness &amp; Support</h5>
                                 <div class="space-y-2.5">
 
                                     <a href="/wendy-emyedu-ayayo" class="block text-sm text-gray-600 hover:text-brand transition-colors">Nutritionist</a>
@@ -77,8 +77,8 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                 <!-- Cosmetic Dermatology Mega Menu -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="cosmetic-dermatology-kampala-juba" class="nav-link-item inline-flex items-center gap-1.5">
-                        <span>Cosmetic Dermatology</span><i class="fas fa-chevron-down text-[8px] opacity-70"></i>
+                    <a href="cosmetic-dermatology-kampala-juba" class="nav-link-item inline-flex items-center gap-1">
+                        <span>Cosmetic Dermatology</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1400px] max-w-[95vw]">
                         <div class="mega-menu-panel p-8 grid grid-cols-6 gap-4 lg:gap-6 relative">
@@ -87,7 +87,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 1: Skin/Body Rejuvenation -->
                             <div>
                                 <img src="/assets/imagesfromsite/hydra-facial-09.png" alt="Skin/Body Rejuvenation" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Skin/Body Rejuvenation</h5>
+                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Skin/Body Rejuvenation</h5>
                                 <div class="space-y-2">
                                     <a href="hydrafacial" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">HydraFacial</a>
                                     <a href="chemical-peel" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Chemical Peel</a>
@@ -106,7 +106,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 2: Laser Treatments -->
                             <div>
                                 <img src="/assets/imagesfromsite/Laser%20Skin%20Rejuvenation-09.png" alt="Laser Treatments" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Laser Treatments</h5>
+                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Laser Treatments</h5>
                                 <div class="space-y-2">
                                     <a href="laser-hair-removal" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Laser Hair Removal</a>
                                     <a href="laser-tattoo-removal" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Laser Tattoo Removal</a>
@@ -118,7 +118,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 3: Anti Aging -->
                             <div>
                                 <img src="/assets/imagesfromsite/dermal-filter-09.png" alt="Anti Aging" class="w-full aspect-video object-cover object-top bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Anti Aging</h5>
+                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Anti Aging</h5>
                                 <div class="space-y-2">
                                     <a href="botox" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Botox&reg;</a>
                                     <a href="dermal-fillers" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Dermal Fillers</a>
@@ -132,7 +132,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 4: PRP Treatments -->
                             <div>
                                 <img src="/assets/imagesfromsite/prp-hair-restoration-09.png" alt="PRP Treatments" class="w-full aspect-video object-cover object-top bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">PRP Treatments</h5>
+                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">PRP Treatments</h5>
                                 <div class="space-y-2">
                                     <a href="hair-transplant" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Hair Transplant</a>
                                     <a href="prp-face-lift" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">The PRP Facelift</a>
@@ -149,7 +149,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 5: Weight Loss -->
                             <div>
                                 <img src="/assets/imagesfromsite/Gastric%20Sleeve%20and%20Bypass-09.png" alt="Weight Loss" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Weight Loss</h5>
+                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Weight Loss</h5>
                                 <div class="space-y-2">
                                     <a href="allurion-weight-loss" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Allurion</a>
                                     <a href="semaglutide-ozempic-weight-loss" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Semaglutide/Ozempic</a>
@@ -162,7 +162,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 6: Body Contouring -->
                             <div>
                                 <img src="/assets/imagesfromsite/Fat%20Dissolving-09.png" alt="Body Contouring" class="w-full aspect-video object-cover object-top bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-widest mb-4">Body Contouring</h5>
+                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Body Contouring</h5>
                                 <div class="space-y-2">
                                     <a href="https://www.wonderaxon.com" target="_blank" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Wonderaxon</a>
                                     <a href="cryolipolysis" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Cryolipolysis</a>
@@ -178,14 +178,14 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                 <!-- Medical Dermatology Mega Menu -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="medical-dermatology" class="nav-link-item inline-flex items-center gap-1.5">
-                        <span>Medical Dermatology</span><i class="fas fa-chevron-down text-[8px] opacity-70"></i>
+                    <a href="medical-dermatology" class="nav-link-item inline-flex items-center gap-1">
+                        <span>Medical Dermatology</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[800px] max-w-[95vw]">
                         <div class="mega-menu-panel p-8 grid grid-cols-2 gap-8 relative">
                             <div>
                                 <img src="/assets/imagesfromsite/acne-09.png" alt="Inflammatory Skin" class="w-full aspect-video object-cover rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">Inflammatory Skin</h5>
+                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">Inflammatory Skin</h5>
                                 <div class="space-y-2.5">
                                     <a href="acne" class="block text-sm text-gray-600 hover:text-brand transition-colors">Acne</a>
                                     <a href="scar" class="block text-sm text-gray-600 hover:text-brand transition-colors">Scars</a>
@@ -196,7 +196,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             </div>
                             <div>
                                 <img src="/assets/imagesfromsite/skin-cancer-09.png" alt="Autoimmune Disorders" class="w-full aspect-video object-cover rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">Autoimmune Disorders</h5>
+                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">Autoimmune Disorders</h5>
                                 <div class="space-y-2.5">
                                     <a href="vitiligo" class="block text-sm text-gray-600 hover:text-brand transition-colors">Vitiligo</a>
                                     <a href="alopecia-areata" class="block text-sm text-gray-600 hover:text-brand transition-colors">Alopecia Areata</a>
@@ -209,15 +209,15 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                 <!-- Refine IV Lounge Mega Menu -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="refine-iv-lounge-kampala-juba" class="nav-link-item inline-flex items-center gap-1.5">
-                        <span>Refine IV Lounge</span><i class="fas fa-chevron-down text-[8px] opacity-70"></i>
+                    <a href="refine-iv-lounge-kampala-juba" class="nav-link-item inline-flex items-center gap-1">
+                        <span>Refine IV Lounge</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1100px] max-w-[95vw]">
                         <div class="mega-menu-panel p-8 grid grid-cols-3 gap-8 relative">
                             <!-- Col 1: IV Therapy -->
                             <div>
                                 <img src="/assets/imagesfromsite/Combo%20of%20vit%20B-12%20and%20B%20complex-09_.png" alt="IV Therapy" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">IV Therapy</h5>
+                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">IV Therapy</h5>
                                 <div class="space-y-2.5">
                                     <a href="inner-beauty-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Inner Beauty</a>
                                     <a href="jet-lag-iv-therapy-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Jet Lag</a>
@@ -234,7 +234,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 2: Wellness Infusions -->
                             <div>
                                 <img src="/assets/imagesfromsite/Amino%20acid-9.png" alt="Wellness Infusions" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">Wellness Infusions</h5>
+                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">Wellness Infusions</h5>
                                 <div class="space-y-2.5">
                                     <a href="amino-acids-IV-therapy-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Amino Acids</a>
                                     <a href="glutathione-IV-therapy-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Glutathione</a>
@@ -243,7 +243,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             <!-- Col 3: Our Affiliates -->
                             <div>
                                 <img src="/assets/imagesfromsite/neo_derma_clinic.png" alt="Neoderma Clinic" class="w-full aspect-video object-cover object-center bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-widest mb-4">Our Affiliates</h5>
+                                <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">Our Affiliates</h5>
                                 <div class="space-y-2.5">
                                     <a href="https://www.neodermaclinica.com/" target="_blank" class="block text-sm text-gray-600 hover:text-brand transition-colors">Refine by Neoderma Clinica - Kigali</a>
                                     <a href="https://refinebytulsi.com/" target="_blank" class="block text-sm text-gray-600 hover:text-brand transition-colors">Refine by Tulsi - Chicago</a>
@@ -297,13 +297,13 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
             <!-- About Us Accordion -->
             <details class="group border-b border-white/10 pb-3">
-                <summary class="font-display italic text-xl text-white hover:text-accent cursor-pointer list-none [&::-webkit-details-marker]:hidden flex items-center justify-start gap-2.5">
+                <summary class="font-display italic text-xl text-white hover:text-accent cursor-pointer list-none [&::-webkit-details-marker]:hidden flex items-center justify-start gap-1.5">
                     About Us
-                    <i class="fas fa-chevron-down text-xs transition-transform duration-300 group-open:-rotate-180 opacity-70"></i>
+                    <i class="fas fa-chevron-down text-xs transition-transform duration-300 group-open:-rotate-180 opacity-70 ml-0.5"></i>
                 </summary>
                 <div class="mt-4 mb-2 space-y-5 pl-3 border-l-2 border-brand-light/20">
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">The Clinic</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">The Clinic</p>
                         <a href="about" class="block font-body text-sm text-white/80 py-1 hover:text-accent">About Us</a>
                         <a href="gallery" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Gallery</a>
                         <a href="blog" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Blogs</a>
@@ -311,7 +311,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="before-after" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Before & After</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Our Specialists</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Our Specialists</p>
                         <a href="dr-chirag-kotecha" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Lead Specialist</a>
                         <a href="dr-william-lubega" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Plastic Surgeon</a>
                         <a href="dr-henry-owiny" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Aesthetic Physician</a>
@@ -319,7 +319,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="dr-vicky-koojo-nganzi" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Kabalagala Branch</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Wellness &amp; Support</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Wellness &amp; Support</p>
 
                         <a href="wendy-emyedu-ayayo" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Nutritionist</a>
                     </div>
@@ -328,13 +328,13 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
             <!-- Cosmetic Dermatology Accordion -->
             <details class="group border-b border-white/10 pb-3">
-                <summary class="font-display italic text-xl text-white hover:text-accent cursor-pointer list-none [&::-webkit-details-marker]:hidden flex items-center justify-start gap-2.5">
+                <summary class="font-display italic text-xl text-white hover:text-accent cursor-pointer list-none [&::-webkit-details-marker]:hidden flex items-center justify-start gap-1.5">
                     Cosmetic Derm
-                    <i class="fas fa-chevron-down text-xs transition-transform duration-300 group-open:-rotate-180 opacity-70"></i>
+                    <i class="fas fa-chevron-down text-xs transition-transform duration-300 group-open:-rotate-180 opacity-70 ml-0.5"></i>
                 </summary>
                 <div class="mt-4 mb-2 space-y-5 pl-3 border-l-2 border-brand-light/20">
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Skin/Body Rejuvenation</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Skin/Body Rejuvenation</p>
                         <a href="hydrafacial" class="block font-body text-sm text-white/80 py-1 hover:text-accent">HydraFacial</a>
                         <a href="chemical-peel" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Chemical Peel</a>
                         <a href="iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">IV Therapy</a>
@@ -348,14 +348,14 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="platelet-rich-plasma-facial" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PRP Therapy</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Laser Treatments</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Laser Treatments</p>
                         <a href="laser-hair-removal" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Laser Hair Removal</a>
                         <a href="laser-tattoo-removal" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Laser Tattoo Removal</a>
                         <a href="co2-laser-scar-removal" class="block font-body text-sm text-white/80 py-1 hover:text-accent">CO2 Laser for Scars</a>
                         <a href="laser-skin-rejuvenation" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Laser Skin Rejuvenation</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Anti Aging</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Anti Aging</p>
                         <a href="botox" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Botox&reg;</a>
                         <a href="dermal-fillers" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Dermal Fillers</a>
                         <a href="thread-lifting" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Thread Lifting</a>
@@ -364,7 +364,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="led-light-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">LED Light Therapy</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">PRP Treatments</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">PRP Treatments</p>
                         <a href="hair-transplant" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Hair Transplant</a>
                         <a href="prp-face-lift" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The PRP Facelift</a>
                         <a href="prp-breast-lift" class="block font-body text-sm text-white/80 py-1 hover:text-accent">The PRP Breast Lift</a>
@@ -376,7 +376,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="joint-and-tissue-rejuvenation" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Joint &amp; Tissue Rejuvenation</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Weight Loss</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Weight Loss</p>
                         <a href="allurion-weight-loss" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Allurion</a>
                         <a href="semaglutide-ozempic-weight-loss" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Semaglutide/Ozempic</a>
                         <a href="https://www.mounjaro.com" target="_blank" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Mounjaro</a>
@@ -384,7 +384,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="nutrition-counselling" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Nutritionist Services</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Body Contouring</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Body Contouring</p>
                         <a href="https://www.wonderaxon.com" target="_blank" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Wonderaxon</a>
                         <a href="cryolipolysis" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Cryolipolysis</a>
                         <a href="pcdc-fat-dissolving" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PCDC Fat Dissolving</a>
@@ -397,13 +397,13 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
             <!-- Medical Dermatology Accordion -->
             <details class="group border-b border-white/10 pb-3">
-                <summary class="font-display italic text-xl text-white hover:text-accent cursor-pointer list-none [&::-webkit-details-marker]:hidden flex items-center justify-start gap-2.5">
+                <summary class="font-display italic text-xl text-white hover:text-accent cursor-pointer list-none [&::-webkit-details-marker]:hidden flex items-center justify-start gap-1.5">
                     Medical Derm
-                    <i class="fas fa-chevron-down text-xs transition-transform duration-300 group-open:-rotate-180 opacity-70"></i>
+                    <i class="fas fa-chevron-down text-xs transition-transform duration-300 group-open:-rotate-180 opacity-70 ml-0.5"></i>
                 </summary>
                 <div class="mt-4 mb-2 space-y-5 pl-3 border-l-2 border-brand-light/20">
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Inflammatory Skin</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Inflammatory Skin</p>
                         <a href="acne" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Acne Treatment</a>
                         <a href="rosacea" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Rosacea</a>
                         <a href="eczema-dermatitis-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Eczema (Dermatitis)</a>
@@ -411,7 +411,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="contact-dermatitis-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Contact Dermatitis</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Autoimmune Disorders</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Autoimmune Disorders</p>
                         <a href="vitiligo" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Vitiligo</a>
                         <a href="melasma" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Melasma</a>
                         <a href="keloid-scar" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Keloids</a>
@@ -421,13 +421,13 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
             <!-- Refine IV Lounge Accordion -->
             <details class="group border-b border-white/10 pb-3">
-                <summary class="font-display italic text-xl text-white hover:text-accent cursor-pointer list-none [&::-webkit-details-marker]:hidden flex items-center justify-start gap-2.5">
+                <summary class="font-display italic text-xl text-white hover:text-accent cursor-pointer list-none [&::-webkit-details-marker]:hidden flex items-center justify-start gap-1.5">
                     Refine IV Lounge
-                    <i class="fas fa-chevron-down text-xs transition-transform duration-300 group-open:-rotate-180 opacity-70"></i>
+                    <i class="fas fa-chevron-down text-xs transition-transform duration-300 group-open:-rotate-180 opacity-70 ml-0.5"></i>
                 </summary>
                 <div class="mt-4 mb-2 space-y-5 pl-3 border-l-2 border-brand-light/20">
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">IV Therapy</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">IV Therapy</p>
                         <a href="inner-beauty-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Inner Beauty</a>
                         <a href="jet-lag-iv-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Jet Lag</a>
                         <a href="pre-party-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Pre-Party</a>
@@ -440,12 +440,12 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="vitamin-c-treatment-IV-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Vitamin C</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Wellness Infusions</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Wellness Infusions</p>
                         <a href="amino-acids-IV-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Amino Acids</a>
                         <a href="glutathione-IV-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Glutathione</a>
                     </div>
                     <div>
-                        <p class="text-accent/80 text-[10px] tracking-widest uppercase font-semibold mb-2">Our Affiliates</p>
+                        <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Our Affiliates</p>
                         <a href="https://www.neodermaclinica.com/" target="_blank" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Refine by Neoderma Clinica - Kigali</a>
                         <a href="https://refinebytulsi.com/" target="_blank" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Refine by Tulsi - Chicago</a>
                     </div>
@@ -457,7 +457,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
         </nav>
 
         <div class="mt-auto pt-8 border-t border-white/10 flex items-center justify-between mobile-menu-footer">
-            <span class="text-xs tracking-widest uppercase text-white/50">Follow Us</span>
+            <span class="text-xs tracking-wider uppercase text-white/50">Follow Us</span>
             <div class="flex gap-4">
                 <a href="https://www.instagram.com/refineskinandbodyclinic/" target="_blank" class="text-white/70 hover:text-accent"><i class="fa-brands fa-instagram"></i></a>
                 <a href="https://www.facebook.com/refineskinandbodyclinic?rdid=7FBWkw4HlxQOf0lC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1b4epu5tXm%2F" target="_blank" class="text-white/70 hover:text-accent"><i class="fa-brands fa-facebook-f"></i></a>
