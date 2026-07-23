@@ -449,13 +449,13 @@ $routeMap = [
     '/vitamin-shots-kampala-juba' => 'vitamin-shots-kampala-juba.php',
     '/mobile-iv-service-kampala-juba' => 'mobile-iv-service-kampala-juba.php',
     '/videos' => 'videos.php',
-    '/blog' => 'blog-main.php',
+    '/blog' => 'blog.php',
 ];
 
 if (array_key_exists($path, $routeMap)) {
     require __DIR__ . '/' . $routeMap[$path];
 } elseif (strpos($path, '/blog/') === 0 || $path === '/blog') {
-    require __DIR__ . '/blog-main.php';
+    require __DIR__ . '/blog.php';
 } elseif (file_exists(__DIR__ . $path . '.php')) {
     // Fallback if we add files not in the map
     require __DIR__ . $path . '.php';
