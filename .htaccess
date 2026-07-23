@@ -12,6 +12,10 @@ DirectoryIndex index.php index.html
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^(.*)/$ /$1 [R=301,L]
 
+    # Route blog main page and clean blog article URLs to blogs.php
+    RewriteRule ^blog/(.+)$ blogs.php?slug=$1 [QSA,L]
+    RewriteRule ^blog/?$ blogs.php [QSA,L]
+
     # Route clean URLs to .php files if file exists
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
