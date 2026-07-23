@@ -28,12 +28,12 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
             </a>
 
             <!-- Desktop Navigation (original site structure) -->
-            <nav class="hidden lg:flex items-center gap-5 xl:gap-6 z-10">
-                <a href="/" class="nav-link-item">Home</a>
+            <nav class="hidden lg:flex items-center gap-3 xl:gap-5 2xl:gap-7 z-10 whitespace-nowrap">
+                <a href="/" class="nav-link-item whitespace-nowrap">Home</a>
 
                 <!-- About Us Dropdown -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="/about" class="nav-link-item inline-flex items-center gap-1">
+                    <a href="/about" class="nav-link-item inline-flex items-center gap-1 whitespace-nowrap">
                         <span>About Us</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1000px] max-w-[95vw]">
@@ -77,7 +77,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                 <!-- Cosmetic Dermatology Mega Menu -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="cosmetic-dermatology-kampala-juba" class="nav-link-item inline-flex items-center gap-1">
+                    <a href="cosmetic-dermatology-kampala-juba" class="nav-link-item inline-flex items-center gap-1 whitespace-nowrap">
                         <span>Cosmetic Dermatology</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1400px] max-w-[95vw]">
@@ -178,7 +178,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                 <!-- Medical Dermatology Mega Menu -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="medical-dermatology" class="nav-link-item inline-flex items-center gap-1">
+                    <a href="medical-dermatology" class="nav-link-item inline-flex items-center gap-1 whitespace-nowrap">
                         <span>Medical Dermatology</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[800px] max-w-[95vw]">
@@ -209,7 +209,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                 <!-- Refine IV Lounge Mega Menu -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="refine-iv-lounge-kampala-juba" class="nav-link-item inline-flex items-center gap-1">
+                    <a href="refine-iv-lounge-kampala-juba" class="nav-link-item inline-flex items-center gap-1 whitespace-nowrap">
                         <span>Refine IV Lounge</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1100px] max-w-[95vw]">
@@ -254,10 +254,10 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                 </div>
 
                 <!-- Blog -->
-                <a href="/blog" class="nav-link-item">Blog</a>
+                <a href="/blog" class="nav-link-item whitespace-nowrap">Blog</a>
 
                 <!-- Book Appointment -->
-                <a href="/contact" class="nav-link-item">Book Appointment</a>
+                <a href="/contact" class="nav-link-item whitespace-nowrap">Book Appointment</a>
             </nav>
 
             <!-- CTA + Mobile Toggle -->
