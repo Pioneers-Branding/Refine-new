@@ -60,7 +60,7 @@ $blogSlugs = [
 ];
 
 foreach ($blogSlugs as $slug) {
-    $url = $baseUrl . '/blog/' . $slug;
+    $url = $baseUrl . '/blog?slug=' . $slug;
     $xml .= '  <url>' . "\n";
     $xml .= '    <loc>' . htmlspecialchars($url) . '</loc>' . "\n";
     $xml .= '    <lastmod>' . $today . '</lastmod>' . "\n";
