@@ -391,28 +391,11 @@ $articles = [
             <hr class="my-10 border-brand/10" />
 
             <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading flex items-center gap-3">
-                <i class="fas fa-lightbulb text-accent"></i> Final Thoughts: Building Your Lifelong Skin Health Blueprint
+                <i class="fas fa-lightbulb text-accent"></i> Final Thoughts
             </h2>
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Transforming your skin is not an overnight event; it is a journey grounded in daily commitment, physiological understanding, and proper product selection. While the beauty industry often promotes complex, multi-step routines, the secret to true dermal radiance lies in <strong>consistency over complexity</strong>. A streamlined, high-quality routine that you perform faithfully morning and night will yield far superior results compared to an intricate regimen followed only sporadically.
+                Establishing healthy skincare habits creates a radiant canvas. For personalized skin analysis and customized medical skin treatments, visit <a href="/" class="text-brand font-semibold hover:text-accent transition-colors">Refine Skin & Body Clinic</a> today.
             </p>
-            <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Remember that skin is a dynamic, living organ. Seasonal climate shifts, hormonal fluctuations, stress levels, and dietary habits all influence how your skin behaves. Pay close attention to your skin's subtle signals—if your barrier feels tight or sensitized, scale back on active exfoliants and focus on ceramide-rich repair. Conversely, if dullness or congestion appears, gently reintroduce targeted active ingredients.
-            </p>
-            <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Finally, while daily homecare provides the crucial foundation, combining your daily habits with professional dermatological care elevates your skin health to the next level. In-clinic treatments like <strong>HydraFacials, medical chemical peels, RF microneedling, and laser rejuvenation</strong> work in synergy with your home routine, accelerating cellular turnover and reversing deeper sun damage.
-            </p>
-
-            <!-- Call to Action Banner -->
-            <div class="bg-surface-warm p-8 rounded-3xl border border-brand/10 my-8 flex flex-col sm:flex-row items-center justify-between gap-6">
-                <div>
-                    <h4 class="text-xl font-bold font-heading text-brand-deeper mb-2">Ready to Transform Your Skin Routine?</h4>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed">Book a comprehensive digital skin assessment with lead specialists at Refine Skin & Body Clinic to receive your customized daily regimen.</p>
-                </div>
-                <a href="/book-appointment" class="whitespace-nowrap px-6 py-3.5 bg-brand text-white font-medium text-sm rounded-full hover:bg-brand-light transition-all shadow-md hover:shadow-lg flex-shrink-0">
-                    Book Consultation <i class="fas fa-arrow-right ml-2 text-xs"></i>
-                </a>
-            </div>
         '
     ],
 
