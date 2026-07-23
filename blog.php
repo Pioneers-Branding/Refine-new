@@ -630,7 +630,7 @@ if (!empty($slug) && isset($articles[$slug])) {
 if ($currentArticle) {
     $metaTitle = htmlspecialchars($currentArticle['title']) . " | Refine Clinic Blog";
     $metaDescription = htmlspecialchars($currentArticle['excerpt']);
-    $canonicalUrl = "https://refineskinandbody.com/blog?slug=" . $currentArticle['slug'];
+    $canonicalUrl = "https://refineskinandbody.com/blog/" . $currentArticle['slug'];
 } else {
     $metaTitle = "Refine Clinic Blog | Dermatology, Weight Loss & Wellness Articles";
     $metaDescription = "Expert aesthetic insights, dermatology guides, weight loss tips, IV therapy benefits, and skin care articles by Refine Skin and Body Clinic specialists.";
@@ -755,7 +755,7 @@ include 'includes/header.php';
                             if ($count >= 4) break;
                             $count++;
                         ?>
-                        <a href="/blog?slug=<?php echo $relSlug; ?>" class="flex items-center gap-4 group">
+                        <a href="/blog/<?php echo $relSlug; ?>" class="flex items-center gap-4 group">
                             <div class="w-16 h-16 rounded-xl bg-brand-pale flex-shrink-0 overflow-hidden relative">
                                 <img src="<?php echo htmlspecialchars($relArt['image']); ?>" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
                             </div>
@@ -849,7 +849,7 @@ include 'includes/header.php';
                 <article class="blog-card-item bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 group overflow-hidden border border-brand/5 flex flex-col h-full"
                          data-category="<?php echo htmlspecialchars($art['category_slug']); ?>"
                          data-search="<?php echo htmlspecialchars(strtolower($art['title'] . ' ' . $art['excerpt'] . ' ' . $art['category'] . ' ' . $art['author'])); ?>">
-                    <a href="/blog?slug=<?php echo $art['slug']; ?>" class="flex flex-col h-full">
+                    <a href="/blog/<?php echo $art['slug']; ?>" class="flex flex-col h-full">
                         <!-- Image Container -->
                         <div class="relative h-56 bg-gradient-to-br from-brand/15 via-brand-pale to-purple-100 overflow-hidden">
                             <img src="<?php echo htmlspecialchars($art['image']); ?>"

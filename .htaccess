@@ -1,33 +1,26 @@
 DirectoryIndex index.php index.html
 
+Options -MultiViews
+
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /
-    
-    # If a filename with .php exists, use it
+
+    # Handle 301 Redirects
+    RewriteRule ^laser-hair-removal-in-uganda-kampala-juba$ /laser-hair-removal [R=301,L]
+    RewriteRule ^weight-loss-kampala-juba$ /semaglutide-ozempic-weight-loss [R=301,L]
+
+    # Redirect trailing slashes to non-trailing slashes (except directories)
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{REQUEST_FILENAME}\.php -f
-    RewriteRule ^([^\.]+)$ $1.php [NC,L]
+    RewriteRule ^(.*)/$ /$1 [R=301,L]
+
+    # Explicit routing for Blog clean URLs: /blog/article-slug -> blog.php?slug=article-slug
+    RewriteRule ^blog/(.+)$ blog.php?slug=$1 [QSA,L]
+    RewriteRule ^blog/?$ blog.php [QSA,L]
+
+    # Internally route clean extensionless URLs to .php files if file exists
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^(.*)$ $1.php [L]
 </IfModule>
-RewriteEngine On
-
-# Set the default index file
-DirectoryIndex index.php
-
-# Handle 301 Redirects
-RewriteRule ^laser-hair-removal-in-uganda-kampala-juba$ /laser-hair-removal [R=301,L]
-RewriteRule ^weight-loss-kampala-juba$ /semaglutide-ozempic-weight-loss [R=301,L]
-
-# Redirect trailing slashes to non-trailing slashes (optional, but good for SEO)
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)/$ /$1 [R=301,L]
-
-# Route blog main page and blog articles
-RewriteRule ^blog/(.+)$ blog.php?slug=$1 [QSA,L]
-RewriteRule ^blog/?$ blog.php [QSA,L]
-
-# Internally route clean URLs to .php files
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^(.*)$ $1.php [L]
