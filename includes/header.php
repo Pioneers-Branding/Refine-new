@@ -117,8 +117,10 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                             <!-- Col 3: Anti Aging -->
                             <div>
-                                <img src="/assets/imagesfromsite/dermal-filter-09.png" alt="Anti Aging" class="w-full aspect-video object-cover object-top bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
-                                <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Anti Aging</h5>
+                                <a href="anti-aging" class="block group/title">
+                                    <img src="/assets/imagesfromsite/dermal-filter-09.png" alt="Anti Aging" class="w-full aspect-video object-cover object-top bg-brand-faint/50 rounded-2xl mb-3 group-hover/title:scale-105 transition-transform duration-500" loading="lazy">
+                                    <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4 hover:text-brand transition-colors">Anti Aging <i class="fas fa-arrow-right text-[9px] ml-1 opacity-70"></i></h5>
+                                </a>
                                 <div class="space-y-2">
                                     <a href="botox" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Botox&reg;</a>
                                     <a href="dermal-fillers" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Dermal Fillers</a>
