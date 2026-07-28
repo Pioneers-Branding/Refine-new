@@ -1,4 +1,6 @@
 <?php
+$metaTitle = "Skin Tightening Treatment in Kabalagala | Refine Skin & Body Clinic";
+$metaDescription = "Restore firmness and elasticity. Non-surgical skin tightening treatments utilizing advanced Radiofrequency and Ultrasound technologies.";
 $pageCategory = "Specialty";
 $pageTitle = "Skin <i class='text-brand font-light'>Tightening.</i>";
 $pageDescription = "Restore firmness and elasticity. Non-surgical skin tightening treatments utilizing advanced Radiofrequency and Ultrasound technologies.";

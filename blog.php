@@ -628,11 +628,11 @@ if (!empty($slug) && isset($articles[$slug])) {
 
 // Meta setup
 if ($currentArticle) {
-    $metaTitle = htmlspecialchars($currentArticle['title']) . " | Refine Clinic Blog";
+    $metaTitle = htmlspecialchars($currentArticle['title']) . " | Refine Skin & Body Clinic";
     $metaDescription = htmlspecialchars($currentArticle['excerpt']);
     $canonicalUrl = "https://refineskinandbody.com/blog/" . $currentArticle['slug'];
 } else {
-    $metaTitle = "Refine Clinic Blog | Dermatology, Weight Loss & Wellness Articles";
+    $metaTitle = "Blog | Refine Skin & Body Clinic";
     $metaDescription = "Expert aesthetic insights, dermatology guides, weight loss tips, IV therapy benefits, and skin care articles by Refine Skin and Body Clinic specialists.";
     $canonicalUrl = "https://refineskinandbody.com/blog";
 }

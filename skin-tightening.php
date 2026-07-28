@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Skin Tightening | Refine Skin & Body Clinic";
+$metaDescription = "Restore firmness and elasticity. Non-surgical skin tightening treatments utilizing advanced Radiofrequency and Ultrasound technologies.";
+$canonicalUrl = "https://refineskinandbody.com/skin-tightening";
 $pageCategory = "Specialty";
 $pageTitle = "Skin <i class='text-brand font-light'>Tightening.</i>";
 $pageDescription = "Restore firmness and elasticity. Non-surgical skin tightening treatments utilizing advanced Radiofrequency and Ultrasound technologies.";

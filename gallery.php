@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Gallery | Refine Skin & Body Clinic";
+$metaDescription = "Browse through our collection of authentic transformations, state-of-the-art clinic interiors, and the premium equipment we use to deliver uncompromising results.";
+$canonicalUrl = "https://refineskinandbody.com/gallery";
 $pageCategory = "The Results";
 $pageTitle = "Clinic <i class='text-brand font-light'>Gallery.</i>";
 $pageDescription = "Browse through our collection of authentic transformations, state-of-the-art clinic interiors, and the premium equipment we use to deliver uncompromising results.";

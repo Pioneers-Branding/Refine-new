@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Contact | Refine Skin & Body Clinic";
+$metaDescription = "We are here to assist you. Reach out to book a consultation or inquire about our premium treatments across our Kampala and Juba locations.";
+$canonicalUrl = "https://refineskinandbody.com/contact";
 $pageCategory = "Get In Touch";
 $pageTitle = "Contact <i class='text-brand font-light'>Us.</i>";
 $pageDescription = "We are here to assist you. Reach out to book a consultation or inquire about our premium treatments across our Kampala and Juba locations.";

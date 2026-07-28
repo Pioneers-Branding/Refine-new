@@ -21,6 +21,18 @@ if (file_exists(__DIR__ . $decodedPath) && is_file(__DIR__ . $decodedPath)) {
 }
 
 // Handle 301 Redirects
+if ($path === '/gift-vouchers-in-bukoto' || $path === '/gift-vouchers-in-juba' || $path === '/gift-vouchers-in-kabalagala') {
+    header("Location: /gift-vouchers", true, 301);
+    exit();
+}
+if ($path === '/cookie-policy-in-bukoto' || $path === '/cookie-policy-in-juba' || $path === '/cookie-policy-in-kabalagala') {
+    header("Location: /cookie-policy", true, 301);
+    exit();
+}
+if ($path === '/book-appointment-in-bukoto' || $path === '/book-appointment-in-juba' || $path === '/book-appointment-in-kabalagala') {
+    header("Location: /book-appointment", true, 301);
+    exit();
+}
 if ($path === '/nutrition-counselling-kampala-juba') {
     header("Location: /nutrition-counselling", true, 301);
     exit();

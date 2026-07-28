@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Gift Vouchers | Refine Skin & Body Clinic";
+$metaDescription = "Give the gift of radiant skin and ultimate relaxation. Our luxury gift vouchers are the perfect present for any special occasion.";
+$canonicalUrl = "https://refineskinandbody.com/gift-vouchers";
 $pageCategory = "The Perfect Gift";
 $pageTitle = "Gift <i class='text-brand font-light'>Vouchers.</i>";
 $pageDescription = "Give the gift of radiant skin and ultimate relaxation. Our luxury gift vouchers are the perfect present for any special occasion.";

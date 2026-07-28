@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Thank You | Refine Skin & Body Clinic";
+$metaDescription = "We have received your message. Our team will get back to you shortly.";
+$canonicalUrl = "https://refineskinandbody.com/thank-you";
 $pageCategory = "Thank You";
 $pageTitle = "Thank <i class='text-brand font-light'>You.</i>";
 $pageDescription = "We have received your message. Our team will get back to you shortly.";

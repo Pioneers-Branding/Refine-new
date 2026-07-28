@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Cookie Policy | Refine Skin & Body Clinic";
+$metaDescription = "Information on how we use cookies and tracking technologies to improve your experience on our website.";
+$canonicalUrl = "https://refineskinandbody.com/cookie-policy";
 $pageCategory = "Legal";
 $pageTitle = "Cookie <i class='text-brand font-light'>Policy.</i>";
 $pageDescription = "Information on how we use cookies and tracking technologies to improve your experience on our website.";

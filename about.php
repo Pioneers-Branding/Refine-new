@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "About | Refine Skin & Body Clinic";
+$metaDescription = "Discover the philosophy, the experts, and the exquisite environment that makes Refine Skin & Body Clinic the premier destination for aesthetic excellence in East Africa.";
+$canonicalUrl = "https://refineskinandbody.com/about";
 $pageCategory = "Our Story";
 $pageTitle = "Refine Your<br><i class='text-brand font-light'>Natural Beauty.</i>";
 $pageDescription = "Discover the philosophy, the experts, and the exquisite environment that makes Refine Skin & Body Clinic the premier destination for aesthetic excellence in East Africa.";
