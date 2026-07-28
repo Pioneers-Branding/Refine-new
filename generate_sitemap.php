@@ -56,7 +56,8 @@ $blogSlugs = [
     'botox-vs-dermal-fillers-which-one-should-you-choose',
     'top-10-daily-skincare-habits-healthy-glowing-skin',
     'what-is-melasma-can-it-be-permanently-treated',
-    'can-iv-therapy-improve-skin-glow-overall-wellness'
+    'can-iv-therapy-improve-skin-glow-overall-wellness',
+    'body-contouring-vs-weight-loss-whats-the-difference'
 ];
 
 foreach ($blogSlugs as $slug) {
