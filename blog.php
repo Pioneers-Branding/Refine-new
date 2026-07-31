@@ -888,8 +888,370 @@ $articles = [
                 Experience cellular hydration and skin glow. Book your session for <a href="/anti-migraine-iv-therapy" class="text-brand font-semibold hover:text-accent transition-colors">IV therapy in Kabalagala</a> at <a href="/" class="text-brand font-semibold hover:text-accent transition-colors">Refine Skin & Body Clinic</a> today.
             </p>
         '
+    ],
+
+    // ----------------------------------------------------
+    // ARTICLE 5: HOW MUCH IS OZEMPIC IN UGANDA?
+    // ----------------------------------------------------
+    'how-much-is-ozempic-in-uganda' => [
+        'slug' => 'how-much-is-ozempic-in-uganda',
+        'title' => 'How Much Is Ozempic in Uganda? Detailed Guide',
+        'meta_title' => 'How Much Is Ozempic in Uganda? {Detailed Guide}',
+        'category' => 'Body Contouring & Weight Loss',
+        'category_slug' => 'body-weight',
+        'date' => 'July 31, 2026',
+        'author' => 'Dr. Henry Owiny',
+        'author_role' => 'Aesthetic Physician, Refine Clinic',
+        'read_time' => '12 min',
+        'image' => '/assets/images/services/body-contouring/semaglutide-09.png',
+        'excerpt' => 'Wondering how much is Ozempic in Uganda? Learn about current Ozempic prices in Uganda, where to buy genuine Semaglutide, how Ozempic works for weight loss, and dosage cost comparisons.',
+        'content' => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How Much Is Ozempic in Uganda? Quick Answer</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    In Uganda, the average <strong>Ozempic price in Uganda</strong> ranges from <strong>UGX 900,000 to UGX 1,800,000 per pen</strong> (approximately $240 to $480 USD), depending on the dosage strength (0.25 mg, 0.5 mg, 1.0 mg, or 2.0 mg per dose), cold-chain supply logistics, and clinical consultation fees. Each pen provides 4 weekly subcutaneous injections lasting one month. Authentic Ozempic (Semaglutide) requires a doctor’s prescription and should only be obtained from licensed medical centers like <a href="https://refineskinandbody.com/semaglutide-ozempic-weight-loss" class="text-accent underline font-semibold">Ozempic Weight Loss in Uganda</a> at <a href="/" class="text-accent underline font-semibold">Skin Clinic in Uganda</a> (Refine Skin & Body Clinic) to guarantee drug purity and temperature control.
+                </p>
+                <div class="grid sm:grid-cols-2 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Key Cost Highlights:</span>
+                        <ul class="list-disc pl-4 text-white/80 space-y-1 font-light">
+                            <li><strong>Starter Dose (0.25mg/0.5mg Pen):</strong> UGX 900,000 – UGX 1,200,000</li>
+                            <li><strong>Maintenance Dose (1.0mg Pen):</strong> UGX 1,200,000 – UGX 1,500,000</li>
+                            <li><strong>High Maintenance Dose (2.0mg Pen):</strong> UGX 1,500,000 – UGX 1,800,000</li>
+                            <li><strong>Duration:</strong> 1 pen covers 4 weekly doses (30 days)</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">What Is Included in Medical Supervision:</span>
+                        <ul class="list-disc pl-4 text-white/80 space-y-1 font-light">
+                            <li>Initial physician consultation & BMI assessment</li>
+                            <li>Baseline metabolic blood screening (glycemic control)</li>
+                            <li>Customized dosage escalation schedule</li>
+                            <li>Ongoing dietary and metabolic support</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                In recent years, modern medical science has introduced groundbreaking solutions for weight management. Chief among these is <strong>Ozempic (Semaglutide)</strong>, a prescription GLP-1 receptor agonist that has transformed how healthcare providers approach obesity and metabolic health worldwide. As interest grows across East Africa, one of the most frequent questions patients ask our medical team at <a href="/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Skin Clinic in Uganda</a> is: <em>"<strong>How much is Ozempic in Uganda</strong>, and where can I buy authentic medication safely?"</em>
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Navigating medical weight loss options requires clear, accurate information regarding pricing, safety standards, administration methods, and clinical monitoring. Because Ozempic is a temperature-sensitive biologic medication imported under strict pharmaceutical cold-chain guidelines, its price in Kampala and surrounding regions reflects importation overhead, storage protocol, and the level of expert clinical oversight provided.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                This comprehensive guide by our medical aesthetic team breaks down the exact <strong>Ozempic price in Uganda</strong>, answers <strong>where can I buy Ozempic in Uganda</strong> safely, explains <strong>how does Ozempic work</strong> biologically in the human body, compares weekly injection pens against <strong>Ozempic tablets for weight loss price</strong>, and addresses 9 essential frequently asked questions (FAQs).
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">How Much Is Ozempic in Uganda? (Detailed Price Breakdown)</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                When asking <strong>how much is Ozempic in Uganda</strong>, it is important to understand that the final cost depends on whether you are purchasing an individual pen or participating in a comprehensive doctor-guided medical weight loss program. Below is a structured price breakdown for Semaglutide treatment in Uganda:
+            </p>
+
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm border border-brand/10">
+                    <thead>
+                        <tr class="bg-brand text-white text-xs sm:text-sm font-heading">
+                            <th class="p-4">Ozempic Treatment Option</th>
+                            <th class="p-4">Estimated Price Range (UGX)</th>
+                            <th class="p-4">Estimated Price (USD)</th>
+                            <th class="p-4">Coverage & Usage</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-xs sm:text-sm text-gray-700 font-light divide-y divide-brand/5">
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Starter Pen (0.25 mg / 0.5 mg)</td>
+                            <td class="p-4">UGX 900,000 – UGX 1,200,000</td>
+                            <td class="p-4">$240 – $320</td>
+                            <td class="p-4">Month 1 (4 weekly starter doses)</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Intermediate Maintenance Pen (1.0 mg)</td>
+                            <td class="p-4">UGX 1,200,000 – UGX 1,500,000</td>
+                            <td class="p-4">$320 – $400</td>
+                            <td class="p-4">Month 2–3 (4 weekly maintenance doses)</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">High-Dose Maintenance Pen (2.0 mg)</td>
+                            <td class="p-4">UGX 1,500,000 – UGX 1,800,000</td>
+                            <td class="p-4">$400 – $480</td>
+                            <td class="p-4">Month 4+ (4 weekly high-dose injections)</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Doctor Consultation & Health Assessment</td>
+                            <td class="p-4">UGX 150,000 – UGX 300,000</td>
+                            <td class="p-4">$40 – $80</td>
+                            <td class="p-4">Initial evaluation & metabolic screening</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Complete Monthly Clinical Package</td>
+                            <td class="p-4">UGX 1,100,000 – UGX 1,950,000</td>
+                            <td class="p-4">$300 – $520</td>
+                            <td class="p-4">Includes genuine pen, doctor follow-up & nutrition plan</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                For individuals searching specifically for <a href="https://refineskinandbody.com/semaglutide-ozempic-weight-loss" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Ozempic Weight Loss in Uganda</a>, choosing a complete clinical package provides significantly better value than standalone pen purchases because it includes blood glucose screening, dose escalation monitoring, side-effect management, and ongoing body composition tracking.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">Factors That Influence Ozempic Price in Uganda</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Several key factors account for the overall <strong>ozempic price in uganda</strong>:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-6">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper mb-2 text-base font-heading"><i class="fas fa-snowflake text-accent mr-2"></i> Cold-Chain Refrigeration Logistics</h4>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">Ozempic (Semaglutide) must be maintained at strict temperatures between 2°C to 8°C prior to first use. Specialized temperature-controlled international transport and cold storage facilities in Kampala add to logistics costs but guarantee drug safety and potency.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper mb-2 text-base font-heading"><i class="fas fa-shield-alt text-accent mr-2"></i> Brand Authenticity & Manufacturer Sourcing</h4>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">Original Ozempic is manufactured by Novo Nordisk. Genuine pens featuring official tamper-evident seals and dosage dials carry standard manufacturer pricing compared to illegal, counterfeit, or mislabeled imitations.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper mb-2 text-base font-heading"><i class="fas fa-syringe text-accent mr-2"></i> Prescribed Dosage Strength</h4>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">Treatment starts at a lower dose (0.25 mg weekly) to allow the gastrointestinal system to adjust, before escalating to 0.5 mg, 1.0 mg, or higher maintenance doses. Higher concentration pens contain more active ingredient, adjusting the per-pen price.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper mb-2 text-base font-heading"><i class="fas fa-user-md text-accent mr-2"></i> Professional Clinical Oversight</h4>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">Obtaining Ozempic through a registered clinic includes medical consultations, physiological progress tracking, and personalized nutritional adjustments to protect lean muscle tissue while losing fat.</p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Where Can I Buy Ozempic in Uganda Safely?</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                If you are asking <em>"<strong>where can I buy Ozempic in Uganda</strong>?"</em>, the most crucial rule is to purchase strictly through licensed medical centers, accredited healthcare facilities, or registered hospital pharmacies in Kampala.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Due to global demand for Semaglutide weight loss treatments, counterfeit pens, unauthorized online sellers, and unregulated black-market distributors have emerged across international markets. Using unregulated or improperly stored Semaglutide carries severe health risks, including severe bacterial contamination, incorrect dosing, or ineffective expired medication.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">Why Choose Refine Skin & Body Clinic for Medical Weight Loss?</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At <a href="/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Skin Clinic in Uganda</a> (Refine Clinic in Bukoto and Kabalagala, Kampala), we prioritize patient safety and authentic medical care:
+            </p>
+
+            <ul class="list-disc pl-6 space-y-3 text-gray-700 font-light mb-8">
+                <li><strong>100% Authentic Sourcing:</strong> All Semaglutide pens are directly sourced from verified pharmaceutical distributors with intact cold-chain tracking.</li>
+                <li><strong>Doctor-Led Supervision:</strong> Experienced aesthetic physicians evaluate your medical history, kidney and liver function, and BMI before writing a prescription.</li>
+                <li><strong>Comprehensive Weight Loss Protocols:</strong> We combine GLP-1 weight loss therapy with nutritional counseling and non-surgical body sculpting for optimal body transformation.</li>
+                <li><strong>Safe Storage & Administration Guidance:</strong> Patients receive hands-on instruction on how to administer weekly subcutaneous injections comfortably at home.</li>
+            </ul>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">How Does Ozempic Work for Weight Loss?</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                To understand why Semaglutide is so effective, patients frequently ask: <em>"<strong>How does Ozempic work</strong> in simple biological terms?"</em>
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Ozempic contains the active compound <strong>Semaglutide</strong>, which is a synthetic analogue of a naturally occurring hormone in your body called <strong>Glucagon-Like Peptide-1 (GLP-1)</strong>. Naturally released by the intestines after eating, GLP-1 communicates signals of fullness and satisfaction to the brain. Semaglutide mimics this natural hormone, but remains active in your body for a full 7 days per injection.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">The 3 Core Mechanisms of Semaglutide Weight Loss</h3>
+
+            <div class="grid sm:grid-cols-3 gap-4 my-6">
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading">1. Appetite Suppression</h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Semaglutide acts directly on the hypothalamus in the brain — the center that controls hunger and satiety. It significantly dampens food cravings, "food noise", and emotional snacking urges.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading">2. Delayed Gastric Emptying</h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">It slows down the rate at which your stomach empties food into the small intestine. As a result, smaller meal portions leave you feeling comfortably full for hours longer.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading">3. Blood Sugar & Insulin Control</h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">It stimulates glucose-dependent insulin secretion while suppressing glucagon. This prevents sharp blood sugar spikes and crashes that normally trigger intense hunger pangs.</p>
+                </div>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Clinical trials show that patients taking Semaglutide alongside lifestyle modifications lose an average of <strong>10% to 15%+ of their total body weight</strong> over 6 to 12 months — far exceeding traditional dieting alone.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Ozempic Injections vs. Oral Tablets: Prices and Differences</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                A common query among patients searching online is <strong>ozempic tablets for weight loss price</strong> in Uganda. It is essential to clarify a medical distinction between injectable Ozempic and oral Semaglutide:
+            </p>
+
+            <ul class="list-disc pl-6 space-y-3 text-gray-700 font-light mb-6">
+                <li><strong>Ozempic (Injectable Pen):</strong> Formulated strictly as a weekly subcutaneous injection pen (0.25mg, 0.5mg, 1.0mg, or 2.0mg). Ozempic does not come in tablet form.</li>
+                <li><strong>Rybelsus (Oral Semaglutide Tablets):</strong> Manufactured by Novo Nordisk as an oral daily tablet (3mg, 7mg, or 14mg) containing the exact same active ingredient (Semaglutide).</li>
+            </ul>
+
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">Price Comparison: Injectable Ozempic vs. Oral Rybelsus Tablets</h3>
+
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm border border-brand/10">
+                    <thead>
+                        <tr class="bg-brand text-white text-xs sm:text-sm font-heading">
+                            <th class="p-4">Factor</th>
+                            <th class="p-4">Ozempic Injectable Pen (Weekly)</th>
+                            <th class="p-4">Rybelsus Oral Tablets (Daily)</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-xs sm:text-sm text-gray-700 font-light divide-y divide-brand/5">
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Estimated Price in Uganda</td>
+                            <td class="p-4">UGX 900,000 – UGX 1,800,000 per pen (1 month)</td>
+                            <td class="p-4">UGX 700,000 – UGX 1,300,000 per box (30 tablets)</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Administration Frequency</td>
+                            <td class="p-4">Once per week (Subcutaneous injection)</td>
+                            <td class="p-4">Once daily (First thing in morning with water)</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Bioavailability & Bio-Efficacy</td>
+                            <td class="p-4">100% systemic absorption (Highly potent)</td>
+                            <td class="p-4">Lower stomach absorption (~1% absorbed)</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Weight Loss Efficacy</td>
+                            <td class="p-4">Higher overall weight reduction rate</td>
+                            <td class="p-4">Moderate weight reduction rate</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Storage Requirement</td>
+                            <td class="p-4">Requires strict refrigeration (2°C – 8°C)</td>
+                            <td class="p-4">Room temperature blister storage</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                While oral tablets (Rybelsus) offer convenience for patients who dislike needles, weekly injectable pens (<a href="https://refineskinandbody.com/semaglutide-ozempic-weight-loss" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Ozempic Weight Loss in Uganda</a>) remain the preferred clinical option for robust, sustained weight reduction due to superior bioavailability.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Who Is an Ideal Candidate for Ozempic Weight Loss?</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Before commencing GLP-1 weight loss therapy at <a href="/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Skin Clinic in Uganda</a>, our aesthetic physicians perform a thorough medical assessment. Ideal candidates include:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-6">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper mb-2 text-base font-heading"><i class="fas fa-check text-accent mr-2"></i> Indicated Profile</h4>
+                    <ul class="text-sm text-gray-600 font-light space-y-2">
+                        <li>Adults with a Body Mass Index (BMI) &ge; 30 (Obesity).</li>
+                        <li>Adults with BMI &ge; 27 accompanied by weight-related medical conditions (hypertension, high cholesterol, pre-diabetes, or sleep apnea).</li>
+                        <li>Individuals who have struggled to achieve weight loss through diet and exercise alone.</li>
+                    </ul>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper mb-2 text-base font-heading"><i class="fas fa-times text-red-500 mr-2"></i> Medical Contraindications</h4>
+                    <ul class="text-sm text-gray-600 font-light space-y-2">
+                        <li>Personal or family history of Medullary Thyroid Carcinoma (MTC).</li>
+                        <li>Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).</li>
+                        <li>Pregnant, breastfeeding, or planning pregnancy in the near future.</li>
+                        <li>Active severe gastrointestinal disease or history of pancreatitis.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Combining Medical Weight Loss with Non-Surgical Body Contouring</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                As patients lose substantial weight on Semaglutide, they often notice two secondary aesthetic considerations: localized stubborn subcutaneous fat deposits (such as lower abdominal pouches or love handles) and skin laxity (loose skin following fat loss).
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                To achieve a beautifully sculpted, firm silhouette, Refine Skin & Body Clinic integrates medical weight loss with advanced non-invasive procedures such as <strong>Cryolipolysis (Fat Freezing)</strong>, <strong>EM Body Sculpting</strong>, and <strong>Radiofrequency Skin Tightening</strong>. While Ozempic reduces total body weight, non-surgical body contouring shapes and firms target areas for complete aesthetic rejuvenation.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- Frequently Asked Questions Section (AEO Format) -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-12 mb-8 font-heading flex items-center gap-3">
+                <i class="fas fa-question-circle text-accent"></i> Frequently Asked Questions (FAQs)
+            </h2>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q1: How much is Ozempic in Uganda per month?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">The average monthly cost for Ozempic in Uganda ranges between <strong>UGX 900,000 and UGX 1,800,000</strong> per pen. One pen contains 4 weekly doses, lasting exactly one month. Total monthly expenditure may vary depending on prescribed dose escalation (0.25mg up to 2.0mg) and clinical consultation fees.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q2: Where can I buy genuine Ozempic in Uganda safely?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">You can buy authentic, doctor-prescribed Ozempic at registered medical aesthetic clinics such as <a href="https://refineskinandbody.com/semaglutide-ozempic-weight-loss" class="text-brand font-semibold underline">Refine Skin & Body Clinic</a> in Kampala. Avoid unverified online vendors or informal sellers, as Semaglutide requires strict refrigeration (2°C – 8°C) to maintain safety and efficacy.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q3: How does Ozempic work to cause rapid weight loss?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">Ozempic works by mimicking GLP-1, a natural hormone that suppresses appetite in the brain, slows stomach emptying, and stabilizes blood sugar levels. This eliminates food cravings and reduces calorie intake, leading to consistent body fat loss.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q4: What is the price of Ozempic tablets for weight loss in Uganda?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">Original Ozempic is only available as a weekly injection pen. However, oral Semaglutide tablets (sold under the brand name <strong>Rybelsus</strong>) cost between <strong>UGX 700,000 and UGX 1,300,000 per month</strong> (box of 30 daily tablets) in Uganda.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q5: Do I need a doctor\'s prescription to start Ozempic in Uganda?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Yes.</strong> Ozempic is a prescription-only biological medication. A medical consultation is mandatory to check your BMI, screen kidney and thyroid health, determine your starting dosage, and prevent adverse drug interactions.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q6: What are the common side effects of Ozempic and how are they managed?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">The most common side effects are mild gastrointestinal symptoms, including mild nausea, bloating, constipation, or diarrhea, especially during dose increases. These symptoms usually subside within 1 to 2 weeks. Drinking plenty of water, eating smaller meal portions, and starting at a low dose (0.25mg) minimizes discomfort.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q7: How many kilograms can I expect to lose on Ozempic in 3 months?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">On average, patients lose between <strong>5% to 10% of their total body weight</strong> within the first 12 weeks of treatment (typically 6 to 12 kilograms depending on starting weight), when combined with balanced nutrition and moderate physical activity.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q8: Will I regain weight after stopping Ozempic injections?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">If healthy lifestyle habits are not maintained after stopping treatment, weight regain can occur because appetite signals return to baseline. At Refine Clinic, our doctors guide patients through a gradual tapering phase while instilling sustainable dietary habits to ensure long-term weight maintenance.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q9: Can non-diabetic individuals take Ozempic purely for weight loss?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Yes.</strong> While Ozempic was originally approved for Type 2 Diabetes, Semaglutide is globally prescribed off-label (and as Wegovy) for medical weight loss in non-diabetic adults who meet obesity or overweight BMI criteria under physician guidance.</p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading flex items-center gap-3">
+                <i class="fas fa-lightbulb text-accent"></i> Final Thoughts: Transform Your Health at Refine Clinic
+            </h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Understanding <strong>how much is Ozempic in Uganda</strong> is the first step toward making an informed choice for your health and body goals. While pricing reflects premium cold-chain importation and medical oversight, the health benefits of sustainable weight loss — including improved energy, lower cardiovascular risk, and heightened self-confidence — are truly life-changing.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Ready to begin your doctor-supervised weight loss journey? Contact our medical team at <a href="https://refineskinandbody.com/semaglutide-ozempic-weight-loss" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Ozempic Weight Loss in Uganda</a> at <a href="/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Skin Clinic in Uganda</a> (Refine Skin & Body Clinic) to book your private consultation today.
+            </p>
+        '
     ]
 ];
+
+// Sort articles by publication date (latest first, 2nd, 3rd, etc.)
+uasort($articles, function($a, $b) {
+    return strtotime($b['date']) - strtotime($a['date']);
+});
 
 // Check if rendering single article or blog index
 $currentArticle = null;
@@ -899,7 +1261,7 @@ if (!empty($slug) && isset($articles[$slug])) {
 
 // Meta setup
 if ($currentArticle) {
-    $metaTitle = htmlspecialchars($currentArticle['title']) . " | Refine Skin & Body Clinic";
+    $metaTitle = !empty($currentArticle['meta_title']) ? htmlspecialchars($currentArticle['meta_title']) : htmlspecialchars($currentArticle['title']) . " | Refine Skin & Body Clinic";
     $metaDescription = htmlspecialchars($currentArticle['excerpt']);
     $canonicalUrl = "https://refineskinandbody.com/blog/" . $currentArticle['slug'];
 } else {

@@ -57,7 +57,8 @@ $blogSlugs = [
     'top-10-daily-skincare-habits-healthy-glowing-skin',
     'what-is-melasma-can-it-be-permanently-treated',
     'can-iv-therapy-improve-skin-glow-overall-wellness',
-    'body-contouring-vs-weight-loss-whats-the-difference'
+    'body-contouring-vs-weight-loss-whats-the-difference',
+    'how-much-is-ozempic-in-uganda'
 ];
 
 foreach ($blogSlugs as $slug) {

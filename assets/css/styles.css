@@ -438,6 +438,7 @@ body {
     background: #ffffff;
     border-radius: 1.5rem;
     box-shadow: 0 40px 80px rgba(26, 15, 60, 0.08), 0 10px 20px rgba(26, 15, 60, 0.04);
+    white-space: normal;
     border: 1px solid rgba(26, 15, 60, 0.03);
     overflow: hidden;
 }

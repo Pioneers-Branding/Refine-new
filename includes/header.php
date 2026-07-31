@@ -37,7 +37,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <span>About Us</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1000px] max-w-[95vw]">
-                        <div class="mega-menu-panel p-8 grid grid-cols-3 gap-8 relative">
+                        <div class="mega-menu-panel p-8 grid grid-cols-3 gap-8 relative whitespace-normal">
                             <!-- Col 1: The Clinic -->
                             <div>
                                 <img src="/assets/imagesfromsite/about2026.webp" alt="The Clinic" class="w-full aspect-video object-cover bg-brand-faint rounded-2xl mb-3" loading="lazy">
@@ -81,7 +81,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <span>Cosmetic Dermatology</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1400px] max-w-[95vw]">
-                        <div class="mega-menu-panel p-8 grid grid-cols-6 gap-4 lg:gap-6 relative">
+                        <div class="mega-menu-panel p-8 grid grid-cols-6 gap-4 lg:gap-6 relative whitespace-normal">
                             <div class="absolute top-0 right-0 w-1/3 h-full bg-brand-faint -z-10 rounded-r-1.5rem"></div>
                             
                             <!-- Col 1: Skin/Body Rejuvenation -->
@@ -184,7 +184,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <span>Medical Dermatology</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[800px] max-w-[95vw]">
-                        <div class="mega-menu-panel p-8 grid grid-cols-2 gap-8 relative">
+                        <div class="mega-menu-panel p-8 grid grid-cols-2 gap-8 relative whitespace-normal">
                             <div>
                                 <img src="/assets/imagesfromsite/acne-09.png" alt="Inflammatory Skin" class="w-full aspect-video object-cover rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">Inflammatory Skin</h5>
@@ -215,7 +215,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <span>Refine IV Lounge</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1100px] max-w-[95vw]">
-                        <div class="mega-menu-panel p-8 grid grid-cols-3 gap-8 relative">
+                        <div class="mega-menu-panel p-8 grid grid-cols-3 gap-8 relative whitespace-normal">
                             <!-- Col 1: IV Therapy -->
                             <div>
                                 <img src="/assets/imagesfromsite/Combo%20of%20vit%20B-12%20and%20B%20complex-09_.png" alt="IV Therapy" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
