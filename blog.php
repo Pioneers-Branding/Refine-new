@@ -1242,7 +1242,439 @@ $articles = [
             </p>
 
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Ready to begin your doctor-supervised weight loss journey? Contact our medical team at <a href="https://refineskinandbody.com/semaglutide-ozempic-weight-loss" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Ozempic Weight Loss in Uganda</a> at <a href="/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Skin Clinic in Uganda</a> (Refine Skin & Body Clinic) to book your private consultation today.
+            Ready to begin your doctor-supervised weight loss journey? Contact our medical team at <a href="https://refineskinandbody.com/semaglutide-ozempic-weight-loss" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Ozempic Weight Loss in Uganda</a> at <a href="/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Skin Clinic in Uganda</a> (Refine Skin & Body Clinic) to book your private consultation today.
+            </p>
+        '
+    ],
+
+    // ----------------------------------------------------
+    // ARTICLE 6: HOW MUCH IS A HAIR TRANSPLANT IN UGANDA?
+    // ----------------------------------------------------
+    'how-much-is-a-hair-transplant-in-uganda' => [
+        'slug' => 'how-much-is-a-hair-transplant-in-uganda',
+        'title' => 'How Much Is a Hair Transplant in Uganda? (2026 Price Guide & Costs)',
+        'meta_title' => 'How Much Is a Hair Transplant in Uganda? {2026 Price Guide}',
+        'category' => 'Surgical Insights',
+        'category_slug' => 'surgical-insights',
+        'date' => 'August 1, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Lead Dermatologist & Aesthetic Surgeon, Refine Clinic',
+        'read_time' => '12 min',
+        'image' => '/assets/imagesfromsite/prp-hair-restoration-09.png',
+        'excerpt' => 'Curious about how much is a hair transplant in Uganda? Discover complete 2026 prices per graft, FUE vs FUT cost comparisons, Norwood Scale graft calculator, recovery timelines, and expert insights from Refine Skin & Body Clinic.',
+        'content' => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How Much Is a Hair Transplant in Uganda? Quick Answer</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    In Uganda, the average cost of a permanent <a href="https://refineskinandbody.com/hair-transplant" class="text-accent underline font-semibold">Hair Transplant in Uganda</a> ranges between <strong>UGX 4,500,000 and UGX 18,500,000+</strong> (approximately $1,200 to $5,000+ USD), depending on the total number of hair grafts required and the surgical technique performed. On average, the <strong>price per graft in Uganda</strong> is <strong>UGX 3,500 to UGX 7,500 per graft</strong> ($1.00 to $2.00 USD). A minor hairline touchup (1,000 grafts) costs around UGX 4.5M – 7.5M, while comprehensive crown and frontal restoration (2,500 to 3,500+ grafts) ranges from UGX 11M to 18.5M+. Premium board-certified hair restoration is performed at <a href="https://refineskinandbody.com/" class="text-accent underline font-semibold">Refine Skin & Body Clinic</a> in Kampala, utilizing Follicular Unit Extraction (FUE) with comprehensive doctor-guided post-operative care.
+                </p>
+                <div class="grid sm:grid-cols-2 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Key Cost Highlights:</span>
+                        <ul class="list-disc pl-4 text-white/80 space-y-1 font-light">
+                            <li><strong>Average Price Per Graft:</strong> UGX 3,500 – UGX 7,500 ($1.00 – $2.00 USD)</li>
+                            <li><strong>Small Session (800 – 1,500 grafts):</strong> UGX 4,500,000 – UGX 7,500,000</li>
+                            <li><strong>Medium Session (1,500 – 2,500 grafts):</strong> UGX 7,500,000 – UGX 13,000,000</li>
+                            <li><strong>Large Session (2,500 – 3,500+ grafts):</strong> UGX 13,000,000 – UGX 18,500,000+</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">What Is Included at Refine Clinic:</span>
+                        <ul class="list-disc pl-4 text-white/80 space-y-1 font-light">
+                            <li>Physician consultation & digital donor density analysis</li>
+                            <li>Local anesthesia & painless micro-extraction (FUE)</li>
+                            <li>Post-operative medical wash kit & specialized medications</li>
+                            <li>Complementary PRP Hair Restoration growth session</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                Hair loss is a deeply personal issue that affects millions of men and women across East Africa. Whether caused by male pattern baldness (androgenetic alopecia), traction alopecia from tight hairstyles, hormonal imbalances, or genetic factors, experiencing a receding hairline or thinning crown can significantly impact self-confidence and personal well-being.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Fortunately, modern restorative medicine has made permanent hair loss solutions more accessible than ever right here in Kampala. As interest grows, the single most common question prospective patients ask our clinical team is: <em>"<strong>How much is a hair transplant in Uganda</strong>, and what factors determine the final price?"</em>
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                At <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin & Body Clinic</a>, our aesthetic surgeons and hair restoration specialists believe in total transparency. In this comprehensive 2026 pricing guide, we break down current hair restoration costs, explain price per graft calculations, compare FUE vs FUT surgical techniques, provide a Norwood Scale graft calculator, compare local treatment against traveling abroad to Turkey or India, and answer 10 essential frequently asked questions.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Understanding Hair Transplants: How Does the Procedure Work?</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Before evaluating financial costs, it is essential to understand what a hair transplant involves biologically. A hair transplant is a minor outpatient surgical procedure where healthy, DHT-resistant hair follicles are relocated from a donor zone (typically the back or sides of your scalp where hair is permanent) to a receiving zone (the balding hairline, temple areas, mid-scalp, or crown).
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Because donor hair follicles are genetically programmed to resist the hormone Dihydrotestosterone (DHT) — the primary hormone responsible for hair follicle miniaturization — the transplanted hair continues to grow naturally and permanently for the rest of your life.
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-6">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper mb-2 text-base font-heading"><i class="fas fa-check-circle text-accent mr-2"></i> What Is a Hair Graft?</h4>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">A hair graft (or follicular unit) is a naturally occurring cluster of 1, 2, 3, or 4 individual hair follicles sharing a single blood supply and oil gland. When a surgeon quotes a price for 2,000 grafts, this translates to approximately 4,000 to 5,500 individual growing hairs.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper mb-2 text-base font-heading"><i class="fas fa-shield-alt text-accent mr-2"></i> Natural & Permanent Results</h4>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">Transplanted hair behaves exactly like your natural hair. Once fully grown, you can wash, cut, style, dye, and shave your restored hair with zero special maintenance required.</p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">How Much Is a Hair Transplant in Uganda? (Detailed Price Breakdown)</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Hair transplant pricing in Uganda is calculated based on the total number of grafts needed to achieve natural coverage and desired hair density. Below is a structured price breakdown for a professional <a href="https://refineskinandbody.com/hair-transplant" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Hair Transplant in Uganda</a>:
+            </p>
+
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm border border-brand/10">
+                    <thead>
+                        <tr class="bg-brand text-white text-xs sm:text-sm font-heading">
+                            <th class="p-4">Session Scale</th>
+                            <th class="p-4">Graft Volume</th>
+                            <th class="p-4">Estimated Cost (UGX)</th>
+                            <th class="p-4">Estimated Cost (USD)</th>
+                            <th class="p-4">Ideal For</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-xs sm:text-sm text-gray-700 font-light divide-y divide-brand/5">
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Small Session (Hairline Touchup)</td>
+                            <td class="p-4">800 – 1,500 Grafts</td>
+                            <td class="p-4">UGX 4,500,000 – UGX 7,500,000</td>
+                            <td class="p-4">$1,200 – $2,000</td>
+                            <td class="p-4">Receding temples, widow\'s peak repair, scar coverage</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Medium Session (Frontal Restoration)</td>
+                            <td class="p-4">1,500 – 2,500 Grafts</td>
+                            <td class="p-4">UGX 7,500,000 – UGX 13,000,000</td>
+                            <td class="p-4">$2,000 – $3,500</td>
+                            <td class="p-4">Moderate hairline recession + mid-scalp thinning</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Large Session (Full Top & Crown)</td>
+                            <td class="p-4">2,500 – 3,500 Grafts</td>
+                            <td class="p-4">UGX 13,000,000 – UGX 18,500,000</td>
+                            <td class="p-4">$3,500 – $5,000</td>
+                            <td class="p-4">Extensive frontal balding + thinning crown area</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Mega Session (Advanced Balding)</td>
+                            <td class="p-4">3,500 – 4,500+ Grafts</td>
+                            <td class="p-4">UGX 18,500,000 – UGX 24,000,000+</td>
+                            <td class="p-4">$5,000 – $6,500+</td>
+                            <td class="p-4">Severe Norwood Stage 6-7 balding (2 consecutive days)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin & Body Clinic</a>, we offer customized treatment packages to ensure there are no surprise fees. Your quoted session cost includes pre-operative blood testing, local anesthesia, surgical micro-graft extraction, graft placement, immediate post-op care, initial head-washing sessions, and follow-up medical reviews.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">5 Primary Factors That Determine Hair Transplant Costs in Uganda</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                If you are comparing quotes for hair loss treatment in Uganda, it is important to understand why pricing varies between patients:
+            </p>
+
+            <div class="space-y-6 my-8">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2"><i class="fas fa-calculator text-accent mr-2"></i> 1. Total Number of Grafts Required</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">The single largest pricing factor is graft volume. An individual needing 1,200 grafts to fill temple recessions will pay significantly less than someone needing 3,000 grafts for complete crown and frontal restoration. Determining your required graft count is performed during a digital trichology consultation.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2"><i class="fas fa-microscope text-accent mr-2"></i> 2. Surgical Technique (FUE vs. FUT)</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Follicular Unit Extraction (FUE)</strong> is the modern gold standard. Individual grafts are extracted one by one using micro-punch instruments, leaving tiny micro-dots that heal without linear scars. FUE requires higher surgical skill and time, making its cost per graft slightly higher than traditional strip surgery (FUT).</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2"><i class="fas fa-user-md text-accent mr-2"></i> 3. Surgeon Skill & Clinical Accreditation</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">A successful hair transplant requires artistic hairline design, precise graft angle insertion, and strict sterile surgical standards. Hair transplants performed by qualified aesthetic surgeons and dermatologists carry higher value than unlicensed backroom technicians operating without medical supervision.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2"><i class="fas fa-layer-group text-accent mr-2"></i> 4. Donor Hair Density & Hair Characteristics</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">African Afro-textured hair has unique curved follicle roots beneath the skin layer. Specialized extraction punches and technique adjustments are necessary to safely harvest Afro-curly donor grafts without damaging the follicle root (follicular transection).</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2"><i class="fas fa-vial text-accent mr-2"></i> 5. Complementary Therapies (PRP Integration)</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">Combining hair transplantation with <strong>Platelet-Rich Plasma (PRP) therapy</strong> accelerates graft survival, speeds up scalp healing, and stimulates existing miniaturized hair follicles. At Refine Clinic, PRP therapy is often integrated into complete hair restoration plans.</p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Hair Graft Calculator: How Many Grafts Do You Need?</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                In hair transplantation medicine, hair loss severity is classified using the official <strong>Norwood Scale</strong> (for male pattern baldness) or the <strong>Ludwig Scale</strong> (for female pattern hair thinning). Use the breakdown below to estimate your required graft count:
+            </p>
+
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm border border-brand/10">
+                    <thead>
+                        <tr class="bg-brand text-white text-xs sm:text-sm font-heading">
+                            <th class="p-4">Norwood Stage</th>
+                            <th class="p-4">Description of Hair Loss</th>
+                            <th class="p-4">Estimated Grafts</th>
+                            <th class="p-4">Estimated Cost Range (UGX)</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-xs sm:text-sm text-gray-700 font-light divide-y divide-brand/5">
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Stage 2</td>
+                            <td class="p-4">Minor temple recession, natural mature hairline</td>
+                            <td class="p-4">800 – 1,200 Grafts</td>
+                            <td class="p-4">UGX 4,500,000 – UGX 6,500,000</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Stage 3</td>
+                            <td class="p-4">Deep M-shaped temple recession, early frontal loss</td>
+                            <td class="p-4">1,200 – 1,800 Grafts</td>
+                            <td class="p-4">UGX 6,500,000 – UGX 9,500,000</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Stage 3 Vertex</td>
+                            <td class="p-4">Temple recession + thinning patch at the crown/vertex</td>
+                            <td class="p-4">1,800 – 2,400 Grafts</td>
+                            <td class="p-4">UGX 9,500,000 – UGX 12,500,000</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Stage 4</td>
+                            <td class="p-4">Significant frontal recession + clear bald spot on crown</td>
+                            <td class="p-4">2,200 – 2,800 Grafts</td>
+                            <td class="p-4">UGX 11,500,000 – UGX 14,500,000</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Stage 5</td>
+                            <td class="p-4">Narrow hair band separating frontal balding and crown</td>
+                            <td class="p-4">2,800 – 3,500 Grafts</td>
+                            <td class="p-4">UGX 14,500,000 – UGX 18,500,000</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Stage 6 – 7</td>
+                            <td class="p-4">Severe extensive balding, donor hair limited to sides</td>
+                            <td class="p-4">3,500 – 4,500+ Grafts</td>
+                            <td class="p-4">UGX 18,500,000 – UGX 24,000,000+</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Uganda vs. Traveling Abroad (Turkey, India, UK): Real Cost Comparison</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Many patients in East Africa ask whether it is cheaper to travel abroad to Turkey or India for a hair transplant. While overseas package advertisements may appear attractive at first glance, adding hidden travel logistics changes the real total cost:
+            </p>
+
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm border border-brand/10">
+                    <thead>
+                        <tr class="bg-brand text-white text-xs sm:text-sm font-heading">
+                            <th class="p-4">Cost & Convenience Factor</th>
+                            <th class="p-4">Hair Transplant in Uganda (Refine Clinic)</th>
+                            <th class="p-4">Hair Transplant in Turkey / Overseas</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-xs sm:text-sm text-gray-700 font-light divide-y divide-brand/5">
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Base Procedure Cost</td>
+                            <td class="p-4">UGX 7.5M – 14.5M ($2,000 – $3,900)</td>
+                            <td class="p-4">UGX 7.5M – 11M ($2,000 – $3,000)</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Return Airfare & Visa Fees</td>
+                            <td class="p-4"><strong>UGX 0 (Local)</strong></td>
+                            <td class="p-4">UGX 3.5M – 5.5M ($950 – $1,500)</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Hotel Accommodation & Meals</td>
+                            <td class="p-4"><strong>UGX 0 (Sleep at home)</strong></td>
+                            <td class="p-4">UGX 2.0M – 3.5M ($550 – $950)</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Post-Op Emergency & Wash Support</td>
+                            <td class="p-4"><strong>Direct in-clinic doctor access</strong></td>
+                            <td class="p-4">Difficult distant email/WhatsApp support</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Afro-Hair Specialization</td>
+                            <td class="p-4"><strong>Specialized in African scalp anatomy</strong></td>
+                            <td class="p-4">Often high transection rate on curly roots</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Total Real Out-of-Pocket Cost</td>
+                            <td class="p-4 font-bold text-brand">UGX 7.5M – 14.5M (Transparent)</td>
+                            <td class="p-4 font-bold text-red-600">UGX 15M – 23.5M (Travel overhead)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Getting your <a href="https://refineskinandbody.com/hair-transplant" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Hair Transplant in Uganda</a> at <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin & Body Clinic</a> eliminates international travel stress, provides direct access to your operating surgeon for post-operative washes, and guarantees specialized care for African scalp and hair structures.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">FUE vs. FUT Hair Transplant: Which Technique Is Right for You?</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Understanding the difference between the two main surgical hair restoration techniques helps you make an informed choice:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-6">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-base font-heading mb-2">1. Follicular Unit Extraction (FUE)</h4>
+                    <ul class="text-sm text-gray-600 font-light space-y-2">
+                        <li><i class="fas fa-check text-accent mr-1.5"></i> Individual grafts extracted one by one with micro-punch</li>
+                        <li><i class="fas fa-check text-accent mr-1.5"></i> <strong>Zero linear scar</strong> — tiny micro-dots heal invisibly</li>
+                        <li><i class="fas fa-check text-accent mr-1.5"></i> Ideal for patients who wear short haircuts or fades</li>
+                        <li><i class="fas fa-check text-accent mr-1.5"></i> Fast recovery time (5 to 7 days)</li>
+                    </ul>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-base font-heading mb-2">2. Follicular Unit Transplantation (FUT / Strip)</h4>
+                    <ul class="text-sm text-gray-600 font-light space-y-2">
+                        <li><i class="fas fa-check text-accent mr-1.5"></i> A narrow strip of skin is removed from the donor area</li>
+                        <li><i class="fas fa-check text-accent mr-1.5"></i> Leaves a fine linear scar covered by longer donor hair</li>
+                        <li><i class="fas fa-check text-accent mr-1.5"></i> Allows harvesting high graft volume in a single session</li>
+                        <li><i class="fas fa-check text-accent mr-1.5"></i> Slightly lower price point per graft</li>
+                    </ul>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Step-by-Step Procedure & Hair Growth Timeline</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Knowing what to expect during and after your hair transplant procedure ensures a smooth, anxiety-free recovery:
+            </p>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5 flex items-start gap-4">
+                    <div class="w-10 h-10 rounded-full bg-brand text-accent flex items-center justify-center font-bold flex-shrink-0">1</div>
+                    <div>
+                        <h4 class="font-bold text-brand-deeper text-base font-heading">Consultation & Hairline Design</h4>
+                        <p class="text-xs text-gray-600 font-light leading-relaxed">Your surgeon evaluates donor density, measures recipient area, and draws an aesthetically natural hairline tailored to your facial structure.</p>
+                    </div>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5 flex items-start gap-4">
+                    <div class="w-10 h-10 rounded-full bg-brand text-accent flex items-center justify-center font-bold flex-shrink-0">2</div>
+                    <div>
+                        <h4 class="font-bold text-brand-deeper text-base font-heading">Procedure Day (Painless Under Local Anesthesia)</h4>
+                        <p class="text-xs text-gray-600 font-light leading-relaxed">Local anesthesia is administered to make the donor and recipient scalp completely numb. Grafts are micro-extracted, kept in cold holding solution, and implanted into micro-slits.</p>
+                    </div>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5 flex items-start gap-4">
+                    <div class="w-10 h-10 rounded-full bg-brand text-accent flex items-center justify-center font-bold flex-shrink-0">3</div>
+                    <div>
+                        <h4 class="font-bold text-brand-deeper text-base font-heading">Days 1 to 7: Initial Healing & Head Washing</h4>
+                        <p class="text-xs text-gray-600 font-light leading-relaxed">Minor swelling and tiny crusts form over recipient sites. You return to Refine Clinic for your first gentle medical wash and receive spray saline solution.</p>
+                    </div>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5 flex items-start gap-4">
+                    <div class="w-10 h-10 rounded-full bg-brand text-accent flex items-center justify-center font-bold flex-shrink-0">4</div>
+                    <div>
+                        <h4 class="font-bold text-brand-deeper text-base font-heading">Weeks 2 to 4: The "Shock Loss" Shedding Phase</h4>
+                        <p class="text-xs text-gray-600 font-light leading-relaxed">Transplanted hair shafts temporarily shed. This is a completely normal biological reaction. The living follicle roots stay safely anchored beneath your scalp skin.</p>
+                    </div>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5 flex items-start gap-4">
+                    <div class="w-10 h-10 rounded-full bg-brand text-accent flex items-center justify-center font-bold flex-shrink-0">5</div>
+                    <div>
+                        <h4 class="font-bold text-brand-deeper text-base font-heading">Months 3 to 6: New Hair Emergence</h4>
+                        <p class="text-xs text-gray-600 font-light leading-relaxed">Fresh, fine new hair begins sprouting from recipient sites. Growth increases by 10% to 15% each passing month.</p>
+                    </div>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5 flex items-start gap-4">
+                    <div class="w-10 h-10 rounded-full bg-brand text-accent flex items-center justify-center font-bold flex-shrink-0">6</div>
+                    <div>
+                        <h4 class="font-bold text-brand-deeper text-base font-heading">Months 12 to 14: Final Full Density</h4>
+                        <p class="text-xs text-gray-600 font-light leading-relaxed">Transplanted hair reaches full thickness, length, and mature density. Enjoy permanent, natural hairline restoration!</p>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- Frequently Asked Questions Section (10 AEO Questions) -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-12 mb-8 font-heading flex items-center gap-3">
+                <i class="fas fa-question-circle text-accent"></i> Frequently Asked Questions (FAQs)
+            </h2>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q1: How much is a hair transplant in Uganda on average?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">The average cost of a <a href="https://refineskinandbody.com/hair-transplant" class="text-brand font-semibold underline">Hair Transplant in Uganda</a> ranges between <strong>UGX 4,500,000 and UGX 18,500,000+</strong> ($1,200 to $5,000+ USD), depending on the total graft volume (typically 1,000 to 3,500+ grafts) and the FUE surgical technique performed at <a href="https://refineskinandbody.com/" class="text-brand font-semibold underline">Refine Skin & Body Clinic</a>.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q2: Are hair transplant results really permanent?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Yes, absolutely.</strong> Donor hair grafts extracted from the back of the scalp are genetically immune to the hormone Dihydrotestosterone (DHT). When relocated to balding areas, they retain this resistance and continue growing permanently for life.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q3: Is a hair transplant procedure painful?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>No.</strong> The procedure is performed under local anesthesia. You may feel a mild sting during the initial local numbing injections, but the entire surgical extraction and placement process is completely painless. Patients relax, listen to music, or watch television during their session.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q4: What is the price per graft for a hair transplant in Uganda?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">The standard <strong>price per graft in Uganda</strong> ranges from <strong>UGX 3,500 to UGX 7,500 per graft</strong> ($1.00 to $2.00 USD). Each graft contains 1 to 4 hair follicles, delivering significant hair density per graft harvested.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q5: How many days of recovery downtime will I need after a hair transplant?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">Most patients return to desk work and routine daily activities within <strong>3 to 5 days</strong> after an FUE hair transplant. Tiny micro-scabs shed naturally within 7 to 10 days. Strenuous gym workouts and heavy lifting should be avoided for 14 days post-op.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q6: Can women get hair transplants in Uganda?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Yes.</strong> Female hair restoration is common for treating traction alopecia (hairline recession caused by tight braids or weaves) and female pattern hair thinning. Non-shaven FUE techniques allow women to undergo hair transplants without shaving their entire head.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q7: Does medical insurance cover hair transplant costs in Uganda?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">Because hair transplantation is considered an elective cosmetic restoration procedure, standard health insurance providers in Uganda do not cover the cost. However, Refine Clinic provides transparent pricing structures and multi-stage payment plans.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q8: Why does hair shed 2 to 4 weeks after the hair transplant?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">This temporary shedding — called "shock loss" — is a normal physiological response. The external hair shaft falls out, but the transplanted follicle root remains alive and healthy under your skin, initiating new hair growth starting at Month 3.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q9: Why is PRP therapy recommended alongside hair transplantation?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Platelet-Rich Plasma (PRP) therapy</strong> uses growth factors from your own blood to accelerate graft angiogenesis (blood supply connection), reduce post-op redness, and strengthen existing native hairs surrounding transplanted zones.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q10: How do I book a confidential hair transplant consultation in Kampala?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">You can book a private consultation at <a href="https://refineskinandbody.com/" class="text-brand font-semibold underline">Refine Skin & Body Clinic</a> by calling our team directly or visiting our clinic in Bukoto / Kabalagala, Kampala. Our doctors will assess your scalp density, calculate your required graft count, and design your customized hairline plan.</p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading flex items-center gap-3">
+                <i class="fas fa-lightbulb text-accent"></i> Final Thoughts: Restore Your Hair & Confidence at Refine Clinic
+            </h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Understanding <strong>how much is a hair transplant in Uganda</strong> empowers you to make a confident, well-informed choice for your personal appearance and self-esteem. A hair transplant is not merely an expense; it is a permanent investment in your youthfulness, image, and lifelong confidence.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Ready to take the first step toward permanent hairline restoration? Contact our medical specialists for a <a href="https://refineskinandbody.com/hair-transplant" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Hair Transplant in Uganda</a> at <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin & Body Clinic</a> today to schedule your private consultation.
             </p>
         '
     ]

@@ -474,6 +474,8 @@ $routeMap = [
     '/blog' => 'blog.php',
     '/anti-aging' => 'anti-aging.php',
     '/anti-aging-kampala-juba' => 'anti-aging.php',
+    '/skin-clinic-in-juba' => 'skin-clinic-in-juba.php',
+    '/dermatologist-in-juba' => 'dermatologist-in-juba.php',
 ];
 
 if (array_key_exists($path, $routeMap)) {
