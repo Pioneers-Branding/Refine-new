@@ -59,7 +59,15 @@ $blogSlugs = [
     'can-iv-therapy-improve-skin-glow-overall-wellness',
     'body-contouring-vs-weight-loss-whats-the-difference',
     'how-much-is-ozempic-in-uganda',
-    'how-much-is-a-hair-transplant-in-uganda'
+    'how-much-is-a-hair-transplant-in-uganda',
+    'how-much-is-laser-hair-removal-in-uganda',
+    'how-laser-hair-removal-works-benefits-myths-what-to-expect',
+    'how-much-is-breast-reduction-surgery-in-uganda',
+    'is-prp-hair-restoration-worth-it-recovery-explained',
+    'how-much-is-liposuction-in-uganda',
+    'how-thread-lifting-can-restore-youthful-appearance-without-surgery',
+    'acne-scars-treatment-options-that-really-work',
+    'how-much-is-breast-lifting-surgery-in-uganda'
 ];
 
 foreach ($blogSlugs as $slug) {
