@@ -60,21 +60,35 @@ $canonicalUrl = "https://refineskinandbody.com/dr-chirag-kotecha";
                             <li class="flex items-start gap-4">
                                 <div class="w-8 h-8 rounded-full bg-brand/5 flex items-center justify-center text-brand flex-shrink-0 mt-1"><i class="fas fa-graduation-cap text-xs"></i></div>
                                 <div>
-                                    <h4 class="font-semibold text-brand-deeper text-sm">Bachelor of Medicine, Bachelor of Surgery (MBChB)</h4>
-                                    <p class="text-xs mt-1">Makerere University, Kampala</p>
+                                    <h4 class="font-semibold text-brand-deeper text-sm">MBBS</h4>
+                                    <p class="text-xs mt-1">St. Georges University of London</p>
                                 </div>
                             </li>
                             <li class="flex items-start gap-4">
                                 <div class="w-8 h-8 rounded-full bg-brand/5 flex items-center justify-center text-brand flex-shrink-0 mt-1"><i class="fas fa-certificate text-xs"></i></div>
                                 <div>
-                                    <h4 class="font-semibold text-brand-deeper text-sm">Postgraduate Diploma in Practical Dermatology</h4>
-                                    <p class="text-xs mt-1">Cardiff University, UK</p>
+                                    <h4 class="font-semibold text-brand-deeper text-sm">Postgraduate Diploma in Dermatology</h4>
+                                    <p class="text-xs mt-1">Queen Mary University of London</p>
+                                </div>
+                            </li>
+                            <li class="flex items-start gap-4">
+                                <div class="w-8 h-8 rounded-full bg-brand/5 flex items-center justify-center text-brand flex-shrink-0 mt-1"><i class="fas fa-graduation-cap text-xs"></i></div>
+                                <div>
+                                    <h4 class="font-semibold text-brand-deeper text-sm">MBA in Entrepreneurship and Healthcare Management</h4>
+                                    <p class="text-xs mt-1">Imperial College London</p>
                                 </div>
                             </li>
                             <li class="flex items-start gap-4">
                                 <div class="w-8 h-8 rounded-full bg-brand/5 flex items-center justify-center text-brand flex-shrink-0 mt-1"><i class="fas fa-award text-xs"></i></div>
                                 <div>
                                     <h4 class="font-semibold text-brand-deeper text-sm">Member of the American Academy of Aesthetic Medicine (AAAM)</h4>
+                                </div>
+                            </li>
+                            <li class="flex items-start gap-4">
+                                <div class="w-8 h-8 rounded-full bg-brand/5 flex items-center justify-center text-brand flex-shrink-0 mt-1"><i class="fas fa-star text-xs"></i></div>
+                                <div>
+                                    <h4 class="font-semibold text-brand-deeper text-sm">Board Certified in Aesthetics, Functional Medicine, Pain Management</h4>
+                                    <p class="text-xs mt-1">American Academy of Procedural Medicine</p>
                                 </div>
                             </li>
                             <!-- [PLACEHOLDER END] -->

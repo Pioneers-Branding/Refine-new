@@ -24,14 +24,14 @@
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo isset($canonicalUrl) ? $canonicalUrl : "https://refineskinandbody.com/"; ?>">
-    <meta property="og:image" content="https://refineskinandbody.com/images/refine-logo.webp">
+    <meta property="og:image" content="https://refineskinandbody.com/assets/imagesfromsite/refine-logo.webp">
     <meta property="og:title" content="<?php echo isset($metaTitle) ? $metaTitle : "Dermatology &amp; Aesthetic Clinic in Kampala | Refine Skin &amp; Body Clinic"; ?>">
     <meta property="og:description" content="<?php echo isset($metaDescription) ? htmlspecialchars($metaDescription) : "Experience top-tier aesthetic treatments in Kampala &amp; Juba at Refine Skin and Body Clinic."; ?>">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="https://refineskinandbody.com/images/fab2.webp" type="image/x-icon">
-    <link rel="icon" href="https://refineskinandbody.com/images/fab2.webp" type="image/x-icon">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://refineskinandbody.com/images/fab2.webp">
+    <link rel="shortcut icon" href="/assets/imagesfromsite/fab2.webp" type="image/webp">
+    <link rel="icon" href="/assets/imagesfromsite/fab2.webp" type="image/webp">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/imagesfromsite/fab2.webp">
 
     <!-- Google Fonts — Editorial Pairing -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
