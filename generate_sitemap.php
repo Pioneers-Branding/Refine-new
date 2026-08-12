@@ -67,7 +67,10 @@ $blogSlugs = [
     'how-much-is-liposuction-in-uganda',
     'how-thread-lifting-can-restore-youthful-appearance-without-surgery',
     'acne-scars-treatment-options-that-really-work',
-    'how-much-is-breast-lifting-surgery-in-uganda'
+    'how-much-is-breast-lifting-surgery-in-uganda',
+    'can-botox-get-rid-of-double-chin',
+    'is-a-hydrafacial-worth-it',
+    'what-does-chemical-peel-do'
 ];
 
 foreach ($blogSlugs as $slug) {

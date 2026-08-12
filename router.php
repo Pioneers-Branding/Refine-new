@@ -476,6 +476,10 @@ $routeMap = [
     '/anti-aging-kampala-juba' => 'anti-aging.php',
     '/skin-clinic-in-juba' => 'skin-clinic-in-juba.php',
     '/dermatologist-in-juba' => 'dermatologist-in-juba.php',
+    '/skin-clinic-in-bukoto' => 'skin-clinic-in-bukoto.php',
+    '/dermatologist-in-bukoto' => 'dermatologist-in-bukoto.php',
+    '/skin-clinic-in-kabalagala' => 'skin-clinic-in-kabalagala.php',
+    '/dermatologist-in-kabalagala' => 'dermatologist-in-kabalagala.php',
 ];
 
 if (array_key_exists($path, $routeMap)) {
