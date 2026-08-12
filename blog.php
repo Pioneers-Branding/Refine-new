@@ -3959,8 +3959,8 @@ $articles = [
         'slug' => 'can-botox-get-rid-of-double-chin',
         'title' => 'Can Botox Get Rid of Double Chin? | Expert Dermatologist Guide',
         'category' => 'Injectables & Anti-Aging',
-        'category_slug' => 'anti-aging',
-        'date' => 'July 04, 2026',
+        'category_slug' => 'injectables-anti-aging',
+        'date' => 'August 12, 2026',
         'author' => 'Dr. Chirag Kotecha',
         'author_role' => 'Lead Dermatologist, Refine Clinic',
         'read_time' => '12 min',
@@ -4194,9 +4194,9 @@ $articles = [
     'is-a-hydrafacial-worth-it' => [
         'slug' => 'is-a-hydrafacial-worth-it',
         'title' => 'Is a HydraFacial Worth It? Benefits, Results & Skin Radiance',
-        'category' => 'Facial & Skin Rejuvenation',
-        'category_slug' => 'skin-rejuvenation',
-        'date' => 'July 07, 2026',
+        'category' => 'Dermatology & Skin',
+        'category_slug' => 'dermatology-skin',
+        'date' => 'August 11, 2026',
         'author' => 'Dr. Chirag Kotecha',
         'author_role' => 'Lead Dermatologist, Refine Clinic',
         'read_time' => '12 min',
@@ -4391,8 +4391,8 @@ $articles = [
         'slug' => 'what-does-chemical-peel-do',
         'title' => 'What Does a Chemical Peel Do? Benefits, Types & Skin Clearance',
         'category' => 'Medical Dermatology',
-        'category_slug' => 'medical-dermatology',
-        'date' => 'July 10, 2026',
+        'category_slug' => 'dermatology-skin',
+        'date' => 'August 10, 2026',
         'author' => 'Dr. Chirag Kotecha',
         'author_role' => 'Lead Dermatologist, Refine Clinic',
         'read_time' => '13 min',
@@ -4768,41 +4768,6 @@ include 'includes/header.php';
 
             <!-- Search Bar -->
             <div class="max-w-2xl mx-auto mt-10 relative">
-                <div class="relative flex items-center">
-                    <i class="fas fa-search absolute left-5 text-gray-400 text-lg pointer-events-none"></i>
-                    <input type="text" id="blog-search" placeholder="Search treatments, dermatology, weight loss, or IV therapy..." class="w-full pl-14 pr-12 py-4 bg-white/95 backdrop-blur-md rounded-full text-brand-deeper placeholder-gray-400 font-body text-sm md:text-base outline-none shadow-2xl focus:ring-4 focus:ring-accent/40 transition-all border border-white">
-                    <button id="clear-search" class="absolute right-4 text-gray-400 hover:text-brand transition-colors hidden">
-                        <i class="fas fa-times-circle text-lg"></i>
-                    </button>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Articles Section -->
-    <section class="py-16 md:py-24 bg-surface-warm">
-        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
-
-            <!-- Category Filter Pills -->
-            <div class="flex flex-wrap items-center justify-center gap-2.5 md:gap-3 mb-14" id="category-filters">
-                <button class="cat-btn active bg-brand text-white px-6 py-2.5 rounded-full text-xs md:text-sm font-medium transition-all shadow-md shadow-brand/20 border border-brand" data-category="all">
-                    All Articles
-                </button>
-                <button class="cat-btn bg-white/90 text-gray-700 hover:bg-white hover:text-brand px-6 py-2.5 rounded-full text-xs md:text-sm font-medium transition-all border border-brand/10 hover:border-brand/30 shadow-sm" data-category="injectables-anti-aging">
-                    <i class="fas fa-face-smile text-accent mr-1.5 text-[11px]"></i> Injectables & Anti-Aging
-                </button>
-                <button class="cat-btn bg-white/90 text-gray-700 hover:bg-white hover:text-brand px-6 py-2.5 rounded-full text-xs md:text-sm font-medium transition-all border border-brand/10 hover:border-brand/30 shadow-sm" data-category="dermatology-skin">
-                    <i class="fas fa-allergies text-accent mr-1.5 text-[11px]"></i> Dermatology & Skin
-                </button>
-                <button class="cat-btn bg-white/90 text-gray-700 hover:bg-white hover:text-brand px-6 py-2.5 rounded-full text-xs md:text-sm font-medium transition-all border border-brand/10 hover:border-brand/30 shadow-sm" data-category="iv-therapy">
-                    <i class="fas fa-syringe text-brand/70 mr-1.5 text-[11px]"></i> Refine IV Lounge
-                </button>
-                <button class="cat-btn bg-white/90 text-gray-700 hover:bg-white hover:text-brand px-6 py-2.5 rounded-full text-xs md:text-sm font-medium transition-all border border-brand/10 hover:border-brand/30 shadow-sm" data-category="surgical-insights">
-                    <i class="fas fa-stethoscope text-accent mr-1.5 text-[11px]"></i> Surgical Insights
-                </button>
-            </div>
-
-            <!-- Section Header -->
             <div class="text-center mb-12">
                 <h2 class="text-3xl md:text-4xl font-bold text-brand-deeper font-heading mb-3">Refine Articles</h2>
                 <p class="text-gray-600 max-w-2xl mx-auto font-body font-light text-sm md:text-base">Explore treatment guides, clinical insights, and wellness tips from board-certified doctors.</p>
