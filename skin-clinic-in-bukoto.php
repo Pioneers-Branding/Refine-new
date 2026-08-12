@@ -1,10 +1,10 @@
 <?php
 /**
  * Refine Skin & Body Clinic — Skin Clinic in Bukoto Location Page
- * Premium location homepage layout tailored for Bukoto, Kampala
+ * Premium location homepage layout tailored for Bukoto
  */
-$metaTitle = "Best Skin Clinic in Bukoto, Kampala | Refine Clinic";
-$metaDescription = "Looking for the best Skin Clinic in Bukoto, Kampala? Refine Skin & Body Clinic at UMC Victoria Hospital Annex offers expert dermatologist care, melasma & acne treatment, anti-aging injectables, IV therapy, and hair restoration.";
+$metaTitle = "Best Skin Clinic in Bukoto | Refine Clinic";
+$metaDescription = "Looking for the best Skin Clinic in Bukoto? Refine Skin & Body Clinic at UMC Victoria Hospital Annex offers expert dermatologist care, melasma & acne treatment, anti-aging injectables, IV therapy, and hair restoration.";
 $canonicalUrl = "https://refineskinandbody.com/skin-clinic-in-bukoto";
 $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment Bukoto, Melasma Treatment Bukoto, Refine Clinic Bukoto, Botox Bukoto, Hair Transplant Bukoto, IV Drip Bukoto";
 ?>
@@ -39,7 +39,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75"></span>
                             <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-accent"></span>
                         </span>
-                        <span class="text-white font-body text-xs tracking-[0.2em] uppercase font-semibold">Premier Skin Care for Bukoto & Kampala</span>
+                        <span class="text-white font-body text-xs tracking-[0.2em] uppercase font-semibold">Premier Skin Care for Bukoto</span>
                     </div>
 
                     <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold font-heading text-white leading-tight mb-6">
@@ -97,7 +97,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                 <!-- Hero Image Card -->
                 <div class="lg:col-span-5">
                     <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-white/20 group">
-                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine Skin Clinic in Bukoto Kampala" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine Skin Clinic in Bukoto" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/90 via-brand-deeper/30 to-transparent"></div>
                         
                         <div class="absolute bottom-6 left-6 right-6 p-6 bg-white/95 backdrop-blur-md rounded-2xl border border-white shadow-xl">
@@ -135,7 +135,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                         <!-- Floating Badge -->
                         <div class="absolute -bottom-6 -right-6 bg-brand text-white p-6 rounded-2xl shadow-xl max-w-xs border border-brand-light hidden sm:block">
                             <i class="fas fa-quote-left text-accent text-2xl mb-2 block"></i>
-                            <p class="text-xs font-light text-white/90 leading-relaxed">"Delivering healthy, clear, and glowing skin for our valued patients in Bukoto & Kampala."</p>
+                            <p class="text-xs font-light text-white/90 leading-relaxed">"Delivering healthy, clear, and glowing skin for our valued patients in Bukoto."</p>
                         </div>
                     </div>
                 </div>
@@ -151,7 +151,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                     </h2>
 
                     <p class="text-gray-700 font-body text-base leading-relaxed mb-6 font-light">
-                        Living in Bukoto and central Kampala means facing tropical sunshine, humidity, urban dust, and environmental stressors. Patients frequently consult our skin clinic for stubborn <strong>melasma, post-acne hyperpigmentation, severe acne flare-ups, dark spots, uneven skin texture, and hair thinning</strong>.
+                        Living in Bukoto means facing tropical sunshine, humidity, urban dust, and environmental stressors. Patients frequently consult our skin clinic for stubborn <strong>melasma, post-acne hyperpigmentation, severe acne flare-ups, dark spots, uneven skin texture, and hair thinning</strong>.
                     </p>
 
                     <p class="text-gray-700 font-body text-base leading-relaxed mb-8 font-light">
@@ -326,7 +326,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                         <i class="fas fa-hospital-user"></i>
                     </div>
                     <h3 class="font-bold text-xl font-heading mb-3 text-white">Bukoto Medical Annex</h3>
-                    <p class="text-white/70 text-xs sm:text-sm font-light leading-relaxed">Located at UMC Victoria Hospital Annex in Bukoto for easy access across central Kampala.</p>
+                    <p class="text-white/70 text-xs sm:text-sm font-light leading-relaxed">Located at UMC Victoria Hospital Annex in Bukoto for easy access across the area.</p>
                 </div>
 
             </div>
@@ -359,7 +359,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
                             <span class="font-bold text-brand-deeper text-sm block">Christine K.</span>
-                            <span class="text-xs text-gray-500 font-light">Bukoto, Kampala</span>
+                            <span class="text-xs text-gray-500 font-light">Bukoto</span>
                         </div>
                         <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">Melasma Care</span>
                     </div>
@@ -373,7 +373,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
                             <span class="font-bold text-brand-deeper text-sm block">David M.</span>
-                            <span class="text-xs text-gray-500 font-light">Naguru, Kampala</span>
+                            <span class="text-xs text-gray-500 font-light">Naguru</span>
                         </div>
                         <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">Scar Revision</span>
                     </div>
@@ -387,7 +387,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
                             <span class="font-bold text-brand-deeper text-sm block">Brenda N.</span>
-                            <span class="text-xs text-gray-500 font-light">Ntinda, Kampala</span>
+                            <span class="text-xs text-gray-500 font-light">Ntinda</span>
                         </div>
                         <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">HydraFacial Glow</span>
                     </div>
@@ -417,7 +417,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q1: Where is Refine Skin Clinic located in Bukoto?</h3>
-                    <p class="text-gray-700 text-sm font-light leading-relaxed">Our Bukoto branch is located at <strong>UMC Victoria Hospital Annex, Bukoto, Kampala, Uganda</strong>.</p>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">Our Bukoto branch is located at <strong>UMC Victoria Hospital Annex, Bukoto, Uganda</strong>.</p>
                 </div>
 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">

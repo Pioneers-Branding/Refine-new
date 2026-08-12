@@ -1,12 +1,12 @@
 <?php
 /**
  * Refine Skin & Body Clinic — Dermatologist in Bukoto Location Page
- * Premium location homepage layout tailored for Dermatologist care in Bukoto, Kampala
+ * Premium location homepage layout tailored for Dermatologist care in Bukoto
  */
-$metaTitle = "Best Dermatologist in Bukoto, Kampala | Refine Clinic";
-$metaDescription = "Consult expert Dermatologists in Bukoto, Kampala at UMC Victoria Hospital Annex. Refine Skin & Body Clinic provides specialized medical dermatology for acne, melasma, eczema, hair loss, and cosmetic skin care.";
+$metaTitle = "Best Dermatologist in Bukoto | Refine Clinic";
+$metaDescription = "Consult expert Dermatologists in Bukoto at UMC Victoria Hospital Annex. Refine Skin & Body Clinic provides specialized medical dermatology for acne, melasma, eczema, hair loss, and cosmetic skin care.";
 $canonicalUrl = "https://refineskinandbody.com/dermatologist-in-bukoto";
-$metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Dermatologist UMC Victoria Hospital, Acne Doctor Bukoto, Melasma Dermatologist Bukoto, Refine Clinic Bukoto";
+$metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto, Best Dermatologist UMC Victoria Hospital, Acne Doctor Bukoto, Melasma Dermatologist Bukoto, Refine Clinic Bukoto";
 ?>
 <?php include 'includes/head.php'; ?>
 
@@ -47,7 +47,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Derma
                     </h1>
 
                     <p class="text-white/85 font-body text-base sm:text-lg lg:text-xl font-light leading-relaxed mb-8 max-w-2xl mx-auto lg:mx-0">
-                        Consult board-certified dermatologists at our UMC Victoria Hospital Annex clinic in Bukoto. Specializing in medical skin care, acne & melasma clearance, eczema treatment, cosmetic dermatology, anti-aging injectables, and hair loss solutions tailored for patients across Bukoto and Kampala.
+                        Consult board-certified dermatologists at our UMC Victoria Hospital Annex clinic in Bukoto. Specializing in medical skin care, acne & melasma clearance, eczema treatment, cosmetic dermatology, anti-aging injectables, and hair loss solutions tailored for patients across Bukoto, Naguru, and Ntinda.
                     </p>
 
                     <!-- CTAs -->
@@ -97,7 +97,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Derma
                 <!-- Hero Image Card -->
                 <div class="lg:col-span-5">
                     <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-white/20 group">
-                        <img src="/assets/imagesfromsite/dermatology-new-09.webp" alt="Dermatologist Consultation in Bukoto Kampala" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
+                        <img src="/assets/imagesfromsite/dermatology-new-09.webp" alt="Dermatologist Consultation in Bukoto" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/90 via-brand-deeper/30 to-transparent"></div>
                         
                         <div class="absolute bottom-6 left-6 right-6 p-6 bg-white/95 backdrop-blur-md rounded-2xl border border-white shadow-xl">
@@ -135,7 +135,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Derma
                         <!-- Floating Badge -->
                         <div class="absolute -bottom-6 -right-6 bg-brand text-white p-6 rounded-2xl shadow-xl max-w-xs border border-brand-light hidden sm:block">
                             <i class="fas fa-quote-left text-accent text-2xl mb-2 block"></i>
-                            <p class="text-xs font-light text-white/90 leading-relaxed">"Providing compassionate, evidence-based dermatological care for our patients in Bukoto & Kampala."</p>
+                            <p class="text-xs font-light text-white/90 leading-relaxed">"Providing compassionate, evidence-based dermatological care for our patients in Bukoto."</p>
                         </div>
                     </div>
                 </div>
@@ -147,11 +147,11 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Derma
                     </span>
                     
                     <h2 class="text-3xl sm:text-4xl font-bold text-brand-deeper font-heading mb-6 leading-tight">
-                        Understanding Skin Needs in Bukoto & Kampala
+                        Understanding Skin Needs in Bukoto
                     </h2>
 
                     <p class="text-gray-700 font-body text-base leading-relaxed mb-6 font-light">
-                        Kampala's tropical sunshine, heat, dust, and humidity can present significant challenges to your skin health. Residents in Bukoto, Naguru, Ntinda, and surrounding areas frequently experience <strong>severe hyperpigmentation, stubborn melasma, adult acne flare-ups, eczema, scalp disorders, and sun-damaged skin barriers</strong>.
+                        Tropical sunshine, heat, dust, and humidity can present significant challenges to your skin health. Residents in Bukoto, Naguru, Ntinda, and surrounding areas frequently experience <strong>severe hyperpigmentation, stubborn melasma, adult acne flare-ups, eczema, scalp disorders, and sun-damaged skin barriers</strong>.
                     </p>
 
                     <p class="text-gray-700 font-body text-base leading-relaxed mb-8 font-light">
@@ -359,7 +359,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Derma
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
                             <span class="font-bold text-brand-deeper text-sm block">Mary N.</span>
-                            <span class="text-xs text-gray-500 font-light">Bukoto, Kampala</span>
+                            <span class="text-xs text-gray-500 font-light">Bukoto</span>
                         </div>
                         <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">Eczema Care</span>
                     </div>
@@ -373,7 +373,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Derma
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
                             <span class="font-bold text-brand-deeper text-sm block">Emmanuel K.</span>
-                            <span class="text-xs text-gray-500 font-light">Naguru, Kampala</span>
+                            <span class="text-xs text-gray-500 font-light">Naguru</span>
                         </div>
                         <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">Acne Scarring</span>
                     </div>
@@ -387,7 +387,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Derma
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
                             <span class="font-bold text-brand-deeper text-sm block">Susan T.</span>
-                            <span class="text-xs text-gray-500 font-light">Ntinda, Kampala</span>
+                            <span class="text-xs text-gray-500 font-light">Ntinda</span>
                         </div>
                         <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">Skin Rejuvenation</span>
                     </div>
@@ -417,7 +417,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Derma
                 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q1: How can I consult a dermatologist at your Bukoto branch?</h3>
-                    <p class="text-gray-700 text-sm font-light leading-relaxed">You can visit us directly at <strong>UMC Victoria Hospital Annex, Bukoto, Kampala</strong> or book an appointment online or via phone/WhatsApp at <strong>+256 748 951996</strong>.</p>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">You can visit us directly at <strong>UMC Victoria Hospital Annex, Bukoto</strong> or book an appointment online or via phone/WhatsApp at <strong>+256 748 951996</strong>.</p>
                 </div>
 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
@@ -427,7 +427,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto Kampala, Best Derma
 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q3: Where is the Refine Clinic located in Bukoto?</h3>
-                    <p class="text-gray-700 text-sm font-light leading-relaxed">Our Bukoto clinic is conveniently situated at the <strong>UMC Victoria Hospital Annex</strong> in Bukoto, Kampala, Uganda with dedicated parking and consultation suites.</p>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">Our Bukoto clinic is conveniently situated at the <strong>UMC Victoria Hospital Annex</strong> in Bukoto, Uganda with dedicated parking and consultation suites.</p>
                 </div>
 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">

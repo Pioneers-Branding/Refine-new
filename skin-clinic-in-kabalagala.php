@@ -1,10 +1,10 @@
 <?php
 /**
  * Refine Skin & Body Clinic — Skin Clinic in Kabalagala Location Page
- * Premium location homepage layout tailored for Kabalagala, Kampala
+ * Premium location homepage layout tailored for Kabalagala
  */
-$metaTitle = "Best Skin Clinic in Kabalagala, Kampala | Refine Clinic";
-$metaDescription = "Looking for the best Skin Clinic in Kabalagala, Kampala? Refine Skin & Body Clinic at Palm Village Mall offers expert dermatologist care, melasma & acne treatment, anti-aging injectables, IV therapy, and hair restoration.";
+$metaTitle = "Best Skin Clinic in Kabalagala | Refine Clinic";
+$metaDescription = "Looking for the best Skin Clinic in Kabalagala? Refine Skin & Body Clinic at Palm Village Mall offers expert dermatologist care, melasma & acne treatment, anti-aging injectables, IV therapy, and hair restoration.";
 $canonicalUrl = "https://refineskinandbody.com/skin-clinic-in-kabalagala";
 $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Treatment Kabalagala, Melasma Treatment Kabalagala, Refine Clinic Kabalagala, Botox Kabalagala, Hair Transplant Kabalagala, IV Drip Kabalagala";
 ?>
@@ -39,7 +39,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75"></span>
                             <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-accent"></span>
                         </span>
-                        <span class="text-white font-body text-xs tracking-[0.2em] uppercase font-semibold">Premier Skin Care for Kabalagala & Kampala</span>
+                        <span class="text-white font-body text-xs tracking-[0.2em] uppercase font-semibold">Premier Skin Care for Kabalagala</span>
                     </div>
 
                     <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold font-heading text-white leading-tight mb-6">
@@ -97,7 +97,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                 <!-- Hero Image Card -->
                 <div class="lg:col-span-5">
                     <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-white/20 group">
-                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine Skin Clinic in Kabalagala Kampala" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
+                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine Skin Clinic in Kabalagala" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/90 via-brand-deeper/30 to-transparent"></div>
                         
                         <div class="absolute bottom-6 left-6 right-6 p-6 bg-white/95 backdrop-blur-md rounded-2xl border border-white shadow-xl">
@@ -135,7 +135,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                         <!-- Floating Badge -->
                         <div class="absolute -bottom-6 -right-6 bg-brand text-white p-6 rounded-2xl shadow-xl max-w-xs border border-brand-light hidden sm:block">
                             <i class="fas fa-quote-left text-accent text-2xl mb-2 block"></i>
-                            <p class="text-xs font-light text-white/90 leading-relaxed">"Delivering healthy, clear, and glowing skin for our valued patients in Kabalagala & Kampala."</p>
+                            <p class="text-xs font-light text-white/90 leading-relaxed">"Delivering healthy, clear, and glowing skin for our valued patients in Kabalagala."</p>
                         </div>
                     </div>
                 </div>
@@ -151,7 +151,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                     </h2>
 
                     <p class="text-gray-700 font-body text-base leading-relaxed mb-6 font-light">
-                        Living in Kabalagala, Kansanga, Nsambya, Ggaba, and Muyenga means facing Kampala's intense sun exposure, heat, dust, and humidity. Patients frequently consult our skin clinic for stubborn <strong>melasma, post-acne hyperpigmentation, severe acne flare-ups, dark spots, uneven skin texture, and hair thinning</strong>.
+                        Living in Kabalagala, Kansanga, Nsambya, Ggaba, and Muyenga means facing intense sun exposure, heat, dust, and humidity. Patients frequently consult our skin clinic for stubborn <strong>melasma, post-acne hyperpigmentation, severe acne flare-ups, dark spots, uneven skin texture, and hair thinning</strong>.
                     </p>
 
                     <p class="text-gray-700 font-body text-base leading-relaxed mb-8 font-light">
@@ -326,7 +326,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                         <i class="fas fa-building font-heading"></i>
                     </div>
                     <h3 class="font-bold text-xl font-heading mb-3 text-white">Palm Village Mall Branch</h3>
-                    <p class="text-white/70 text-xs sm:text-sm font-light leading-relaxed">Conveniently located at Palm Village Mall (opposite KIU) with modern facilities and ample parking.</p>
+                    <p class="text-white/70 text-xs sm:text-sm font-light leading-relaxed">Located on 2nd Floor Palm Village Mall (opposite KIU) in Kabalagala for easy access across the region.</p>
                 </div>
 
             </div>
@@ -359,7 +359,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
                             <span class="font-bold text-brand-deeper text-sm block">Harriet N.</span>
-                            <span class="text-xs text-gray-500 font-light">Kabalagala, Kampala</span>
+                            <span class="text-xs text-gray-500 font-light">Kabalagala</span>
                         </div>
                         <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">Melasma Care</span>
                     </div>
@@ -369,13 +369,13 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                     <div class="flex items-center gap-1 text-accent mb-4 text-sm">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-6 flex-1">"Extremely professional medical staff and clean clinic at Palm Village Mall. My acne scars are noticeably smoother."</p>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-6 flex-1">"The best skin clinic in Kabalagala! Dr. Chirag Kotecha treated my hyperpigmentation with chemical peels and tailored skincare products. My face is clear and smooth."</p>
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
-                            <span class="font-bold text-brand-deeper text-sm block">Joseph O.</span>
-                            <span class="text-xs text-gray-500 font-light">Kansanga, Kampala</span>
+                            <span class="font-bold text-brand-deeper text-sm block">Sarah M.</span>
+                            <span class="text-xs text-gray-500 font-light">Kansanga</span>
                         </div>
-                        <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">Scar Revision</span>
+                        <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">Acne Treatment</span>
                     </div>
                 </div>
 
@@ -383,11 +383,11 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                     <div class="flex items-center gap-1 text-accent mb-4 text-sm">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-6 flex-1">"The best skin clinic in Kabalagala hands down! The HydraFacial combined with Glutathione IV therapy left my skin feeling hydrated and fresh."</p>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-6 flex-1">"Conveniently located at Palm Village Mall in Kabalagala. I get my monthly HydraFacial treatments here and my skin glow has never been better!"</p>
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
-                            <span class="font-bold text-brand-deeper text-sm block">Sandra M.</span>
-                            <span class="text-xs text-gray-500 font-light">Muyenga, Kampala</span>
+                            <span class="font-bold text-brand-deeper text-sm block">Julian K.</span>
+                            <span class="text-xs text-gray-500 font-light">Muyenga</span>
                         </div>
                         <span class="text-[10px] bg-accent/20 text-brand-deeper font-semibold px-2.5 py-1 rounded-full uppercase">HydraFacial Glow</span>
                     </div>
@@ -417,7 +417,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q1: Where is Refine Skin Clinic located in Kabalagala?</h3>
-                    <p class="text-gray-700 text-sm font-light leading-relaxed">Our Kabalagala branch is located on the <strong>2nd Floor of Palm Village Mall (Opposite KIU), Kabalagala, Kampala, Uganda</strong>.</p>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">Our Kabalagala branch is located at <strong>Palm Village Mall, 2nd Floor (Opposite KIU), Kabalagala, Uganda</strong>.</p>
                 </div>
 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
