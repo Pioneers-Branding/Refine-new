@@ -471,6 +471,7 @@ $metaKeywords = "Skin Clinic in Juba, Dermatologist in Juba, Acne Treatment Juba
         </div>
     </section>
 
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

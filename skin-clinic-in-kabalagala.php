@@ -466,6 +466,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
         </div>
     </section>
 
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

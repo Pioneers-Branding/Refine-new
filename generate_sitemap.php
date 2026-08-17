@@ -53,6 +53,8 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'is-laser-hair-removal-safe-for-darker-skin-tones',
+    'how-climate-and-humidity-affect-your-skin',
     'botox-vs-dermal-fillers-which-one-should-you-choose',
     'top-10-daily-skincare-habits-healthy-glowing-skin',
     'what-is-melasma-can-it-be-permanently-treated',

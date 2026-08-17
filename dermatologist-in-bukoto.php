@@ -471,6 +471,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto, Best Dermatologist
         </div>
     </section>
 
+<?php include 'includes/locations-selector.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>
