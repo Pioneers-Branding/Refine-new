@@ -1,3 +1,81 @@
+<?php
+if (!headers_sent()) {
+    $reqUri = parse_url($_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH);
+    if ($reqUri !== null) {
+        $reqClean = strtolower(rtrim($reqUri, '/'));
+        if ($reqClean === '') {
+            $reqClean = '/';
+        }
+
+        $all301Redirects = [
+            '/m-shot-treatment-kampala-juba' => '/m-shot-in-juba',
+            '/rf-microneedling-kampala-juba' => '/rf-microneedling-in-juba',
+            '/total-sport-iv-therapy-kampala-juba' => '/total-sport-iv-therapy-in-juba',
+            '/pcdc-fat-dissolving-old' => '/pcdc-fat-dissolving',
+            '/dr-chirag-kotecha-dermatologist-in-uganda' => '/dr-chirag-kotecha',
+            '/amino-acids-iv-therapy-treatment-kampala-juba' => '/amino-acids-iv-therapy',
+            '/vitamin-c-treatment-iv-therapy-treatment-kampala-juba' => '/vitamin-c-iv-therapy',
+            '/prp-hair-restoration-kampala-juba' => '/prp-hair-restoration',
+            '/glutathione-iv-therapy-kampala-juba' => '/glutathione-iv-therapy',
+            '/vitiligo-treatment-kampala-juba' => '/vitiligo-in-juba',
+            '/september-glow-deals-bukoto-landing-page' => '/',
+            '/sidebar-temp' => '/',
+            '/ad-footer' => '/',
+            '/performance-and-recovery' => '/',
+            '/index.html' => '/',
+            '/sidebar' => '/',
+            '/hydra-new' => '/hydrafacial',
+            '/jinja' => '/',
+            '/juba' => '/',
+            '/testimonials' => '/',
+            '/microblading' => '/',
+            '/hydra-test' => '/hydrafacial',
+            '/images/iv-book3.pdf' => '/',
+            '/hydra-temp' => '/hydrafacial',
+            '/co2' => '/co2-laser-scar-removal',
+            '/combo-of-vit-b-12-and-b-complex' => '/vitamin-b12-iv-therapy',
+            '/is-glutathione-the-magic-bullet' => '/glutathione-iv-therapy',
+            '/service/slender-wonder' => '/',
+            '/heres-why-your-weight-loss-regimen-isnt-paying-off' => '/',
+            '/tag/skin-cleansing/feed' => '/blog',
+            '/-kampala-juba' => '/',
+            '/wp-json/elementskit/v1' => '/',
+
+            // Legacy doctor & team redirects
+            '/about-dr-henry-owiny-aesthetic-physician-in-uganda' => '/dr-henry-owiny',
+            '/about-dr-william-lubega-plastic-surgeon-in-uganda' => '/dr-william-lubega',
+            '/dr-ahmed-ashraf-dermatologist-in-uganda' => '/dr-ahmed-ashraf',
+            '/about-alison-gallagher-psychotherapist-in-uganda' => '/alison-gallagher',
+            '/about-dr-vicky-koojo-nganzi-dermatologist-in-uganda' => '/dr-vicky-koojo-nganzi',
+            '/about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda' => '/wendy-emyedu-ayayo',
+            '/laser-hair-removal-in-uganda-kampala-juba' => '/laser-hair-removal',
+            '/weight-loss-kampala-juba' => '/semaglutide-ozempic-weight-loss',
+        ];
+
+        if (array_key_exists($reqClean, $all301Redirects)) {
+            header("HTTP/1.1 301 Moved Permanently");
+            header("Location: " . $all301Redirects[$reqClean], true, 301);
+            exit();
+        }
+
+        if (strpos($reqClean, '/wp-json/elementskit/v1') === 0 || strpos($reqClean, '/service/slender-wonder') === 0 || strpos($reqClean, '/heres-why-your-weight-loss-regimen-isnt-paying-off') === 0) {
+            header("HTTP/1.1 301 Moved Permanently");
+            header("Location: /", true, 301);
+            exit();
+        }
+        if (strpos($reqClean, '/is-glutathione-the-magic-bullet') === 0) {
+            header("HTTP/1.1 301 Moved Permanently");
+            header("Location: /glutathione-iv-therapy", true, 301);
+            exit();
+        }
+        if (strpos($reqClean, '/tag/skin-cleansing/feed') === 0) {
+            header("HTTP/1.1 301 Moved Permanently");
+            header("Location: /blog", true, 301);
+            exit();
+        }
+    }
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
