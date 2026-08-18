@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Dr. Chirag Kotecha | Refine Skin & Body Clinic";
+$metaDescription = "Meet Dr. Chirag Kotecha at Refine Skin & Body Clinic for expert dermatology and aesthetic care focused on healthy, radiant skin and personalised treatment plans.";
+
 $pageCategory = "Lead Dermatologist";
 $pageTitle = "Dr. Chirag <i class='text-brand font-light'>Kotecha.</i>";
 $pageDescription = "Discover the visionary behind Refine Skin & Body Clinic. Dr. Chirag Kotecha is a leading dermatologist dedicated to elevating aesthetic medicine in East Africa.";

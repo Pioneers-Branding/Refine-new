@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Ms. Wendy Emyedu Ayayo | Refine Skin & Body Clinic";
+$metaDescription = "Meet Ms. Wendy Emyedu Ayayo at Refine Skin & Body Clinic, a clinical nutritionist bridging internal wellness and external skin radiance.";
+
 $pageCategory = "Nutritionist";
 $pageTitle = "Ms. Wendy <i class='text-brand font-light'>Emyedu Ayayo.</i>";
 $pageDescription = "Meet Ms. Wendy Emyedu Ayayo, our clinical nutritionist bridging the gap between internal wellness and external radiance.";

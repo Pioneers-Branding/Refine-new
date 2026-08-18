@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Dr. William Lubega | Refine Skin & Body Clinic";
+$metaDescription = "Meet Dr. William Lubega at Refine Skin & Body Clinic, a board-certified plastic and reconstructive surgeon specializing in facial surgery and body contouring.";
+
 $pageCategory = "Plastic Surgeon";
 $pageTitle = "Dr. William <i class='text-brand font-light'>Lubega.</i>";
 $pageDescription = "Meet Dr. William Lubega, a board-certified plastic surgeon specializing in reconstructive and aesthetic surgical procedures.";

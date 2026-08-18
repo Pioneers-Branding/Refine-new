@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Dr. Henry Owiny | Refine Skin & Body Clinic";
+$metaDescription = "Meet Dr. Henry Owiny at Refine Skin & Body Clinic, an aesthetic physician dedicated to natural, harmonious results through advanced cosmetic dermatology.";
+
 $pageCategory = "Aesthetic Physician";
 $pageTitle = "Dr. Henry <i class='text-brand font-light'>Owiny.</i>";
 $pageDescription = "Meet Dr. Henry Owiny, an aesthetic physician dedicated to delivering natural, harmonious results through advanced cosmetic dermatology.";

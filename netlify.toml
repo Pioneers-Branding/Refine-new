@@ -3,6 +3,252 @@
   publish = "dist"
 
 [[redirects]]
+  from = "/m-shot-treatment-kampala-juba"
+  to = "/m-shot-in-juba"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/rf-microneedling-kampala-juba"
+  to = "/rf-microneedling-in-juba"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/total-sport-iv-therapy-kampala-juba"
+  to = "/total-sport-iv-therapy-in-juba"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pcdc-fat-dissolving-old"
+  to = "/pcdc-fat-dissolving"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dr-chirag-kotecha-dermatologist-in-uganda"
+  to = "/dr-chirag-kotecha"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/amino-acids-IV-therapy-treatment-kampala-juba"
+  to = "/amino-acids-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/amino-acids-iv-therapy-treatment-kampala-juba"
+  to = "/amino-acids-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/vitamin-c-treatment-IV-therapy-treatment-kampala-juba"
+  to = "/vitamin-c-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/vitamin-c-treatment-iv-therapy-treatment-kampala-juba"
+  to = "/vitamin-c-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/prp-hair-restoration-kampala-juba"
+  to = "/prp-hair-restoration"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/glutathione-IV-therapy-kampala-juba"
+  to = "/glutathione-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/glutathione-iv-therapy-kampala-juba"
+  to = "/glutathione-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/vitiligo-treatment-kampala-juba"
+  to = "/vitiligo-in-juba"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/september-glow-deals-bukoto-landing-page"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sidebar-temp"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ad-footer"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/performance-and-recovery"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sidebar"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/hydra-new"
+  to = "/hydrafacial"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/jinja"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/juba"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/testimonials"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/microblading"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/hydra-test"
+  to = "/hydrafacial"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/images/iv-book3.pdf"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/hydra-temp"
+  to = "/hydrafacial"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/co2"
+  to = "/co2-laser-scar-removal"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/combo-of-vit-B-12-and-B-complex"
+  to = "/vitamin-b12-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/combo-of-vit-b-12-and-b-complex"
+  to = "/vitamin-b12-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/is-glutathione-the-magic-bullet/*"
+  to = "/glutathione-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/is-glutathione-the-magic-bullet"
+  to = "/glutathione-iv-therapy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/service/slender-wonder/*"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/service/slender-wonder"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/heres-why-your-weight-loss-regimen-isnt-paying-off/*"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/heres-why-your-weight-loss-regimen-isnt-paying-off"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tag/skin-cleansing/feed/*"
+  to = "/blog"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tag/skin-cleansing/feed"
+  to = "/blog"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/-kampala-juba"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/wp-json/elementskit/v1/*"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/wp-json/elementskit/v1"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/body-contouring-kampala-juba"
   to = "/body-contouring"
   status = 301

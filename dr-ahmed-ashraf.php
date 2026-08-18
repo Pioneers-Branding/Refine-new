@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Dr. Ahmed Ashraf | Refine Skin & Body Clinic";
+$metaDescription = "Meet Dr. Ahmed Ashraf at Refine Skin & Body Clinic, a visiting dermatologist bringing international expertise to medical dermatology and ethnic skin care.";
+
 $pageCategory = "Dermatologist";
 $pageTitle = "Dr. Ahmed <i class='text-brand font-light'>Ashraf.</i>";
 $pageDescription = "Meet Dr. Ahmed Ashraf, our visiting Dermatologist bringing international expertise and specialized care to Refine Skin & Body Clinic.";

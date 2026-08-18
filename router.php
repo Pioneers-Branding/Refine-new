@@ -112,7 +112,7 @@ if ($path === '/rosacea-treatment-kampala-juba') {
     exit();
 }
 if ($path === '/vitiligo-treatment-kampala-juba') {
-    header("Location: /vitiligo", true, 301);
+    header("Location: /vitiligo-in-juba", true, 301);
     exit();
 }
 if ($path === '/alopecia-areata-treatment-kampala-juba') {
@@ -161,7 +161,7 @@ if ($path === '/bio-identical-hormone-replacement-therapy-kampala') {
     exit();
 }
 if ($path === '/rf-microneedling-kampala-juba') {
-    header("Location: /rf-microneedling", true, 301);
+    header("Location: /rf-microneedling-in-juba", true, 301);
     exit();
 }
 if ($path === '/stretch-marks-treatment-kampala-juba') {
@@ -253,7 +253,115 @@ if ($path === '/omg-shot-treatment-kampala-juba') {
     exit();
 }
 if ($path === '/m-shot-treatment-kampala-juba') {
-    header("Location: /m-shot", true, 301);
+    header("Location: /m-shot-in-juba", true, 301);
+    exit();
+}
+if ($path === '/pcdc-fat-dissolving-old') {
+    header("Location: /pcdc-fat-dissolving", true, 301);
+    exit();
+}
+if ($path === '/total-sport-iv-therapy-kampala-juba') {
+    header("Location: /total-sport-iv-therapy-in-juba", true, 301);
+    exit();
+}
+if (strcasecmp($path, '/amino-acids-IV-therapy-treatment-kampala-juba') === 0 || $path === '/amino-acids-iv-therapy-treatment-kampala-juba') {
+    header("Location: /amino-acids-iv-therapy", true, 301);
+    exit();
+}
+if (strcasecmp($path, '/vitamin-c-treatment-IV-therapy-treatment-kampala-juba') === 0 || $path === '/vitamin-c-treatment-iv-therapy-treatment-kampala-juba') {
+    header("Location: /vitamin-c-iv-therapy", true, 301);
+    exit();
+}
+if (strcasecmp($path, '/glutathione-IV-therapy-kampala-juba') === 0 || $path === '/glutathione-iv-therapy-kampala-juba') {
+    header("Location: /glutathione-iv-therapy", true, 301);
+    exit();
+}
+if ($path === '/september-glow-deals-bukoto-landing-page') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/sidebar-temp') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/ad-footer') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/performance-and-recovery') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/index.html') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/sidebar') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/hydra-new') {
+    header("Location: /hydrafacial", true, 301);
+    exit();
+}
+if ($path === '/jinja') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/juba') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/testimonials') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/microblading') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/hydra-test') {
+    header("Location: /hydrafacial", true, 301);
+    exit();
+}
+if ($path === '/images/iv-book3.pdf') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/hydra-temp') {
+    header("Location: /hydrafacial", true, 301);
+    exit();
+}
+if ($path === '/co2') {
+    header("Location: /co2-laser-scar-removal", true, 301);
+    exit();
+}
+if (strcasecmp($path, '/combo-of-vit-B-12-and-B-complex') === 0 || $path === '/combo-of-vit-b-12-and-b-complex') {
+    header("Location: /vitamin-b12-iv-therapy", true, 301);
+    exit();
+}
+if ($path === '/is-glutathione-the-magic-bullet') {
+    header("Location: /glutathione-iv-therapy", true, 301);
+    exit();
+}
+if ($path === '/service/slender-wonder') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/heres-why-your-weight-loss-regimen-isnt-paying-off') {
+    header("Location: /", true, 301);
+    exit();
+}
+if ($path === '/tag/skin-cleansing/feed') {
+    header("Location: /blog", true, 301);
+    exit();
+}
+if ($path === '/-kampala-juba') {
+    header("Location: /", true, 301);
+    exit();
+}
+if (strpos($path, '/wp-json/elementskit/v1') === 0) {
+    header("Location: /", true, 301);
     exit();
 }
 if ($path === '/joint-and-tissue-rejuvenation-kampala-juba') {
@@ -446,10 +554,7 @@ $routeMap = [
     '/iv-therapy' => 'iv-therapy.php',
     '/inner-beauty-iv-therapy-kampala-juba' => 'inner-beauty-iv-therapy.php',
     '/inner-beauty-iv-therapy' => 'inner-beauty-iv-therapy.php',
-    '/glutathione-IV-therapy-kampala-juba' => 'glutathione-iv-therapy.php',
-    '/vitamin-c-treatment-IV-therapy-treatment-kampala-juba' => 'vitamin-c-iv-therapy.php',
     '/vitamin-b12-combo-IV-therapy-treatment-kampala-juba' => 'vitamin-b12-iv-therapy.php',
-    '/amino-acids-IV-therapy-treatment-kampala-juba' => 'amino-acids-iv-therapy.php',
     '/myers-magic-iv-therapy-kampala-juba' => 'myers-magic-iv-therapy.php',
     '/myers-magic-iv-therapy' => 'myers-magic-iv-therapy.php',
     '/myers-plus-plenish' => 'myers-plus-plenish.php',
@@ -460,7 +565,6 @@ $routeMap = [
     '/post-party-iv-therapy' => 'post-party-iv-therapy.php',
     '/anti-migraine-iv-therapy-kampala-juba' => 'anti-migraine-iv-therapy.php',
     '/anti-migraine-iv-therapy' => 'anti-migraine-iv-therapy.php',
-    '/total-sport-iv-therapy-kampala-juba' => 'total-sport-iv-therapy.php',
     '/total-sport-iv-therapy' => 'total-sport-iv-therapy.php',
     '/immunity-iv-therapy-kampala-juba' => 'immunity-iv-therapy.php',
     '/immunity-iv-therapy' => 'immunity-iv-therapy.php',

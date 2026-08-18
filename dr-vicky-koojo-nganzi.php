@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Dr. Vicky Koojo Nganzi | Refine Skin & Body Clinic";
+$metaDescription = "Meet Dr. Vicky Koojo Nganzi at Refine Skin & Body Clinic, a skilled dermatologist specializing in skin rejuvenation and evidence-based aesthetic care.";
+
 $pageCategory = "Dermatologist";
 $pageTitle = "Dr. Vicky Koojo <i class='text-brand font-light'>Nganzi</i>";
 $pageDescription = "Dr. Vicky Koojo Nganzi is a skilled medical and cosmetic dermatologist specializing in skin conditions, rejuvenation, and evidence-based aesthetic treatments with a patient-centered approach.";

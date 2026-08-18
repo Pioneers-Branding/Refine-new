@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Patient Reviews | Refine Skin & Body Clinic";
+$metaDescription = "Read honest reviews and verified feedback from patients at Refine Skin & Body Clinic in Kampala and Juba.";
+
 $pageCategory = "Client Voices";
 $pageTitle = "Patient <i class='text-brand font-light'>Reviews.</i>";
 $pageDescription = "Read honest feedback and reviews from our verified clients about their journeys at Refine Skin & Body Clinic.";

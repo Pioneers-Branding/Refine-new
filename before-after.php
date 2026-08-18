@@ -1,4 +1,7 @@
 <?php
+$metaTitle = "Before & After Results | Refine Skin & Body Clinic";
+$metaDescription = "View authentic, unretouched before and after transformation photos for dermatology, aesthetic, and body contouring treatments at Refine Skin & Body Clinic.";
+
 $pageCategory = "The Results";
 $pageTitle = "Before & <i class='text-brand font-light'>After.</i>";
 $pageDescription = "Browse authentic, unretouched transformations and clinical outcomes across our range of treatments.";
