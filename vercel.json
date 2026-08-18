@@ -5,17 +5,52 @@
       "excludeFiles": "{assets/**,.git/**}"
     }
   },
+  "redirects": [
+    { "source": "/m-shot-treatment-kampala-juba", "destination": "/m-shot-in-juba", "permanent": true },
+    { "source": "/rf-microneedling-kampala-juba", "destination": "/rf-microneedling-in-juba", "permanent": true },
+    { "source": "/total-sport-iv-therapy-kampala-juba", "destination": "/total-sport-iv-therapy-in-juba", "permanent": true },
+    { "source": "/pcdc-fat-dissolving-old", "destination": "/pcdc-fat-dissolving", "permanent": true },
+    { "source": "/dr-chirag-kotecha-dermatologist-in-uganda", "destination": "/dr-chirag-kotecha", "permanent": true },
+    { "source": "/amino-acids-IV-therapy-treatment-kampala-juba", "destination": "/amino-acids-iv-therapy", "permanent": true },
+    { "source": "/amino-acids-iv-therapy-treatment-kampala-juba", "destination": "/amino-acids-iv-therapy", "permanent": true },
+    { "source": "/vitamin-c-treatment-IV-therapy-treatment-kampala-juba", "destination": "/vitamin-c-iv-therapy", "permanent": true },
+    { "source": "/vitamin-c-treatment-iv-therapy-treatment-kampala-juba", "destination": "/vitamin-c-iv-therapy", "permanent": true },
+    { "source": "/prp-hair-restoration-kampala-juba", "destination": "/prp-hair-restoration", "permanent": true },
+    { "source": "/glutathione-IV-therapy-kampala-juba", "destination": "/glutathione-iv-therapy", "permanent": true },
+    { "source": "/glutathione-iv-therapy-kampala-juba", "destination": "/glutathione-iv-therapy", "permanent": true },
+    { "source": "/vitiligo-treatment-kampala-juba", "destination": "/vitiligo-in-juba", "permanent": true },
+    { "source": "/september-glow-deals-bukoto-landing-page", "destination": "/", "permanent": true },
+    { "source": "/sidebar-temp", "destination": "/", "permanent": true },
+    { "source": "/ad-footer", "destination": "/", "permanent": true },
+    { "source": "/performance-and-recovery", "destination": "/", "permanent": true },
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/sidebar", "destination": "/", "permanent": true },
+    { "source": "/hydra-new", "destination": "/hydrafacial", "permanent": true },
+    { "source": "/jinja", "destination": "/", "permanent": true },
+    { "source": "/juba", "destination": "/", "permanent": true },
+    { "source": "/testimonials", "destination": "/", "permanent": true },
+    { "source": "/microblading", "destination": "/", "permanent": true },
+    { "source": "/hydra-test", "destination": "/hydrafacial", "permanent": true },
+    { "source": "/images/iv-book3.pdf", "destination": "/", "permanent": true },
+    { "source": "/hydra-temp", "destination": "/hydrafacial", "permanent": true },
+    { "source": "/co2", "destination": "/co2-laser-scar-removal", "permanent": true },
+    { "source": "/combo-of-vit-B-12-and-B-complex", "destination": "/vitamin-b12-iv-therapy", "permanent": true },
+    { "source": "/combo-of-vit-b-12-and-b-complex", "destination": "/vitamin-b12-iv-therapy", "permanent": true },
+    { "source": "/is-glutathione-the-magic-bullet", "destination": "/glutathione-iv-therapy", "permanent": true },
+    { "source": "/is-glutathione-the-magic-bullet/:path*", "destination": "/glutathione-iv-therapy", "permanent": true },
+    { "source": "/service/slender-wonder", "destination": "/", "permanent": true },
+    { "source": "/service/slender-wonder/:path*", "destination": "/", "permanent": true },
+    { "source": "/heres-why-your-weight-loss-regimen-isnt-paying-off", "destination": "/", "permanent": true },
+    { "source": "/heres-why-your-weight-loss-regimen-isnt-paying-off/:path*", "destination": "/", "permanent": true },
+    { "source": "/tag/skin-cleansing/feed", "destination": "/blog", "permanent": true },
+    { "source": "/tag/skin-cleansing/feed/:path*", "destination": "/blog", "permanent": true },
+    { "source": "/-kampala-juba", "destination": "/", "permanent": true },
+    { "source": "/wp-json/elementskit/v1", "destination": "/", "permanent": true },
+    { "source": "/wp-json/elementskit/v1/:path*", "destination": "/", "permanent": true },
+    { "source": "/laser-hair-removal-in-uganda-kampala-juba", "destination": "/laser-hair-removal", "permanent": true },
+    { "source": "/weight-loss-kampala-juba", "destination": "/semaglutide-ozempic-weight-loss", "permanent": true }
+  ],
   "routes": [
-    {
-      "src": "/laser-hair-removal-in-uganda-kampala-juba",
-      "status": 301,
-      "headers": { "Location": "/laser-hair-removal" }
-    },
-    {
-      "src": "/weight-loss-kampala-juba",
-      "status": 301,
-      "headers": { "Location": "/semaglutide-ozempic-weight-loss" }
-    },
     {
       "src": "/assets/(.*)",
       "dest": "/assets/$1"
