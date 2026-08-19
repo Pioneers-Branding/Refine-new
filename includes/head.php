@@ -2,26 +2,22 @@
 if (!headers_sent()) {
     $reqUri = parse_url($_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH);
     if ($reqUri !== null) {
-        $reqClean = strtolower(rtrim($reqUri, '/'));
+        $reqClean = strtolower(rtrim(urldecode($reqUri), '/'));
         if ($reqClean === '') {
             $reqClean = '/';
         }
 
         $all301Redirects = [
             '/-kampala-juba' => '/',
-            '/6D-green-laser' => '/6d-green-laser',
-            '/6d-green-laser' => '/6d-green-laser',
             '/6d-green-laser-treatment-kampala-juba' => '/6d-green-laser-in-juba',
-            '/Hyperpigmentation-Melasma-treatment-kampala-juba' => '/hyperpigmentation-melasma-in-juba',
             '/about-alison-gallagher-psychotherapist-in-uganda' => '/alison-gallagher',
-            '/about-dr-Ahmed Ashraf Reyad-dermatologist&aesthetic-medicine-specialist-from-egypt' => '/dr-ahmed-ashraf',
-            '/about-dr-Ahmed Ashraf Reyad-dermatologist&aesthetic-medicine-specialist-from-egypt.php' => '/dr-ahmed-ashraf',
             '/about-dr-ahmed ashraf reyad-dermatologist&aesthetic-medicine-specialist-from-egypt' => '/dr-ahmed-ashraf',
             '/about-dr-ahmed ashraf reyad-dermatologist&aesthetic-medicine-specialist-from-egypt.php' => '/dr-ahmed-ashraf',
+            '/about-dr-ahmed-ashraf-reyad-dermatologist&aesthetic-medicine-specialist-from-egypt' => '/dr-ahmed-ashraf',
+            '/about-dr-ahmed-ashraf-reyad-dermatologist&aesthetic-medicine-specialist-from-egypt.php' => '/dr-ahmed-ashraf',
             '/about-dr-henry-owiny-aesthetic-physician-in-uganda' => '/dr-henry-owiny',
             '/about-dr-vicky-koojo-nganzi-dermatologist-in-uganda' => '/dr-vicky-koojo-nganzi',
             '/about-dr-william-lubega-plastic-surgeon-in-uganda' => '/dr-william-lubega',
-            '/about-ms-wendy-Emyedu-ayayo-nutritionist-in-uganda' => '/wendy-emyedu-ayayo',
             '/about-ms-wendy-emyedu-ayayo-nutritionist-in-uganda' => '/wendy-emyedu-ayayo',
             '/acne-treatment-kampala-juba' => '/acne-in-juba',
             '/ad-footer' => '/',
@@ -29,7 +25,6 @@ if (!headers_sent()) {
             '/allurion-weight-loss-treatment-kampala-juba' => '/allurion-weight-loss-in-juba',
             '/alopecia-areata-treatment-kampala-juba' => '/alopecia-areata-in-juba',
             '/amino-acids' => '/amino-acids-iv-therapy',
-            '/amino-acids-IV-therapy-treatment-kampala-juba' => '/amino-acids-iv-therapy',
             '/amino-acids-iv-therapy-treatment-kampala-juba' => '/amino-acids-iv-therapy',
             '/anti-aging-kampala-juba' => '/anti-aging',
             '/anti-migraine-iv-therapy-kampala-juba' => '/anti-migraine-iv-therapy-in-juba',
@@ -44,12 +39,12 @@ if (!headers_sent()) {
             '/chemical-peel-treatment-kampala-juba' => '/chemical-peel-in-juba',
             '/co2' => '/co2-laser-scar-removal',
             '/co2-laser-scar-removal-kampala-juba' => '/co2-laser-scar-removal-in-juba',
-            '/combo-of-vit-B-12-and-B-complex' => '/vitamin-b12-iv-therapy',
             '/combo-of-vit-b-12-and-b-complex' => '/vitamin-b12-iv-therapy',
             '/cookie-policy-in-bukoto' => '/cookie-policy',
             '/cookie-policy-in-juba' => '/cookie-policy',
             '/cookie-policy-in-kabalagala' => '/cookie-policy',
             '/cool-lifting- skin-rejuvenation-kampala-juba' => '/cool-lifting-in-juba',
+            '/cool-lifting--skin-rejuvenation-kampala-juba' => '/cool-lifting-in-juba',
             '/cosmetic-dermatology-kampala-juba' => '/',
             '/cryolipolysis-fat-freezing-treatment-kampala-juba' => '/cryolipolysis-in-juba',
             '/dermal-filler' => '/dermal-fillers',
@@ -64,7 +59,6 @@ if (!headers_sent()) {
             '/gift-vouchers-in-juba' => '/gift-vouchers',
             '/gift-vouchers-in-kabalagala' => '/gift-vouchers',
             '/glutathione' => '/glutathione-iv-therapy',
-            '/glutathione-IV-therapy-kampala-juba' => '/glutathione-iv-therapy',
             '/glutathione-iv-therapy-kampala-juba' => '/glutathione-iv-therapy',
             '/hair-loss-treatment-kampala-juba' => '/hair-loss-in-juba',
             '/hair-transplant-kampala-juba' => '/hair-transplant-in-juba',
@@ -150,10 +144,8 @@ if (!headers_sent()) {
             '/tummy-tuck-abdominoplastv' => '/tummy-tuck',
             '/tummy-tuck-abdominoplasty-kampala-juba' => '/tummy-tuck-in-juba',
             '/tummy-tuck-abdominoplasty-old' => '/tummy-tuck',
-            '/vitamin-b12-combo-IV-therapy-treatment-kampala-juba' => '/vitamin-b12-iv-therapy',
             '/vitamin-b12-combo-iv-therapy-treatment-kampala-juba' => '/vitamin-b12-iv-therapy',
             '/vitamin-c' => '/vitamin-c-iv-therapy',
-            '/vitamin-c-treatment-IV-therapy-treatment-kampala-juba' => '/vitamin-c-iv-therapy',
             '/vitamin-c-treatment-iv-therapy-treatment-kampala-juba' => '/vitamin-c-iv-therapy',
             '/vitiligo-treatment-kampala-juba' => '/vitiligo-in-juba',
             '/wonder-axon-treatment-kampala-juba' => '/wonder-axon-treatment-in-juba',
@@ -166,7 +158,10 @@ if (!headers_sent()) {
             exit();
         }
 
-        if (strpos($reqClean, '/wp-json/elementskit/v1') === 0 || strpos($reqClean, '/service/slender-wonder') === 0 || strpos($reqClean, '/heres-why-your-weight-loss-regimen-isnt-paying-off') === 0) {
+        // Prefix / wildcard checks
+        if (strpos($reqClean, '/wp-json/elementskit/v1') === 0 || 
+            strpos($reqClean, '/service/slender-wonder') === 0 || 
+            strpos($reqClean, '/heres-why-your-weight-loss-regimen-isnt-paying-off') === 0) {
             header("HTTP/1.1 301 Moved Permanently");
             header("Location: /", true, 301);
             exit();
