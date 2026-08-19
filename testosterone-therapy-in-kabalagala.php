@@ -2,6 +2,8 @@
 $pageCategory = "Wellness & Hormones";
 $pageTitle = "Testosterone <i class='text-brand font-light'>Replacement Therapy.</i>";
 $pageDescription = "Restore healthy testosterone levels with doctor-supervised TRT — for improved energy, mood, muscle mass, libido, and overall vitality.";
+$metaTitle = "Testosterone Replacement Therapy (TRT) in Kabalagala | Refine Clinic";
+$metaDescription = "Restore energy, vitality, and health with doctor-supervised Testosterone Replacement Therapy (TRT) in Kabalagala at Refine Skin & Body Clinic.";
 
 $canonicalUrl = "https://refineskinandbody.com/testosterone-therapy-in-kabalagala";
 ?>

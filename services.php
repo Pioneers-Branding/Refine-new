@@ -2,6 +2,9 @@
 $pageCategory = "Our Treatments";
 $pageTitle = "Masterful <i class='text-brand font-light'>Care.</i>";
 $pageDescription = "Explore our comprehensive suite of advanced aesthetic and medical dermatology services. Each treatment is tailored to your unique canvas, delivering uncompromised quality and radiant results.";
+$metaTitle = "Our Services & Treatments | Refine Skin & Body Clinic";
+$metaDescription = "Explore our full range of aesthetic and medical dermatology services in Kampala & Juba, including laser care, body contouring, skin rejuvenation, and IV therapy.";
+$canonicalUrl = "https://refineskinandbody.com/services";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

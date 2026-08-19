@@ -2,6 +2,8 @@
 $pageCategory = "Intimate Wellness";
 $pageTitle = "Erectile Dysfunction <i class='text-brand font-light'>Treatment.</i>";
 $pageDescription = "Confidential, evidence-based ED treatments — from medication and hormone optimization to PRP and shockwave therapy.";
+$metaTitle = "Confidential Erectile Dysfunction (ED) Treatment | Refine Clinic";
+$metaDescription = "Get confidential, evidence-based Erectile Dysfunction (ED) treatments including hormone optimization, PRP, and therapy at Refine Skin & Body Clinic.";
 
 $canonicalUrl = "https://refineskinandbody.com/ed-treatment";
 ?>

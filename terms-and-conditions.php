@@ -2,6 +2,9 @@
 $pageCategory = "Legal";
 $pageTitle = "Terms & <i class='text-brand font-light'>Conditions.</i>";
 $pageDescription = "Please read these terms carefully before booking a treatment or using our website.";
+$metaTitle = "Terms & Conditions | Refine Skin & Body Clinic";
+$metaDescription = "Read the terms and conditions governing appointment bookings, cancellation policies, privacy terms, and website use at Refine Skin & Body Clinic.";
+$canonicalUrl = "https://refineskinandbody.com/terms-and-conditions";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

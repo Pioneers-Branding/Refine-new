@@ -2,6 +2,8 @@
 $pageCategory = "Specialty";
 $pageTitle = "Body <i class='text-brand font-light'>Contouring.</i>";
 $pageDescription = "Sculpt, tone, and refine your physique with our non-surgical fat reduction and muscle-building technologies.";
+$metaTitle = "Body Contouring Treatment in Juba | Refine Clinic";
+$metaDescription = "Looking for body contouring in Juba, South Sudan? Refine Skin & Body Clinic offers advanced non-surgical fat reduction and body sculpting treatments.";
 $canonicalUrl = "https://refineskinandbody.com/body-contouring-in-juba";
 ?>
 <?php include 'includes/head.php'; ?>

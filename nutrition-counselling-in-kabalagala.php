@@ -2,6 +2,8 @@
 $pageCategory = "Wellness";
 $pageTitle = "Nutrition & Diet <i class='text-brand font-light'>Counselling.</i>";
 $pageDescription = "Personalized nutrition plans and one-on-one diet counselling to support your aesthetic goals, weight loss journey, and overall wellness.";
+$metaTitle = "Nutrition & Diet Counselling in Kabalagala | Refine Clinic";
+$metaDescription = "Get personalized nutrition plans and diet counselling in Kabalagala at Refine Skin & Body Clinic to support weight loss, skin health, and wellness.";
 
 $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-kabalagala";
 ?>

@@ -2,6 +2,9 @@
 $pageCategory = "Specialty";
 $pageTitle = "Body <i class='text-brand font-light'>Contouring.</i>";
 $pageDescription = "Sculpt, tone, and refine your physique with our non-surgical fat reduction and muscle-building technologies.";
+$metaTitle = "Non-Surgical Body Contouring & Sculpting | Refine Clinic";
+$metaDescription = "Sculpt, tone, and refine your body with non-surgical fat reduction, muscle building, and body sculpting treatments at Refine Skin & Body Clinic.";
+$canonicalUrl = "https://refineskinandbody.com/body-contouring";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

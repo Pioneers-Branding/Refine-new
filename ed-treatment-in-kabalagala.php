@@ -2,6 +2,8 @@
 $pageCategory = "Intimate Wellness";
 $pageTitle = "Erectile Dysfunction <i class='text-brand font-light'>Treatment.</i>";
 $pageDescription = "Confidential, evidence-based ED treatments — from medication and hormone optimization to PRP and shockwave therapy.";
+$metaTitle = "Erectile Dysfunction (ED) Treatment in Kabalagala | Refine Clinic";
+$metaDescription = "Seeking confidential ED treatment in Kabalagala? Refine Skin & Body Clinic offers evidence-based erectile dysfunction therapies, PRP, and hormone optimization.";
 
 $canonicalUrl = "https://refineskinandbody.com/ed-treatment-in-kabalagala";
 ?>

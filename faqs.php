@@ -2,6 +2,9 @@
 $pageCategory = "Knowledge Base";
 $pageTitle = "Frequently Asked <i class='text-brand font-light'>Questions.</i>";
 $pageDescription = "Find answers to the most common questions about our treatments, booking processes, and clinic policies.";
+$metaTitle = "Frequently Asked Questions (FAQs) | Refine Skin & Body Clinic";
+$metaDescription = "Find answers to common questions about skin care treatments, medical dermatology, appointment bookings, and clinic policies at Refine Skin & Body Clinic.";
+$canonicalUrl = "https://refineskinandbody.com/faqs";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

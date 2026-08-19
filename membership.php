@@ -2,6 +2,9 @@
 $pageCategory = "Exclusive Perks";
 $pageTitle = "Refine <i class='text-brand font-light'>Membership.</i>";
 $pageDescription = "Elevate your aesthetic journey. Join our exclusive loyalty program to unlock special rates, priority bookings, and complimentary treatments.";
+$metaTitle = "Refine Clinic Membership & Exclusive VIP Perks | Refine Skin & Body Clinic";
+$metaDescription = "Join our exclusive loyalty program to unlock special treatment rates, priority booking, complimentary treatments, and VIP privileges at Refine Clinic.";
+$canonicalUrl = "https://refineskinandbody.com/membership";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

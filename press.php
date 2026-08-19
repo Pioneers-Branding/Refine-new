@@ -2,6 +2,9 @@
 $pageCategory = "Media & PR";
 $pageTitle = "Press & <i class='text-brand font-light'>Media.</i>";
 $pageDescription = "Refine Skin & Body Clinic in the news. Explore our features, awards, and downloadable press kits.";
+$metaTitle = "Press & Media Coverage | Refine Skin & Body Clinic";
+$metaDescription = "Explore media coverage, news features, awards, press releases, and downloadable press resources for Refine Skin & Body Clinic.";
+$canonicalUrl = "https://refineskinandbody.com/press";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
