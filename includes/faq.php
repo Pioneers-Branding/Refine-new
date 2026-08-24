@@ -130,25 +130,6 @@
 
         </div>
 
-        <!-- Bottom Assistance Callout -->
-        <div class="mt-14 max-w-4xl mx-auto p-8 rounded-3xl bg-brand-deeper text-white shadow-xl flex flex-col md:flex-row items-center justify-between gap-6 relative overflow-hidden">
-            <div class="absolute -right-10 -bottom-10 w-48 h-48 bg-accent/10 rounded-full blur-2xl pointer-events-none"></div>
-            <div class="relative z-10 max-w-lg text-center md:text-left">
-                <h3 class="font-display text-xl lg:text-2xl text-white font-semibold">Still Have Specific Questions?</h3>
-                <p class="text-white/70 text-xs lg:text-sm font-light mt-1">Our clinical concierges are available to assist you with tailored consultation details.</p>
-            </div>
-            <div class="flex items-center gap-3 relative z-10 flex-shrink-0">
-                <a href="/faqs" class="px-5 py-3 rounded-full border border-white/20 hover:bg-white/10 text-white text-xs font-semibold uppercase tracking-wider transition-all">
-                    View All FAQs
-                </a>
-                <a href="https://api.whatsapp.com/send?phone=256749574546" target="_blank" rel="noopener noreferrer" 
-                   class="px-5 py-3 rounded-full bg-[#25D366] hover:bg-[#20ba59] text-white text-xs font-semibold uppercase tracking-wider transition-all shadow-md flex items-center gap-2">
-                    <i class="fab fa-whatsapp text-sm"></i>
-                    <span>Chat on WhatsApp</span>
-                </a>
-            </div>
-        </div>
-
     </div>
 </section>
 
