@@ -21,6 +21,7 @@ $canonicalUrl = "https://refineskinandbody.com/";
     <?php include 'includes/empathy.php'; ?>
     <?php include 'includes/home-extras.php'; ?>
     <?php include 'includes/services.php'; ?>
+    <?php include 'includes/video-testimonials.php'; ?>
     <?php include 'includes/testimonials.php'; ?>
 </main>
 
