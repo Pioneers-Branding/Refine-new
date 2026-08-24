@@ -19,19 +19,18 @@
                 Frequently Asked <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand via-brand-light to-accent font-light">Questions.</i>
             </h2>
             <p class="text-brand-muted font-body text-base lg:text-lg font-light leading-relaxed mt-4">
-                Find clear answers to common questions about our dermatological treatments, medical weight loss programs, consultations, and clinic procedures.
+                Find clear answers to general questions about our clinic, consultations, locations, booking process, and appointment policies.
             </p>
         </div>
 
-        <!-- FAQ Accordion Items -->
+        <!-- FAQ Accordion Items (No Numbers, General Questions Only) -->
         <div class="max-w-4xl mx-auto space-y-4">
 
             <!-- FAQ Item 1 -->
             <div class="faq-home-item bg-surface-warm/60 border border-brand/10 rounded-2xl overflow-hidden transition-all duration-300 hover:border-brand/30 shadow-sm cursor-pointer group">
                 <div class="p-6 flex justify-between items-center bg-white/70 group-hover:bg-white transition-colors">
-                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium flex items-center gap-3">
-                        <span class="w-8 h-8 rounded-full bg-brand/10 text-brand flex items-center justify-center text-xs font-semibold flex-shrink-0">01</span>
-                        <span>Are your skincare and laser treatments safe for dark skin tones?</span>
+                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium pr-4">
+                        How do I book a consultation with Dr. Chirag Kotecha?
                     </h3>
                     <div class="w-9 h-9 rounded-full bg-brand/5 group-hover:bg-brand group-hover:text-white text-brand flex items-center justify-center transition-all flex-shrink-0">
                         <i class="fas fa-plus text-xs transition-transform duration-300 group-[.active]:rotate-45"></i>
@@ -39,7 +38,7 @@
                 </div>
                 <div class="faq-home-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">
                     <p class="text-brand-muted font-body text-sm lg:text-base leading-relaxed mt-2 border-t border-brand/10 pt-4 font-light">
-                        Yes, absolutely. At Refine Skin & Body Clinic, we specialize in medical aesthetics specifically customized for African skin profiles. Our advanced technologies—including Pico Laser, Nd:YAG Laser, and customized chemical peels—are calibrated to safely treat hyperpigmentation, acne scars, and hair removal without causing post-inflammatory hyperpigmentation (PIH).
+                        You can book an appointment directly through our website booking form, by calling our head office, or by sending us a message on WhatsApp. We offer dedicated consultation sessions across our branches in Kampala and Juba.
                     </p>
                 </div>
             </div>
@@ -47,9 +46,8 @@
             <!-- FAQ Item 2 -->
             <div class="faq-home-item bg-surface-warm/60 border border-brand/10 rounded-2xl overflow-hidden transition-all duration-300 hover:border-brand/30 shadow-sm cursor-pointer group">
                 <div class="p-6 flex justify-between items-center bg-white/70 group-hover:bg-white transition-colors">
-                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium flex items-center gap-3">
-                        <span class="w-8 h-8 rounded-full bg-brand/10 text-brand flex items-center justify-center text-xs font-semibold flex-shrink-0">02</span>
-                        <span>How does the Semaglutide (Ozempic) Weight Loss Program work?</span>
+                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium pr-4">
+                        Where are your clinic branches located and what are your operating hours?
                     </h3>
                     <div class="w-9 h-9 rounded-full bg-brand/5 group-hover:bg-brand group-hover:text-white text-brand flex items-center justify-center transition-all flex-shrink-0">
                         <i class="fas fa-plus text-xs transition-transform duration-300 group-[.active]:rotate-45"></i>
@@ -57,7 +55,7 @@
                 </div>
                 <div class="faq-home-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">
                     <p class="text-brand-muted font-body text-sm lg:text-base leading-relaxed mt-2 border-t border-brand/10 pt-4 font-light">
-                        Our physician-supervised weight loss program utilizes FDA-approved GLP-1 receptor agonists (Semaglutide) to regulate appetite, enhance metabolic efficiency, and control cravings. Every patient undergoes a baseline medical consultation and lab assessment with Dr. Chirag Kotecha, followed by weekly check-ins to ensure safe, sustainable weight loss.
+                        We operate 3 prime clinic locations in <strong>Kampala, Uganda</strong> (Forest Mall - Lugogo Bypass, Palm Village Mall - Kabalagala, and Bukoto - UMC Victoria Annex) and 1 center in <strong>Juba, South Sudan</strong> (Sadeco Building, Airport Road). All branches are open Monday through Saturday from 8:30 AM to 6:30 PM.
                     </p>
                 </div>
             </div>
@@ -65,9 +63,8 @@
             <!-- FAQ Item 3 -->
             <div class="faq-home-item bg-surface-warm/60 border border-brand/10 rounded-2xl overflow-hidden transition-all duration-300 hover:border-brand/30 shadow-sm cursor-pointer group">
                 <div class="p-6 flex justify-between items-center bg-white/70 group-hover:bg-white transition-colors">
-                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium flex items-center gap-3">
-                        <span class="w-8 h-8 rounded-full bg-brand/10 text-brand flex items-center justify-center text-xs font-semibold flex-shrink-0">03</span>
-                        <span>Do I need a prior appointment for a consultation with Dr. Chirag Kotecha?</span>
+                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium pr-4">
+                        What should I expect during my first consultation?
                     </h3>
                     <div class="w-9 h-9 rounded-full bg-brand/5 group-hover:bg-brand group-hover:text-white text-brand flex items-center justify-center transition-all flex-shrink-0">
                         <i class="fas fa-plus text-xs transition-transform duration-300 group-[.active]:rotate-45"></i>
@@ -75,7 +72,7 @@
                 </div>
                 <div class="faq-home-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">
                     <p class="text-brand-muted font-body text-sm lg:text-base leading-relaxed mt-2 border-t border-brand/10 pt-4 font-light">
-                        We strongly recommend booking an appointment in advance to minimize waiting time and reserve dedicated consultation time with Dr. Chirag Kotecha or our specialist dermatologists. You can easily schedule your visit online or via WhatsApp for our clinics in Kampala (Forest Mall, Kabalagala, Bukoto) and Juba, South Sudan.
+                        During your initial visit, our specialist dermatologists perform a comprehensive skin or wellness evaluation, discuss your aesthetic goals, review your medical history, and outline a customized treatment plan tailored to your needs.
                     </p>
                 </div>
             </div>
@@ -83,9 +80,8 @@
             <!-- FAQ Item 4 -->
             <div class="faq-home-item bg-surface-warm/60 border border-brand/10 rounded-2xl overflow-hidden transition-all duration-300 hover:border-brand/30 shadow-sm cursor-pointer group">
                 <div class="p-6 flex justify-between items-center bg-white/70 group-hover:bg-white transition-colors">
-                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium flex items-center gap-3">
-                        <span class="w-8 h-8 rounded-full bg-brand/10 text-brand flex items-center justify-center text-xs font-semibold flex-shrink-0">04</span>
-                        <span>What is the difference between PRP Microneedling and Chemical Peels for Acne Scars?</span>
+                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium pr-4">
+                        Are your treatment protocols safe for all skin types and tones?
                     </h3>
                     <div class="w-9 h-9 rounded-full bg-brand/5 group-hover:bg-brand group-hover:text-white text-brand flex items-center justify-center transition-all flex-shrink-0">
                         <i class="fas fa-plus text-xs transition-transform duration-300 group-[.active]:rotate-45"></i>
@@ -93,7 +89,7 @@
                 </div>
                 <div class="faq-home-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">
                     <p class="text-brand-muted font-body text-sm lg:text-base leading-relaxed mt-2 border-t border-brand/10 pt-4 font-light">
-                        Chemical peels exfoliate damaged superficial skin layers to lighten post-acne dark spots and refine skin texture. PRP Microneedling, on the other hand, uses your body’s own growth factors to rebuild collagen deep within pitted or indented acne scars. Often, Dr. Chirag recommends a combination protocol for complete scar restoration.
+                        Yes. All our medical protocols and clinical equipment are specifically selected and calibrated to ensure maximum safety, comfort, and clinical effectiveness for all African skin profiles and darker skin tones.
                     </p>
                 </div>
             </div>
@@ -101,9 +97,8 @@
             <!-- FAQ Item 5 -->
             <div class="faq-home-item bg-surface-warm/60 border border-brand/10 rounded-2xl overflow-hidden transition-all duration-300 hover:border-brand/30 shadow-sm cursor-pointer group">
                 <div class="p-6 flex justify-between items-center bg-white/70 group-hover:bg-white transition-colors">
-                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium flex items-center gap-3">
-                        <span class="w-8 h-8 rounded-full bg-brand/10 text-brand flex items-center justify-center text-xs font-semibold flex-shrink-0">05</span>
-                        <span>Where are your clinic branches located and what are your operating hours?</span>
+                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium pr-4">
+                        Do I need a doctor's referral to visit your clinic?
                     </h3>
                     <div class="w-9 h-9 rounded-full bg-brand/5 group-hover:bg-brand group-hover:text-white text-brand flex items-center justify-center transition-all flex-shrink-0">
                         <i class="fas fa-plus text-xs transition-transform duration-300 group-[.active]:rotate-45"></i>
@@ -111,7 +106,7 @@
                 </div>
                 <div class="faq-home-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">
                     <p class="text-brand-muted font-body text-sm lg:text-base leading-relaxed mt-2 border-t border-brand/10 pt-4 font-light">
-                        We operate 3 prime branches in <strong>Kampala, Uganda</strong> (Forest Mall - Lugogo Bypass, Palm Village Mall - Kabalagala, and Bukoto - UMC Victoria Annex) and 1 center in <strong>Juba, South Sudan</strong> (Sadeco Building, Airport Road). We are open Monday through Saturday from 8:30 AM to 6:30 PM.
+                        No referral is necessary. You can schedule a direct consultation with Dr. Chirag Kotecha or our medical dermatology team for any skin concern, body goal, or wellness inquiry.
                     </p>
                 </div>
             </div>
@@ -119,9 +114,8 @@
             <!-- FAQ Item 6 -->
             <div class="faq-home-item bg-surface-warm/60 border border-brand/10 rounded-2xl overflow-hidden transition-all duration-300 hover:border-brand/30 shadow-sm cursor-pointer group">
                 <div class="p-6 flex justify-between items-center bg-white/70 group-hover:bg-white transition-colors">
-                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium flex items-center gap-3">
-                        <span class="w-8 h-8 rounded-full bg-brand/10 text-brand flex items-center justify-center text-xs font-semibold flex-shrink-0">06</span>
-                        <span>How soon can I expect results from Signature HydraFacial MD treatments?</span>
+                    <h3 class="font-display text-lg lg:text-xl text-brand-deeper font-medium pr-4">
+                        What payment methods do you accept at your clinic locations?
                     </h3>
                     <div class="w-9 h-9 rounded-full bg-brand/5 group-hover:bg-brand group-hover:text-white text-brand flex items-center justify-center transition-all flex-shrink-0">
                         <i class="fas fa-plus text-xs transition-transform duration-300 group-[.active]:rotate-45"></i>
@@ -129,7 +123,7 @@
                 </div>
                 <div class="faq-home-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">
                     <p class="text-brand-muted font-body text-sm lg:text-base leading-relaxed mt-2 border-t border-brand/10 pt-4 font-light">
-                        HydraFacial MD produces immediate visible skin refinement and radiant hydration immediately after a single 30-to-45 minute treatment with zero downtime. For long-term skin health and anti-aging benefits, monthly treatments are recommended.
+                        We accept Cash, Mobile Money (MTN & Airtel), Visa, Mastercard, and Direct Bank Transfers across all our clinic locations in Uganda and South Sudan.
                     </p>
                 </div>
             </div>
@@ -194,26 +188,26 @@ document.addEventListener('DOMContentLoaded', () => {
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Are your skincare and laser treatments safe for dark skin tones?",
+      "name": "How do I book a consultation with Dr. Chirag Kotecha?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, absolutely. At Refine Skin & Body Clinic, we specialize in medical aesthetics specifically customized for African skin profiles using calibrated lasers and tailored chemical peels."
+        "text": "You can book an appointment directly through our website booking form, by calling our head office, or by sending us a message on WhatsApp."
       }
     },
     {
       "@type": "Question",
-      "name": "How does the Semaglutide (Ozempic) Weight Loss Program work?",
+      "name": "Where are your clinic branches located and what are your operating hours?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our physician-supervised weight loss program utilizes FDA-approved GLP-1 receptor agonists (Semaglutide) under the clinical supervision of Dr. Chirag Kotecha."
+        "text": "We operate 3 prime clinic locations in Kampala, Uganda and 1 center in Juba, South Sudan, open Monday through Saturday from 8:30 AM to 6:30 PM."
       }
     },
     {
       "@type": "Question",
-      "name": "Do I need a prior appointment for a consultation with Dr. Chirag Kotecha?",
+      "name": "What should I expect during my first consultation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We strongly recommend booking an appointment in advance to reserve dedicated consultation time with Dr. Chirag Kotecha or our specialist dermatologists."
+        "text": "During your initial visit, our specialist dermatologists perform a comprehensive skin or wellness evaluation and outline a customized treatment plan."
       }
     }
   ]
