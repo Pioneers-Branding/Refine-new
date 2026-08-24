@@ -23,6 +23,7 @@ $canonicalUrl = "https://refineskinandbody.com/";
     <?php include 'includes/services.php'; ?>
     <?php include 'includes/video-testimonials.php'; ?>
     <?php include 'includes/testimonials.php'; ?>
+    <?php include 'includes/faq.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>
