@@ -72,7 +72,9 @@ $blogSlugs = [
     'how-much-is-breast-lifting-surgery-in-uganda',
     'can-botox-get-rid-of-double-chin',
     'is-a-hydrafacial-worth-it',
-    'what-does-chemical-peel-do'
+    'what-does-chemical-peel-do',
+    'how-often-should-you-get-a-chemical-peel',
+    'how-to-choose-the-right-treatment-for-acne-scars'
 ];
 
 foreach ($blogSlugs as $slug) {
