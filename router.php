@@ -57,7 +57,6 @@ $redirectMap = [
     '/jinja' => '/',
     '/juba' => '/',
     '/testimonials' => '/',
-    '/microblading' => '/',
     '/hydra-test' => '/hydrafacial',
     '/images/iv-book3.pdf' => '/',
     '/hydra-temp' => '/hydrafacial',
@@ -143,6 +142,7 @@ $redirectMap = [
     '/em-body-sculpt-kampala-juba' => '/em-body-sculpt',
     '/6d-green-laser-treatment-kampala-juba' => '/6d-green-laser',
     '/hydrafacial-treatment-kampala-juba' => '/hydrafacial',
+    '/microblading-kampala-juba' => '/microblading',
     '/joint-and-tissue-rejuvenation-kampala-juba' => '/joint-and-tissue-rejuvenation',
 ];
 
@@ -219,6 +219,7 @@ $routeMap = [
     '/skin-cancer' => 'skin-cancer.php',
     '/chemical-peel' => 'chemical-peel.php',
     '/hydrafacial' => 'hydrafacial.php',
+    '/microblading' => 'microblading.php',
     '/cool-lifting' => 'cool-lifting.php',
     '/laser-skin-rejuvenation' => 'laser-skin-rejuvenation.php',
     '/co2-laser-scar-removal' => 'co2-laser-scar-removal.php',
