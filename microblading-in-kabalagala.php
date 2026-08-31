@@ -1,11 +1,11 @@
 <?php
 $pageCategory = "Semi-Permanent Makeup";
-$pageTitle = "Microblading Eyebrow Treatment in Kampala";
-$pageDescription = "Achieve full, perfectly symmetrical, natural-looking eyebrows with semi-permanent Microblading at Refine Skin & Body Clinic Kampala.";
-$metaTitle = "Microblading Eyebrow Treatment in Kampala, Uganda | Refine Clinic";
-$metaDescription = "Seeking natural Microblading in Kampala, Uganda? Refine Skin & Body Clinic offers expert semi-permanent eyebrow microblading tailored to your facial architecture.";
-$canonicalUrl = "https://refineskinandbody.com/microblading";
-$metaKeywords = "Microblading in Kampala, Microblading treatment in Kampala, Microblading in Uganda, Eyebrow Microblading Kampala, Semi Permanent Eyebrows Uganda";
+$pageTitle = "Microblading Eyebrow Treatment in Kabalagala";
+$pageDescription = "Achieve full, perfectly symmetrical, natural-looking eyebrows with semi-permanent Microblading at Refine Skin & Body Clinic Kabalagala Kampala.";
+$metaTitle = "Microblading Eyebrow Treatment in Kabalagala, Kampala | Refine Clinic";
+$metaDescription = "Seeking natural Microblading in Kabalagala, Kampala? Refine Skin & Body Clinic offers expert semi-permanent eyebrow microblading tailored to your facial architecture.";
+$canonicalUrl = "https://refineskinandbody.com/microblading-in-kabalagala";
+$metaKeywords = "Microblading in Kabalagala, Microblading treatment in Kabalagala, Eyebrow Microblading Kabalagala, Semi Permanent Eyebrows Kabalagala Kampala";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
@@ -28,7 +28,7 @@ $metaKeywords = "Microblading in Kampala, Microblading treatment in Kampala, Mic
                     </div>
                     <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Microblading?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Looking for the best <strong>Microblading in Kampala</strong>? Microblading is an advanced semi-permanent cosmetic tattooing technique that enhances, shapes, and restores your eyebrows. Using a fine handheld micro-blade tool, organic medical-grade pigments are manually deposited into the superficial dermis of the skin, crafting ultra-fine, crisp hair-like strokes that blend seamlessly with your natural eyebrow hair. If you are seeking professional <strong>Microblading treatment in Kampala</strong>, Refine Skin &amp; Body Clinic delivers bespoke, hyper-realistic brows tailored to your unique facial symmetry. Discover the art of <strong>Microblading in Uganda</strong>—where clinical precision meets effortlessly gorgeous brows every single morning.
+                        Looking for the best <strong>Microblading in Kabalagala</strong>? Microblading is an advanced semi-permanent cosmetic tattooing technique that enhances, shapes, and restores your eyebrows. Using a fine handheld micro-blade tool, organic medical-grade pigments are manually deposited into the superficial dermis of the skin, crafting ultra-fine, crisp hair-like strokes that blend seamlessly with your natural eyebrow hair. If you are seeking professional <strong>Microblading treatment in Kabalagala</strong>, Refine Skin &amp; Body Clinic delivers bespoke, hyper-realistic brows tailored to your unique facial symmetry. Discover the art of <strong>Microblading in Uganda</strong>—where clinical precision meets effortlessly gorgeous brows every single morning.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[16/10] sm:aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5">
@@ -375,7 +375,7 @@ $metaKeywords = "Microblading in Kampala, Microblading treatment in Kampala, Mic
         <div class="max-w-[1200px] mx-auto px-6 text-center relative z-10">
             <span class="inline-block bg-accent/20 text-accent text-xs px-4 py-1.5 rounded-full font-semibold uppercase tracking-widest mb-6 border border-accent/20">Refine Eyebrow Artistry</span>
             <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold font-heading mb-6 text-white">Ready for Perfect, Effortless Eyebrows?</h2>
-            <p class="text-white/80 font-light text-base sm:text-lg max-w-2xl mx-auto mb-10 leading-relaxed">Book your personal Microblading consultation at Refine Skin &amp; Body Clinic Kampala today.</p>
+            <p class="text-white/80 font-light text-base sm:text-lg max-w-2xl mx-auto mb-10 leading-relaxed">Book your personal Microblading consultation at Refine Skin &amp; Body Clinic Kabalagala today.</p>
             <a href="/contact" class="inline-flex items-center gap-3 bg-accent hover:bg-accent-light text-brand-deeper font-bold px-10 py-4 rounded-full text-base transition-all shadow-xl hover:scale-105">
                 <span>Book Consultation Now</span>
                 <i class="fas fa-arrow-right"></i>

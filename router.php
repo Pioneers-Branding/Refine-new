@@ -293,6 +293,9 @@ $routeMap = [
     '/dermatologist-in-bukoto' => 'dermatologist-in-bukoto.php',
     '/skin-clinic-in-kabalagala' => 'skin-clinic-in-kabalagala.php',
     '/dermatologist-in-kabalagala' => 'dermatologist-in-kabalagala.php',
+    '/microblading-in-juba' => 'microblading-in-juba.php',
+    '/microblading-in-bukoto' => 'microblading-in-bukoto.php',
+    '/microblading-in-kabalagala' => 'microblading-in-kabalagala.php',
 ];
 
 if (array_key_exists($lowerPath, $routeMap)) {
