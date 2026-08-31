@@ -23,8 +23,8 @@ $articles = [
     // ----------------------------------------------------
         'how-to-prevent-post-acne-dark-marks' => [
         'slug' => 'how-to-prevent-post-acne-dark-marks',
-        'title' => 'How to Prevent Post-Acne Dark Marks',
-        'meta_title' => 'How to Prevent Post-Acne Dark Marks',
+        'title' => 'How to Prevent Post-Acne Dark Marks?',
+        'meta_title' => 'How to Prevent Post-Acne Dark Marks?',
         'category' => 'Medical Dermatology',
         'category_slug' => 'medical',
         'date' => 'August 28, 2026',
