@@ -19,6 +19,317 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: HOW TO PREVENT POST-ACNE DARK MARKS
+    // ----------------------------------------------------
+    'how-to-prevent-post-acne-dark-marks' => [
+        'slug' => 'how-to-prevent-post-acne-dark-marks',
+        'title' => 'How to Prevent Post-Acne Dark Marks: The Ultimate Dermatologist Guide',
+        'category' => 'Medical Dermatology',
+        'category_slug' => 'medical',
+        'date' => 'August 28, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Lead Dermatologist, Refine Clinic',
+        'read_time' => '15 min',
+        'image' => '/assets/imagesfromsite/acne-09.png',
+        'excerpt' => 'Frustrated by stubborn dark spots left behind after pimples heal? Discover proven dermatological strategies, active ingredients, daily habits, and professional care to stop post-acne dark marks before they form.',
+        'content' => '            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How to Prevent Post-Acne Dark Marks: Quick Summary</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct Answer: To prevent post-acne dark marks (post-inflammatory hyperpigmentation), you must treat active breakouts early, strictly avoid squeezing or popping pimples, apply broad-spectrum SPF 50 sunscreen daily, and use pigment-inhibiting skincare actives like Vitamin C, Niacinamide, Azelaic Acid, and Retinoids.</strong> Post-acne dark spots occur when skin inflammation triggers excess melanin production. Stopping breakouts before they inflame and protecting healing skin from UV exposure are the two most effective ways to maintain an even, radiant complexion.
+                </p>
+                <div class="grid sm:grid-cols-2 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Key Prevention Rules:</span>
+                        <ul class="list-disc pl-4 text-white/80 space-y-1 font-light">
+                            <li><strong>Never Pick or Pop:</strong> Avoid mechanical skin trauma</li>
+                            <li><strong>Daily SPF 50:</strong> Prevents UV rays from darkening spots</li>
+                            <li><strong>Early Breakout Control:</strong> Calms inflammation quickly</li>
+                            <li><strong>Barrier Support:</strong> Keep skin hydrated &amp; protected</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Proven Active Ingredients:</span>
+                        <ul class="list-disc pl-4 text-white/80 space-y-1 font-light">
+                            <li><strong>Azelaic Acid &amp; Niacinamide:</strong> Blocks pigment transfer</li>
+                            <li><strong>Vitamin C:</strong> Fades discoloration &amp; fights free radicals</li>
+                            <li><strong>Salicylic Acid (BHA):</strong> Unclogs pores &amp; gently exfoliates</li>
+                            <li><strong>Retinoids:</strong> Accelerates cell turnover for fresh skin</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                Few skin concerns are as frustrating as dealing with dark spots after a breakout has finally cleared up. You wake up relieved that a painful pimple is gone, only to find a flat, dark red, brown, or purplish mark lingering in its place for weeks or even months. If you have ever wondered why these stubborn spots appear and how to stop them from ruining your complexion, you are not alone. Visiting an established <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Skin Clinic in Kampala</a> is often the first step towards understanding how your skin heals and how to prevent discoloration effectively.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Medical dermatologists refer to these lingering marks as <strong>Post-Inflammatory Hyperpigmentation (PIH)</strong>. While post-acne dark marks are extremely common—especially in darker skin tones rich in melanin—they are not permanent, and more importantly, they are largely preventable. By understanding the biological triggers behind skin discoloration and adopting a targeted skincare routine, you can keep your skin smooth, clear, and radiant.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                In this comprehensive expert guide, we will break down the science of post-acne marks, explore the most effective daily prevention strategies, highlight key dermatological active ingredients, and outline professional clinical treatments to restore an even skin tone.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">What Causes Post-Acne Dark Marks? (The Science of PIH)</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                To effectively prevent dark marks, it is helpful to understand what is happening beneath the surface of your skin. When a pore becomes clogged with excess sebum, dead skin cells, and acne-causing bacteria (<em>Cutibacterium acnes</em>), your body's immune system responds by sending white blood cells to fight the infection. This response causes classic acne inflammation—redness, swelling, and sensitivity.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                As detailed in dermatological research on <a href="https://en.wikipedia.org/wiki/Postinflammatory_hyperpigmentation" target="_blank" rel="noopener noreferrer" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Postinflammatory hyperpigmentation on Wikipedia</a>, trauma or inflammatory lesions trigger specialized skin cells called <strong>melanocytes</strong> to overproduce melanin (the natural pigment that gives skin its color). This surplus melanin is deposited into the surrounding skin cells as the lesion heals. Once the active pimple flattens, the excess pigment remains behind as a visible flat dark spot.
+            </p>
+
+            <div class="bg-surface-cool/80 border-l-4 border-accent p-6 rounded-r-2xl mb-8">
+                <h4 class="font-heading font-bold text-brand-deeper text-base mb-2">Key Distinctions in Post-Acne Marks:</h4>
+                <ul class="list-disc pl-5 text-gray-700 text-sm space-y-2 font-light">
+                    <li><strong>Post-Inflammatory Hyperpigmentation (PIH):</strong> Brown, dark brown, or black flat marks caused by excess melanin. Most common in medium to dark skin tones.</li>
+                    <li><strong>Post-Inflammatory Erythema (PIE):</strong> Pink, red, or purplish flat marks caused by damaged micro-capillaries near the skin surface. Most common in lighter skin tones.</li>
+                    <li><strong>Atrophic or Hypertrophic Acne Scars:</strong> Textural indentations (icepick, boxcar, rolling scars) or raised tissue resulting from permanent collagen destruction or overgrowth.</li>
+                </ul>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Because dark marks (PIH) are pigmentary changes rather than structural scars, they do not involve loss of collagen tissue. This key difference makes them far easier to prevent and fade when using the right scientific approach.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Golden Rule #1: Never Pick, Squeeze, or Pop Pimples</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                If there is a golden rule in dermatological skincare, it is this: <strong>never squeeze, pick, or pop a pimple</strong>. While it may feel satisfying in the moment, popping a pimple creates mechanical micro-trauma that dramatically worsens skin inflammation.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                When you press down on an inflamed lesion with your fingers or pimple-popping tools, you push bacteria, pus, and cellular debris deeper into the dermal layer. This deep structural rupture triggers a much stronger immune reaction, forcing your melanocytes into overdrive and producing significantly darker, longer-lasting marks.
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-8">
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h4 class="font-heading font-semibold text-brand text-base mb-2"><i class="fas fa-times-circle text-red-500 mr-2"></i>What Happens When You Pop:</h4>
+                    <ul class="text-xs text-gray-600 space-y-2 font-light list-disc pl-4">
+                        <li>Ruptures inner pore walls</li>
+                        <li>Spreads bacteria to surrounding skin</li>
+                        <li>Intensifies melanocyte activity</li>
+                        <li>Dramatically increases risk of deep textural scarring</li>
+                    </ul>
+                </div>
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h4 class="font-heading font-semibold text-brand text-base mb-2"><i class="fas fa-check-circle text-green-500 mr-2"></i>Dermatologist-Approved Alternative:</h4>
+                    <ul class="text-xs text-gray-600 space-y-2 font-light list-disc pl-4">
+                        <li>Apply a hydrocolloid pimple patch</li>
+                        <li>Use spot treatments with Salicylic Acid or Sulfur</li>
+                        <li>Apply a cool compress to reduce swelling</li>
+                        <li>Let the lesion heal undisturbed under protective barrier</li>
+                    </ul>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Golden Rule #2: Broad-Spectrum Sun Protection is Non-Negotiable</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Ultraviolet (UV) radiation from sunlight is the single biggest accelerator of post-acne dark marks. When healing skin is exposed to UV rays, the skin interprets the sun's energy as additional trauma, triggering melanocytes to produce even more melanin to protect the skin barrier. As a result, a faint mark that would have faded in a few weeks can turn into a dark, stubborn spot that lasts for months.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                To prevent dark spots from intensifying, daily application of broad-spectrum sunscreen with <strong>SPF 30 or higher (preferably SPF 50)</strong> is mandatory, even on cloudy days or when staying indoors near windows.
+            </p>
+
+            <ul class="list-disc pl-6 text-gray-700 space-y-3 mb-6 font-light">
+                <li><strong>Choose Non-Comedogenic Sunscreens:</strong> Look for lightweight, oil-free formulas labeled "non-comedogenic" so they won't clog pores or trigger new acne breakouts.</li>
+                <li><strong>Reapply Every 2 Hours:</strong> If you are outdoors or near sunny windows, reapply your sunscreen every two hours for continuous photoprotection.</li>
+                <li><strong>Consider Tinted Sunscreens:</strong> Tinted sunscreens containing iron oxides offer extra protection against visible blue light, which has been shown to exacerbate hyperpigmentation in darker skin tones.</li>
+            </ul>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Golden Rule #3: Treat Active Acne Early &amp; Consistently</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The most reliable way to prevent post-acne dark marks is simple: <strong>stop new pimples from forming in the first place</strong>. The longer a pimple remains inflamed on your skin, the greater the likelihood of dark spot formation.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                If you suffer from frequent pimples, blackheads, or hormonal cysts, seeking specialized <a href="https://refineskinandbody.com/acne" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Acne Treatment in Kampala</a> is essential. Professional dermatological management targets the root causes of acne—excess sebum, clogged pores, bacterial overgrowth, and inflammation—before they lead to permanent discoloration.
+            </p>
+
+            <div class="bg-white p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-lg mb-8">
+                <h3 class="text-xl font-bold text-brand-deeper mb-4 font-heading">Key Anti-Acne Active Ingredients for Prevention:</h3>
+                <div class="space-y-4">
+                    <div class="flex items-start gap-4">
+                        <div class="w-8 h-8 rounded-full bg-accent/20 text-brand font-bold flex items-center justify-center flex-shrink-0 text-sm">1</div>
+                        <div>
+                            <h4 class="font-semibold text-brand-deeper text-sm sm:text-base">Salicylic Acid (BHA):</h4>
+                            <p class="text-gray-600 text-xs sm:text-sm font-light">Lipid-soluble acid that penetrates deep into pores to dissolve excess sebum, exfoliate dead skin cells, and calm surface redness.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start gap-4">
+                        <div class="w-8 h-8 rounded-full bg-accent/20 text-brand font-bold flex items-center justify-center flex-shrink-0 text-sm">2</div>
+                        <div>
+                            <h4 class="font-semibold text-brand-deeper text-sm sm:text-base">Benzoyl Peroxide:</h4>
+                            <p class="text-gray-600 text-xs sm:text-sm font-light">Powerful antimicrobial agent that reduces acne-causing bacteria within pores, halting inflammatory pimple formation rapidly.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start gap-4">
+                        <div class="w-8 h-8 rounded-full bg-accent/20 text-brand font-bold flex items-center justify-center flex-shrink-0 text-sm">3</div>
+                        <div>
+                            <h4 class="font-semibold text-brand-deeper text-sm sm:text-base">Topical Retinoids (Retinol / Adaptalene / Tretinoin):</h4>
+                            <p class="text-gray-600 text-xs sm:text-sm font-light">Gold-standard dermatological actives that regulate skin cell turnover, prevent pore blockages, and accelerate fading of existing pigment.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Top Active Ingredients to Fade &amp; Prevent Dark Marks</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Incorporating target skin-brightening actives into your daily regimen can inhibit tyrosinase (the enzyme responsible for melanin synthesis) and speed up cell renewal to clear existing discoloration.
+            </p>
+
+            <div class="grid md:grid-cols-2 gap-6 my-8">
+                <div class="bg-surface-cool/60 p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">1. Vitamin C (L-Ascorbic Acid)</h4>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        A potent antioxidant that neutralizes free radicals, inhibits tyrosinase activity, and boosts collagen synthesis to brighten dark spots and even out overall skin tone.
+                    </p>
+                </div>
+                <div class="bg-surface-cool/60 p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">2. Niacinamide (Vitamin B3)</h4>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Prevents the transfer of melanin pigment from melanocytes into surrounding skin cells, while strengthening the natural skin moisture barrier and soothing redness.
+                    </p>
+                </div>
+                <div class="bg-surface-cool/60 p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">3. Azelaic Acid</h4>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        A naturally derived dicarboxylic acid with dual benefits: it selectively targets hyperactive melanocytes to fade dark spots without lightening surrounding normal skin, while fighting acne bacteria.
+                    </p>
+                </div>
+                <div class="bg-surface-cool/60 p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">4. Alpha Hydroxy Acids (AHAs)</h4>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Glycolic acid and Lactic acid gently dissolve the bonds connecting dead, pigmented surface skin cells, allowing fresh, unpigmented skin cells to rise to the surface faster.
+                    </p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Professional In-Clinic Treatments for Fast Results</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                While consistent home skincare works wonders, deep or stubborn post-acne dark marks can take 6 to 12 months to fade with topical products alone. Professional clinical procedures at a certified medical clinic can dramatically speed up pigment clearance in a safe, controlled environment.
+            </p>
+
+            <ul class="list-disc pl-6 text-gray-700 space-y-4 mb-8 font-light">
+                <li>
+                    <strong>Medical Chemical Peels:</strong> Customized chemical peel solutions containing Glycolic, Salicylic, Trichloroacetic (TCA), or Mandelic acids exfoliate deeply pigmented surface layers, revealing clearer, even-toned skin within days.
+                </li>
+                <li>
+                    <strong>Laser Skin Rejuvenation:</strong> Non-ablative laser systems and Intense Pulsed Light (IPL) target melanin clusters beneath the epidermis, shattering pigment deposits so your body's lymphatic system can flush them away naturally.
+                </li>
+                <li>
+                    <strong>Microneedling with PRP Therapy:</strong> Micro-channeling combined with Platelet-Rich Plasma (PRP) accelerates tissue repair, promotes collagen remodeling, and encourages rapid epidermal renewal to smooth texture and fade discoloration.
+                </li>
+            </ul>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- AEO FAQ SECTION -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Frequently Asked Questions (FAQs) About Post-Acne Dark Marks</h2>
+
+            <div class="space-y-6 my-8">
+                <!-- FAQ 1 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">1. What causes dark marks after acne heals?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Dark marks after acne (Post-Inflammatory Hyperpigmentation or PIH) occur when skin inflammation triggers pigment-producing cells (melanocytes) to generate extra melanin. As the pimple heals, this surplus pigment remains deposited in the skin cells, leaving behind a flat dark spot.
+                    </p>
+                </div>
+
+                <!-- FAQ 2 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">2. What is the difference between post-acne dark marks and acne scars?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Post-acne dark marks (PIH) are flat discolorations involving pigment only, without any structural change to the skin surface. In contrast, true acne scars (atrophic or keloid scars) involve permanent loss or overgrowth of collagen, resulting in indented pits (icepick/boxcar scars) or raised tissue bumpiness.
+                    </p>
+                </div>
+
+                <!-- FAQ 3 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">3. How long does it take for post-acne dark marks to fade?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Without treatment, mild post-acne dark marks typically fade within 3 to 6 months. Deeper pigment spots can take 12 months or longer. However, using targeted topical active ingredients (like Vitamin C, Niacinamide, and Retinoids) along with daily broad-spectrum SPF 50 sunscreen can shorten fading time to 6 to 12 weeks.
+                    </p>
+                </div>
+
+                <!-- FAQ 4 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">4. Does sun exposure make post-acne dark marks darker?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Yes. UV radiation stimulates melanocytes to produce more melanin, which significantly darkens existing post-acne marks and extends their fading timeline. Daily application of broad-spectrum SPF 50 sunscreen is essential to prevent spots from darkening.
+                    </p>
+                </div>
+
+                <!-- FAQ 5 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">5. What is the best active ingredient to prevent post-acne hyperpigmentation?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Dermatologists recommend a combination of Azelaic Acid, Niacinamide, and Vitamin C for prevention and fading. Azelaic acid and Niacinamide block pigment production and transfer, while Vitamin C neutralizes free radicals and brightens existing discoloration safely.
+                    </p>
+                </div>
+
+                <!-- FAQ 6 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">6. Can popping pimples cause permanent dark spots?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Popping pimples creates mechanical trauma that forces bacteria and inflammation deeper into the skin dermis. This intense inflammation causes significantly darker, more persistent hyperpigmentation and drastically increases the risk of permanent indented scarring.
+                    </p>
+                </div>
+
+                <!-- FAQ 7 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">7. When should I see a dermatologist for post-acne marks in Kampala?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        You should consult a professional dermatologist if your dark marks do not improve after 8 to 12 weeks of consistent home care, if you experience ongoing severe acne breakouts, or if you want fast pigment clearance using professional chemical peels or laser therapy.
+                    </p>
+                </div>
+
+                <!-- FAQ 8 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">8. Are DIY home remedies like lemon juice safe for fading dark marks?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        No. DIY remedies like raw lemon juice, baking soda, or toothpaste are highly acidic or harsh, causing severe skin barrier disruption, irritation, chemical burns, and worsening hyperpigmentation (phytophotodermatitis). Always use formulated, dermatologist-approved products.
+                    </p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Conclusion: Take Control of Your Skin Journey</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Preventing post-acne dark marks requires patience, consistency, and a gentle, evidence-based approach. By avoiding the urge to pick pimples, protecting your skin daily with broad-spectrum SPF 50 sunscreen, treating active acne early, and incorporating proven brightening actives, you can maintain a clear, radiant, and even-toned complexion.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                If you are struggling with persistent breakouts or stubborn post-acne discoloration, the expert medical team at <strong>Refine Skin &amp; Body Clinic</strong> is here to help. Contact us today to schedule your personalized skin analysis and customized treatment plan.
+            </p>'
+    ],
+
+    // ----------------------------------------------------
     // ARTICLE: HOW MANY LASER SKIN TREATMENT SESSIONS DO YOU NEED?
     // ----------------------------------------------------
     'how-many-laser-skin-treatment-sessions-do-you-need' => [
