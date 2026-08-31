@@ -77,7 +77,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                 <!-- Cosmetic Dermatology Mega Menu -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="/cosmetic-dermatology-kampala-juba" class="nav-link-item inline-flex items-center gap-1 whitespace-nowrap">
+                    <a href="/services" class="nav-link-item inline-flex items-center gap-1 whitespace-nowrap">
                         <span>Cosmetic Dermatology</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1400px] max-w-[95vw]">
@@ -211,7 +211,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
 
                 <!-- Refine IV Lounge Mega Menu -->
                 <div class="nav-item-dropdown static py-6">
-                    <a href="/refine-iv-lounge-kampala-juba" class="nav-link-item inline-flex items-center gap-1 whitespace-nowrap">
+                    <a href="/refine-iv-lounge" class="nav-link-item inline-flex items-center gap-1 whitespace-nowrap">
                         <span>Refine IV Lounge</span><i class="fas fa-chevron-down text-[8px] opacity-70 ml-1"></i>
                     </a>
                     <div class="nav-dropdown absolute top-[100%] left-0 right-0 mx-auto pt-4 w-[1100px] max-w-[95vw]">
@@ -222,15 +222,15 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">IV Therapy</h5>
                                 <div class="space-y-2.5">
                                     <a href="/inner-beauty-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Inner Beauty</a>
-                                    <a href="/jet-lag-iv-therapy-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Jet Lag</a>
+                                    <a href="/jet-lag-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Jet Lag</a>
                                     <a href="/pre-party-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Pre-Party</a>
                                     <a href="/myers-magic-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Myers Magic</a>
                                     <a href="/post-party-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Post Party</a>
                                     <a href="/anti-migraine-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Anti Migraine</a>
                                     <a href="/total-sport-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Total Sport</a>
                                     <a href="/skin-lightening-with-tatioactive-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Skin Lightening with Tatioactive</a>
-                                    <a href="/vitamin-b12-combo-IV-therapy-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Combo of Vit B 12 and B Complex</a>
-                                    <a href="/vitamin-c-treatment-IV-therapy-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Vitamin C</a>
+                                    <a href="/vitamin-b12-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Combo of Vit B 12 and B Complex</a>
+                                    <a href="/vitamin-c-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Vitamin C</a>
                                 </div>
                             </div>
                             <!-- Col 2: Wellness Infusions -->
@@ -238,8 +238,8 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/Amino%20acid-9.png" alt="Wellness Infusions" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-sm text-accent font-semibold uppercase tracking-wider mb-4">Wellness Infusions</h5>
                                 <div class="space-y-2.5">
-                                    <a href="/amino-acids-IV-therapy-treatment-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Amino Acids</a>
-                                    <a href="/glutathione-IV-therapy-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Glutathione</a>
+                                    <a href="/amino-acids-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Amino Acids</a>
+                                    <a href="/glutathione-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Glutathione</a>
                                 </div>
                             </div>
                             <!-- Col 3: Our Affiliates -->
@@ -408,15 +408,15 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Inflammatory Skin</p>
                         <a href="/acne" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Acne Treatment</a>
                         <a href="/rosacea" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Rosacea</a>
-                        <a href="/eczema-dermatitis-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Eczema (Dermatitis)</a>
+                        <a href="/eczema" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Eczema (Dermatitis)</a>
                         <a href="/psoriasis" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Psoriasis</a>
-                        <a href="/contact-dermatitis-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Contact Dermatitis</a>
+                        <a href="/eczema" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Contact Dermatitis</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Autoimmune Disorders</p>
                         <a href="/vitiligo" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Vitiligo</a>
                         <a href="/melasma" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Melasma</a>
-                        <a href="/keloid-scar" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Keloids</a>
+                        <a href="/scar" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Keloids</a>
                     </div>
                 </div>
             </details>
@@ -431,20 +431,20 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">IV Therapy</p>
                         <a href="/inner-beauty-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Inner Beauty</a>
-                        <a href="/jet-lag-iv-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Jet Lag</a>
+                        <a href="/jet-lag-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Jet Lag</a>
                         <a href="/pre-party-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Pre-Party</a>
                         <a href="/myers-magic-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Myers Magic</a>
                         <a href="/post-party-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Post Party</a>
                         <a href="/anti-migraine-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Anti Migraine</a>
                         <a href="/total-sport-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Total Sport</a>
                         <a href="/skin-lightening-with-tatioactive-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Skin Lightening with Tatioactive</a>
-                        <a href="/vitamin-b12-combo-IV-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Combo of Vit B 12 and B Complex</a>
-                        <a href="/vitamin-c-treatment-IV-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Vitamin C</a>
+                        <a href="/vitamin-b12-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Combo of Vit B 12 and B Complex</a>
+                        <a href="/vitamin-c-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Vitamin C</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Wellness Infusions</p>
-                        <a href="/amino-acids-IV-therapy-treatment-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Amino Acids</a>
-                        <a href="/glutathione-IV-therapy-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Glutathione</a>
+                        <a href="/amino-acids-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Amino Acids</a>
+                        <a href="/glutathione-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Glutathione</a>
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Our Affiliates</p>

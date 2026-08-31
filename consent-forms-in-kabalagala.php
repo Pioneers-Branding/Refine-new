@@ -151,6 +151,12 @@ $canonicalUrl = "https://refineskinandbody.com/consent-forms-in-kabalagala";
         .hide-scrollbar::-webkit-scrollbar { display: none; }
         .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
     </style>
+
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
 <?php include 'includes/locations-selector.php'; ?>
 </main>
 

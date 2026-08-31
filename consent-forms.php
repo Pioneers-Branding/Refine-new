@@ -150,6 +150,12 @@ $pageDescription = "Download and review the consent forms required for your spec
         .hide-scrollbar::-webkit-scrollbar { display: none; }
         .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
     </style>
+
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
 <?php include 'includes/locations-selector.php'; ?>
 </main>
 

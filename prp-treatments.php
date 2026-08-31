@@ -276,6 +276,12 @@ $metaKeywords = "PRP Kampala, PRP Hair Restoration Uganda, Vampire Facial Kampal
         </div>
     </section>
 
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
+
     <?php include 'includes/locations-selector.php'; ?>
 </main>
 

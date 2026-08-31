@@ -94,7 +94,7 @@
 
         <div id="treatment-categories-grid" class="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5 gs-stagger-bento">
             <!-- Card: Skin -->
-            <a href="cosmetic-dermatology-kampala-juba"
+            <a href="/services"
                 class="group relative overflow-hidden rounded-3xl h-72 lg:h-96 bento-item">
                 <img src="/assets/imagesfromsite/dermatology-new-09.webp" alt="Skin"
                     class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
@@ -130,7 +130,7 @@
             </a>
 
             <!-- Card: Body -->
-            <a href="body-contouring-kampala-juba"
+            <a href="/body-contouring"
                 class="group relative overflow-hidden rounded-3xl h-72 lg:h-96 bento-item">
                 <img src="/assets/imagesfromsite/Em%20body%20sculpt-09.webp" alt="Body"
                     class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
@@ -148,7 +148,7 @@
             </a>
 
             <!-- Card: Wellness / IV -->
-            <a href="refine-iv-lounge-kampala-juba"
+            <a href="/refine-iv-lounge"
                 class="group relative overflow-hidden rounded-3xl h-72 lg:h-96 bento-item">
                 <img src="/assets/images/services/iv-therapy/inner_beauty_iv_therapy1.jpeg" alt="IV Wellness"
                     class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
@@ -475,9 +475,9 @@
                         absorption</li>
                 </ul>
                 <div class="flex flex-wrap gap-4">
-                    <a href="refine-iv-lounge-kampala-juba" class="btn-magnetic magnetic-target"><span>Visit the
+                    <a href="/refine-iv-lounge" class="btn-magnetic magnetic-target"><span>Visit the
                             Lounge</span></a>
-                    <a href="mobile-iv-service-kampala-juba" class="btn-magnetic magnetic-target"
+                    <a href="/mobile-iv-service" class="btn-magnetic magnetic-target"
                         style="background: transparent; color: #1a0f3c; border: 1px solid #1a0f3c;"><span>Book Mobile
                             IV</span></a>
                 </div>

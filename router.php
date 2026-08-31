@@ -28,6 +28,15 @@ if (file_exists(__DIR__ . $decodedPath) && is_file(__DIR__ . $decodedPath)) {
 // ============================================
 $redirectMap = [
     // Explicit requested redirects
+    '/cosmetic-dermatology-kampala-juba' => '/services',
+    '/refine-iv-lounge-kampala-juba' => '/refine-iv-lounge',
+    '/body-contouring-kampala-juba' => '/body-contouring',
+    '/mobile-iv-service-kampala-juba' => '/mobile-iv-service',
+    '/jet-lag-iv-therapy-treatment-kampala-juba' => '/jet-lag-iv-therapy',
+    '/vitamin-b12-combo-iv-therapy-treatment-kampala-juba' => '/vitamin-b12-iv-therapy',
+    '/eczema-dermatitis-treatment-kampala-juba' => '/eczema',
+    '/contact-dermatitis-treatment-kampala-juba' => '/eczema',
+    '/keloid-scar' => '/scar',
     '/m-shot-treatment-kampala-juba' => '/m-shot-in-juba',
     '/rf-microneedling-kampala-juba' => '/rf-microneedling-in-juba',
     '/total-sport-iv-therapy-kampala-juba' => '/total-sport-iv-therapy-in-juba',

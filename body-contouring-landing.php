@@ -276,6 +276,12 @@ $metaKeywords = "Body Contouring Kampala, EmBody Sculpt Uganda, Fat Dissolving I
         </div>
     </section>
 
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
+
     <?php include 'includes/locations-selector.php'; ?>
 </main>
 

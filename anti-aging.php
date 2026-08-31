@@ -536,6 +536,12 @@ $metaKeywords = "Anti Aging Kampala, Botox Uganda, Dermal Fillers Kampala, Sculp
     <!-- ============================================
          MYTHS & PATIENT REVIEWS
          ============================================ -->
+
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
     <section id="patient-reviews" class="py-16 lg:py-24 bg-surface-cool relative overflow-hidden">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
             <div class="text-center max-w-3xl mx-auto mb-16">

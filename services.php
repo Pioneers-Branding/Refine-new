@@ -161,6 +161,12 @@ $canonicalUrl = "https://refineskinandbody.com/services";
 
 </main>
 
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
+
 <?php include 'includes/footer.php'; ?>
 <?php include 'includes/scripts.php'; ?>
 </body>

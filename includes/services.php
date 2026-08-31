@@ -29,7 +29,7 @@
         <div id="services-carousel" class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-10 gs-stagger-bento">
 
             <!-- Card 1 (Cosmetic Derm) -->
-            <a href="cosmetic-dermatology-kampala-juba"
+            <a href="/services"
                 class="group relative rounded-2xl overflow-hidden aspect-video shadow-lg">
                 <img src="/assets/imagesfromsite/Facial-Spa-09.webp" alt="Cosmetic Dermatology"
                     class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
@@ -95,7 +95,7 @@
             </a>
 
             <!-- Card 4 (IV Lounge) -->
-            <a href="refine-iv-lounge-kampala-juba"
+            <a href="/refine-iv-lounge"
                 class="group relative rounded-2xl overflow-hidden aspect-video shadow-lg">
                 <img src="/assets/images/services/iv-therapy/inner_beauty_iv_therapy1.jpeg" alt="IV Lounge"
                     class="absolute inset-0 w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-700"

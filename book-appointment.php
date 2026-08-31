@@ -196,6 +196,12 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
         </div>
     </section>
 
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
+
 <?php include 'includes/locations-selector.php'; ?>
 </main>
 

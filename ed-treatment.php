@@ -20,7 +20,7 @@ $canonicalUrl = "https://refineskinandbody.com/ed-treatment";
         <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
         
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
-            <div class="grid xl:grid-cols-2 gap-16 xl:gap-24 items-center">
+            <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 xl:gap-24 items-center">
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
@@ -31,7 +31,7 @@ $canonicalUrl = "https://refineskinandbody.com/ed-treatment";
                         Experience top-tier Ed Treatment at Refine Skin and Body Clinic. Our advanced approach ensures optimal results tailored to your unique needs, helping you achieve your aesthetic goals safely and effectively under the guidance of our expert team.
                     </p>
                     
-                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] lg:aspect-auto lg:h-[450px] gs-reveal-img-group group border border-brand/5">
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[16/10] sm:aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
                         <img src="/assets/imagesfromsite/Facial-Spa-09.webp" alt="Ed Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
@@ -275,6 +275,12 @@ $canonicalUrl = "https://refineskinandbody.com/ed-treatment";
             </div>
         </div>
     </section>
+
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
 
     <!-- FAQ Block -->
   <section class="py-16 lg:py-24 bg-[#faf9f6]">

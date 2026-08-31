@@ -276,6 +276,12 @@ $metaKeywords = "Weight Loss Kampala, Allurion Balloon Uganda, Semaglutide Kampa
         </div>
     </section>
 
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
+
     <?php include 'includes/locations-selector.php'; ?>
 </main>
 

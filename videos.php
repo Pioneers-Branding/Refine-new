@@ -72,6 +72,12 @@ $pageDescription = "Watch procedure explainers, patient testimonials, doctor int
         </div>
     </section>
 
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
+
+
     <!-- FAQ Block -->
   <section class="py-16 lg:py-24 bg-white border-t border-brand/5">
     <div class="max-w-[800px] mx-auto px-6">
