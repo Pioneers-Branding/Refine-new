@@ -21,7 +21,7 @@ $articles = [
     // ----------------------------------------------------
     // ARTICLE: HOW TO PREVENT POST-ACNE DARK MARKS
     // ----------------------------------------------------
-    'how-to-prevent-post-acne-dark-marks' => [
+        'how-to-prevent-post-acne-dark-marks' => [
         'slug' => 'how-to-prevent-post-acne-dark-marks',
         'title' => 'How to Prevent Post-Acne Dark Marks: The Ultimate Dermatologist Guide',
         'category' => 'Medical Dermatology',
@@ -80,7 +80,7 @@ $articles = [
             <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">What Causes Post-Acne Dark Marks? (The Science of PIH)</h2>
 
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                To effectively prevent dark marks, it is helpful to understand what is happening beneath the surface of your skin. When a pore becomes clogged with excess sebum, dead skin cells, and acne-causing bacteria (<em>Cutibacterium acnes</em>), your body's immune system responds by sending white blood cells to fight the infection. This response causes classic acne inflammation—redness, swelling, and sensitivity.
+                To effectively prevent dark marks, it is helpful to understand what is happening beneath the surface of your skin. When a pore becomes clogged with excess sebum, dead skin cells, and acne-causing bacteria (<em>Cutibacterium acnes</em>), your body&apos;s immune system responds by sending white blood cells to fight the infection. This response causes classic acne inflammation—redness, swelling, and sensitivity.
             </p>
 
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
@@ -138,7 +138,7 @@ $articles = [
             <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Golden Rule #2: Broad-Spectrum Sun Protection is Non-Negotiable</h2>
 
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Ultraviolet (UV) radiation from sunlight is the single biggest accelerator of post-acne dark marks. When healing skin is exposed to UV rays, the skin interprets the sun's energy as additional trauma, triggering melanocytes to produce even more melanin to protect the skin barrier. As a result, a faint mark that would have faded in a few weeks can turn into a dark, stubborn spot that lasts for months.
+                Ultraviolet (UV) radiation from sunlight is the single biggest accelerator of post-acne dark marks. When healing skin is exposed to UV rays, the skin interprets the sun&apos;s energy as additional trauma, triggering melanocytes to produce even more melanin to protect the skin barrier. As a result, a faint mark that would have faded in a few weeks can turn into a dark, stubborn spot that lasts for months.
             </p>
 
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
@@ -146,7 +146,7 @@ $articles = [
             </p>
 
             <ul class="list-disc pl-6 text-gray-700 space-y-3 mb-6 font-light">
-                <li><strong>Choose Non-Comedogenic Sunscreens:</strong> Look for lightweight, oil-free formulas labeled "non-comedogenic" so they won't clog pores or trigger new acne breakouts.</li>
+                <li><strong>Choose Non-Comedogenic Sunscreens:</strong> Look for lightweight, oil-free formulas labeled "non-comedogenic" so they won&apos;t clog pores or trigger new acne breakouts.</li>
                 <li><strong>Reapply Every 2 Hours:</strong> If you are outdoors or near sunny windows, reapply your sunscreen every two hours for continuous photoprotection.</li>
                 <li><strong>Consider Tinted Sunscreens:</strong> Tinted sunscreens containing iron oxides offer extra protection against visible blue light, which has been shown to exacerbate hyperpigmentation in darker skin tones.</li>
             </ul>
@@ -238,7 +238,7 @@ $articles = [
                     <strong>Medical Chemical Peels:</strong> Customized chemical peel solutions containing Glycolic, Salicylic, Trichloroacetic (TCA), or Mandelic acids exfoliate deeply pigmented surface layers, revealing clearer, even-toned skin within days.
                 </li>
                 <li>
-                    <strong>Laser Skin Rejuvenation:</strong> Non-ablative laser systems and Intense Pulsed Light (IPL) target melanin clusters beneath the epidermis, shattering pigment deposits so your body's lymphatic system can flush them away naturally.
+                    <strong>Laser Skin Rejuvenation:</strong> Non-ablative laser systems and Intense Pulsed Light (IPL) target melanin clusters beneath the epidermis, shattering pigment deposits so your body&apos;s lymphatic system can flush them away naturally.
                 </li>
                 <li>
                     <strong>Microneedling with PRP Therapy:</strong> Micro-channeling combined with Platelet-Rich Plasma (PRP) accelerates tissue repair, promotes collagen remodeling, and encourages rapid epidermal renewal to smooth texture and fade discoloration.
@@ -326,7 +326,8 @@ $articles = [
 
             <p class="text-gray-700 leading-relaxed mb-8 font-light">
                 If you are struggling with persistent breakouts or stubborn post-acne discoloration, the expert medical team at <strong>Refine Skin &amp; Body Clinic</strong> is here to help. Contact us today to schedule your personalized skin analysis and customized treatment plan.
-            </p>'
+            </p>
+'
     ],
 
     // ----------------------------------------------------
