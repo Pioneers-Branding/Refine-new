@@ -258,6 +258,88 @@
                 </div>
             </div>
 
+            <!-- Card 6 -->
+            <div class="snap-start flex-none w-[300px] sm:w-[360px] lg:w-[400px] bg-white rounded-2xl border border-brand/10 shadow-sm hover:shadow-xl transition-all duration-500 flex flex-col justify-between group overflow-hidden">
+                <div>
+                    <div class="relative aspect-[4/5] overflow-hidden bg-brand-deeper cursor-pointer"
+                         onclick="openHpModal('/assets/images/happy-patients/patient-story-6.jpg', 'Microneedling: Results Build with Consistency (Before & After 4 Sessions)', 'Refine Skin & Body Clinic')">
+                        <img src="/assets/images/happy-patients/patient-story-6.jpg" 
+                             alt="Microneedling Before and After 4 Sessions" 
+                             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent opacity-40 group-hover:opacity-20 transition-opacity"></div>
+                        
+                        <span class="absolute top-4 left-4 px-3 py-1 bg-white/20 backdrop-blur-md rounded-full text-[10px] uppercase tracking-widest text-white font-semibold border border-white/20">
+                            Before &amp; After
+                        </span>
+
+                        <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                            <div class="w-12 h-12 rounded-full bg-accent/90 text-brand-deeper shadow-xl flex items-center justify-center">
+                                <i class="fas fa-search-plus text-base"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="p-6">
+                        <span class="text-xs font-semibold text-brand tracking-wide uppercase block mb-2">Consistency &amp; Results</span>
+                        <h3 class="font-display text-lg lg:text-xl text-brand-deeper group-hover:text-brand transition-colors leading-snug mb-2">
+                            Microneedling: Results Build with Consistency
+                        </h3>
+                        <p class="text-brand-muted text-xs font-light leading-relaxed line-clamp-2 italic">
+                            Before &amp; After 4 Sessions: Creating micro-channels to stimulate natural collagen &amp; elastin.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="px-6 pb-6 pt-2 flex items-center justify-between border-t border-brand/5 mt-auto">
+                    <span class="text-[11px] text-brand-muted font-medium">Refine Clinic Story</span>
+                    <button onclick="openHpModal('/assets/images/happy-patients/patient-story-6.jpg', 'Microneedling: Results Build with Consistency (Before & After 4 Sessions)', 'Refine Skin & Body Clinic')"
+                            class="inline-flex items-center gap-1.5 text-xs font-semibold text-brand group-hover:text-brand-deeper uppercase tracking-wider transition-all">
+                        View Full Story <i class="fas fa-arrow-right text-[10px]"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Card 7 -->
+            <div class="snap-start flex-none w-[300px] sm:w-[360px] lg:w-[400px] bg-white rounded-2xl border border-brand/10 shadow-sm hover:shadow-xl transition-all duration-500 flex flex-col justify-between group overflow-hidden">
+                <div>
+                    <div class="relative aspect-[4/5] overflow-hidden bg-brand-deeper cursor-pointer"
+                         onclick="openHpModal('/assets/images/happy-patients/patient-story-7.jpg', 'Harmony XL Pro Laser Tattoo Removal', 'Refine Skin & Body Clinic')">
+                        <img src="/assets/images/happy-patients/patient-story-7.jpg" 
+                             alt="Harmony XL Pro Laser Tattoo Removal Before & After" 
+                             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent opacity-40 group-hover:opacity-20 transition-opacity"></div>
+                        
+                        <span class="absolute top-4 left-4 px-3 py-1 bg-white/20 backdrop-blur-md rounded-full text-[10px] uppercase tracking-widest text-white font-semibold border border-white/20">
+                            Laser Tattoo Removal
+                        </span>
+
+                        <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                            <div class="w-12 h-12 rounded-full bg-accent/90 text-brand-deeper shadow-xl flex items-center justify-center">
+                                <i class="fas fa-search-plus text-base"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="p-6">
+                        <span class="text-xs font-semibold text-brand tracking-wide uppercase block mb-2">Laser Care</span>
+                        <h3 class="font-display text-lg lg:text-xl text-brand-deeper group-hover:text-brand transition-colors leading-snug mb-2">
+                            Harmony XL Pro Laser Tattoo Removal
+                        </h3>
+                        <p class="text-brand-muted text-xs font-light leading-relaxed line-clamp-2 italic">
+                            Don't just cover it up — clear tattoos safely &amp; effectively with medical-grade laser.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="px-6 pb-6 pt-2 flex items-center justify-between border-t border-brand/5 mt-auto">
+                    <span class="text-[11px] text-brand-muted font-medium">Refine Clinic Story</span>
+                    <button onclick="openHpModal('/assets/images/happy-patients/patient-story-7.jpg', 'Harmony XL Pro Laser Tattoo Removal', 'Refine Skin & Body Clinic')"
+                            class="inline-flex items-center gap-1.5 text-xs font-semibold text-brand group-hover:text-brand-deeper uppercase tracking-wider transition-all">
+                        View Full Story <i class="fas fa-arrow-right text-[10px]"></i>
+                    </button>
+                </div>
+            </div>
+
         </div>
 
     </div>
