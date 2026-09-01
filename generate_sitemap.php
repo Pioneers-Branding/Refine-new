@@ -53,6 +53,8 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'how-quickly-do-you-lose-weight-on-mounjaro',
+    'how-to-prevent-post-acne-dark-marks',
     'is-laser-hair-removal-safe-for-darker-skin-tones',
     'how-climate-and-humidity-affect-your-skin',
     'botox-vs-dermal-fillers-which-one-should-you-choose',

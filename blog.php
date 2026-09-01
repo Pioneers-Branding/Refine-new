@@ -19,6 +19,246 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: HOW QUICKLY DO YOU LOSE WEIGHT ON MOUNJARO?
+    // ----------------------------------------------------
+    'how-quickly-do-you-lose-weight-on-mounjaro' => [
+        'slug' => 'how-quickly-do-you-lose-weight-on-mounjaro',
+        'title' => 'How Quickly Do You Lose Weight on Mounjaro?',
+        'meta_title' => 'How Quickly Do You Lose Weight on Mounjaro?',
+        'category' => 'Medical Weight Loss',
+        'category_slug' => 'body',
+        'date' => 'August 31, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Lead Specialist, Refine Clinic',
+        'read_time' => '14 min',
+        'image' => '/assets/images/services/body-contouring/Fat Dissolving-09.png',
+        'excerpt' => 'Wondering how fast weight loss occurs with Mounjaro (Tirzepatide)? Explore our week-by-week timeline, average pounds lost, dosage scaling phases, and expert guidance for sustainable body transformation.',
+        'content' => '            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How Quickly Do You Lose Weight on Mounjaro?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct Answer: Most individuals begin losing weight within the first 1 to 4 weeks of starting Mounjaro (Tirzepatide). During initial dose escalation (2.5 mg to 5 mg), average weight loss ranges from 1 to 2 pounds per week. At higher therapeutic doses (10 mg to 15 mg), patients typically achieve 15% to 22.5% total body weight reduction over 6 to 12 months when combined with doctor-supervised nutrition and lifestyle guidance.</strong>
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Weeks 1 – 4:</span>
+                        <p class="text-white/80 font-light">2 to 6 lbs lost (Initial water weight &amp; appetite suppression onset)</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Months 3 – 6:</span>
+                        <p class="text-white/80 font-light">10% to 15% body weight lost (Steady fat reduction &amp; body sculpting)</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Months 6 – 12+:</span>
+                        <p class="text-white/80 font-light">15% to 22.5% total body weight loss (Peak results &amp; metabolic reset)</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Weight management has entered a revolutionary era with the introduction of Tirzepatide, commercially known as Mounjaro. If you are considering or recently started this treatment, your most pressing question is likely: <em>"How quickly will I see real weight loss results?"</em> Understanding the exact speed of progress, weekly weight loss expectations, and how your body adapts helps build realistic goals for a successful transformation.
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Whether seeking guidance at a premier <a href="/" class="text-brand font-semibold hover:underline">Skin Clinic Kampala</a> or evaluating options internationally, medical weight loss programs with Mounjaro offer unprecedented efficacy. In this comprehensive guide, we unpack the clinical timeline, week-by-week benchmarks, key influencing factors, and expert strategies to maximize your results.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">What is Mounjaro (Tirzepatide) and How Does It Drive Rapid Weight Loss?</h2>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Mounjaro is a breakthrough injectable medication originally approved for type 2 diabetes that has transformed chronic weight management. Unlike older single-action GLP-1 medications, Mounjaro is a dual agonist targeting both glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptors. You can learn more about <a href="https://en.wikipedia.org/wiki/Tirzepatide" target="_blank" rel="noopener" class="text-brand font-semibold hover:underline">Tirzepatide</a> and its unique dual receptor mechanism.
+            </p>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                By activating both hormones simultaneously, Mounjaro works through four primary physiological mechanisms:
+            </p>
+            <ul class="list-disc pl-6 space-y-3 text-brand-muted text-lg font-light mb-8">
+                <li><strong>Powerful Appetite Suppression:</strong> Signals the brain’s satiety center, dramatically reducing hunger and eliminating intrusive "food noise."</li>
+                <li><strong>Delayed Gastric Emptying:</strong> Slows down the rate at which food leaves the stomach, keeping you feeling full for significantly longer periods after small meals.</li>
+                <li><strong>Enhanced Insulin Sensitivity:</strong> Improves how your body processes glucose and stores energy, preventing metabolic spikes and crashes.</li>
+                <li><strong>Targeted Fat Metabolism:</strong> Encourages the breakdown of stored visceral and subcutaneous fat while preserving lean muscle tissue.</li>
+            </ul>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">The Week-by-Week Mounjaro Weight Loss Timeline</h2>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                While individual responses vary based on starting BMI, metabolism, and lifestyle habits, clinical trials (SURMOUNT-1) and real-world clinical data reveal a predictable progression of weight loss. Here is what you can expect during each phase of your journey.
+            </p>
+
+            <div class="space-y-8 my-10">
+                <!-- Phase 1 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">1</span>
+                        Weeks 1 to 4: The Initiation Phase (2.5 mg Dose)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-3">
+                        <strong>Expected Weight Loss: 2 to 6 lbs (0.9 to 2.7 kg)</strong>
+                    </p>
+                    <p class="text-brand-muted font-light leading-relaxed">
+                        The starting dose of 2.5 mg once weekly is designed to introduce your body to the medication and minimize gastrointestinal side effects. Within 24 to 48 hours of your first injection, you will notice a marked decrease in appetite and cravings. Initial weight loss during this month consists primarily of water weight reduction alongside steady early fat loss.
+                    </p>
+                </div>
+
+                <!-- Phase 2 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">2</span>
+                        Weeks 5 to 12: Steady Escalation Phase (5 mg to 7.5 mg Dose)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-3">
+                        <strong>Expected Weight Loss: 8 to 18 lbs total (3.6 to 8.1 kg)</strong>
+                    </p>
+                    <p class="text-brand-muted font-light leading-relaxed">
+                        As your dosage steps up to 5 mg and potentially 7.5 mg, therapeutic weight loss accelerates. During this phase, most patients lose a consistent 1.5 to 2.5 pounds per week. Noticeable changes in clothing fit, waist circumference, and facial contours become apparent.
+                    </p>
+                </div>
+
+                <!-- Phase 3 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">3</span>
+                        Months 3 to 6: Therapeutic Maximum Loss Phase (10 mg to 15 mg Dose)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-3">
+                        <strong>Expected Weight Loss: 10% to 15% of Total Starting Body Weight</strong>
+                    </p>
+                    <p class="text-brand-muted font-light leading-relaxed">
+                        By months 4 to 6, patients reaching therapeutic dosages of 10 mg, 12.5 mg, or 15 mg experience peak fat reduction. Visceral abdominal fat decreases significantly, improving cardiovascular health markers, blood pressure, and glycemic control.
+                    </p>
+                </div>
+
+                <!-- Phase 4 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">4</span>
+                        Months 6 to 12+: Maintenance &amp; Peak Results
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-3">
+                        <strong>Expected Weight Loss: 15% to 22.5%+ of Starting Body Weight</strong>
+                    </p>
+                    <p class="text-brand-muted font-light leading-relaxed">
+                        At the 72-week mark in clinical studies, participants on the 15 mg dose achieved an average weight loss of 22.5% (approx. 52 lbs / 24 kg). Weight loss plateaus naturally as your body reaches its new metabolic set point, transitioning into long-term health maintenance.
+                    </p>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Key Factors Influencing Weight Loss Speed on Mounjaro</h2>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Not everyone loses weight at the exact same pace. Several critical medical and lifestyle variables influence your weekly rate of progress:
+            </p>
+            <ol class="list-decimal pl-6 space-y-3 text-brand-muted text-lg font-light mb-8">
+                <li><strong>Starting BMI and Body Composition:</strong> Patients with higher baseline body weights often lose a greater absolute number of pounds in the initial weeks.</li>
+                <li><strong>Dosage Escalation Schedule:</strong> Following a proper physician-led titration schedule ensures effective dose increases without severe side effects.</li>
+                <li><strong>Dietary Quality and Protein Intake:</strong> Prioritizing lean protein (1.2–1.6g per kg of body weight) protects lean muscle mass, keeping your resting metabolic rate high.</li>
+                <li><strong>Hydration and Fiber:</strong> Drinking 2.5 to 3 liters of water daily supports kidney function and mitigates digestive slowing.</li>
+                <li><strong>Medical Supervision:</strong> Undergoing treatment through structured programs such as <a href="/mounjaro" class="text-brand font-semibold hover:underline">Mounjaro Kampala</a> ensures close monitoring, routine lab tests, and personalized adjustment.</li>
+            </ol>
+
+            <!-- Overview Comparison Table -->
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Average Mounjaro Weight Loss Expectations Table</h2>
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse border border-brand/10 rounded-2xl overflow-hidden shadow-sm">
+                    <thead>
+                        <tr class="bg-brand-deeper text-white font-heading text-sm uppercase tracking-wider">
+                            <th class="p-4">Timeframe</th>
+                            <th class="p-4">Dose Level</th>
+                            <th class="p-4">Avg Weight Lost (lbs)</th>
+                            <th class="p-4">Avg Weight Lost (% Body Weight)</th>
+                            <th class="p-4">Key Body Changes</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-sm font-light text-brand-muted divide-y divide-brand/10 bg-white">
+                        <tr>
+                            <td class="p-4 font-semibold text-brand-deeper">Month 1 (Weeks 1–4)</td>
+                            <td class="p-4">2.5 mg</td>
+                            <td class="p-4">4 – 8 lbs</td>
+                            <td class="p-4">2% – 4%</td>
+                            <td class="p-4">Reduced bloating, water weight loss, reduced food cravings</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-semibold text-brand-deeper">Month 2 (Weeks 5–8)</td>
+                            <td class="p-4">5.0 mg</td>
+                            <td class="p-4">8 – 14 lbs</td>
+                            <td class="p-4">5% – 7%</td>
+                            <td class="p-4">Noticeable waistline tightening, appetite control</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-semibold text-brand-deeper">Month 3 (Weeks 9–12)</td>
+                            <td class="p-4">7.5 mg</td>
+                            <td class="p-4">15 – 22 lbs</td>
+                            <td class="p-4">8% – 11%</td>
+                            <td class="p-4">Visible fat loss in abdomen, thighs, and face</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-semibold text-brand-deeper">Month 6 (Weeks 24)</td>
+                            <td class="p-4">10.0 – 12.5 mg</td>
+                            <td class="p-4">25 – 40 lbs</td>
+                            <td class="p-4">13% – 17%</td>
+                            <td class="p-4">Significant reduction in visceral fat &amp; BMI points</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-semibold text-brand-deeper">Month 12 (Weeks 52+)</td>
+                            <td class="p-4">15.0 mg</td>
+                            <td class="p-4">40 – 60+ lbs</td>
+                            <td class="p-4">18% – 22.5%</td>
+                            <td class="p-4">Peak body composition transformation &amp; metabolic reset</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Frequently Asked Questions (FAQs)</h2>
+            <div class="space-y-4 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">1. How fast do you notice appetite loss after your first Mounjaro shot?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Most patients report a noticeable decrease in appetite and reduced food cravings within 24 to 48 hours after receiving their initial 2.5 mg injection.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">2. What is the average weekly weight loss rate on Mounjaro?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">The typical healthy weight loss rate on Mounjaro is 1 to 2.5 pounds per week. Rates may be higher during initial weeks due to water loss, then stabilize as fat loss progresses.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">3. What if I do not lose weight during the first month on Mounjaro?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">The starting 2.5 mg dose is non-therapeutic, meant to help your body adapt to the drug. Significant weight loss typically accelerates once you step up to 5 mg and 7.5 mg therapeutic doses.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">4. What causes weight loss plateaus on Mounjaro and how are they managed?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Plateaus occur naturally as your body adjusts to a lower weight and metabolic rate. Your medical provider may adjust your dosage, re-evaluate daily calorie intake, or increase strength training exercises.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">5. How does Mounjaro compare to Ozempic in weight loss speed?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">In clinical comparison trials (SURPASS and SURMOUNT studies), Mounjaro (Tirzepatide) demonstrated faster and greater overall weight loss (up to 22.5%) compared to Ozempic/Wegovy (Semaglutide, up to 15%), due to its dual GIP/GLP-1 action.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">6. Will I regain weight if I stop taking Mounjaro?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Without lifestyle changes, weight regain is common after stopping any GLP-1/GIP medication. Working with a nutritionist and maintaining a long-term maintenance protocol helps preserve your results.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">7. Can I get doctor-supervised Mounjaro weight loss treatment in Kampala?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Yes. Refine Skin &amp; Body Clinic provides comprehensive medical evaluation, authentic Tirzepatide dosing protocols, and integrated nutritional guidance for patients seeking <a href="/mounjaro" class="text-brand font-semibold hover:underline">Mounjaro Kampala</a> services.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">8. How do I start a Mounjaro weight loss program safely?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">The first step is a clinical consultation with a qualified doctor to review your medical history, perform necessary blood work, and establish your customized dosing schedule.</p>
+                </div>
+            </div>
+
+            <div class="bg-surface-warm p-8 rounded-3xl border border-brand/10 text-center my-12">
+                <h3 class="text-2xl font-display font-bold text-brand-deeper mb-3">Ready to Start Your Weight Loss Transformation?</h3>
+                <p class="text-brand-muted text-base font-light mb-6 max-w-2xl mx-auto">Book a confidential consultation at Refine Skin &amp; Body Clinic today to discover how our doctor-supervised Mounjaro weight loss program can help you reach your goals safely.</p>
+                <a href="/contact" class="inline-block bg-brand text-white font-heading font-semibold text-sm px-8 py-4 rounded-full shadow-lg hover:bg-brand-deeper transition-all">Book Your Medical Consultation</a>
+            </div>
+',
+    ],
+    // ----------------------------------------------------
     // ARTICLE: HOW TO PREVENT POST-ACNE DARK MARKS
     // ----------------------------------------------------
         'how-to-prevent-post-acne-dark-marks' => [
