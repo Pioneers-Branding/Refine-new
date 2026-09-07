@@ -19,6 +19,614 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: HOW LONG WILL A CHEMICAL PEEL LAST?
+    // ----------------------------------------------------
+    'how-long-will-a-chemical-peel-last' => [
+        'slug' => 'how-long-will-a-chemical-peel-last',
+        'title' => 'How long will a Chemical Peel last?',
+        'meta_title' => 'How long will a Chemical Peel last?',
+        'category' => 'Medical Dermatology',
+        'category_slug' => 'medical',
+        'date' => '6 September, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Lead Specialist, Refine Clinic',
+        'read_time' => '15 min',
+        'image' => '/assets/imagesfromsite/chemical_09.png',
+        'excerpt' => 'Wondering how long your chemical peel results will last? Learn how light, medium, and deep chemical peels differ in lifespan, key factors influencing results, post-peel maintenance tips, and expert advice.',
+        'content' => '            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How Long Will a Chemical Peel Last?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct Answer: The longevity of a chemical peel depends primarily on the depth of the peel. Light (superficial) chemical peels last between 1 to 2 months; Medium-depth chemical peels last between 2 to 6 months (and up to a year with excellent skincare); Deep chemical peels provide long-lasting structural improvements that can endure for several years or even a lifetime.</strong> Regular post-peel sun protection, daily hydration, and touch-up sessions play a vital role in maintaining clear, radiant results.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Light (Superficial) Peel:</span>
+                        <p class="text-white/80 font-light">1 to 2 Months (Ideal for mild acne &amp; quick glow)</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Medium-Depth Peel:</span>
+                        <p class="text-white/80 font-light">2 to 6+ Months (Best for hyperpigmentation &amp; melasma)</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Deep Peel:</span>
+                        <p class="text-white/80 font-light">2 to 5+ Years (For deep wrinkles &amp; severe scars)</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Chemical peels are among the most popular and effective non-surgical dermatological treatments available today for skin rejuvenation. By removing dead, damaged outer skin layers, chemical peels accelerate natural cell turnover and reveal fresher, smoother, and more evenly pigmented skin underneath. However, if you are considering or have recently completed a peel, one of your most pressing questions is likely: <em>"How long will my chemical peel results actually last?"</em>
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                The short answer is that results vary based on the depth of the treatment, your skin type, environmental factors, and how diligently you maintain your skin after the procedure. Whether seeking professional <a href="https://refineskinandbody.com/chemical-peel" class="text-brand font-semibold hover:underline">Chemical Peel treatment in Kampala</a> or evaluating skin resurfacing options, working with an experienced <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:underline">Dermatologist in Kampala</a> ensures you receive a customized plan tailored to your specific skin needs.
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                A professional <a href="https://en.wikipedia.org/wiki/Chemical_peel" target="_blank" rel="noopener" class="text-brand font-semibold hover:underline">chemical peel</a> can address a wide spectrum of skin concerns—from stubborn dark spots and acne scars to fine lines and dull texture. In this comprehensive guide, we examine the lifespan of different peel types, the physiological healing process, key factors that extend your results, and practical post-peel maintenance routines.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Lifespan of Chemical Peels by Treatment Depth</h2>
+
+            <div class="space-y-8 my-10">
+                <!-- Peel Depth 1 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">1</span>
+                        Light (Superficial) Chemical Peels (Lifespan: 1 to 2 Months)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Light chemical peels gently exfoliate the outermost layer of the skin (the epidermis) using mild acids such as Alpha Hydroxy Acids (AHAs like glycolic or lactic acid) or Beta Hydroxy Acids (BHAs like salicylic acid).
+                    </p>
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-brand-muted font-light mb-4">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">What It Targets:</strong>
+                            <ul class="list-disc pl-4 space-y-1">
+                                <li>Mild active acne and clogged pores</li>
+                                <li>Dull, uneven skin tone</li>
+                                <li>Superficial roughness and minor sun spots</li>
+                                <li>Refreshing the skin before special events</li>
+                            </ul>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Recovery &amp; Maintenance:</strong>
+                            <p class="mb-2"><strong>Downtime:</strong> 1 to 5 days of minor flaking, resembling mild sunburn recovery.</p>
+                            <p><strong>Recommended Frequency:</strong> Because light peels only affect the surface epidermis, skin cell turnover naturally replaces these cells within 30 to 45 days. To maintain a constant glow, light peels are usually scheduled every 4 to 6 weeks.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Peel Depth 2 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">2</span>
+                        Medium-Depth Chemical Peels (Lifespan: 2 to 6+ Months)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Medium chemical peels penetrate through the epidermis and reach the upper layer of the dermis (the papillary dermis). They commonly utilize higher concentrations of Trichloroacetic Acid (TCA 20%–35%) or specialized combination solutions like Jessner’s peel.
+                    </p>
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-brand-muted font-light mb-4">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">What It Targets:</strong>
+                            <ul class="list-disc pl-4 space-y-1">
+                                <li>Moderate hyperpigmentation &amp; stubborn dark spots</li>
+                                <li>Melasma and sun damage patches</li>
+                                <li>Shallow acne scars and uneven texture</li>
+                                <li>Fine lines around eyes and mouth</li>
+                            </ul>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Recovery &amp; Longevity:</strong>
+                            <p class="mb-2"><strong>Downtime:</strong> 7 to 14 days of visible peeling, tightness, and temporary brownish crusting.</p>
+                            <p><strong>Longevity:</strong> Results typically last 2 to 6 months, and can extend up to a year when paired with rigorous daily SPF 50 sunscreen use and quality skincare. Most patients undergo 2 to 3 sessions per year for optimal correction.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Peel Depth 3 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">3</span>
+                        Deep Chemical Peels (Lifespan: 2 to 5+ Years)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Deep chemical peels reach down into the lower dermal layers (reticular dermis) using potent solutions such as phenol or high-concentration TCA. This is an intensive medical procedure that stimulates major collagen remodeling.
+                    </p>
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-brand-muted font-light">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">What It Targets:</strong>
+                            <p>Deep facial wrinkles, severe sun damage, pronounced acne scarring, and significant skin laxity.</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Recovery &amp; Longevity:</strong>
+                            <p class="mb-2"><strong>Downtime:</strong> 2 to 3 weeks of intensive healing and swelling.</p>
+                            <p><strong>Longevity:</strong> Deep peels deliver dramatic, transformative results that can last anywhere from 2 to 5 years, and in many cases, structural collagen improvements are permanent.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Key Factors That Control How Long Your Results Last</h2>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                While peel depth sets the baseline duration, several external and internal factors determine whether your new, radiant skin lasts for months or fades prematurely:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">1. Strict Daily Sun Protection</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Ultraviolet (UV) radiation is the leading cause of premature pigment recurrence and collagen breakdown. Wearing broad-spectrum SPF 30+ or SPF 50 sunscreen daily—even indoors—protects fresh skin cells and prolongs your glow.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">2. Post-Peel Skincare Routine</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Using gentle, non-irritating cleansers, barrier repair moisturizers with ceramides, and active ingredients (like vitamin C or topical retinoids after full recovery) preserves smooth skin texture.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">3. Skin Type &amp; Melanin Response</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Darker skin tones (Fitzpatrick IV–VI) are more prone to post-inflammatory hyperpigmentation. Customized peeling solutions and pre-treatment conditioning ensure long-lasting, even-toned results without spotty discoloration.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">4. Lifestyle &amp; Environmental Habits</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Smoking, poor hydration, high stress, and exposure to intense heat can dull skin appearance faster. Staying hydrated and eating an antioxidant-rich diet keeps skin vibrant for longer.</p>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">The Post-Peel Healing &amp; Transformation Timeline</h2>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Understanding the recovery stages after a chemical peel helps you care for your skin correctly during the critical healing window:
+            </p>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Days 1 to 3: The Reaction &amp; Tightness Phase</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Skin may feel tight, warm, or slightly red/darkened. Apply gentle moisturizers and avoid picking or pulling at any dry patches.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Days 4 to 7: Active Peeling &amp; Exfoliation</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Dead skin cells begin to slough off naturally. Allow skin to shed on its own—never force peeling to prevent scarring or dark marks.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Days 8 to 14: Fresh Skin Disclosure &amp; Barrier Healing</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">New skin emerges smoother, brighter, and softer. Skin sensitivity declines, and normal gentle routines can gradually resume.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Months 1 to 3+: Long-Term Collagen Boosting</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Dermal remodeling continues beneath the surface, improving skin elasticity, pore refinement, and tone uniformity over time.</p>
+                </div>
+            </div>
+
+            <!-- LSI Keywords & Topic Spotlight Section -->
+            <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 my-10">
+                <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3">Topic Spotlight: Key Terms &amp; Concepts</h3>
+                <p class="text-brand-muted text-sm font-light leading-relaxed mb-4">
+                    When considering chemical peel treatments, familiarizing yourself with these key dermatological terms helps you make informed choices:
+                </p>
+                <div class="flex flex-wrap gap-2 text-xs">
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">light chemical peel duration</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">medium depth peel</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">deep chemical peel results</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">skin cell turnover</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">post-peel recovery timeline</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">hyperpigmentation chemical peel</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">acne scar rejuvenation</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">glycolic acid peel</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">salicylic acid peel</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">TCA peel results</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">collagen stimulation</span>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Frequently Asked Questions (FAQs)</h2>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">1. How often should I get a chemical peel to maintain results?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">For light chemical peels, maintenance sessions every 4 to 6 weeks work best to match natural skin cell renewal. For medium-depth peels, 2 to 3 treatments per year are usually sufficient to sustain clear, even skin.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">2. Do chemical peel results fade faster in sunny climates like Kampala?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Unprotected sun exposure in sunny tropical climates can trigger hyperpigmentation and break down new skin cells faster. Applying broad-spectrum SPF 50 sunscreen daily prevents UV damage and preserves your peel results significantly longer.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">3. Can a single chemical peel permanently remove acne scars?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">A single peel improves overall texture and fades dark marks, but deeper pitted acne scars usually require a series of medium chemical peels combined with micro-needling or laser therapy for optimal correction.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">4. How long does the actual peeling phase last after treatment?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">For light peels, mild flaking lasts 2 to 4 days. For medium peels, visible peeling typically begins on day 3 and completes by day 7 to 10.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">5. What skincare products should I avoid immediately after a chemical peel?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Avoid exfoliants, harsh scrubs, retinoids (Retin-A, retinol), Vitamin C serums, and AHA/BHA acids for at least 7 to 10 days post-peel until the skin barrier has fully restored.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">6. Is a medium peel better than multiple light peels?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">It depends on your lifestyle and skin goals. Medium peels offer more dramatic improvement in fewer sessions but require downtime. Light peels offer gradual improvement with zero downtime. A dermatologist in Kampala can recommend the ideal approach.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">7. Are chemical peels safe for dark or African skin tones?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Yes, when performed by an experienced professional using skin-appropriate formulations (such as mandelic, lactic, or carefully calibrated TCA peels). Pre-conditioning skin reduces any risk of post-inflammatory hyperpigmentation.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">8. Where can I get a professional chemical peel in Kampala?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Refine Skin &amp; Body Clinic offers doctor-supervised chemical peel treatments in Kampala customized for all skin types and skin concerns.</p>
+                </div>
+            </div>
+
+            <div class="bg-surface-warm p-8 rounded-3xl border border-brand/10 text-center my-12">
+                <h3 class="text-2xl font-display font-bold text-brand-deeper mb-3">Ready for Glowing, Rejuvenated Skin?</h3>
+                <p class="text-brand-muted text-base font-light mb-6 max-w-2xl mx-auto">Book a customized chemical peel consultation at Refine Skin &amp; Body Clinic in Kampala today to achieve long-lasting skin clarity.</p>
+                <a href="/contact" class="inline-block bg-brand text-white font-heading font-semibold text-sm px-8 py-4 rounded-full shadow-lg hover:bg-brand-deeper transition-all">Book Your Chemical Peel Consultation</a>
+            </div>
+',
+    ],
+
+    // ----------------------------------------------------
+    // ARTICLE: WHAT ARE COMMON SKIN DISEASES IN UGANDA?
+    // ----------------------------------------------------
+    'what-are-common-skin-diseases-in-uganda' => [
+        'slug' => 'what-are-common-skin-diseases-in-uganda',
+        'title' => 'What are Common Skin Diseases in Uganda?',
+        'meta_title' => 'What are Common Skin Diseases in Uganda?',
+        'category' => 'Medical Dermatology',
+        'category_slug' => 'medical',
+        'date' => '3 September, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Lead Dermatologist, Refine Clinic',
+        'read_time' => '16 min',
+        'image' => '/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp',
+        'excerpt' => 'Discover the most common skin diseases in Uganda, including fungal infections, eczema, acne, scabies, and hyperpigmentation. Learn about their causes, symptoms, prevention, and expert treatments at Refine Skin & Body Clinic in Kampala.',
+        'content' => '            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">What are Common Skin Diseases in Uganda?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct Answer: The most common skin diseases in Uganda include fungal infections (such as ringworm and tinea versicolor), eczema (atopic dermatitis), acne vulgaris with post-inflammatory hyperpigmentation, scabies, bacterial skin infections (impetigo and folliculitis), sun-induced melasma, and contact dermatitis.</strong> High tropical humidity, intense equatorial sun exposure, environmental irritants, and micro-organism overgrowth are primary contributing factors. Proper medical evaluation, targeted antifungal or anti-inflammatory treatments, and gentle daily skincare routines are essential for effective management.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Infectious Conditions:</span>
+                        <p class="text-white/80 font-light">Fungal infections (tinea), scabies mites, &amp; bacterial folliculitis</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Inflammatory Conditions:</span>
+                        <p class="text-white/80 font-light">Eczema, contact dermatitis, acne vulgaris, &amp; psoriasis</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Pigmentation Disorders:</span>
+                        <p class="text-white/80 font-light">Post-acne dark marks, melasma, &amp; sun-induced hyperpigmentation</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Skin health is an vital aspect of overall well-being, yet skin disorders remain among the most frequent health concerns in East Africa. In Uganda, the warm tropical climate, elevated humidity levels, intense equatorial sunlight, and environmental exposure create a unique environment for various dermatological disorders to develop. Whether living in urban centers like Kampala or rural regions, thousands of individuals experience skin itching, rashes, discoloration, or chronic inflammation every day.
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Understanding what causes these skin issues is the first step toward achieving clear, healthy, and comfortable skin. Recognizing early signs allows you to seek timely care from a reputable <a href="/" class="text-brand font-semibold hover:underline">Skin Clinic in Uganda</a> rather than relying on harsh over-the-counter remedies that can worsen sensitive skin. At <a href="/" class="text-brand font-semibold hover:underline">Refine Skin &amp; Body Clinic</a>, our clinical team specializes in diagnosing and treating diverse skin conditions tailored specifically to dark and melanin-rich skin tones.
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                A medical <a href="https://en.wikipedia.org/wiki/Skin_condition" target="_blank" rel="noopener" class="text-brand font-semibold hover:underline">skin condition</a> can range from temporary fungal outbreaks caused by heat and sweat to long-term inflammatory challenges like eczema or melasma. In this comprehensive guide, we explore the 8 most common skin diseases in Uganda, their primary causes, key symptoms, prevention methods, and modern medical dermatological treatments.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Top 8 Most Common Skin Diseases in Uganda</h2>
+
+            <div class="space-y-8 my-10">
+                <!-- Disease 1 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">1</span>
+                        Fungal Skin Infections (Tinea &amp; Ringworm)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Fungal skin infections are arguably the most widespread dermatological problem across Uganda. Fungi thrive in warm, moist, and humid environments, making tropical weather ideal for fungal growth on the human body.
+                    </p>
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-brand-muted font-light mb-4">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Common Types:</strong>
+                            <ul class="list-disc pl-4 space-y-1">
+                                <li><strong>Tinea Capitis (Scalp Ringworm):</strong> Very common in school-age children, causing scaly patches and localized hair loss.</li>
+                                <li><strong>Tinea Corporis (Body Ringworm):</strong> Circular, raised, itchy red or dark ring-like patches on the body.</li>
+                                <li><strong>Tinea Versicolor (Pityriasis Versicolor):</strong> Yeast overgrowth causing light or dark discolored spots on the chest and back.</li>
+                                <li><strong>Tinea Pedis (Athlete&apos;s Foot):</strong> Itchy, peeling skin between the toes from closed shoes and moisture.</li>
+                            </ul>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Symptoms &amp; Treatment:</strong>
+                            <p class="mb-2">Symptoms include persistent itching, scaling, peeling, and skin discoloration. Fungal infections spread easily through shared towels, combs, or physical contact.</p>
+                            <p><strong>Medical Treatment:</strong> Antifungal creams (clotrimazole, terbinafine), medicated shampoos, or oral antifungal medications for severe cases prescribed by a skin doctor in Uganda.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Disease 2 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">2</span>
+                        Eczema (Atopic Dermatitis)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Eczema is a non-contagious inflammatory skin condition characterized by dry, itchy, sensitive, and hyper-reactive skin. It affects both children and adults in Uganda, often fluctuating with seasonal weather changes.
+                    </p>
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-brand-muted font-light mb-4">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Triggers &amp; Symptoms:</strong>
+                            <p class="mb-2">Triggers include dry dusty air during dry seasons, harsh laundry soaps, synthetic fabrics, stress, and specific food allergies.</p>
+                            <p>Symptoms feature extreme itching, dryness, red or dark thickened (lichenified) skin, cracked areas, and occasional fluid oozing when scratched.</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Eczema Treatment Uganda:</strong>
+                            <p class="mb-2">Managing eczema requires restoring the compromised skin moisture barrier.</p>
+                            <p><strong>Treatment:</strong> Fragrance-free emollient moisturizers, mild topical anti-inflammatory ointments, barrier repair creams, and avoiding known allergy triggers.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Disease 3 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">3</span>
+                        Acne Vulgaris &amp; Post-Inflammatory Hyperpigmentation
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Acne is extremely prevalent among teenagers and adults in urban centers such as Kampala. In hot, humid climates, excess sebum (oil) production mixes with sweat, dead skin cells, and environmental dirt to clog hair follicles.
+                    </p>
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-brand-muted font-light mb-4">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Acne Symptoms:</strong>
+                            <p>Blackheads, whiteheads, inflammatory pimples, and painful deep cysts on the face, chest, shoulders, and upper back.</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Dark Spots After Acne:</strong>
+                            <p>For African and dark skin tones, pimples frequently leave behind stubborn dark marks (post-inflammatory hyperpigmentation) long after the active acne has cleared.</p>
+                        </div>
+                    </div>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">
+                        <strong>Clinical Care:</strong> Professional acne management includes salicylic acid peels, topical retinoids, clinical facials (such as Hydrafacial), LED light therapy, and specialized pigment-fading active ingredients.
+                    </p>
+                </div>
+
+                <!-- Disease 4 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">4</span>
+                        Scabies &amp; Parasitic Infestations
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Scabies is a highly contagious parasitic skin condition caused by microscopic mites (<em>Sarcoptes scabiei</em>) that burrow into the upper layer of the skin to live and lay eggs.
+                    </p>
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-brand-muted font-light mb-4">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Key Signs:</strong>
+                            <ul class="list-disc pl-4 space-y-1">
+                                <li>Intense, overwhelming itching that worsens significantly at night.</li>
+                                <li>Pimple-like itchy rash between fingers, wrists, armpits, waistline, and groin.</li>
+                                <li>Tiny raised burrow lines visible on the skin surface.</li>
+                            </ul>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Scabies Treatment:</strong>
+                            <p class="mb-2">Because scabies spreads quickly through direct skin contact, boarding schools, families, and shared living spaces are at high risk.</p>
+                            <p><strong>Treatment:</strong> Prescription scabicide creams (Permethrin lotion), washing all clothing and bedding in hot water, and treating all household members simultaneously.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Disease 5 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">5</span>
+                        Bacterial Skin Infections (Impetigo, Folliculitis &amp; Boils)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Bacterial infections occur when bacteria such as <em>Staphylococcus aureus</em> or <em>Streptococcus</em> enter tiny breaks in the skin caused by insect bites, scratches, or shaving.
+                    </p>
+                    <div class="grid md:grid-cols-3 gap-4 text-sm text-brand-muted font-light">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Impetigo:</strong>
+                            <p>Very common in young children, producing red sores around the nose and mouth that break open and form honey-colored crusts.</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Folliculitis:</strong>
+                            <p>Inflammation of hair follicles appearing as small red or pus-filled bumps, often triggered by shaving or tight clothing in hot weather.</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Boils &amp; Carbuncles:</strong>
+                            <p>Painful, pus-filled lumps under the skin that require proper medical hygiene and drainage.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Disease 6 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">6</span>
+                        Melasma &amp; Sun-Induced Hyperpigmentation
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Uganda sits directly along the Equator, receiving high levels of ultraviolet (UV) radiation throughout the year. Unprotected sun exposure triggers melanocytes (pigment-producing cells) to produce excess melanin.
+                    </p>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed mb-3">
+                        <strong>Melasma:</strong> A specific form of hyperpigmentation causing symmetrical brown or dark gray patches on the cheeks, forehead, nose bridge, and upper lip. It is heavily influenced by hormonal changes during pregnancy, oral contraceptive use, and intense sun exposure.
+                    </p>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">
+                        <strong>Melasma Treatment:</strong> Broad-spectrum physical sunscreens, chemical peels, topical tyrosinase inhibitors (like tranexamic acid, azelaic acid, and vitamin C), and laser skin rejuvenation protocols under professional supervision.
+                    </p>
+                </div>
+
+                <!-- Disease 7 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">7</span>
+                        Contact Dermatitis (Irritant &amp; Allergic)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Contact dermatitis is a rash caused by direct contact with a substance that either damages the skin barrier (irritant) or triggers an immune reaction (allergic).
+                    </p>
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-brand-muted font-light">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Common Irritants in Uganda:</strong>
+                            <ul class="list-disc pl-4 space-y-1">
+                                <li>Harsh bleaching creams and unverified cosmetic products.</li>
+                                <li>Strong laundry detergents and household cleaning agents.</li>
+                                <li>Synthetic dyes and cheap jewelry metals (nickel).</li>
+                            </ul>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Symptoms &amp; Management:</strong>
+                            <p class="mb-2">Redness, burning sensation, stinging, blisters, and localized swelling within hours of contact.</p>
+                            <p><strong>Management:</strong> Identifying and stopping contact with the offending agent, applying soothing cold compresses, and using gentle barrier repair creams.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Disease 8 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">8</span>
+                        Viral Skin Conditions (Warts &amp; Molluscum Contagiosum)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Viral skin infections are common among school children and young adults across Uganda. Viruses invade the superficial layers of the skin, creating raised bumps or growths.
+                    </p>
+                    <div class="grid md:grid-cols-2 gap-4 text-sm text-brand-muted font-light">
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Common Warts:</strong>
+                            <p>Caused by Human Papillomavirus (HPV), presenting as rough, grainy bumps on hands, fingers, or soles of the feet (plantar warts).</p>
+                        </div>
+                        <div class="bg-white p-4 rounded-xl border border-brand/5">
+                            <strong class="text-brand-deeper block mb-1">Molluscum Contagiosum:</strong>
+                            <p>Firm, smooth, dome-shaped papules with a central dimple, spreading easily in warm, moist environments like swimming pools or close physical contact.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Why Are Skin Diseases Common in Uganda? Key Risk Factors</h2>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Several environmental, lifestyle, and biological factors contribute to the high frequency of skin conditions in East Africa:
+            </p>
+
+            <ul class="list-disc pl-6 space-y-4 text-brand-muted text-lg font-light mb-8">
+                <li><strong>Tropical Climate &amp; High Humidity:</strong> Warm weather and constant sweat accumulation foster rapid reproduction of skin fungi, yeasts, and bacteria.</li>
+                <li><strong>Equatorial Sun Intensity:</strong> Strong solar radiation breaks down skin elasticity and triggers excess melanin production, causing hyperpigmentation and early signs of photoaging.</li>
+                <li><strong>Unregulated Skin Bleaching Products:</strong> Using unauthorized lighteners containing hydroquinone, mercury, or harsh steroids thins the skin, destroys the barrier, and invites chronic infections.</li>
+                <li><strong>Water Quality &amp; Sanitation Challenges:</strong> In some regions, access to clean purified water for daily bathing can be limited, predisposing skin to bacterial and parasitic infestations.</li>
+                <li><strong>Self-Medication &amp; Delayed Diagnosis:</strong> Applying strong steroid creams bought over-the-counter without a doctor&apos;s prescription often masks fungal infections (tinea incognito) and worsens skin inflammation.</li>
+            </ul>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Daily Skincare Tips for Healthy Skin in Uganda</h2>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Protecting your skin from common tropical skin diseases starts with a consistent, gentle daily care routine:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">1. Cleanse Gently Twice Daily</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Use a mild, sulfate-free cleanser to wash away sweat, dirt, and excess oil without stripping your natural protective lipids.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">2. Apply Sunscreen Every Morning</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Choose a broad-spectrum SPF 30 or SPF 50 sunscreen designed for dark skin tones that leaves no white cast and prevents sun spots.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">3. Hydrate &amp; Protect the Barrier</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Apply a lightweight, non-comedogenic moisturizer containing hyaluronic acid or ceramides to lock in moisture.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">4. Avoid Self-Medicating</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Never use strong prescription steroid creams or uncertified whitening products without professional guidance from a qualified dermatologist.</p>
+                </div>
+            </div>
+
+            <!-- LSI Keywords & Topic Spotlight Section -->
+            <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 my-10">
+                <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3">Topic Spotlight: Key Terms &amp; Concepts</h3>
+                <p class="text-brand-muted text-sm font-light leading-relaxed mb-4">
+                    When exploring skin health topics in Uganda, you may encounter several specialized terms. Here is how they relate to your care:
+                </p>
+                <div class="flex flex-wrap gap-2 text-xs">
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">dermatology in Kampala</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">tropical skin infections</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">fungal skin infections</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">eczema treatment Uganda</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">scabies treatment</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">hyperpigmentation and dark spots</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">acne management</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">dermatologist in Uganda</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">skin care specialist</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">ringworm remedies</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">sun protection for African skin</span>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Frequently Asked Questions (FAQs)</h2>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">1. Why are fungal skin infections so common in Uganda?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Fungi thrive in warm, humid weather. High heat and sweat accumulation in tropical climates create ideal conditions for fungal organisms like ringworm and tinea versicolor to multiply on the skin.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">2. How can I tell the difference between eczema and a fungal infection?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Eczema usually causes intense dryness, red/dark inflamed patches, and symmetric rash patterns on elbows or knees. Fungal infections typically form distinct circular, scaly rings with clearer centers. A clinical consultation at a skin clinic in Uganda provides an accurate diagnosis.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">3. Why does acne leave dark marks on African skin in Uganda?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Melanin-rich skin naturally produces pigment in response to inflammation (post-inflammatory hyperpigmentation). When pimples flare up or are squeezed, melanocytes overproduce pigment, leaving dark spots after the pimple heals.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">4. Is scabies contagious, and how is it treated?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Yes, scabies is highly contagious through direct skin contact or shared bedding. It requires prescription scabicide lotion applied to the entire body, along with washing all clothes in hot water and treating all family members at the same time.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">5. Can sun protection prevent melasma from getting worse in tropical weather?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Yes! Equatorial sunlight triggers melanin production, which deepens melasma patches. Wearing broad-spectrum SPF 50 sunscreen daily and seeking shade are vital steps to control melasma.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">6. What should I do if an over-the-counter skin cream doesn&apos;t work?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Stop using unprescribed creams immediately. Over-the-counter creams often contain hidden steroids that mask symptoms while worsening underlying infections. Schedule a medical examination with a qualified dermatologist for targeted treatment.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">7. Are heavy natural oils like coconut oil safe for acne-prone skin in high humidity?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Heavy oils can be comedogenic, meaning they clog pores easily in humid weather. For acne-prone or oily skin, non-comedogenic, lightweight hydrating creams or hyaluronic acid serums are much safer options.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">8. Where can I get professional diagnosis and treatment for skin diseases in Kampala?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Refine Skin &amp; Body Clinic offers medical dermatological consultations, advanced diagnostic tools, customized prescription therapies, and specialized clinical treatments in Kampala, Uganda.</p>
+                </div>
+            </div>
+
+            <div class="bg-surface-warm p-8 rounded-3xl border border-brand/10 text-center my-12">
+                <h3 class="text-2xl font-display font-bold text-brand-deeper mb-3">Struggling with a Skin Condition?</h3>
+                <p class="text-brand-muted text-base font-light mb-6 max-w-2xl mx-auto">Get expert medical diagnosis and personalized skincare treatments at Refine Skin &amp; Body Clinic in Kampala today.</p>
+                <a href="/contact" class="inline-block bg-brand text-white font-heading font-semibold text-sm px-8 py-4 rounded-full shadow-lg hover:bg-brand-deeper transition-all">Book Your Medical Consultation</a>
+            </div>
+',
+    ],
+
+    // ----------------------------------------------------
     // ARTICLE: HOW QUICKLY DO YOU LOSE WEIGHT ON MOUNJARO?
     // ----------------------------------------------------
     'how-quickly-do-you-lose-weight-on-mounjaro' => [

@@ -46,6 +46,11 @@ if (preg_match($loc_regex, $current_page, $matches)) {
     }
 }
 
+// Special base page mappings
+if ($base_page === 'refine-iv-lounge') {
+    $base_page = 'iv-therapy';
+}
+
 // Main Service Page Link
 $main_service_url = '/' . $base_page;
 if (!file_exists($root_dir . '/' . $base_page . '.php')) {

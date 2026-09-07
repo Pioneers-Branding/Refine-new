@@ -53,6 +53,8 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'how-long-will-a-chemical-peel-last',
+    'what-are-common-skin-diseases-in-uganda',
     'how-quickly-do-you-lose-weight-on-mounjaro',
     'how-to-prevent-post-acne-dark-marks',
     'is-laser-hair-removal-safe-for-darker-skin-tones',

@@ -144,6 +144,15 @@ $redirectMap = [
     '/hydrafacial-treatment-kampala-juba' => '/hydrafacial',
     '/microblading-kampala-juba' => '/microblading',
     '/joint-and-tissue-rejuvenation-kampala-juba' => '/joint-and-tissue-rejuvenation',
+    '/refine-iv-lounge-in-kabalagala' => '/iv-therapy-in-kabalagala',
+    '/refine-iv-lounge-in-bukoto' => '/iv-therapy-in-bukoto',
+    '/refine-iv-lounge-in-juba' => '/iv-therapy-in-juba',
+    '/refine-iv-lounge-in-mukono' => '/iv-therapy-in-mukono',
+    '/refine-iv-lounge-in-entebbe' => '/iv-therapy-in-entebbe',
+    '/refine-iv-lounge-in-mpigi' => '/iv-therapy-in-mpigi',
+    '/refine-iv-lounge-in-jinja' => '/iv-therapy-in-jinja',
+    '/refine-iv-lounge-in-wakiso' => '/iv-therapy-in-wakiso',
+    '/refine-iv-lounge-in-nansana' => '/iv-therapy-in-nansana',
 ];
 
 $lowerPath = strtolower($path);
