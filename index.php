@@ -25,6 +25,7 @@ $canonicalUrl = "https://refineskinandbody.com/";
     <?php include 'includes/happy-patients.php'; ?>
     <?php include 'includes/testimonials.php'; ?>
     <?php include 'includes/faq.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>
