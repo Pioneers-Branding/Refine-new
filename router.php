@@ -26,6 +26,11 @@ if (file_exists(__DIR__ . $decodedPath) && is_file(__DIR__ . $decodedPath)) {
 // ============================================
 // 301 REDIRECT MAP (Case-Insensitive Lookup)
 // ============================================
+if ($path === '/6D-green-laser') {
+    header("Location: /6d-green-laser", true, 301);
+    exit();
+}
+
 $redirectMap = [
     // Explicit requested redirects
     '/cosmetic-dermatology-kampala-juba' => '/services',
@@ -67,6 +72,10 @@ $redirectMap = [
     '/heres-why-your-weight-loss-regimen-isnt-paying-off' => '/',
     '/tag/skin-cleansing/feed' => '/blog',
     '/-kampala-juba' => '/',
+    '/%20-kampala-juba' => '/',
+    '/ -kampala-juba' => '/',
+    '/service/psoriasis' => '/psoriasis',
+    '/laser-treatments-in-mpigi' => '/laser-treatments',
     '/wp-json/elementskit/v1' => '/',
 
     // Legacy doctor & team redirects
@@ -133,7 +142,7 @@ $redirectMap = [
     '/omg-shot-treatment-kampala-juba' => '/omg-shot',
     '/allurion-weight-loss-treatment-kampala-juba' => '/allurion-weight-loss',
     '/semaglutide-ozempic-weight-loss-kampala-juba' => '/semaglutide-ozempic-weight-loss',
-    '/weight-loss-kampala-juba' => '/semaglutide-ozempic-weight-loss',
+    '/weight-loss-kampala-juba' => '/weight-loss',
     '/gastric-sleeve-and-bypass-surgery-kampala-juba' => '/gastric-sleeve-and-bypass-surgery',
     '/wonder-axon-treatment-kampala-juba' => '/wonder-axon-treatment',
     '/cryolipolysis-fat-freezing-treatment-kampala-juba' => '/cryolipolysis',

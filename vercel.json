@@ -48,7 +48,11 @@
     { "source": "/wp-json/elementskit/v1", "destination": "/", "permanent": true },
     { "source": "/wp-json/elementskit/v1/:path*", "destination": "/", "permanent": true },
     { "source": "/laser-hair-removal-in-uganda-kampala-juba", "destination": "/laser-hair-removal", "permanent": true },
-    { "source": "/weight-loss-kampala-juba", "destination": "/semaglutide-ozempic-weight-loss", "permanent": true }
+    { "source": "/weight-loss-kampala-juba", "destination": "/weight-loss", "permanent": true },
+    { "source": "/service/psoriasis", "destination": "/psoriasis", "permanent": true },
+    { "source": "/laser-treatments-in-mpigi", "destination": "/laser-treatments", "permanent": true },
+    { "source": "/6D-green-laser", "destination": "/6d-green-laser", "permanent": true },
+    { "source": "/%20-kampala-juba", "destination": "/", "permanent": true }
   ],
   "routes": [
     {
