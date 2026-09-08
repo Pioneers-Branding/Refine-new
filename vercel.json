@@ -52,7 +52,9 @@
     { "source": "/service/psoriasis", "destination": "/psoriasis", "permanent": true },
     { "source": "/laser-treatments-in-mpigi", "destination": "/laser-treatments", "permanent": true },
     { "source": "/6D-green-laser", "destination": "/6d-green-laser", "permanent": true },
-    { "source": "/%20-kampala-juba", "destination": "/", "permanent": true }
+    { "source": "/%20-kampala-juba", "destination": "/", "permanent": true },
+    { "source": "/index.php", "destination": "/", "permanent": true },
+    { "source": "/blog/nad-iv-therapy", "destination": "/blog", "permanent": true }
   ],
   "routes": [
     {
