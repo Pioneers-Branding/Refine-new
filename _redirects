@@ -167,6 +167,7 @@
 /blog/feed/eczema /blog 301!
 /blog/feed/psoriasis /blog 301!
 /blog/feed/semaglutide-ozempic-weight-loss /blog 301!
+/blog/author/admin/feed /blog 301!
 /blog/author/* /blog 301!
 /blog/feed/* /blog 301!
 /blog/category/* /blog 301!

@@ -212,6 +212,7 @@ $redirectMap = [
     '/blog/feed/eczema' => '/blog',
     '/blog/feed/psoriasis' => '/blog',
     '/blog/feed/semaglutide-ozempic-weight-loss' => '/blog',
+    '/blog/author/admin/feed' => '/blog',
 
     // Requested checkout and tag redirects
     '/checkout' => '/',

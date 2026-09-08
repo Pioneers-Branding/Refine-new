@@ -96,6 +96,7 @@
     { "source": "/blog/feed/eczema", "destination": "/blog", "permanent": true },
     { "source": "/blog/feed/psoriasis", "destination": "/blog", "permanent": true },
     { "source": "/blog/feed/semaglutide-ozempic-weight-loss", "destination": "/blog", "permanent": true },
+    { "source": "/blog/author/admin/feed", "destination": "/blog", "permanent": true },
     { "source": "/blog/author/:path*", "destination": "/blog", "permanent": true },
     { "source": "/blog/feed/:path*", "destination": "/blog", "permanent": true },
     { "source": "/blog/category/:path*", "destination": "/blog", "permanent": true },
