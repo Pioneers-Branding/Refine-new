@@ -641,6 +641,7 @@ $metaKeywords = "Non-Surgical Liquid Rhinoplasty in Kabalagala, Non-Surgical Liq
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

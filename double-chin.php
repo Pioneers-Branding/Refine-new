@@ -626,6 +626,7 @@ $metaKeywords = "Double Chin Treatment in Kampala, Double Chin Treatment treatme
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

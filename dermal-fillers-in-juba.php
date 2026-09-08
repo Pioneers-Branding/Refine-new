@@ -641,6 +641,7 @@ $metaKeywords = "Dermal Fillers in Juba, Dermal Fillers treatment in Kampal, Der
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

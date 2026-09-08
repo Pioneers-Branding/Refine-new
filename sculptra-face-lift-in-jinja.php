@@ -653,6 +653,7 @@ $metaKeywords = "Sculptra Face Lift in Jinja, Sculptra Face Lift treatment in Ka
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

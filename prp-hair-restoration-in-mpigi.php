@@ -653,6 +653,7 @@ $metaKeywords = "PRP Hair Restoration in Mpigi, PRP Hair Restoration treatment i
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -142,6 +142,7 @@ $metaKeywords = "Anti Aging Kampala, Botox Uganda, Dermal Fillers Kampala, Sculp
 
 
     <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/landing-footer.php'; ?>

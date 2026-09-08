@@ -480,6 +480,7 @@ $metaKeywords = "Laser Hair Removal Kampala, Laser Tattoo Removal Uganda, CO2 Fr
     </script>
 
     <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/landing-footer.php'; ?>

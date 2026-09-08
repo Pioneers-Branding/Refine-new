@@ -641,6 +641,7 @@ $metaKeywords = "Em Body Sculpt in Kabalagala, Em Body Sculpt treatment in Kampa
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

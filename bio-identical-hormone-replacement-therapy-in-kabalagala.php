@@ -641,6 +641,7 @@ $metaKeywords = "Bio-Identical Hormone Replacement Therapy in Kabalagala, Bio-Id
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -653,6 +653,7 @@ $metaKeywords = "Lip Volumization in Mukono, Lip Volumization treatment in Kampa
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

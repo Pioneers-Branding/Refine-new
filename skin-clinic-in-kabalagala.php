@@ -473,6 +473,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
     </section>
 
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

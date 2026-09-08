@@ -151,6 +151,7 @@ $canonicalUrl = "https://refineskinandbody.com/aftercare-in-jinja";
         .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
     </style>
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

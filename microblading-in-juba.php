@@ -382,6 +382,8 @@ $metaKeywords = "Microblading in Juba, Microblading treatment in Juba, Microblad
             </a>
         </div>
     </section>
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

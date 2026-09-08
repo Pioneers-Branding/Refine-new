@@ -662,6 +662,7 @@ $metaKeywords = "Melasma Treatment in Entebbe, Melasma Treatment treatment in Ka
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

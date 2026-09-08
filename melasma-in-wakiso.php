@@ -662,6 +662,7 @@ $metaKeywords = "Melasma Treatment in Wakiso, Melasma Treatment treatment in Kam
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

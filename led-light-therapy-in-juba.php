@@ -641,6 +641,7 @@ $metaKeywords = "LED Light Therapy in Juba, LED Light Therapy treatment in Kampa
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -159,6 +159,8 @@ $canonicalUrl = "https://refineskinandbody.com/services";
         </div>
     </section>
 
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
     <!-- ============================================

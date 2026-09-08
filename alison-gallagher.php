@@ -184,6 +184,8 @@ $canonicalUrl = "https://refineskinandbody.com/alison-gallagher";
         </div>
     </section>
 
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -569,6 +569,7 @@ $metaKeywords = "Plastic Surgery Wakiso, Plastic Surgeon Uganda, Dr William Lube
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

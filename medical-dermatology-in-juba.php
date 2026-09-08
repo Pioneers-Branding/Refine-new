@@ -641,6 +641,7 @@ $metaKeywords = "Medical Dermatology in Juba, Medical Dermatology treatment in K
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

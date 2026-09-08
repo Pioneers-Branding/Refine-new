@@ -653,6 +653,7 @@ $metaKeywords = "Plasma Pen Therapy in Mpigi, Plasma Pen Therapy treatment in Ka
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

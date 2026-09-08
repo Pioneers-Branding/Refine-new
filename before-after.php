@@ -239,6 +239,8 @@ $pageDescription = "Browse authentic, unretouched transformations and clinical o
         });
     });
     </script>
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -641,6 +641,7 @@ $metaKeywords = "Non-Surgical Liquid Rhinoplasty in Bukoto, Non-Surgical Liquid 
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

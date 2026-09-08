@@ -641,6 +641,7 @@ $metaKeywords = "6D Green Laser Treatment in Kabalagala, 6D Green Laser Treatmen
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -395,6 +395,7 @@ $pageDescription = "High-dose immunity IV drip with Vitamin C, zinc, and antioxi
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

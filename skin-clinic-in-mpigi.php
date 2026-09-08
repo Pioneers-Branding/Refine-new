@@ -485,6 +485,7 @@ $metaKeywords = "Skin Clinic in Mpigi, Dermatologist in Mpigi, Acne Treatment Mp
     </section>
 
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

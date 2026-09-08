@@ -641,6 +641,7 @@ $metaKeywords = "Rosacea Treatment in Kampala, Rosacea Treatment treatment in Ka
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -638,6 +638,7 @@ $metaKeywords = "Platelet-Rich Plasma Facial in Mukono, Platelet-Rich Plasma Fac
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

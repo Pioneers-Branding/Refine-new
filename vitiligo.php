@@ -642,6 +642,7 @@ $metaKeywords = "Vitiligo Treatment in Kampala, Vitiligo Treatment treatment in 
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

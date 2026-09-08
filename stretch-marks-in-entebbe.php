@@ -653,6 +653,7 @@ $metaKeywords = "Stretch Marks Treatment in Entebbe, Stretch Marks Treatment tre
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

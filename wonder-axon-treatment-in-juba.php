@@ -641,6 +641,7 @@ $metaKeywords = "Wonder Axon Treatment in Juba, Wonder Axon Treatment treatment 
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

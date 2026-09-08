@@ -626,6 +626,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Juba, Botox&reg; Anti-Aging 
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

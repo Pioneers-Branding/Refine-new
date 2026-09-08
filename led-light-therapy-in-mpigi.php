@@ -653,6 +653,7 @@ $metaKeywords = "LED Light Therapy in Mpigi, LED Light Therapy treatment in Kamp
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

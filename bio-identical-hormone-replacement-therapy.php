@@ -641,6 +641,7 @@ $metaKeywords = "Bio-Identical Hormone Replacement Therapy in Kampala, Bio-Ident
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

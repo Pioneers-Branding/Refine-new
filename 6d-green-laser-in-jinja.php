@@ -653,6 +653,7 @@ $metaKeywords = "6D Green Laser Treatment in Jinja, 6D Green Laser Treatment tre
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

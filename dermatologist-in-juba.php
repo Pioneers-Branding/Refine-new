@@ -479,6 +479,7 @@ $metaKeywords = "Dermatologist in Juba, Skin Doctor Juba, Best Dermatologist Sou
     </section>
 
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -642,6 +642,7 @@ $metaKeywords = "Alopecia Areata Treatment in Kabalagala, Alopecia Areata Treatm
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

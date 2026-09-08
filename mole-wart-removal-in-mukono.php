@@ -653,6 +653,7 @@ $metaKeywords = "Mole and Wart Removal in Mukono, Mole and Wart Removal treatmen
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

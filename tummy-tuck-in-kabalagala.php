@@ -641,6 +641,7 @@ $metaKeywords = "Tummy Tuck Abdominoplasty in Kabalagala, Tummy Tuck Abdominopla
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

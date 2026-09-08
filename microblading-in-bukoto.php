@@ -382,6 +382,8 @@ $metaKeywords = "Microblading in Bukoto, Microblading treatment in Bukoto, Eyebr
             </a>
         </div>
     </section>
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

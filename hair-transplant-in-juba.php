@@ -641,6 +641,7 @@ $metaKeywords = "Hair Transplant in Juba, Hair Transplant treatment in Kampal, H
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

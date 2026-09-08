@@ -569,6 +569,7 @@ $metaKeywords = "Plastic Surgery Kabalagala, Plastic Surgeon Uganda, Dr William 
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

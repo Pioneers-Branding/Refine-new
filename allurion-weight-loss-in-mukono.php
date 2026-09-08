@@ -653,6 +653,7 @@ $metaKeywords = "Allurion Weight Loss in Mukono, Allurion Weight Loss treatment 
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

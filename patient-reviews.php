@@ -235,6 +235,8 @@ $pageDescription = "Read honest feedback and reviews from our verified clients a
         </div>
     </section>
 
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -653,6 +653,7 @@ $metaKeywords = "The OMG-Shot in Wakiso, The OMG-Shot treatment in Kampal";
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -653,6 +653,7 @@ $metaKeywords = "Skin Cancer Treatment in Wakiso, Skin Cancer Treatment treatmen
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

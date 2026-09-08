@@ -641,6 +641,7 @@ $metaKeywords = "Stretch Marks Treatment in Kabalagala, Stretch Marks Treatment 
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

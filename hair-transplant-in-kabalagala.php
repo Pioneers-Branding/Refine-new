@@ -641,6 +641,7 @@ $metaKeywords = "Hair Transplant in Kabalagala, Hair Transplant treatment in Kam
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

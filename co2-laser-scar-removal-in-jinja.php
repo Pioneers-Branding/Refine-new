@@ -653,6 +653,7 @@ $metaKeywords = "CO2 Laser Scar Removal in Jinja, CO2 Laser Scar Removal treatme
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

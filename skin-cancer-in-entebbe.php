@@ -653,6 +653,7 @@ $metaKeywords = "Skin Cancer Treatment in Entebbe, Skin Cancer Treatment treatme
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -641,6 +641,7 @@ $metaKeywords = "PRP Breast Lift in Kabalagala, PRP Breast Lift treatment in Kam
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

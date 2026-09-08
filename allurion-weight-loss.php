@@ -641,6 +641,7 @@ $metaKeywords = "Allurion Weight Loss in Kampala, Allurion Weight Loss treatment
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

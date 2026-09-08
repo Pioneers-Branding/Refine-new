@@ -626,6 +626,7 @@ $metaKeywords = "Platelet-Rich Plasma Facial in Kabalagala, Platelet-Rich Plasma
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

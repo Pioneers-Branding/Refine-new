@@ -653,6 +653,7 @@ $metaKeywords = "Bio-Identical Hormone Replacement Therapy in Entebbe, Bio-Ident
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

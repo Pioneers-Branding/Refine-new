@@ -409,6 +409,7 @@ $canonicalUrl = "https://refineskinandbody.com/stress-sleep-wellness-in-nansana"
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

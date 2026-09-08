@@ -183,6 +183,8 @@ $pageDescription = "Explore our premium treatment packages and pricing structure
         </div>
     </section>
 
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

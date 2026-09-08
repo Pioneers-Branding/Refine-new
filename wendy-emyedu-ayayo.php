@@ -122,6 +122,8 @@ $canonicalUrl = "https://refineskinandbody.com/wendy-emyedu-ayayo";
         </div>
     </section>
 
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
     <!-- ============================================

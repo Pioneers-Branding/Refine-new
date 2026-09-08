@@ -653,6 +653,7 @@ $metaKeywords = "Joint and Tissue Rejuvenation in Wakiso, Joint and Tissue Rejuv
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

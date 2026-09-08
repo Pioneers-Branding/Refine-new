@@ -7376,6 +7376,8 @@ include 'includes/header.php';
             </aside>
         </div>
     </section>
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php else: ?>

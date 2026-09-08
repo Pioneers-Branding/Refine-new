@@ -153,6 +153,8 @@ $canonicalUrl = "https://refineskinandbody.com/dr-vicky-koojo-nganzi";
         </div>
     </section>
 
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

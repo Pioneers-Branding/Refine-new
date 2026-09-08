@@ -626,6 +626,7 @@ $metaKeywords = "IV Therapy in Kampala, IV Therapy treatment in Kampal, IV Thera
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

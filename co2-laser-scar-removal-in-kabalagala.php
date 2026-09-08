@@ -641,6 +641,7 @@ $metaKeywords = "CO2 Laser Scar Removal in Kabalagala, CO2 Laser Scar Removal tr
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -653,6 +653,7 @@ $metaKeywords = "Laser Tattoo Removal in Mpigi, Laser Tattoo Removal treatment i
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

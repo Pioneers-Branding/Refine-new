@@ -641,6 +641,7 @@ $metaKeywords = "PRP Breast Lift in Juba, PRP Breast Lift treatment in Kampal, P
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

@@ -408,6 +408,7 @@ $canonicalUrl = "https://refineskinandbody.com/nad-iv-therapy-in-nansana";
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

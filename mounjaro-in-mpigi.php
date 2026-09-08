@@ -570,6 +570,7 @@ $metaKeywords = "Mounjaro Weight Loss Mpigi, Mounjaro in Mpigi, Tirzepatide Ugan
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

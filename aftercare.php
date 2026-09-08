@@ -138,6 +138,7 @@ $pageDescription = "Proper aftercare is crucial for achieving optimal results an
     <?php include 'includes/video-testimonials.php'; ?>
 
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

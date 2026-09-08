@@ -490,6 +490,7 @@ $metaKeywords = "Dermatologist in Nansana, Skin Doctor Nansana, Best Dermatologi
     </section>
 
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

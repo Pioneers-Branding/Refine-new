@@ -654,6 +654,7 @@ $metaKeywords = "Vitiligo Treatment in Mpigi, Vitiligo Treatment treatment in Ka
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

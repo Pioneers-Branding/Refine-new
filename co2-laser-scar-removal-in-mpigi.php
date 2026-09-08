@@ -653,6 +653,7 @@ $metaKeywords = "CO2 Laser Scar Removal in Mpigi, CO2 Laser Scar Removal treatme
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

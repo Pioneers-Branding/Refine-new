@@ -284,6 +284,7 @@ $metaKeywords = "Skin Rejuvenation Kampala, HydraFacial Uganda, Chemical Peel Ka
 
 
     <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/landing-footer.php'; ?>

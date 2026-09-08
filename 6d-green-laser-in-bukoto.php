@@ -641,6 +641,7 @@ $metaKeywords = "6D Green Laser Treatment in Bukoto, 6D Green Laser Treatment tr
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

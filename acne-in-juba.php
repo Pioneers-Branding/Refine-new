@@ -641,6 +641,7 @@ $metaKeywords = "Acne Treatment in Juba, Acne Treatment treatment in Kampal, Acn
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

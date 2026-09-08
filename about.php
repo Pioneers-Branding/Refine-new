@@ -244,6 +244,8 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
 
     
 
+
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

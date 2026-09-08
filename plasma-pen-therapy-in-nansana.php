@@ -653,6 +653,7 @@ $metaKeywords = "Plasma Pen Therapy in Nansana, Plasma Pen Therapy treatment in 
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

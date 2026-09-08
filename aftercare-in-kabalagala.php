@@ -139,6 +139,7 @@ $canonicalUrl = "https://refineskinandbody.com/aftercare-in-kabalagala";
     <?php include 'includes/video-testimonials.php'; ?>
 
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

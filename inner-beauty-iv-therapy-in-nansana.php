@@ -412,6 +412,7 @@ $canonicalUrl = "https://refineskinandbody.com/inner-beauty-iv-therapy-in-nansan
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

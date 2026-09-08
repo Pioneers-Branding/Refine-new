@@ -485,6 +485,7 @@ $metaKeywords = "Skin Clinic in Mukono, Dermatologist in Mukono, Acne Treatment 
     </section>
 
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

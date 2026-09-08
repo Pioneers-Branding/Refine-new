@@ -653,6 +653,7 @@ $metaKeywords = "Joint and Tissue Rejuvenation in Entebbe, Joint and Tissue Reju
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>

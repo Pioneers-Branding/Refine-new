@@ -653,6 +653,7 @@ $metaKeywords = "Tummy Tuck Abdominoplasty in Jinja, Tummy Tuck Abdominoplasty t
     </script>
     
 <?php include 'includes/locations-selector.php'; ?>
+    <?php include 'includes/appointment-form.php'; ?>
 </main>
 
 <?php include 'includes/footer.php'; ?>
