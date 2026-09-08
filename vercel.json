@@ -99,7 +99,18 @@
     { "source": "/blog/author/:path*", "destination": "/blog", "permanent": true },
     { "source": "/blog/feed/:path*", "destination": "/blog", "permanent": true },
     { "source": "/blog/category/:path*", "destination": "/blog", "permanent": true },
-    { "source": "/blog/2024/:path*", "destination": "/blog", "permanent": true }
+    { "source": "/blog/2024/:path*", "destination": "/blog", "permanent": true },
+    { "source": "/checkout", "destination": "/", "permanent": true },
+    { "source": "/checkout/:path*", "destination": "/", "permanent": true },
+    { "source": "/tag/liposuction", "destination": "/", "permanent": true },
+    { "source": "/tag/liposuction/:path*", "destination": "/", "permanent": true },
+    { "source": "/tag/tackling-the-loose-skin-nightmare", "destination": "/", "permanent": true },
+    { "source": "/tag/tackling-the-loose-skin-nightmare/:path*", "destination": "/", "permanent": true },
+    { "source": "/tag/skin-cleansing", "destination": "/", "permanent": true },
+    { "source": "/tag/skin-cleansing/:path*", "destination": "/", "permanent": true },
+    { "source": "/tag/vitamin-therapy", "destination": "/", "permanent": true },
+    { "source": "/tag/vitamin-therapy/:path*", "destination": "/", "permanent": true },
+    { "source": "/tag/:path*", "destination": "/", "permanent": true }
   ],
   "routes": [
     {

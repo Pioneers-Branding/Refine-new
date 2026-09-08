@@ -212,6 +212,13 @@ $redirectMap = [
     '/blog/feed/eczema' => '/blog',
     '/blog/feed/psoriasis' => '/blog',
     '/blog/feed/semaglutide-ozempic-weight-loss' => '/blog',
+
+    // Requested checkout and tag redirects
+    '/checkout' => '/',
+    '/tag/liposuction' => '/',
+    '/tag/tackling-the-loose-skin-nightmare' => '/',
+    '/tag/skin-cleansing' => '/',
+    '/tag/vitamin-therapy' => '/',
 ];
 
 $lowerPath = strtolower($path);
@@ -231,7 +238,13 @@ if (
     header("Location: /blog", true, 301);
     exit();
 }
-if (strpos($lowerPath, '/wp-json/elementskit/v1') === 0 || strpos($lowerPath, '/service/slender-wonder') === 0 || strpos($lowerPath, '/heres-why-your-weight-loss-regimen-isnt-paying-off') === 0) {
+if (
+    strpos($lowerPath, '/checkout') === 0 ||
+    strpos($lowerPath, '/tag/') === 0 ||
+    strpos($lowerPath, '/wp-json/elementskit/v1') === 0 ||
+    strpos($lowerPath, '/service/slender-wonder') === 0 ||
+    strpos($lowerPath, '/heres-why-your-weight-loss-regimen-isnt-paying-off') === 0
+) {
     header("Location: /", true, 301);
     exit();
 }

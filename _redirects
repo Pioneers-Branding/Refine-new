@@ -171,6 +171,17 @@
 /blog/feed/* /blog 301!
 /blog/category/* /blog 301!
 /blog/2024/* /blog 301!
+/checkout / 301!
+/checkout/* / 301!
+/tag/liposuction / 301!
+/tag/liposuction/* / 301!
+/tag/tackling-the-loose-skin-nightmare / 301!
+/tag/tackling-the-loose-skin-nightmare/* / 301!
+/tag/skin-cleansing / 301!
+/tag/skin-cleansing/* / 301!
+/tag/vitamin-therapy / 301!
+/tag/vitamin-therapy/* / 301!
+/tag/* / 301!
 /sidebar / 301!
 /sidebar-temp / 301!
 /skin-and-body-rejuvenation-kampala-juba /skin-rejuvenation 301!
