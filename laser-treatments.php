@@ -14,12 +14,6 @@ $metaKeywords = "Laser Hair Removal Kampala, Laser Tattoo Removal Uganda, CO2 Fr
     <!-- ============================================
          HERO SECTION: LASER TREATMENTS
          ============================================ -->
-
-    <!-- ============================================
-         VIDEO TESTIMONIALS & INSIGHTS
-         ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
-
     <section class="relative min-h-[80vh] lg:min-h-[760px] w-full flex items-center justify-center overflow-hidden pt-24 pb-16 bg-brand-deeper text-white">
         <!-- Hero Background Image -->
         <div class="absolute inset-0 z-0">
@@ -416,6 +410,11 @@ $metaKeywords = "Laser Hair Removal Kampala, Laser Tattoo Removal Uganda, CO2 Fr
             </div>
         </div>
     </section>
+
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
 
     <!-- ============================================
          FAQ SECTION
