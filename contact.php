@@ -104,27 +104,27 @@ $pageDescription = "We are here to assist you. Reach out to book a consultation 
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div>
                                 <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">First Name</label>
-                                <input type="text" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="Jane" required>
+                                <input type="text" name="first_name" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="Jane" required>
                             </div>
                             <div>
                                 <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Last Name</label>
-                                <input type="text" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="Doe" required>
+                                <input type="text" name="last_name" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="Doe" required>
                             </div>
                         </div>
                         
                         <div>
                             <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Email Address</label>
-                            <input type="email" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="jane@example.com" required>
+                            <input type="email" name="email" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="jane@example.com" required>
                         </div>
                         
                         <div>
                             <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Phone Number</label>
-                            <input type="tel" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="+256 ...">
+                            <input type="tel" name="phone" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="+256 ...">
                         </div>
 
                         <div>
                             <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Message</label>
-                            <textarea rows="4" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="How can we help you?" required></textarea>
+                            <textarea rows="4" name="message" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" placeholder="How can we help you?" required></textarea>
                         </div>
 
                         <button type="submit" class="btn-magnetic w-full magnetic-target mt-4">

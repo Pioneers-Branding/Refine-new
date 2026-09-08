@@ -64,19 +64,19 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                                     <div>
                                         <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">First Name</label>
-                                        <input type="text" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
+                                        <input type="text" name="first_name" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
                                     </div>
                                     <div>
                                         <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Last Name</label>
-                                        <input type="text" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
+                                        <input type="text" name="last_name" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
                                     </div>
                                     <div>
                                         <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Phone Number</label>
-                                        <input type="tel" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
+                                        <input type="tel" name="phone" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
                                     </div>
                                     <div>
                                         <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Email Address</label>
-                                        <input type="email" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
+                                        <input type="email" name="email" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
                                     </div>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                                     <div class="md:col-span-2">
                                         <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Select Clinic Branch</label>
                                         <div class="relative">
-                                            <select class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent appearance-none transition-colors cursor-pointer" required>
+                                            <select name="location" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent appearance-none transition-colors cursor-pointer" required>
                                                 <option value="" disabled selected>Choose a location...</option>
                                                 <option value="kampala-hq">Kampala HQ (Forest Mall)</option>
                                                 <option value="kabalagala">Kampala (Kabalagala)</option>
@@ -105,7 +105,7 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                                     <div class="md:col-span-2">
                                         <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Primary Interest / Treatment</label>
                                         <div class="relative">
-                                            <select class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent appearance-none transition-colors cursor-pointer" required>
+                                            <select name="treatment_interest" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent appearance-none transition-colors cursor-pointer" required>
                                                 <option value="" disabled selected>What can we help you with?</option>
                                                 <optgroup label="Cosmetic Dermatology">
                                                     <option value="hydrafacial">HydraFacial</option>
@@ -137,14 +137,14 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                                     <!-- Date -->
                                     <div>
                                         <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Preferred Date</label>
-                                        <input type="date" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
+                                        <input type="date" name="appointment_date" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors" required>
                                     </div>
 
                                     <!-- Time -->
                                     <div>
                                         <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Preferred Time</label>
                                         <div class="relative">
-                                            <select class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent appearance-none transition-colors cursor-pointer" required>
+                                            <select name="appointment_time" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent appearance-none transition-colors cursor-pointer" required>
                                                 <option value="" disabled selected>Select time...</option>
                                                 <option value="morning">Morning (9:00 AM - 12:00 PM)</option>
                                                 <option value="afternoon">Afternoon (12:00 PM - 4:00 PM)</option>
@@ -156,6 +156,12 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                                 </div>
                             </div>
                             
+                            <!-- Additional Message -->
+                            <div>
+                                <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Message / Concern (Optional)</label>
+                                <textarea name="message" rows="4" class="w-full bg-white border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent transition-colors resize-y" placeholder="Please describe your concern or requirements"></textarea>
+                            </div>
+
                             <div class="pt-6 border-t border-brand/10">
                                 <button type="submit" class="btn-magnetic w-full magnetic-target">
                                     <span>Secure Appointment</span>

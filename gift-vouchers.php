@@ -67,17 +67,17 @@ $pageDescription = "Give the gift of radiant skin and ultimate relaxation. Our l
                         <div class="grid md:grid-cols-2 gap-6">
                             <div>
                                 <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Recipient's Name</label>
-                                <input type="text" class="w-full bg-surface-warm border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent" required>
+                                <input type="text" name="name" class="w-full bg-surface-warm border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent" required>
                             </div>
                             <div>
                                 <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Recipient's Email</label>
-                                <input type="email" class="w-full bg-surface-warm border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent" placeholder="(Optional)">
+                                <input type="email" name="email" class="w-full bg-surface-warm border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent" placeholder="(Optional)">
                             </div>
                         </div>
                         
                         <div>
                             <label class="block text-xs font-semibold text-brand-deeper uppercase tracking-widest mb-2">Personal Message (Optional)</label>
-                            <textarea rows="3" class="w-full bg-surface-warm border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent"></textarea>
+                            <textarea rows="3" name="message" class="w-full bg-surface-warm border border-brand/10 rounded-xl px-4 py-3 text-sm focus:outline-none focus:border-accent"></textarea>
                         </div>
 
                         <div class="border-t border-brand/10 pt-8">
