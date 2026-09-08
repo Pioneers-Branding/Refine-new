@@ -164,6 +164,54 @@ $redirectMap = [
     '/refine-iv-lounge-in-jinja' => '/iv-therapy-in-jinja',
     '/refine-iv-lounge-in-wakiso' => '/iv-therapy-in-wakiso',
     '/refine-iv-lounge-in-nansana' => '/iv-therapy-in-nansana',
+
+    // Blog & Legacy redirections
+    '/faqs' => '/blog',
+    '/aftercare' => '/blog',
+    '/blog/hair-transplant' => '/blog',
+    '/blog/post-party-iv-therapy' => '/blog',
+    '/blog/prp-hair-restoration' => '/blog',
+    '/blog/vitamin-b12-combo-iv-therapy-treatment-kampala-juba' => '/blog',
+    '/blog/mobile-iv-service-kampala-juba' => '/blog',
+    '/blog/inner-beauty-iv-therapy' => '/blog',
+    '/blog/feed' => '/blog',
+    '/blog/2024/12' => '/blog',
+    '/blog/category/uncategorized' => '/blog',
+    '/blog/author/admin' => '/blog',
+    '/blog/2024/12/26/hello-world' => '/blog',
+    '/blog/author/admin/microblading-kampala-juba' => '/blog',
+    '/blog/author/admin/vitamin-c-treatment-iv-therapy-treatment-kampala-juba' => '/blog',
+    '/blog/author/admin/total-sport-iv-therapy' => '/blog',
+    '/blog/author/admin/scar' => '/blog',
+    '/blog/2024/12/post-party-iv-therapy' => '/blog',
+    '/blog/2024/12/m-shot' => '/blog',
+    '/blog/2024/12/eyebrow-transplant-kampala-juba' => '/blog',
+    '/blog/2024/12/gastric-sleeve-and-bypass-surgery' => '/blog',
+    '/blog/2024/12/rf-microneedling' => '/blog',
+    '/blog/2024/12/26/hello-world/patient-reviews' => '/blog',
+    '/blog/2024/12/26/hello-world/book-appointment' => '/blog',
+    '/blog/2024/12/26/hello-world/refine-iv-lounge-kampala-juba' => '/blog',
+    '/blog/category/uncategorized/post-party-iv-therapy' => '/blog',
+    '/blog/category/uncategorized/book-appointment' => '/blog',
+    '/blog/category/uncategorized/acne' => '/blog',
+    '/blog/category/uncategorized/jet-lag-iv-therapy-treatment-kampala-juba' => '/blog',
+    '/blog/category/uncategorized/dr-vicky-koojo-nganzi' => '/blog',
+    '/blog/feed/dr-henry-owiny' => '/blog',
+    '/blog/feed/led-light-therapy' => '/blog',
+    '/blog/feed/rf-microneedling' => '/blog',
+    '/blog/feed/immunity-iv-therapy' => '/blog',
+    '/blog/feed/dr-william-lubega' => '/blog',
+    '/blog/feed/amino-acids-iv-therapy-treatment-kampala-juba' => '/blog',
+    '/blog/feed/botox' => '/blog',
+    '/blog/feed/total-sport-iv-therapy' => '/blog',
+    '/blog/feed/stretch-marks' => '/blog',
+    '/blog/feed/non-surgical-brazilian-butt-lift' => '/blog',
+    '/blog/feed/joint-and-tissue-rejuvenation' => '/blog',
+    '/blog/feed/eyebrow-transplant-kampala-juba' => '/blog',
+    '/blog/feed/skin-cancer' => '/blog',
+    '/blog/feed/eczema' => '/blog',
+    '/blog/feed/psoriasis' => '/blog',
+    '/blog/feed/semaglutide-ozempic-weight-loss' => '/blog',
 ];
 
 $lowerPath = strtolower($path);
@@ -173,16 +221,22 @@ if (array_key_exists($lowerPath, $redirectMap)) {
 }
 
 // Prefix pattern redirects
+if (
+    strpos($lowerPath, '/blog/author') === 0 ||
+    strpos($lowerPath, '/blog/feed') === 0 ||
+    strpos($lowerPath, '/blog/category') === 0 ||
+    strpos($lowerPath, '/blog/2024') === 0 ||
+    strpos($lowerPath, '/tag/skin-cleansing/feed') === 0
+) {
+    header("Location: /blog", true, 301);
+    exit();
+}
 if (strpos($lowerPath, '/wp-json/elementskit/v1') === 0 || strpos($lowerPath, '/service/slender-wonder') === 0 || strpos($lowerPath, '/heres-why-your-weight-loss-regimen-isnt-paying-off') === 0) {
     header("Location: /", true, 301);
     exit();
 }
 if (strpos($lowerPath, '/is-glutathione-the-magic-bullet') === 0) {
     header("Location: /glutathione-iv-therapy", true, 301);
-    exit();
-}
-if (strpos($lowerPath, '/tag/skin-cleansing/feed') === 0) {
-    header("Location: /blog", true, 301);
     exit();
 }
 
