@@ -6,7 +6,8 @@ $pageDescription = "A potent blend of essential amino acids for muscle recovery,
 $metaTitle = "Inner Beauty IV Therapy | Refine Skin & Body Clinic";
 $metaDescription = $pageDescription;
 ?>
-<?php include 'includes/head.php'; ?>
+<?php $canonicalUrl = "https://refineskinandbody.com/amino-acids-iv-therapy-in-jinja";
+include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
 
 <main class="pt-20">

@@ -3,7 +3,8 @@ $pageCategory = "Investment";
 $pageTitle = "Transparent <i class='text-brand font-light'>Pricing.</i>";
 $pageDescription = "Explore our premium treatment packages and pricing structures. We believe in transparent, upfront investments in your aesthetic journey.";
 ?>
-<?php include 'includes/head.php'; ?>
+<?php $canonicalUrl = "https://refineskinandbody.com/pricing";
+include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
 
 <main class="pt-20">

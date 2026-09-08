@@ -6,7 +6,8 @@ $pageDescription = "Quick and effective intramuscular vitamin injections for a r
 $metaTitle = "Inner Beauty IV Therapy | Refine Skin & Body Clinic";
 $metaDescription = $pageDescription;
 ?>
-<?php include 'includes/head.php'; ?>
+<?php $canonicalUrl = "https://refineskinandbody.com/vitamin-shots-in-mukono";
+include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
 
 <main class="pt-20">

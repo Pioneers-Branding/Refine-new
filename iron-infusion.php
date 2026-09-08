@@ -5,6 +5,7 @@ $pageDescription = "Effective and safe intravenous iron replacement therapy for 
 
 $metaTitle = "Inner Beauty IV Therapy | Refine Skin & Body Clinic";
 $metaDescription = $pageDescription;
+$canonicalUrl = "https://refineskinandbody.com/iron-infusion";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

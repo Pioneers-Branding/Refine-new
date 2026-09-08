@@ -5,6 +5,7 @@ $pageDescription = "The ultimate detox and skin lightening IV drip — packed wi
 
 $metaTitle = "Inner Beauty IV Therapy | Refine Skin & Body Clinic";
 $metaDescription = $pageDescription;
+$canonicalUrl = "https://refineskinandbody.com/glutathione-iv-therapy";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

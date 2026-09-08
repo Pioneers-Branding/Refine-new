@@ -6,7 +6,8 @@ $pageDescription = "Overcome travel fatigue and rehydrate quickly with our speci
 $metaTitle = "Inner Beauty IV Therapy | Refine Skin & Body Clinic";
 $metaDescription = $pageDescription;
 ?>
-<?php include 'includes/head.php'; ?>
+<?php $canonicalUrl = "https://refineskinandbody.com/jet-lag-iv-therapy-in-nansana";
+include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
 
 <main class="pt-20">

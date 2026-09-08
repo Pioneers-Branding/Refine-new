@@ -6,7 +6,8 @@ $pageDescription = "Fast-acting IV therapy to cure hangover symptoms, rehydrate,
 $metaTitle = "Inner Beauty IV Therapy | Refine Skin & Body Clinic";
 $metaDescription = $pageDescription;
 ?>
-<?php include 'includes/head.php'; ?>
+<?php $canonicalUrl = "https://refineskinandbody.com/hangover-iv-therapy-in-entebbe";
+include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
 
 <main class="pt-20">

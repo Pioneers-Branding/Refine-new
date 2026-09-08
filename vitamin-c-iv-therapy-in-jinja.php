@@ -5,6 +5,7 @@ $pageDescription = "High-dose Vitamin C IV therapy for immune support, collagen 
 
 $metaTitle = "Inner Beauty IV Therapy | Refine Skin & Body Clinic";
 $metaDescription = $pageDescription;
+$canonicalUrl = "https://refineskinandbody.com/vitamin-c-iv-therapy-in-jinja";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>

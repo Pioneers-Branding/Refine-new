@@ -3,7 +3,8 @@ $pageCategory = "Medical Solutions";
 $pageTitle = "Anti-Migraine <i class='text-brand font-light'>Therapy.</i>";
 $pageDescription = "Find relief from chronic migraines with our advanced, FDA-approved injectable treatments.";
 ?>
-<?php include 'includes/head.php'; ?>
+<?php $canonicalUrl = "https://refineskinandbody.com/anti-migraine";
+include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
 
 <main class="pt-20">
