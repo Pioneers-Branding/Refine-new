@@ -19,6 +19,317 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: DO HYDRAFACIALS REMOVE BLACKHEADS?
+    // ----------------------------------------------------
+    'do-hydrafacials-remove-blackheads' => [
+        'slug' => 'do-hydrafacials-remove-blackheads',
+        'title' => 'Do Hydrafacials remove blackheads?',
+        'meta_title' => 'Do Hydrafacials remove blackheads?',
+        'category' => 'Facial Treatments',
+        'category_slug' => 'facial',
+        'date' => '9 September, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Lead Specialist, Refine Clinic',
+        'read_time' => '16 min',
+        'image' => '/assets/imagesfromsite/hydra-facial-09.png',
+        'excerpt' => 'Discover how Hydrafacials effectively extract blackheads using patented Vortex-Fusion technology without pain or skin irritation. Learn about pore cleansing, salicylic exfoliation, and expert tips for clear skin.',
+        'content' => '            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Do Hydrafacials Remove Blackheads?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct Answer: Yes, Hydrafacials are exceptionally effective at removing blackheads.</strong> Using patented Vortex-Fusion® suction technology combined with salicylic acid and glycolic acid peels, a Hydrafacial painlessly vacuums out hardened sebum plugs, dead skin cells, and cellular debris from deep within your pores without squeezing, pinching, or damaging the surrounding skin. Patients notice visibly clearer pores and smoother skin texture immediately after a single session.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Extraction Method:</span>
+                        <p class="text-white/80 font-light">Painless Vortex Suction (Zero manual squeezing)</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Key Active Ingredients:</span>
+                        <p class="text-white/80 font-light">Salicylic Acid, Glycolic Acid &amp; Botanical Antioxidants</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Results Timeline:</span>
+                        <p class="text-white/80 font-light">Immediate pore decongestion &amp; 3–4 week lasting clarity</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Blackheads are among the most persistent and frustrating skin concerns people face, regardless of skin type or age. Located predominantly on the nose, chin, and forehead (the T-zone), these stubborn dark spots can make skin look congested and uneven. While it is tempting to use pore strips or squeeze them manually at home, improper extraction methods often aggravate skin inflammation, enlarge pores, and lead to dark scarring or bacterial infections.
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Enter the Hydrafacial: a medical-grade skin resurfacing treatment that has revolutionized non-invasive facial care. If you are struggling with clogged pores and wondering whether a professional facial can deliver lasting relief, the core question is: <em>Do Hydrafacials remove blackheads safely and effectively?</em>
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                The short answer is a definitive <strong>yes</strong>. A professional <a href="https://refineskinandbody.com/hydrafacial" class="text-brand font-semibold hover:underline">Hydrafacial Treatment in Kampala</a> utilizes a unique three-step process combining chemical exfoliation, hydrating serums, and automated fluid extraction to pull blackheads completely out of the hair follicle. Under the supervision of an experienced <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:underline">Dermatologist Kampala</a>, this therapy not only clears active blockages but also conditions your skin barrier to reduce future pore congestion.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Understanding Blackheads</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                To understand why Hydrafacials are so effective, it helps to understand what a blackhead actually is. Clinically known as open <a href="https://en.wikipedia.org/wiki/Comedo" target="_blank" rel="noopener" class="text-brand font-semibold hover:underline">comedones (blackheads)</a>, blackheads form when a hair follicle pore becomes clogged with a mixture of excess sebum (natural skin oil) and dead skin cells (keratinocytes).
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Unlike whiteheads, which remain sealed underneath a thin layer of skin, blackheads stay open to the air at the surface of the pore. When oxygen in the environment comes into contact with the trapped melanin and oil plug, a chemical reaction called oxidation occurs, turning the top of the plug dark brown or black.
+            </p>
+
+            <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm my-8">
+                <h3 class="text-xl font-bold font-heading text-brand-deeper mb-4">Why Manual Squeezing Fails and Damages Your Skin</h3>
+                <ul class="space-y-3 text-brand-muted text-sm sm:text-base font-light">
+                    <li class="flex items-start gap-3">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span><strong>Incomplete Extraction:</strong> Squeezing with fingers or metal tools usually only removes the surface cap of the plug, leaving the deeper root inside the pore.</span>
+                    </li>
+                    <li class="flex items-start gap-3">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span><strong>Tissue Trauma:</strong> Pressing down hard ruptures delicate capillary walls, causing redness, bruises, and broken blood vessels.</span>
+                    </li>
+                    <li class="flex items-start gap-3">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span><strong>Enlarged Pores:</strong> Repeated squeezing stretches the elastin matrix around the pore entrance, making pores look permanently larger.</span>
+                    </li>
+                    <li class="flex items-start gap-3">
+                        <i class="fas fa-times-circle text-red-500 mt-1"></i>
+                        <span><strong>Post-Inflammatory Hyperpigmentation (PIH):</strong> In melanin-rich skin tones, physical pressure triggers melanocytes to produce dark spots around extracted pores.</span>
+                    </li>
+                </ul>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">The Science Behind Hydrafacial Blackhead Extraction</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Hydrafacial technology replaces harsh manual pressure with fluid mechanics. The treatment works through a patented spiral design tip combined with powerful vacuum technology, known as <strong>Vortex-Fusion®</strong>. This system simultaneously delivers chemical peeling agents into the pore while vacuuming out dissolved debris.
+            </p>
+
+            <div class="space-y-8 my-10">
+                <!-- Step 1 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">1</span>
+                        Step 1: Cleanse + Peel (Loosening the Sebum Plug)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        The facial begins with deep cleansing and gentle exfoliation using a combination of lactic acid and botanical extracts. Next, a mild chemical peel solution containing glycolic acid and salicylic acid (GlySal™ peel) is applied.
+                    </p>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">
+                        Salicylic acid is lipid-soluble, meaning it penetrates deep into the oily pore matrix. It breaks down the sticky bonds holding the dead skin cells and hardened oil together, softening the blackhead plug so it can be removed without pulling or scraping.
+                    </p>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">2</span>
+                        Step 2: Extract + Hydrate (Painless Vortex Vacuuming)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Once the blackheads are softened, the clinician glides the Vortex-Fusion® tip across your skin, focusing on congested zones like the nose, chin, and forehead.
+                    </p>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed mb-4">
+                        The tip acts like a mini liquid vacuum. It creates a swirling vortex of salicylic acid serum and liquid suction that gently lifts the blackhead plugs entirely out of the hair follicles. At the exact same second, nourishing honey extract and meadowfoam seed oil flood into the newly opened pore to calm inflammation and prevent dryness.
+                    </p>
+                    <div class="bg-white p-4 rounded-xl border border-brand/5 text-sm text-brand-muted">
+                        <strong class="text-brand-deeper block mb-1">The "Gunkie" Canister Proof:</strong>
+                        <p class="font-light">All extracted blackheads, oil plugs, and dead skin cells are funneled into a transparent waste canister at the back of the machine. After your treatment, you can see the extracted impurities floating in the liquid—providing immediate visual proof of deep pore cleansing!</p>
+                    </div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">3</span>
+                        Step 3: Fuse + Protect (Pore Refinement &amp; Hydration)
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        After the pores are completely emptied of blackheads, the final step saturates the clean skin with potent antioxidants, peptides, and low-molecular hyaluronic acid.
+                    </p>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">
+                        Hydration is crucial for pore control: when pores are dehydrated, your sebaceous glands overcompensate by pumping out more oil, restarting the blackhead cycle. By locking in moisture, Hydrafacial balances oil production and helps contract pore walls back to a refined, smooth appearance.
+                    </p>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Hydrafacial vs. Traditional Manual Facial Extractions</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                If you have ever had a classic spa facial, you may remember painful comedone extractor metal tools and manual squeezing. Here is how Hydrafacial compares:
+            </p>
+
+            <div class="grid md:grid-cols-2 gap-6 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3 flex items-center gap-2">
+                        <i class="fas fa-star text-accent"></i> Hydrafacial Vortex Extraction
+                    </h4>
+                    <ul class="space-y-2 text-sm text-brand-muted font-light">
+                        <li><strong>Pain Level:</strong> Completely painless, relaxing liquid suction sensation.</li>
+                        <li><strong>Pore Decongestion:</strong> Clears thousands of pores evenly across the whole face.</li>
+                        <li><strong>Skin Trauma:</strong> Zero pinch marks, no bruising, no capillary damage.</li>
+                        <li><strong>Downtime:</strong> Zero downtime—walk out with an instant luminous glow.</li>
+                        <li><strong>Hydration:</strong> Infuses active antioxidants into pores while extracting.</li>
+                    </ul>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3 flex items-center gap-2">
+                        <i class="fas fa-hand-sparkles text-brand"></i> Traditional Manual Extraction
+                    </h4>
+                    <ul class="space-y-2 text-sm text-brand-muted font-light">
+                        <li><strong>Pain Level:</strong> Moderate to high discomfort from metal pressing.</li>
+                        <li><strong>Pore Decongestion:</strong> Only targets larger visible spots individually.</li>
+                        <li><strong>Skin Trauma:</strong> High risk of red marks, temporary swelling, or scarring.</li>
+                        <li><strong>Downtime:</strong> 24 to 48 hours of facial redness and irritation.</li>
+                        <li><strong>Hydration:</strong> Can strip natural skin oils if harsh steam is overused.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- LSI Keywords & Topic Spotlight Section -->
+            <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 my-10">
+                <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3">Topic Spotlight: Key Terms &amp; Concepts</h3>
+                <p class="text-brand-muted text-sm font-light leading-relaxed mb-4">
+                    Exploring blackhead treatments and deep pore cleansing? Here are key dermatological terms you should know:
+                </p>
+                <div class="flex flex-wrap gap-2 text-xs">
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">vortex extraction technology</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">salicylic acid exfoliation</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">sebum plug removal</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">open comedones clearance</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">hydradermabrasion facial</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">T-zone pore congestion</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">glycolic acid peel blend</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">painless blackhead removal</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">pore size refinement</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">dermal hydration infusion</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">non-comedogenic skincare</span>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Who Is the Ideal Candidate for Hydrafacial Blackhead Extraction?</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                One of the greatest advantages of Hydrafacial technology is its universal suitability across all Fitzpatrick skin types, ages, and complexions. Unlike aggressive chemical peels or laser treatments that require specific skin conditioning in dark skin tones, Hydrafacials are gentle, non-irritating, and completely safe for melanin-rich African skin.
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Oily &amp; Combination Skin Types</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Individuals with hyperactive sebaceous glands experience rapid oil buildup in the T-zone. Hydrafacial regulates sebum production and removes deep-seated oil plugs before they oxidise into persistent blackheads.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Acne-Prone &amp; Sensitive Skin</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Because there is zero manual squeezing or metal pressure, patients with sensitive or inflamed skin can enjoy thorough pore extractions without triggering acne breakouts or post-inflammatory dark marks.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Enlarged Pores &amp; Rough Texture</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">When hair follicles are clogged with hardened sebum, pore rims stretch outward. Vacuuming out debris allows pore walls to contract naturally, creating a refined, silky-smooth facial canvas.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Busy Professionals Seeking Zero Downtime</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">If you need clear skin for an upcoming wedding, photo shoot, or professional event, a Hydrafacial delivers immediate clarity without peeling skin or red blotches.</p>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Targeted Hydrafacial Boosters for Enhanced Blackhead &amp; Acne Control</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                For patients with stubborn blackheads or concurrent skin concerns such as acne scarring and dark spots, certified dermatologists can customize your Hydrafacial treatment using specialized clinical boosters:
+            </p>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">1. Clarifying &amp; Salicylic Boosters</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Contains concentrated salicylic acid, willow bark extract, and task-specific peptides to control bacterial growth, reduce active inflammatory acne, and clear dense blackhead clusters around the nose.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">2. Brightening &amp; Pigment Inhibiting Boosters</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Utilizes Alpha-Arbutin and Vitamin C to lighten post-acne dark marks and hyperpigmentation left behind by previous manual squeezing attempts.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">3. Deep Hydration &amp; Barrier Repair Boosters</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Infuses multi-weight hyaluronic acid and niacinamide to strengthen the epidermal moisture barrier, soothing sensitive skin and regulating sebum output long after the facial ends.</p>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">How Often Should You Get a Hydrafacial to Prevent Blackheads?</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Because skin continuously generates new skin cells and secretes sebum, blackheads will naturally return over time if regular maintenance is ignored. To keep your skin clear and prevent new comedones from forming, dermatologists recommend a structured treatment schedule:
+            </p>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">1. Initial Reset Phase (Monthly for 3 to 4 Months)</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">If you have severe pore congestion or heavy T-zone blackheads, scheduling monthly Hydrafacials for 3 to 4 consecutive months resets your pore dynamics and clears built-up sebum layers.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">2. Ongoing Maintenance Phase (Every 4 to 6 Weeks)</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Once your skin is clear, maintaining treatments every 4 to 6 weeks aligns with your body’s natural 28-day epidermal renewal cycle, keeping pores tight and preventing oil plugs from hardening.</p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">3. At-Home Maintenance Habits</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Between appointments, wash daily with a gentle BHA (salicylic acid) cleanser, apply a light non-comedogenic moisturizer, and never sleep in makeup.</p>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Frequently Asked Questions (FAQs)</h2>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">1. Do Hydrafacials remove blackheads permanently?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">No single facial treatment can stop your skin from producing oil permanently. While a Hydrafacial removes 100% of existing surface blackheads during your session, regular monthly maintenance and daily home skincare are essential to stop new blackheads from forming.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">2. Does a Hydrafacial hurt during blackhead extraction?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Not at all. Hydrafacial extractions use painless vortex fluid suction rather than manual squeezing. Most patients find the soothing sensation relaxing and enjoyable.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">3. Can I see the blackheads that were extracted from my face?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Yes! All extracted blackheads, excess oil, and dead skin debris are collected in a translucent waste canister (often called the "Gunkie" bottle), which your provider can show you after the treatment.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">4. Are Hydrafacials safe for sensitive skin with blackheads?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Yes, Hydrafacials are suitable for virtually all skin types, including sensitive skin. The clinical provider can adjust the vacuum suction level and peel solution strength to match your skin sensitivity.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">5. How soon after a Hydrafacial will my pores look smaller?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">You will notice visibly cleaner, tighter pores immediately after your treatment. Because the dark oil plug is gone and the pore is infused with hydrating hyaluronic acid, the pore entrance appears noticeably smaller.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">6. Is Salicylic Acid used during a Hydrafacial for blackheads?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Yes. Step 1 incorporates a specialized Salicylic and Glycolic Acid peel mixture designed to dissolve oil bonds within pores so blackheads slide out effortlessly during vortex extraction.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">7. Can Hydrafacials cause more breakouts or purge blackheads?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Unlike harsh chemical peels, purging is very rare with Hydrafacials. Because the vortex technology immediately vacuums away all loosened debris during the treatment, impurities are removed rather than left trapped inside the skin.</p>
+                </div>
+
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">8. Where can I get a professional Hydrafacial treatment for blackheads in Kampala?</h4>
+                    <p class="text-brand-muted text-sm font-light leading-relaxed">Refine Skin &amp; Body Clinic in Kampala offers doctor-supervised Hydrafacial treatments customized for complete blackhead removal, skin rejuvenation, and deep hydration.</p>
+                </div>
+            </div>
+
+            <div class="bg-surface-warm p-8 rounded-3xl border border-brand/10 text-center my-12">
+                <h3 class="text-2xl font-display font-bold text-brand-deeper mb-3">Ready for Clear, Blackhead-Free Skin?</h3>
+                <p class="text-brand-muted text-base font-light mb-6 max-w-2xl mx-auto">Book your medical-grade Hydrafacial treatment at Refine Skin &amp; Body Clinic in Kampala today to experience painless pore extraction and an instant luminous glow.</p>
+                <a href="/contact" class="inline-block bg-brand text-white font-heading font-semibold text-sm px-8 py-4 rounded-full shadow-lg hover:bg-brand-deeper transition-all">Book Your Hydrafacial Consultation</a>
+            </div>
+',
+    ],
+
+    // ----------------------------------------------------
     // ARTICLE: HOW LONG WILL A CHEMICAL PEEL LAST?
     // ----------------------------------------------------
     'how-long-will-a-chemical-peel-last' => [
