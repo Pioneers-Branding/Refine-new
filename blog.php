@@ -19,6 +19,362 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: WHAT IS THE BEST AGE TO GET LIP FILLERS?
+    // ----------------------------------------------------
+    'what-is-the-best-age-to-get-lip-fillers' => [
+        'slug' => 'what-is-the-best-age-to-get-lip-fillers',
+        'title' => 'What is the Best Age to Get Lip Fillers?',
+        'meta_title' => 'What is the Best Age to Get Lip Fillers?',
+        'category' => 'Injectables',
+        'category_slug' => 'injectables',
+        'date' => '12 September, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Lead Specialist, Refine Clinic',
+        'read_time' => '18 min',
+        'image' => '/assets/imagesfromsite/Lip Volumization_09.png',
+        'excerpt' => 'Discover the best age to get lip fillers for natural, stunning results. Learn how hyaluronic acid fillers benefit your 20s, 30s, 40s, and 50s+, safety guidelines, and expert dermatologist tips.',
+        'content' => '            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">What is the Best Age to Get Lip Fillers?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct Answer: The best age to get lip fillers is generally between 21 and 35 years old for cosmetic lip volumization and lip symmetry, or between 35 and 55+ years old for restoring lost volume, hydrating thin lips, and smoothing fine perioral lines.</strong> Legally, patients must be at least 18 years old. Rather than a fixed chronological number, the ideal age depends on your individual aesthetic goals, anatomical maturity, and skin health. Consulting a certified practitioner ensures natural-looking results tailored to your age bracket.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Legal Minimum Age:</span>
+                        <p class="text-white/80 font-light">18 Years Old (Full adult consent required)</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Optimal Aesthetic Window:</span>
+                        <p class="text-white/80 font-light">21 to 35 Years (Plumping &amp; Definition) | 35 to 55+ (Rejuvenation)</p>
+                    </div>
+                    <div>
+                        <span class="text-accent font-semibold block mb-1">Treatment Type:</span>
+                        <p class="text-white/80 font-light">Hyaluronic Acid Dermal Fillers (Reversible &amp; Natural)</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Lip fillers have become one of the most requested aesthetic procedures worldwide. Whether you want a subtle enhancement to balance thin lips or wish to restore youthful fullness lost over time, injectable lip treatments offer an instant, customizable, and non-surgical solution. However, one of the most common questions patients ask before booking their first appointment is: <em>"What is the best age to get lip fillers?"</em>
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                The short answer is that there is no single "magic" chronological number. Instead, the right age depends on what you want to achieve. A 22-year-old seeking to enhance her Cupid&#39;s bow has very different goals than a 45-year-old looking to soften smoker&#39;s lines around the mouth. If you are considering a professional <a href="https://refineskinandbody.com/lip-volumization" class="text-brand font-semibold hover:underline">Lip Fillers treatment in Uganda</a>, understanding how lip filler results evolve across different decades will help you make an informed, confident decision under the guidance of a top <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:underline">Dermatologist Uganda</a> specialist.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">What Are Lip Fillers and How Do They Work?</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Before exploring the ideal age breakdown, it helps to understand what modern lip injections contain. Today&#39;s premium lip fillers are composed of soft, smooth gels made from <a href="https://en.wikipedia.org/wiki/Hyaluronic_acid" target="_blank" rel="noopener" class="text-brand font-semibold hover:underline">Hyaluronic Acid (HA)</a>, a naturally occurring sugar molecule found in human connective tissue and skin.
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Hyaluronic acid has a remarkable ability to attract and retain up to 1,000 times its weight in water. When injected into specific zones of the lips by an experienced medical professional, HA fillers instantly restore volume, refine lip borders, improve lip symmetry, and deeply hydrate the mucosal lining. Unlike older permanent materials, modern hyaluronic acid dermal fillers are bio-compatible, yield soft, natural-looking results, and can be completely dissolved using an enzyme called hyaluronidase if needed.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Legal Minimum Age vs. Aesthetic Readiness</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                From a strict legal standpoint, you must be at least 18 years old to receive elective dermal filler injections without parental consent. However, medical dermatologists generally recommend waiting until at least 20 or 21 years of age.
+            </p>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                During your late teens, your facial bone structure and soft tissues are still subtly developing. Waiting until your early twenties ensures that your natural lip proportion, jawline growth, and dental alignment have fully stabilized. Furthermore, aesthetic readiness requires emotional maturity—understanding that lip augmentation should enhance your natural features rather than mimic transient social media trends.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Decade-by-Decade Guide: Lip Fillers in Your 20s, 30s, 40s, and 50s+</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Your lips undergo natural biological shifts as you age. Here is how lip filler goals and techniques vary across different stages of life:
+            </p>
+
+            <div class="space-y-8 my-10">
+                <!-- 20s -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">20s</span>
+                        Lip Fillers in Your 20s (Ages 21–29): Subtle Enhancement &amp; Symmetry
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        In your 20s, natural collagen production and tissue elasticity are at their peak. Patients in this age group rarely require volume restoration; instead, they seek subtle lip plumping, correction of asymmetrical lips, or definition of the vermilion border and Cupid&#39;s bow.
+                    </p>
+                    <ul class="space-y-2 text-sm text-brand-muted font-light">
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Primary Goal:</strong> Aesthetic contouring, balancing upper and lower lip ratios.</span></li>
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Recommended Volume:</strong> 0.5 mL to 1.0 mL of soft HA filler.</span></li>
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Key Benefit:</strong> Creates pillowy, hydrated lips that complement natural facial proportions.</span></li>
+                    </ul>
+                </div>
+
+                <!-- 30s -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">30s</span>
+                        Lip Fillers in Your 30s (Ages 30–39): Prevention &amp; Moisture Maintenance
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        Starting in your early 30s, natural collagen and hyaluronic acid levels begin a gradual decline of approximately 1% per year. Environmental sun exposure and repetitive facial movements may start causing subtle lip dehydration, fine lip lines, and minor loss of lip border definition.
+                    </p>
+                    <ul class="space-y-2 text-sm text-brand-muted font-light">
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Primary Goal:</strong> Maintaining youthful lip shape, smoothing vertical lip creases, and deep hydration.</span></li>
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Recommended Volume:</strong> 0.5 mL to 1.0 mL focused on micro-droplet hydration.</span></li>
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Key Benefit:</strong> Prevents premature thinning while keeping lipstick from bleeding into fine lines.</span></li>
+                    </ul>
+                </div>
+
+                <!-- 40s -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">40s</span>
+                        Lip Fillers in Your 40s (Ages 40–49): Restoring Volume &amp; Perioral Smoothing
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        By your 40s, bone resorption in the jaw, fat pad atrophy, and hormonal changes accelerate lip volume loss. The upper lip often elongates, the lip borders flatten, and vertical perioral lines (smoker&#39;s lines) become more prominent.
+                    </p>
+                    <ul class="space-y-2 text-sm text-brand-muted font-light">
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Primary Goal:</strong> Replacing structural lip volume loss, softening perioral lines, and restoring lip posture.</span></li>
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Recommended Volume:</strong> 1.0 mL to 1.5 mL structured across treatment sessions.</span></li>
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Key Benefit:</strong> Restores youthful oral rejuvenation without looking overfilled or unnatural.</span></li>
+                    </ul>
+                </div>
+
+                <!-- 50s+ -->
+                <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3 flex items-center gap-3">
+                        <span class="w-8 h-8 rounded-full bg-accent/20 text-accent font-display flex items-center justify-center text-sm font-bold">50s+</span>
+                        Lip Fillers in Your 50s &amp; Beyond (Ages 50+): Rejuvenation &amp; Structural Support
+                    </h3>
+                    <p class="text-brand-muted font-light leading-relaxed mb-4">
+                        For patients in their 50s, 60s, and older, lip filler treatments focus on comprehensive perioral rejuvenation. The primary objective is to rebuild structural support under the corners of the mouth (oral commissures), lift downturned lip corners, and deeply hydrate severely dry lip tissues.
+                    </p>
+                    <ul class="space-y-2 text-sm text-brand-muted font-light">
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Primary Goal:</strong> Lifting downturned mouth corners, restoring lost lip cushion, and structural hydration.</span></li>
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Recommended Volume:</strong> Customized conservative layering over 2–3 sessions.</span></li>
+                        <li class="flex items-center gap-2"><i class="fas fa-check text-accent text-xs"></i> <span><strong>Key Benefit:</strong> Refreshes the lower face, giving a happier, well-rested appearance.</span></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Comparison Table -->
+            <div class="my-10 overflow-x-auto">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm border border-brand/10 text-sm">
+                    <thead>
+                        <tr class="bg-brand-deeper text-white font-heading">
+                            <th class="p-4">Age Group</th>
+                            <th class="p-4">Primary Concern</th>
+                            <th class="p-4">Key Focus Area</th>
+                            <th class="p-4">Expected Longevity</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/5 text-brand-muted font-light">
+                        <tr>
+                            <td class="p-4 font-semibold text-brand-deeper">20s (21–29)</td>
+                            <td class="p-4">Thin lips, asymmetry</td>
+                            <td class="p-4">Cupid&#39;s bow, volume plumping</td>
+                            <td class="p-4">9 to 12 Months</td>
+                        </tr>
+                        <tr class="bg-[#faf9f6]">
+                            <td class="p-4 font-semibold text-brand-deeper">30s (30–39)</td>
+                            <td class="p-4">Early moisture loss, fine border lines</td>
+                            <td class="p-4">Lip hydration, border definition</td>
+                            <td class="p-4">9 to 12 Months</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-semibold text-brand-deeper">40s (40–49)</td>
+                            <td class="p-4">Thinning lips, smoker&#39;s lines</td>
+                            <td class="p-4">Volume replacement, perioral smoothing</td>
+                            <td class="p-4">6 to 9 Months</td>
+                        </tr>
+                        <tr class="bg-[#faf9f6]">
+                            <td class="p-4 font-semibold text-brand-deeper">50s+ (50+)</td>
+                            <td class="p-4">Deep volume loss, downturned corners</td>
+                            <td class="p-4">Commissure support, structural cushion</td>
+                            <td class="p-4">6 to 9 Months</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Key Benefits of Getting Lip Fillers at the Right Age</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                When administered at the right stage of life by a qualified practitioner, hyaluronic acid lip injections offer numerous physical and psychological benefits:
+            </p>
+
+            <div class="grid md:grid-cols-2 gap-6 my-8">
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3 flex items-center gap-2">
+                        <i class="fas fa-magic text-accent"></i> Natural Facial Harmony
+                    </h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">
+                        Rather than creating overly large, duck-like lips, age-appropriate filler placement preserves your unique facial anatomy while balancing the upper and lower lip ratio for timeless elegance.
+                    </p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3 flex items-center gap-2">
+                        <i class="fas fa-tint text-accent"></i> Deep Internal Lip Hydration
+                    </h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">
+                        Because hyaluronic acid binds moisture, lip fillers eliminate chronic chapping, leaving lips feeling soft, supple, and naturally glossy without needing heavy lip balms.
+                    </p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3 flex items-center gap-2">
+                        <i class="fas fa-shield-alt text-accent"></i> Reversible &amp; Customizable
+                    </h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">
+                        HA fillers can be gradually built up over multiple sessions or safely dissolved using hyaluronidase, putting complete control in the hands of you and your doctor.
+                    </p>
+                </div>
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3 flex items-center gap-2">
+                        <i class="fas fa-smile text-accent"></i> Instant Confidence Boost
+                    </h4>
+                    <p class="text-sm text-brand-muted font-light leading-relaxed">
+                        Achieving symmetrical, healthy-looking lips enhances self-esteem and makes applying cosmetics effortless and rewarding.
+                    </p>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">How to Know If You Are Ready for Lip Fillers</h2>
+
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Age is only one piece of the puzzle. To evaluate whether you are personally ready for lip augmentation, ask yourself the following diagnostic questions:
+            </p>
+
+            <ul class="space-y-4 my-8 text-brand-muted font-light text-base">
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1"></i>
+                    <span><strong>Are your expectations realistic?</strong> Lip fillers enhance your existing lips; they cannot completely alter your underlying facial structure.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1"></i>
+                    <span><strong>Are you doing this for yourself?</strong> Your decision should stem from personal aesthetic desires, not peer pressure or social media trends.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1"></i>
+                    <span><strong>Are you in good general health?</strong> You should be free from active oral herpes (cold sores), active skin infections around the mouth, or bleeding disorders.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1"></i>
+                    <span><strong>Have you selected a qualified doctor?</strong> Injections should only be performed by experienced medical professionals in a clean, clinical setting.</span>
+                </li>
+            </ul>
+
+            <!-- LSI Keywords & Topic Spotlight Section -->
+            <div class="bg-[#faf9f6] p-6 sm:p-8 rounded-3xl border border-brand/10 my-10">
+                <h3 class="text-xl font-bold font-heading text-brand-deeper mb-3">Topic Spotlight: Key Terms &amp; Concepts</h3>
+                <p class="text-brand-muted text-sm font-light leading-relaxed mb-4">
+                    Exploring lip enhancement options? Here are key dermatological and aesthetic terms related to lip fillers:
+                </p>
+                <div class="flex flex-wrap gap-2 text-xs">
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">lip augmentation age</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">hyaluronic acid dermal fillers</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">lip volume loss</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">natural lip enhancement</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">lip filler longevity</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">lip injection safety</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">facial harmony</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">practitioner qualification</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">subtle lip plumping</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">perioral lines</span>
+                    <span class="bg-accent/10 text-brand-deeper px-3 py-1.5 rounded-full font-medium">Cupid&#39;s bow definition</span>
+                </div>
+            </div>
+
+            <!-- FAQs Section -->
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-16 mb-8">Frequently Asked Questions (FAQs)</h2>
+
+            <div class="space-y-6">
+                <!-- FAQ 1 -->
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Q1: What is the legal minimum age to get lip fillers in Uganda?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">
+                        The legal minimum age for receiving elective dermal lip fillers in Uganda without parental consent is <strong>18 years old</strong>. However, medical specialists generally advise waiting until ages 20 to 21 to ensure complete facial growth and emotional readiness.
+                    </p>
+                </div>
+
+                <!-- FAQ 2 -->
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Q2: Do lip fillers stretch out your lips permanently as you get older?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">
+                        No. When administered correctly using appropriate volumes of hyaluronic acid filler, your lip tissue will not stretch out permanently. As the filler naturally breaks down over 6 to 12 months, your lips gradually return to their natural state. In fact, HA fillers stimulate minor natural collagen synthesis, leaving your lips softer even after the filler absorbs.
+                    </p>
+                </div>
+
+                <!-- FAQ 3 -->
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Q3: How long do lip fillers last based on age and metabolism?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">
+                        On average, lip fillers last between <strong>6 and 12 months</strong>. Younger patients in their 20s with faster metabolic rates and higher facial muscle activity may absorb filler slightly faster (around 6 to 9 months), whereas older adults or those receiving maintenance touch-ups often enjoy results for 9 to 12 months.
+                    </p>
+                </div>
+
+                <!-- FAQ 4 -->
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Q4: Is 20 or 21 too young to get lip fillers?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">
+                        Age 20 or 21 is not too young if there is a legitimate aesthetic concern such as severe lip asymmetry, naturally very thin lips, or imbalance between the upper and lower lips. The key is starting with a conservative volume (e.g., 0.5 mL) to maintain natural proportions.
+                    </p>
+                </div>
+
+                <!-- FAQ 5 -->
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Q5: Can mature individuals in their 50s, 60s, or older get lip fillers safely?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">
+                        Yes! Lip fillers are exceptionally effective and popular for individuals in their 50s, 60s, and beyond. In mature lips, fillers restore lost structural cushion, lift drooping corners of the mouth, and smooth fine vertical lines around the lips, creating a refreshed and youthful smile.
+                    </p>
+                </div>
+
+                <!-- FAQ 6 -->
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Q6: Are lip filler injections painful, and is there downtime?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">
+                        Lip filler injections involve minimal discomfort. A strong topical numbing cream is applied before the procedure, and modern HA fillers contain lidocaine (a local anesthetic) mixed into the gel. You may experience minor swelling or slight bruising for 24 to 48 hours, but there is zero major downtime.
+                    </p>
+                </div>
+
+                <!-- FAQ 7 -->
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h3 class="font-bold text-brand-deeper text-lg font-heading">Q7: What happens if I am unhappy with my lip filler results?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">
+                        Because premium lip fillers are made from hyaluronic acid, they are 100% reversible. If you are unsatisfied with your results or feel the filler was overdone, a trained doctor can inject hyaluronidase—an enzyme that breaks down the HA filler within 24 to 48 hours.
+                    </p>
+                </div>
+
+                <!-- FAQ 8 -->
+                <div class="bg-[#faf9f6] p-6 rounded-2xl border border-brand/10">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Q8: How should I prepare for my lip filler treatment in Uganda?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">
+                        To minimize bruising, avoid blood-thinning supplements (like Vitamin E, Fish Oil, Aspirin, and Ibuprofen) and alcohol for 3 to 5 days prior to your appointment. Schedule a consultation with a certified clinic to discuss your goals and medical history.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Conclusion & Call to Action -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 rounded-3xl mt-14 shadow-xl text-center">
+                <h3 class="text-2xl font-bold font-heading mb-4 text-white">Ready to Enhance Your Lips Naturally?</h3>
+                <p class="text-white/85 text-sm sm:text-base font-light leading-relaxed mb-6 max-w-2xl mx-auto">
+                    Whether you are looking to add subtle volume in your 20s or restore youthful hydration and fullness in your 40s or 50s, the medical team at Refine Skin &amp; Body Clinic is here to guide you. Book your personalized consultation today.
+                </p>
+                <div class="flex flex-wrap justify-center gap-4">
+                    <a href="/book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-accent-light text-brand-deeper font-bold px-8 py-3.5 rounded-full text-sm transition-all shadow-lg">
+                        <span>Book Your Consultation</span>
+                        <i class="fas fa-calendar-check text-xs"></i>
+                    </a>
+                    <a href="/lip-volumization" class="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white font-medium px-7 py-3.5 rounded-full text-sm backdrop-blur-md border border-white/20 transition-all">
+                        <span>Explore Lip Volumization</span>
+                        <i class="fas fa-arrow-right text-xs"></i>
+                    </a>
+                </div>
+            </div>
+',
+    ],
+
+    // ----------------------------------------------------
     // ARTICLE: DO HYDRAFACIALS REMOVE BLACKHEADS?
     // ----------------------------------------------------
     'do-hydrafacials-remove-blackheads' => [

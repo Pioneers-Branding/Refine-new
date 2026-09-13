@@ -53,6 +53,7 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'what-is-the-best-age-to-get-lip-fillers',
     'do-hydrafacials-remove-blackheads',
     'how-long-will-a-chemical-peel-last',
     'what-are-common-skin-diseases-in-uganda',
