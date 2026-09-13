@@ -22,12 +22,6 @@ $metaKeywords = "Skin Clinic in Juba, Dermatologist in Juba, Acne Treatment Juba
     <!-- ============================================
          HERO SECTION — Location Homepage Hero for Juba
          ============================================ -->
-
-    <!-- ============================================
-         VIDEO TESTIMONIALS & INSIGHTS
-         ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
-
     <section class="relative pt-32 pb-24 lg:pt-40 lg:pb-32 bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white overflow-hidden">
         <!-- Background Decorative Orbs -->
         <div class="absolute inset-0 opacity-20 pointer-events-none">
@@ -338,6 +332,11 @@ $metaKeywords = "Skin Clinic in Juba, Dermatologist in Juba, Acne Treatment Juba
             </div>
         </div>
     </section>
+
+    <!-- ============================================
+         VIDEO TESTIMONIALS & INSIGHTS
+         ============================================ -->
+    <?php include 'includes/video-testimonials.php'; ?>
 
     <!-- ============================================
          PATIENT TESTIMONIALS FROM JUBA
