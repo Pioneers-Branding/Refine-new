@@ -207,7 +207,7 @@ $metaKeywords = "Skin Rejuvenation Kampala, HydraFacial Uganda, Chemical Peel Ka
                 <!-- 1: HydraFacial -->
                 <div class="group rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between">
                     <div class="relative h-64 overflow-hidden bg-brand-pale">
-                        <img src="/assets/imagesfromsite/hydra-facial-09.png" alt="HydraFacial MD" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <img src="/assets/images/services/skincare_general/HydraFacial-new.webp" alt="HydraFacial MD" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
                         <span class="absolute top-4 left-4 px-3 py-1 bg-white/20 backdrop-blur-md rounded-full text-[10px] uppercase tracking-widest text-white font-semibold">Deep Hydration</span>
                     </div>

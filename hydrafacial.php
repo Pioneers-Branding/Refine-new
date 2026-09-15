@@ -33,7 +33,7 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[16/10] sm:aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/images/services/skincare_general/HydraFacial.webp" alt="Hydrafacial Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/images/services/skincare_general/HydraFacial-new.webp" alt="Hydrafacial Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
                 </div>
 

@@ -107,7 +107,7 @@ $pageDescription = "Browse through our collection of authentic transformations, 
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
-                    <img src="/assets/images/services/skincare_general/HydraFacial.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/HydraFacial-new.webp" alt="Gallery Image" class="gallery-image w-full h-auto rounded-3xl cursor-pointer transform transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy">
                 </div>
                 <!-- Image -->
                 <div class="filter-item break-inside-avoid relative rounded-3xl overflow-hidden group bento-item shadow-lg" data-category="image" style="display: none;">
@@ -356,7 +356,7 @@ $pageDescription = "Browse through our collection of authentic transformations, 
                 <!-- Tech 1 -->
                 <div class="glass-panel p-8 rounded-[32px] group hover:bg-surface-warm transition-colors border border-brand/5 flex items-center gap-8">
                     <div class="w-32 h-32 rounded-2xl overflow-hidden flex-shrink-0 relative">
-                        <img src="/assets/imagesfromsite/Refine-hydra-facial.webp" alt="HydraFacial Machine" class="w-full h-full object-cover filter grayscale group-hover:grayscale-0 transition-all duration-500">
+                        <img src="/assets/images/services/skincare_general/HydraFacial-new.webp" alt="HydraFacial Machine" class="w-full h-full object-cover filter grayscale group-hover:grayscale-0 transition-all duration-500">
                     </div>
                     <div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-xl mb-2">HydraFacial MDÃ‚Â®</h3>

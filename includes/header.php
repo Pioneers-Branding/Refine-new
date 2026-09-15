@@ -86,7 +86,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                             
                             <!-- Col 1: Skin/Body Rejuvenation -->
                             <div>
-                                <img src="/assets/imagesfromsite/hydra-facial-09.png" alt="Skin/Body Rejuvenation" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
+                                <img src="/assets/images/services/skincare_general/HydraFacial-new.webp" alt="Skin/Body Rejuvenation" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Skin/Body Rejuvenation</h5>
                                 <div class="space-y-2">
                                     <a href="/hydrafacial" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">HydraFacial</a>

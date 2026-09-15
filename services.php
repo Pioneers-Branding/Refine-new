@@ -59,7 +59,7 @@ $canonicalUrl = "https://refineskinandbody.com/services";
         <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
             <div class="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
                 <div class="relative rounded-3xl overflow-hidden shadow-2xl gs-reveal-img-group aspect-[4/5] lg:aspect-auto lg:h-[700px]">
-                    <img src="https://refineskinandbody.com/images/Refine-hydra-facial.webp" alt="HydraFacial Treatment" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
+                    <img src="/assets/images/services/skincare_general/HydraFacial-new.webp" alt="HydraFacial Treatment" class="w-full h-full object-cover gs-reveal-img" loading="lazy">
                     <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
                     <div class="absolute bottom-8 left-8 text-white">
                         <span class="px-4 py-1 bg-accent rounded-full text-[10px] uppercase tracking-widest font-bold mb-3 inline-block">Featured Signature</span>
