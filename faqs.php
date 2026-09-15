@@ -143,7 +143,7 @@ $canonicalUrl = "https://refineskinandbody.com/faqs";
                     <a href="contact" class="btn-magnetic bg-white text-brand-deeper border-none magnetic-target">
                         <span>Send an Inquiry</span>
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=256749574546" class="btn-magnetic bg-[#25D366] text-white border-none magnetic-target">
+                    <a href="https://api.whatsapp.com/send?phone=256758232889" class="btn-magnetic bg-[#25D366] text-white border-none magnetic-target">
                         <span><i class="fab fa-whatsapp mr-2"></i> WhatsApp Us</span>
                     </a>
                 </div>

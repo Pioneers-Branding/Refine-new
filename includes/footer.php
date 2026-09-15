@@ -235,7 +235,7 @@
         <a href="tel:+256758232889" class="flex items-center justify-center gap-2 py-4 text-white font-heading text-[10px] font-semibold tracking-wider uppercase hover:bg-white/5 transition-colors">
             <i class="fas fa-phone text-accent"></i> Call
         </a>
-        <a href="https://api.whatsapp.com/send?phone=256749574546" target="_blank" class="flex items-center justify-center gap-2 py-4 text-white font-heading text-[10px] font-semibold tracking-wider uppercase hover:bg-white/5 transition-colors border-l border-white/5">
+        <a href="https://api.whatsapp.com/send?phone=256758232889" target="_blank" class="flex items-center justify-center gap-2 py-4 text-white font-heading text-[10px] font-semibold tracking-wider uppercase hover:bg-white/5 transition-colors border-l border-white/5">
             <i class="fa-brands fa-whatsapp text-accent text-sm"></i> WhatsApp
         </a>
         <a href="book-appointment" class="flex items-center justify-center gap-2 py-4 text-white font-heading text-[10px] font-semibold tracking-wider uppercase hover:bg-accent transition-colors border-l border-white/5 bg-brand">

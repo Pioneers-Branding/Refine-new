@@ -35,7 +35,7 @@ $pageDescription = "We are here to assist you. Reach out to book a consultation 
                                 <p class="text-brand-muted text-sm font-light mb-4">Ground Floor, Unit GF4, Block B<br>Lugogo Bypass, Kampala, UG</p>
                                 <div class="flex flex-col gap-2">
                                     <a href="tel:+256758232889" class="text-accent hover:text-brand transition-colors text-sm font-semibold"><i class="fas fa-phone mr-2"></i> +256 758 232 889</a>
-                                    <a href="https://api.whatsapp.com/send?phone=256749574546" class="text-accent hover:text-brand transition-colors text-sm font-semibold"><i class="fab fa-whatsapp mr-2"></i> +256 749 574 546</a>
+                                    <a href="https://api.whatsapp.com/send?phone=256758232889" class="text-accent hover:text-brand transition-colors text-sm font-semibold"><i class="fab fa-whatsapp mr-2"></i> +256 758 232 889</a>
                                 </div>
                             </div>
                         </div>

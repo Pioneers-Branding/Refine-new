@@ -521,7 +521,7 @@
             <a href="book-appointment" class="btn-magnetic magnetic-target"
                 style="background: white; color: #1a0f3c;"><span>Book Consultation <i
                         class="fas fa-arrow-right text-xs ml-2"></i></span></a>
-            <a href="https://api.whatsapp.com/send?phone=256749574546" target="_blank"
+            <a href="https://api.whatsapp.com/send?phone=256758232889" target="_blank"
                 class="btn-magnetic magnetic-target" style="background: #25D366; color: white;"><i
                     class="fa-brands fa-whatsapp mr-2"></i><span>Chat on WhatsApp</span></a>
         </div>

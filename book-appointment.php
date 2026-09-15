@@ -194,7 +194,7 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                         </div>
                         <h4 class="font-heading font-semibold text-brand-deeper mb-2">Prefer to chat?</h4>
                         <p class="text-sm text-brand-muted font-light mb-6">Our concierge team is available on WhatsApp.</p>
-                        <a href="https://api.whatsapp.com/send?phone=256749574546" class="text-accent font-semibold text-sm hover:text-brand transition-colors">Message Us Now <i class="fas fa-arrow-right ml-1"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=256758232889" class="text-accent font-semibold text-sm hover:text-brand transition-colors">Message Us Now <i class="fas fa-arrow-right ml-1"></i></a>
                     </div>
                 </div>
 
