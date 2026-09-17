@@ -1,7 +1,10 @@
 <?php
 $pageCategory = "Wellness";
-$pageTitle = "Nutrition & Diet <i class='text-brand font-light'>Counselling.</i>";
-$pageDescription = "Personalized nutrition plans and one-on-one diet counselling to support your aesthetic goals, weight loss journey, and overall wellness.";
+$pageTitle = "Nutrition & Diet <i class='text-brand font-light'>Counselling in Juba.</i>";
+$metaTitle = "Nutrition & Diet Counselling in Juba | Refine Skin & Body Clinic";
+$metaDescription = "Personalized nutrition plans and one-on-one diet counselling in Juba to support your aesthetic goals, weight loss journey, skin radiance, and overall wellness.";
+$metaKeywords = "Nutrition counselling Juba, Dietitian Juba, Diet counselling Juba, Weight loss diet Juba, Skin nutrition Juba";
+$pageDescription = "Personalized nutrition plans and one-on-one diet counselling in Juba to support your aesthetic goals, weight loss journey, skin radiance, and overall wellness.";
 
 $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
 ?>
@@ -22,16 +25,16 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        Expert Aesthetic Care
+                        Holistic Wellness & Nutrition Care
                     </div>
                     <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Nutrition Counselling?</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Experience top-tier Nutrition Counselling at Refine Skin and Body Clinic. Our advanced approach ensures optimal results tailored to your unique needs, helping you achieve your aesthetic goals safely and effectively under the guidance of our expert team.
+                        Experience personalized Nutrition & Diet Counselling at Refine Skin and Body Clinic. True beauty and vitality begin from within. Our evidence-based nutrition plans are tailored to your unique metabolic profile, helping you achieve sustainable weight management, radiant skin, enhanced energy, and long-term wellness under expert guidance.
                     </p>
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[16/10] sm:aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/imagesfromsite/Facial-Spa-09.webp" alt="Nutrition Counselling at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/imagesfromsite/nutrition-counselling-hero.png" alt="Nutrition & Diet Counselling at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
                 </div>
 
@@ -48,9 +51,9 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Consultation
+                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Initial Consultation & Dietary Evaluation
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Discuss your aesthetic goals with Dr. Chirag and evaluate if this non-invasive treatment perfectly aligns with your desired profile.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Discuss your health, aesthetic, and body composition goals with our nutrition specialists. We thoroughly review your eating habits, medical background, and lifestyle factors.</p>
                             </div>
                         </div>
 
@@ -61,9 +64,9 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Preparation
+                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Body Composition & Metabolic Analysis
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">We prioritize your comfort. A premium topical numbing cream is applied to ensure a completely painless and relaxing experience.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">We assess your body metrics, nutritional requirements, and metabolic needs to identify micronutrient gaps, gut sensitivities, and key areas for optimization.</p>
                             </div>
                         </div>
 
@@ -74,9 +77,9 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
+                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Customized Meal & Nutrition Plan
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive a personalized, nutrient-dense diet plan curated specifically for your tastes and routine, focusing on whole foods, skin-nourishing nutrients, and metabolic balance.</p>
                             </div>
                         </div>
 
@@ -87,9 +90,9 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                             </div>
                             <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Post-Treatment
+                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Ongoing Coaching & Progress Tracking
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Walk out immediately with your stunning, refined new profile.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Stay on track with regular check-ins, dietary adjustments, and ongoing motivational support to ensure long-lasting transformation and peak vitality.</p>
                             </div>
                         </div>
 
@@ -103,19 +106,19 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
     <section class="py-16 lg:py-24 bg-white relative">
     <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
       <div class="mb-12 gs-reveal-text text-center max-w-3xl mx-auto">
-        <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Target Areas</span>
-        <h3 class="text-section font-display text-brand-deeper mb-6">Conditions <i class="text-accent font-light">Treated</i></h3>
+        <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Comprehensive Care</span>
+        <h3 class="text-section font-display text-brand-deeper mb-6">Nutrition Focus <i class="text-accent font-light">Areas</i></h3>
         <p class="text-brand-muted font-body text-xl font-light leading-relaxed">
-          This treatment is remarkably versatile. Explore how this non-invasive technique addresses diverse aesthetic concerns to restore balance and harmony.
+          Our tailored nutrition programs target key wellness and aesthetic needs to restore balance, enhance skin health, and empower your body from within.
         </p>
       </div>
 
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
         <!-- 1: Large Span -->
         <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
           <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Stress Management</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Combat the effects of chronic stress with targeted treatments that support your nervous system, balance cortisol levels, and promote relaxation. Our holistic approach combines nutritional support, IV therapy, and lifestyle guidance to help you feel calm and in control.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Sustainable Weight Management</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Achieve your ideal weight without starvation or extreme diets. Our scientifically structured macro- and micro-nutrient plans boost metabolism, reduce cravings, and foster healthy long-term body composition transformation.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -124,8 +127,8 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
         
         <!-- 2 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Sleep Quality</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Improve your sleep with treatments that address insomnia, poor sleep quality, and circadian rhythm disruption for restorative, energising rest.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Skin Health & Radiance</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Target skin concerns such as acne, melasma, hyperpigmentation, and premature aging with antioxidant-rich foods and anti-inflammatory nutrition for a natural glow.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -134,8 +137,8 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
         
         <!-- 3 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Nutritional Support</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Optimise your nutrition with personalised counselling and supplement plans that address deficiencies and support your overall wellness goals.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Gut Health & Digestion</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Optimize your gut microbiome to eliminate bloating, improve digestion, enhance nutrient absorption, and strengthen the vital gut-skin connection.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -144,8 +147,8 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
         
         <!-- 4 -->
         <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Convenience Care</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Our mobile IV and at-home services bring wellness treatments directly to you, making self-care convenient and accessible wherever you are.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Hormonal & Energy Support</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Balance hormones, stabilize blood sugar levels, and combat chronic fatigue with strategic nutritional guidance for steady energy throughout your day.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -154,8 +157,8 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
         
         <!-- 5 -->
         <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Holistic Wellness</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">A comprehensive approach to wellbeing that integrates mind, body, and nutrition for lasting health and vitality.</p>
+          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Treatment & Recovery Support</h4>
+          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Accelerate tissue repair, collagen synthesis, and recovery following aesthetic procedures or weight loss treatments with targeted clinical nutrition protocols.</p>
         
           <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
             <i class="fas fa-arrow-right -rotate-45"></i>
@@ -165,7 +168,7 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
     </div>
   </section>
 
-    <!-- Why Opt for Dr. Chirag & Myths -->
+    <!-- Why Choose Refine Clinic & Myths -->
     <section class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
         <div class="absolute inset-0 bg-[url('/assets/imagesfromsite/pattern.svg')] bg-repeat opacity-[0.03]"></div>
         <div class="absolute top-0 right-0 w-[800px] h-[800px] bg-accent/20 rounded-full blur-[150px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
@@ -174,7 +177,7 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
             <div class="grid lg:grid-cols-12 gap-16 xl:gap-24 items-center">
                 
-                <!-- Why Dr Chirag -->
+                <!-- Why Refine Specialists -->
                 <div class="lg:col-span-7">
                     <div class="mb-12">
                         <span class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 text-white font-body text-xs tracking-[0.2em] uppercase mb-8 font-semibold backdrop-blur-md border border-white/10">
@@ -187,7 +190,7 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                                 <img src="/assets/imagesfromsite/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.1] group-hover:grayscale-0 transition-all duration-700 scale-100 group-hover:scale-110">
                             </div>
                             <div>
-                                <h3 class="text-section font-display leading-tight m-0 drop-shadow-lg">Why Opt for <br/><i class="text-accent font-light">Dr. Chirag?</i></h3>
+                                <h3 class="text-section font-display leading-tight m-0 drop-shadow-lg">Why Choose <br/><i class="text-accent font-light">Refine Clinic?</i></h3>
                             </div>
                         </div>
                     </div>
@@ -195,31 +198,31 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                     <div class="space-y-8 pl-0 sm:pl-8 border-l border-white/10 ml-0 sm:ml-20">
                         <div class="flex gap-6 items-start group">
                             <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
-                                <i class="fas fa-eye"></i>
+                                <i class="fas fa-apple-alt"></i>
                             </div>
                             <div>
-                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Artistic Vision</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A keen, masterful aesthetic eye ensuring beautifully harmonious and perfectly proportioned results.</p>
+                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Evidence-Based Science</h4>
+                                <p class="text-base text-white/70 font-light leading-relaxed">Our dietary advice and meal plans are grounded in clinical nutrition research, tailored specifically for your body type and health goals.</p>
                             </div>
                         </div>
                         
                         <div class="flex gap-6 items-start group">
                             <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
-                                <i class="fas fa-shield-alt"></i>
+                                <i class="fas fa-heartbeat"></i>
                             </div>
                             <div>
-                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Safety First</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using only premium, high-quality, FDA-approved dermal fillers.</p>
+                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Integrative Wellness Approach</h4>
+                                <p class="text-base text-white/70 font-light leading-relaxed">We combine medical dermatology, aesthetic care, and clinical nutrition for total inner health and outer beauty transformation.</p>
                             </div>
                         </div>
 
                         <div class="flex gap-6 items-start group">
                             <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
-                                <i class="fas fa-user-md"></i>
+                                <i class="fas fa-user-check"></i>
                             </div>
                             <div>
-                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with thousands of successful treatments performed by our expert team.</p>
+                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Personalized & Sustainable</h4>
+                                <p class="text-base text-white/70 font-light leading-relaxed">No generic templates or extreme crash diets. We create realistic, enjoyable nutrition plans that fit seamlessly into your daily life.</p>
                             </div>
                         </div>
                     </div>
@@ -246,7 +249,7 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Results from Nutrition Counselling are instantaneous and permanent without any maintenance."</p>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Nutrition counselling means starving yourself on strict fad diets and giving up all food groups."</p>
                             </div>
                             
                             <div class="relative py-2">
@@ -264,7 +267,7 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                                     <i class="fas fa-check-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
                                 </div>
-                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">While highly effective, results vary per individual and may require occasional maintenance sessions to preserve optimal outcomes.</p>
+                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">Our nutrition programs prioritize nutrient-dense, enjoyable meals that nourish your body, boost metabolism, and enhance skin radiance without extreme deprivation.</p>
                             </div>
                         </div>
                     </div>
@@ -294,84 +297,84 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
       <div class="space-y-3">
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. Is Nutrition Counselling painful?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. What happens during a Nutrition Counselling session?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Most patients experience minimal discomfort. We prioritize your comfort throughout the Nutrition Counselling procedure.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">During your consultation, our specialist conducts a comprehensive evaluation of your current eating habits, health goals, body composition, and medical history to design a personalized nutrition roadmap.</p>
             </div>
           </div>
         </div>
         
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. When can I resume normal activities after Nutrition Counselling?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. How does proper nutrition improve skin health and anti-aging?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Recovery time varies, but many patients can resume normal activities shortly after the procedure. Your specialist will provide specific aftercare instructions.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Nutrient-dense diets supply essential vitamins, minerals, and antioxidants that promote collagen production, neutralize free radicals, reduce inflammation, and accelerate skin cellular renewal.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Can I combine Nutrition Counselling with other treatments?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. Will my meal plan be tailored to my local food preferences?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Absolutely. Discuss your holistic aesthetic goals during your consultation to curate a comprehensive, personalized treatment plan.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Yes, absolutely. We craft practical meal plans using accessible, nutritious local ingredients and adapt recipes to suit your daily lifestyle, work routine, and personal dietary preferences.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. When will I see results from Nutrition Counselling?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. Can Nutrition Counselling help with weight loss and body contouring?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Results can vary depending on the individual and the specifics of the treatment. Many notice improvements quickly, while optimal results may develop over time.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Yes. Nutrition counselling is an integral component of weight management and body sculpting. Combined with treatments like IV therapy or body contouring, it accelerates fat loss and muscle maintenance.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Are there any risks involved with Nutrition Counselling?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. How soon can I expect results from Nutrition Counselling?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Like all procedures, minor risks exist, but they are exceedingly minimal when conducted by highly experienced specialists. We will discuss all potential risks during your consultation.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Many clients notice improved energy levels, better digestion, and reduced bloating within the first 1 to 2 weeks, with significant weight and skin improvements taking shape over 4 to 8 weeks.</p>
             </div>
           </div>
         </div>
 
         <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
           <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Nutrition Counselling in South Sudan?</h4>
+            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Nutrition Counselling at Refine Clinic?</h4>
             <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
               <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
             </div>
           </div>
           <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
             <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
+              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Pricing depends on your customized program requirements, duration, and whether nutrition counselling is combined with other clinic treatments. Contact our team to schedule your initial consultation.</p>
             </div>
           </div>
         </div>
