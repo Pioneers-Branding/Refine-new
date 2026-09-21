@@ -53,6 +53,8 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'how-many-months-will-microblading-last',
+    'what-is-the-most-effective-treatment-for-melasma',
     'what-is-the-best-age-to-get-lip-fillers',
     'do-hydrafacials-remove-blackheads',
     'how-long-will-a-chemical-peel-last',
