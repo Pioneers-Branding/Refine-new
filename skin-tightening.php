@@ -25,7 +25,7 @@ $pageDescription = "Restore firmness and elasticity. Non-surgical skin tightenin
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
                         Expert Aesthetic Care
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Skin Tightening?</i></h2>
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">Understanding <br/><i class="text-accent font-light">Skin Tightening</i></h2>
                     <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
                         Experience premium aesthetic treatments at Refine Skin and Body Clinic. Our expert team combines advanced technology with personalised care to deliver outstanding, natural-looking results tailored to your unique needs.
                     </p>
@@ -77,7 +77,7 @@ $pageDescription = "Restore firmness and elasticity. Non-surgical skin tightenin
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Targeted radiofrequency or ultrasound thermal energy is precisely delivered deep into dermal layers to stimulate collagen contraction and firm sagging tissue.</p>
                             </div>
                         </div>
 

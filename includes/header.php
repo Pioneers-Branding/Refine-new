@@ -230,7 +230,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                     <a href="/post-party-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Post Party</a>
                                     <a href="/anti-migraine-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Anti Migraine</a>
                                     <a href="/total-sport-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Total Sport</a>
-                                    <a href="/skin-lightening-with-tatioactive-kampala-juba" class="block text-sm text-gray-600 hover:text-brand transition-colors">Skin Lightening with Tatioactive</a>
+                                    <a href="/skin-lightening" class="block text-sm text-gray-600 hover:text-brand transition-colors">Skin Lightening with Tatioactive</a>
                                     <a href="/vitamin-b12-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Combo of Vit B 12 and B Complex</a>
                                     <a href="/vitamin-c-iv-therapy" class="block text-sm text-gray-600 hover:text-brand transition-colors">Vitamin C</a>
                                 </div>
@@ -441,7 +441,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <a href="/post-party-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Post Party</a>
                         <a href="/anti-migraine-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Anti Migraine</a>
                         <a href="/total-sport-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Total Sport</a>
-                        <a href="/skin-lightening-with-tatioactive-kampala-juba" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Skin Lightening with Tatioactive</a>
+                        <a href="/skin-lightening" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Skin Lightening with Tatioactive</a>
                         <a href="/vitamin-b12-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Combo of Vit B 12 and B Complex</a>
                         <a href="/vitamin-c-iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Vitamin C</a>
                     </div>
