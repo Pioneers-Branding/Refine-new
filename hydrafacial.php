@@ -279,7 +279,19 @@ $metaKeywords = "Hydrafacial in Kampala, Hydrafacial treatment in Kampal, Hydraf
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'HydraFacial &amp; Cleopatra <i class="text-accent font-light">Treatments.</i>';
+    $treatmentVideosSubtitle = 'See our signature Cleopatra HydraFacial from start to finish, and discover HydraFacial Keravive for the scalp.';
+    $treatmentVideos = [
+        ['src' => 'cleopatra-hydrafacial-explained', 'title' => 'Cleopatra HydraFacial Explained', 'desc' => 'What makes the Cleopatra treatment different: the steps, serums and skin benefits.', 'tag' => 'Explainer'],
+        ['src' => 'cleopatra-hydrafacial-treatment', 'title' => 'Cleopatra HydraFacial Full Session', 'desc' => 'Preview of a complete Cleopatra HydraFacial session filmed at Refine.', 'tag' => 'Live Procedure', 'preview' => true],
+        ['src' => 'hydrafacial-keravive', 'title' => 'HydraFacial Keravive (Scalp)', 'desc' => 'HydraFacial technology for the scalp: cleanse, stimulate and nourish for healthier hair.', 'tag' => 'Scalp Therapy'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     <!-- ============================================

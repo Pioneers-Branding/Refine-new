@@ -280,7 +280,18 @@ $metaKeywords = "Alopecia Areata Treatment in Kampala, Alopecia Areata Treatment
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Alopecia <i class="text-accent font-light">Awareness.</i>';
+    $treatmentVideosSubtitle = 'Our team explains what alopecia is, why early diagnosis matters, and the treatment options available at Refine.';
+    $treatmentVideos = [
+        ['src' => 'alopecia-awareness', 'title' => 'Alopecia Awareness Month', 'desc' => 'Understanding alopecia areata, its triggers, and how our dermatologists approach hair-loss treatment.', 'tag' => 'Awareness'],
+        ['src' => 'hair-transplant-hair-loss', 'title' => 'Hair Loss & Hair Transplant Explained', 'desc' => 'A 90-second preview of our full hair-loss consultation walkthrough with the Refine team.', 'tag' => 'Consultation', 'preview' => true],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     

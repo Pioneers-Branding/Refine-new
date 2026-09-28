@@ -279,7 +279,17 @@ $metaKeywords = "Psoriasis Treatment in Kampala, Psoriasis Treatment treatment i
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Understanding <i class="text-accent font-light">Psoriasis.</i>';
+    $treatmentVideosSubtitle = 'Our dermatologist explains what psoriasis is, common triggers, and how a personalised treatment plan is built.';
+    $treatmentVideos = [
+        ['src' => 'psoriasis', 'title' => 'Psoriasis: Causes & Treatment', 'desc' => 'A dermatologist-led explainer on psoriasis types, flare triggers and modern treatment options.', 'tag' => 'Doctor Explainer'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     

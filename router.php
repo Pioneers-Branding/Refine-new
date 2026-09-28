@@ -1,7 +1,14 @@
 <?php
 // router.php for PHP built-in server and Vercel PHP serverless
 
-$path = parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH);
+// parse_url() reads a leading "//" as a host and returns null, so strip the query string by hand
+$path = (string) strtok($_SERVER["REQUEST_URI"], '?#');
+if (strpos($path, '//') !== false) {
+    // Collapse duplicate slashes (e.g. //botox.php) to the canonical URL
+    $query = $_SERVER['QUERY_STRING'] ?? '';
+    header("Location: " . preg_replace('#/{2,}#', '/', $path) . ($query ? '?' . $query : ''), true, 301);
+    exit();
+}
 $path = rtrim($path, '/'); // Remove trailing slash
 if ($path === '') {
     $path = '/';

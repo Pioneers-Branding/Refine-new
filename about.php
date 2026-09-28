@@ -218,6 +218,34 @@ $pageDescription = "Discover the philosophy, the experts, and the exquisite envi
     </section>
 
     <!-- ============================================
+         OUR PEOPLE (team photos, 2026)
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-surface-warm relative overflow-hidden">
+        <div class="max-w-[1600px] mx-auto px-6 lg:px-10">
+            <div class="grid lg:grid-cols-12 gap-10 items-center">
+                <div class="lg:col-span-5 gs-reveal-text">
+                    <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Our People</span>
+                    <h2 class="text-section font-display text-brand-deeper leading-tight mb-6">The Team Behind <i class="text-brand font-light">Every Result.</i></h2>
+                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-8">Beyond our physicians, Refine is powered by a dedicated team of aesthetic nurses, skin therapists and patient coordinators. They prepare your treatment room, guide your aftercare and make sure every visit feels calm and personal.</p>
+                    <a href="/our-team" class="btn-magnetic magnetic-target"><span>Meet The Full Team</span></a>
+                </div>
+                <div class="lg:col-span-7">
+                    <div class="grid grid-cols-3 gap-3 md:gap-4">
+                        <div class="col-span-3 relative rounded-3xl overflow-hidden shadow-xl aspect-[21/9] border border-brand/5">
+                            <img src="/assets/images/team/team-group-6.webp" alt="The Refine Skin & Body Clinic team" class="w-full h-full object-cover" loading="lazy">
+                        </div>
+                        <?php foreach (['staff-02', 'staff-04', 'staff-05'] as $s): ?>
+                        <div class="relative rounded-2xl overflow-hidden shadow-md aspect-[4/5] border border-brand/5">
+                            <img src="/assets/images/team/<?php echo $s; ?>.webp" alt="Refine clinical team member" class="w-full h-full object-cover object-top" loading="lazy">
+                        </div>
+                        <?php endforeach; ?>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
          THE CLINIC EXPERIENCE (Visual Narrative)
          ============================================ -->
     <section class="py-16 lg:py-24 bg-surface-warm">

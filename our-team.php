@@ -84,6 +84,82 @@ $pageDescription = "A collective of award-winning dermatologists, elite surgeons
         </div>
     </section>
 
+    <!-- ============================================
+         CLINIC CARE TEAM (studio portraits, 2026)
+         TODO: replace role captions with confirmed names/roles
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-white relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-accent/5 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="text-center mb-14 gs-reveal-text">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">The People Behind Your Care</span>
+                <h2 class="text-section font-display text-brand-deeper">Our Clinical &amp; <i class="text-accent font-light">Care Team</i></h2>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto mt-4">The nurses, therapists and front-of-house team who look after you from your first call to your final follow-up.</p>
+            </div>
+
+            <!-- Group photo -->
+            <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl mb-10 gs-reveal-img-group border border-brand/5">
+                <img src="/assets/images/team/team-group-2.webp" alt="The Refine Skin & Body Clinic team at the Kabalagala clinic" class="w-full h-[320px] md:h-[460px] object-cover gs-reveal-img" loading="lazy">
+                <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
+                <div class="absolute bottom-6 left-6 md:bottom-10 md:left-10 text-white">
+                    <p class="text-accent text-xs uppercase tracking-[0.25em] font-semibold mb-2">Kabalagala Clinic</p>
+                    <h3 class="font-display text-2xl md:text-4xl">One Team. <i class="font-light">Every Step Of Your Journey.</i></h3>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 gs-stagger-bento">
+                <?php
+                $careTeam = [
+                    ['staff-01', 'Aesthetic Nurse'],
+                    ['staff-02', 'Aesthetic Nurse'],
+                    ['staff-03', 'Skin Therapist'],
+                    ['staff-04', 'Skin Therapist'],
+                    ['staff-05', 'Senior Nurse'],
+                    ['staff-08', 'Patient Coordinator'],
+                    ['staff-06', 'Clinical Team'],
+                    ['staff-07', 'Clinic Management'],
+                ];
+                foreach ($careTeam as $m): ?>
+                <div class="bento-item group bg-white rounded-3xl border border-brand/5 shadow-sm hover:shadow-lg hover:border-accent/30 transition-all duration-500 overflow-hidden">
+                    <div class="relative aspect-[4/5] overflow-hidden bg-surface-cool">
+                        <img src="/assets/images/team/<?php echo $m[0]; ?>.webp" alt="Refine Skin & Body Clinic team member — <?php echo $m[1]; ?>" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-700" loading="lazy">
+                    </div>
+                    <div class="p-4 text-center">
+                        <p class="font-heading text-[11px] text-accent font-semibold uppercase tracking-widest"><?php echo $m[1]; ?></p>
+                        <p class="font-body text-xs text-brand-muted mt-1">Refine Skin &amp; Body Clinic</p>
+                    </div>
+                </div>
+                <?php endforeach; ?>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-6 mt-10">
+                <div class="relative rounded-3xl overflow-hidden shadow-lg border border-brand/5 aspect-[16/9]">
+                    <img src="/assets/images/team/staff-09.webp" alt="Refine Skin & Body Clinic doctors" class="w-full h-full object-cover" loading="lazy">
+                    <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/70 to-transparent"></div>
+                    <p class="absolute bottom-5 left-6 text-white font-heading text-sm font-semibold">Our medical team</p>
+                </div>
+                <div class="relative rounded-3xl overflow-hidden shadow-lg border border-brand/5 aspect-[16/9]">
+                    <img src="/assets/images/team/team-group-4.webp" alt="Refine Skin & Body Clinic team at reception" class="w-full h-full object-cover" loading="lazy">
+                    <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/70 to-transparent"></div>
+                    <p class="absolute bottom-5 left-6 text-white font-heading text-sm font-semibold">Ready to welcome you</p>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 mt-6">
+                <div class="md:col-span-2 relative rounded-3xl overflow-hidden shadow-lg border border-brand/5 aspect-[16/9]">
+                    <img src="/assets/images/team/staff-10.webp" alt="Refine Skin & Body Clinic consultant at his desk" class="w-full h-full object-cover" loading="lazy">
+                    <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/70 to-transparent"></div>
+                    <p class="absolute bottom-5 left-6 text-white font-heading text-sm font-semibold">Consultation room</p>
+                </div>
+                <div class="relative rounded-3xl overflow-hidden shadow-lg border border-brand/5 aspect-[4/5] md:aspect-auto">
+                    <img src="/assets/images/team/staff-11.webp" alt="Refine Skin & Body Clinic consultant" class="w-full h-full object-cover" loading="lazy">
+                </div>
+                <div class="relative rounded-3xl overflow-hidden shadow-lg border border-brand/5 aspect-[4/5] md:aspect-auto">
+                    <img src="/assets/images/team/team-group-5.webp" alt="Refine Skin & Body Clinic nurse" class="w-full h-full object-cover object-top" loading="lazy">
+                </div>
+            </div>
+        </div>
+    </section>
 
     <?php include 'includes/appointment-form.php'; ?>
 </main>

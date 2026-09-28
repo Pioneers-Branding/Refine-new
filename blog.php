@@ -9155,6 +9155,115 @@ $articles = [
             </p>
         ',
     ],
+
+    // ----------------------------------------------------
+    // ARTICLE: DAILY SKINCARE ROUTINE — WHAT EVERY CLIENT SHOULD KNOW (with in-clinic videos)
+    // ----------------------------------------------------
+    'daily-skincare-routine-what-every-client-should-know' => [
+        'slug' => 'daily-skincare-routine-what-every-client-should-know',
+        'title' => 'Daily Skincare Routine: What Every Client Should Know',
+        'meta_title' => 'Daily Skincare Routine for Ugandan Skin: What Every Client Should Know | Refine Clinic',
+        'category' => 'Dermatology & Skin',
+        'category_slug' => 'dermatology-skin',
+        'date' => '21 September, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Lead Specialist, Refine Clinic',
+        'read_time' => '9 min',
+        'image' => '/assets/videos/posters/daily-skincare-routine.jpg',
+        'excerpt' => 'Watch our team walk through a simple morning and evening skincare routine for melanin-rich skin in Kampala, then read the five things every client should know before buying another product.',
+        'content' => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">What Is A Good Daily Skincare Routine?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct Answer: A good daily routine has only four steps. Morning: gentle cleanser, antioxidant or hydrating serum, moisturiser, and a broad-spectrum SPF 30 to 50 sunscreen. Evening: cleanser (double cleanse if you wear makeup or sunscreen), a treatment product prescribed for your concern such as retinoid, azelaic acid or niacinamide, then moisturiser. Consistency for 8 to 12 weeks matters more than the number of products.</strong>
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div><span class="block text-accent font-bold mb-1">Morning</span>Cleanse, serum, moisturise, SPF</div>
+                    <div><span class="block text-accent font-bold mb-1">Evening</span>Cleanse, treat, moisturise</div>
+                    <div><span class="block text-accent font-bold mb-1">Time to results</span>8 to 12 weeks of consistency</div>
+                </div>
+            </div>
+
+            <!-- In-clinic videos -->
+            <div class="grid sm:grid-cols-2 gap-6 mb-12">
+                <div class="bg-white rounded-3xl border border-brand/10 shadow-sm overflow-hidden">
+                    <div class="aspect-[9/16] bg-black">
+                        <video class="w-full h-full object-contain" controls playsinline preload="metadata" poster="/assets/videos/posters/daily-skincare-routine.jpg" src="/assets/videos/daily-skincare-routine.mp4"></video>
+                    </div>
+                    <div class="p-5">
+                        <span class="text-accent text-[10px] uppercase tracking-widest font-semibold">Video 1</span>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-lg mt-1">Your Daily Skincare Routine</h4>
+                        <p class="text-sm text-brand-muted font-light mt-1">Our team demonstrates the morning and evening steps in order.</p>
+                    </div>
+                </div>
+                <div class="bg-white rounded-3xl border border-brand/10 shadow-sm overflow-hidden">
+                    <div class="aspect-[9/16] bg-black">
+                        <video class="w-full h-full object-contain" controls playsinline preload="metadata" poster="/assets/videos/posters/skincare-what-clients-should-know.jpg" src="/assets/videos/skincare-what-clients-should-know.mp4"></video>
+                    </div>
+                    <div class="p-5">
+                        <span class="text-accent text-[10px] uppercase tracking-widest font-semibold">Video 2</span>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-lg mt-1">What Clients Should Know About Skincare</h4>
+                        <p class="text-sm text-brand-muted font-light mt-1">The most common mistakes we see in clinic and how to avoid them.</p>
+                    </div>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Why Most Routines Fail Before They Start</h2>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Every week at Refine Skin &amp; Body Clinic we meet clients who own ten or more products and still struggle with breakouts, dark marks or dull skin. The problem is rarely a lack of products. It is usually the wrong products for the skin type, used in the wrong order, and abandoned before they have had time to work. Skin cells renew roughly every 28 days, and most active ingredients need two to three cycles before results become visible.
+            </p>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">
+                Kampala adds its own challenges: year-round UV exposure at altitude, humidity that encourages congestion, dust, and the widespread availability of unregulated lightening creams. A routine built for melanin-rich skin in this climate looks different from one copied from a European or American influencer.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">The Morning Routine (4 Steps, 5 Minutes)</h2>
+            <h3 class="text-xl font-bold font-heading text-brand-deeper mt-8 mb-4">1. Gentle Cleanser</h3>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">Use a sulphate-free gel or cream cleanser with lukewarm water. If your skin feels tight or squeaky afterwards, the cleanser is too harsh. Oily and acne-prone skin can use a cleanser with 2% salicylic acid two or three mornings a week.</p>
+            <h3 class="text-xl font-bold font-heading text-brand-deeper mt-8 mb-4">2. Serum</h3>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">A vitamin C serum (10 to 15%) helps brighten uneven tone and boosts sunscreen protection. If vitamin C irritates you, a niacinamide 5% or hyaluronic acid serum is a gentler alternative.</p>
+            <h3 class="text-xl font-bold font-heading text-brand-deeper mt-8 mb-4">3. Moisturiser</h3>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">Even oily skin needs a moisturiser. Choose a lightweight, non-comedogenic gel-cream. Dry or mature skin does better with ceramide-based creams.</p>
+            <h3 class="text-xl font-bold font-heading text-brand-deeper mt-8 mb-4">4. Sunscreen, Every Single Day</h3>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">This is the step that protects every other step. Use a broad-spectrum SPF 30 to 50 and apply two finger-lengths for the face and neck. Modern tinted mineral and hybrid sunscreens no longer leave a white cast on darker skin. Reapply if you are outdoors for more than two hours.</p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">The Evening Routine (3 Steps)</h2>
+            <h3 class="text-xl font-bold font-heading text-brand-deeper mt-8 mb-4">1. Cleanse (Double Cleanse If Needed)</h3>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">Sunscreen and makeup need an oil or balm cleanser first, followed by your regular cleanser. Skipping this is one of the most common causes of congestion we see in clinic.</p>
+            <h3 class="text-xl font-bold font-heading text-brand-deeper mt-8 mb-4">2. Treat</h3>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">Night is when targeted actives work best. Depending on your concern, your dermatologist may recommend a retinoid for acne and fine lines, azelaic acid for dark marks and rosacea, or a prescription combination for melasma. Introduce one active at a time, two or three nights a week, and build up slowly.</p>
+            <h3 class="text-xl font-bold font-heading text-brand-deeper mt-8 mb-4">3. Moisturise</h3>
+            <p class="text-lg leading-relaxed text-brand-muted mb-6">Seal in your treatment with a moisturiser. If you are new to retinoids, applying moisturiser before and after (the sandwich method) reduces irritation.</p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Five Things Every Client Should Know</h2>
+            <div class="space-y-4 mb-10">
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm"><h4 class="font-bold text-brand-deeper mb-2 font-heading">1. Lightening creams containing hydroquinone, steroids or mercury are not skincare.</h4><p class="text-brand-muted font-light">Unsupervised use causes thinning, rebound pigmentation and permanent damage. Brightening should only ever be done under dermatologist supervision.</p></div>
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm"><h4 class="font-bold text-brand-deeper mb-2 font-heading">2. Dark marks fade faster when you stop touching them.</h4><p class="text-brand-muted font-light">Picking and squeezing pimples is the leading cause of post-inflammatory hyperpigmentation on melanin-rich skin.</p></div>
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm"><h4 class="font-bold text-brand-deeper mb-2 font-heading">3. Scrubs are not the answer to texture.</h4><p class="text-brand-muted font-light">Harsh physical scrubs cause micro-tears. Chemical exfoliants used one to two times a week, or an in-clinic HydraFacial or chemical peel, are safer and more effective.</p></div>
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm"><h4 class="font-bold text-brand-deeper mb-2 font-heading">4. Give every product 8 to 12 weeks.</h4><p class="text-brand-muted font-light">Take a photo in the same light before you start. Judging results week to week in the mirror is unreliable.</p></div>
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm"><h4 class="font-bold text-brand-deeper mb-2 font-heading">5. A routine supports treatments; it does not replace them.</h4><p class="text-brand-muted font-light">Acne scarring, melasma and deep pigmentation usually need in-clinic care such as peels, lasers or microneedling alongside home care.</p></div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Frequently Asked Questions</h2>
+            <div class="space-y-6 mb-10">
+                <div><h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">Q1: Do I really need sunscreen if I have dark skin?</h3><p class="text-brand-muted font-light">Yes. Melanin offers some protection, roughly SPF 3 to 4, but it does not prevent UV-triggered hyperpigmentation or melasma, which are the top skin concerns we treat in Kampala.</p></div>
+                <div><h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">Q2: Can I use vitamin C and retinol together?</h3><p class="text-brand-muted font-light">Use vitamin C in the morning and retinol at night. Using both at once increases irritation without improving results.</p></div>
+                <div><h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">Q3: How do I know if a product is breaking me out?</h3><p class="text-brand-muted font-light">Introduce one new product at a time and wait two weeks before adding another. A true breakout appears within days where the product was applied.</p></div>
+                <div><h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">Q4: How often should I have a professional facial?</h3><p class="text-brand-muted font-light">A HydraFacial or medical facial every four to six weeks matches the skin renewal cycle and keeps pores clear between home routines.</p></div>
+                <div><h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">Q5: Where can I get a routine built for my skin?</h3><p class="text-brand-muted font-light">Book a skin consultation at Refine Skin &amp; Body Clinic in Kabalagala or Bukoto. Our dermatologists analyse your skin and prescribe a routine using products that are safe and available in Uganda.</p></div>
+            </div>
+
+            <!-- CTA -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 rounded-3xl text-center shadow-xl">
+                <h3 class="text-2xl font-bold font-heading mb-4 text-white">Want A Routine Built For Your Skin?</h3>
+                <p class="text-white/80 font-light mb-6">Book a dermatologist skin analysis at Refine Skin &amp; Body Clinic and leave with a step-by-step plan.</p>
+                <a href="/book-appointment" class="inline-block bg-accent text-brand-deeper font-bold px-8 py-3 rounded-full hover:bg-white transition-colors">Book A Consultation</a>
+            </div>
+        ',
+    ],
 ];
 
 // Sort articles by publication date (latest first, 2nd, 3rd, etc.)

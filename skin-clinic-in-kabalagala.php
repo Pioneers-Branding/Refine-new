@@ -97,7 +97,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                 <!-- Hero Image Card -->
                 <div class="lg:col-span-5">
                     <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-white/20 group">
-                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine Skin Clinic in Kabalagala" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
+                        <img src="/assets/images/clinic/kabalagala-palm-village.webp" alt="Refine Skin & Body Clinic at Palm Village Mall, Kabalagala" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/90 via-brand-deeper/30 to-transparent"></div>
                         
                         <div class="absolute bottom-6 left-6 right-6 p-6 bg-white/95 backdrop-blur-md rounded-2xl border border-white shadow-xl">
@@ -130,7 +130,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                 <div class="lg:col-span-5">
                     <div class="relative">
                         <div class="rounded-3xl overflow-hidden shadow-xl border border-brand/5">
-                            <img src="/assets/imagesfromsite/about2026.webp" alt="Dermatology Care in Kabalagala" class="w-full h-[420px] object-cover">
+                            <img src="/assets/images/clinic/kabalagala-reception.webp" alt="Reception at Refine Skin & Body Clinic, Kabalagala" class="w-full h-[420px] object-cover">
                         </div>
                         <!-- Floating Badge -->
                         <div class="absolute -bottom-6 -right-6 bg-brand text-white p-6 rounded-2xl shadow-xl max-w-xs border border-brand-light hidden sm:block">
@@ -336,7 +336,19 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Tour Our <i class="text-accent font-light">Kabalagala Clinic.</i>';
+    $treatmentVideosSubtitle = 'Take a walk through Refine Skin &amp; Body Clinic at Palm Village Mall, Kabalagala: reception, treatment rooms and the IV lounge.';
+    $treatmentVideosEyebrow = 'Palm Village Mall, Kabalagala';
+    $treatmentVideos = [
+        ['src' => 'kabalagala-branch-tour', 'title' => 'Kabalagala Branch Tour', 'desc' => 'A guided walkthrough of our flagship Kabalagala clinic.', 'tag' => 'Clinic Tour'],
+        ['src' => 'iv-drip-therapy', 'title' => 'IV Drip Therapy at Refine', 'desc' => 'Inside the IV lounge at our Kabalagala branch.', 'tag' => 'IV Lounge'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
     <!-- ============================================
          PATIENT TESTIMONIALS FROM KABALAGALA

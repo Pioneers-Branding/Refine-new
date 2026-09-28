@@ -33,7 +33,7 @@ $metaKeywords = "Dermal Fillers in Kampala, Dermal Fillers treatment in Kampal, 
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[16/10] sm:aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/scraped_site/images/services/dermal%20fillers-02.png" alt="Dermal Fillers at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/images/services/injectables/dermal-fillers-02.png" alt="Dermal Fillers at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
                 </div>
 
@@ -98,6 +98,52 @@ $metaKeywords = "Dermal Fillers in Kampala, Dermal Fillers treatment in Kampal, 
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <!-- ============================================
+         REAL RESULTS — Temple & mid-face filler (same-day before/after, July 2026)
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-surface-warm relative overflow-hidden" id="filler-results">
+        <div class="absolute bottom-0 right-0 w-[500px] h-[500px] bg-accent/5 rounded-full blur-[120px] translate-y-1/3 translate-x-1/4 pointer-events-none"></div>
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="text-center max-w-3xl mx-auto mb-12 gs-reveal-text">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Real Patient, Same Day</span>
+                <h3 class="text-section font-display text-brand-deeper mb-6">Temple &amp; Mid-Face Filler <i class="text-accent font-light">Results.</i></h3>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed">Photographed in our Kabalagala clinic immediately before and 35 minutes after treatment by Dr. Chirag Kotecha. Hollow temples and a flattened mid-face were restored with hyaluronic acid filler for a softer, rested contour. Shared with the patient's consent.</p>
+            </div>
+
+            <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 gs-stagger-bento">
+                <?php
+                $fillerPairs = [
+                    // [before #, after #, title, caption] — pairs matched by camera angle
+                    [1, 1, 'Frontal view', 'Temple hollowing softened; overall facial balance restored.'],
+                    [2, 3, 'Left profile', 'Temple concavity filled for a smooth transition into the cheek.'],
+                    [6, 4, 'Three-quarter view', 'Mid-face support lifts the cheek and reduces shadowing.'],
+                    [3, 5, 'Close-up, temple', 'Subtle volume — no overfilled look.'],
+                    [4, 6, 'Close-up, cheek', 'Natural contour with immediate, visible lift.'],
+                    [5, 7, 'Relaxed expression', 'The overall effect at rest: refreshed, not "done".'],
+                ];
+                foreach ($fillerPairs as $fp): ?>
+                <div class="bento-item bg-white p-4 rounded-[28px] border border-brand/5 shadow-sm hover:shadow-md transition-all">
+                    <div class="grid grid-cols-2 gap-2 rounded-2xl overflow-hidden">
+                        <div class="relative aspect-[4/5] bg-surface-cool">
+                            <img src="/assets/images/before-after/fillers-before-<?php echo $fp[0]; ?>.webp" alt="Dermal filler before — <?php echo $fp[2]; ?>" class="w-full h-full object-cover" loading="lazy">
+                            <span class="absolute bottom-3 left-3 bg-brand-deeper/70 text-[9px] uppercase tracking-widest text-white px-2.5 py-1 rounded backdrop-blur-xs font-semibold">Before</span>
+                        </div>
+                        <div class="relative aspect-[4/5] bg-surface-cool">
+                            <img src="/assets/images/before-after/fillers-after-<?php echo $fp[1]; ?>.webp" alt="Dermal filler after — <?php echo $fp[2]; ?>" class="w-full h-full object-cover" loading="lazy">
+                            <span class="absolute bottom-3 left-3 bg-accent/90 text-[9px] uppercase tracking-widest text-brand-deeper px-2.5 py-1 rounded backdrop-blur-xs font-semibold">After</span>
+                        </div>
+                    </div>
+                    <div class="px-2 pt-4 pb-1">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base"><?php echo $fp[2]; ?></h4>
+                        <p class="text-xs text-brand-muted font-light mt-1"><?php echo $fp[3]; ?></p>
+                    </div>
+                </div>
+                <?php endforeach; ?>
+            </div>
+            <p class="text-center text-xs text-brand-muted font-light mt-8">Results vary between individuals. Photos are unretouched and taken under the same lighting on the same day.</p>
         </div>
     </section>
 
@@ -279,7 +325,38 @@ $metaKeywords = "Dermal Fillers in Kampala, Dermal Fillers treatment in Kampal, 
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Dermal Fillers <i class="text-accent font-light">In The Treatment Room.</i>';
+    $treatmentVideosSubtitle = 'Dr. Chirag Kotecha performing temple and mid-face filler treatments, filmed in our Kabalagala clinic.';
+    $treatmentVideos = [
+        ['src' => 'fillers-treatment-session', 'title' => 'Dermal Filler Treatment Session', 'desc' => 'An uncut filler session showing assessment, marking and injection technique.', 'tag' => 'Live Procedure'],
+        ['src' => 'fillers-clip-2', 'title' => 'Temple Hollow Filler', 'desc' => 'Restoring volume to the temples for a softer, more youthful contour.', 'tag' => 'Procedure'],
+        ['src' => 'fillers-clip-5', 'title' => 'Mid-Face Volumisation', 'desc' => 'Cheek and mid-face support using hyaluronic acid filler.', 'tag' => 'Procedure'],
+        ['src' => 'fillers-clip-7', 'title' => 'Immediate Results Check', 'desc' => 'Reviewing symmetry and results straight after treatment.', 'tag' => 'Results'],
+    ];
+    $treatmentVideosMoreTitle = 'More clips from the filler session';
+    $treatmentVideosMore = [
+        ['src' => 'fillers-clip-1', 'title' => 'Consultation & assessment'],
+        ['src' => 'fillers-clip-3', 'title' => 'Marking the temples'],
+        ['src' => 'fillers-clip-4', 'title' => 'Numbing & preparation'],
+        ['src' => 'fillers-clip-6', 'title' => 'Cannula technique'],
+        ['src' => 'fillers-clip-8', 'title' => 'Second side'],
+        ['src' => 'fillers-clip-9', 'title' => 'Massage & shaping'],
+        ['src' => 'fillers-clip-10', 'title' => 'Symmetry check'],
+        ['src' => 'fillers-clip-11', 'title' => 'Cheek support'],
+        ['src' => 'fillers-clip-12', 'title' => 'Mid-face injection'],
+        ['src' => 'fillers-clip-13', 'title' => 'Blending the contour'],
+        ['src' => 'fillers-clip-14', 'title' => 'Patient comfort check'],
+        ['src' => 'fillers-clip-15', 'title' => 'Detail work'],
+        ['src' => 'fillers-clip-16', 'title' => 'Reviewing the result'],
+        ['src' => 'fillers-clip-17', 'title' => 'Aftercare advice'],
+        ['src' => 'fillers-clip-18', 'title' => 'Final look'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     

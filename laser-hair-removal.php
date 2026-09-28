@@ -279,7 +279,17 @@ $metaKeywords = "Laser Hair Removal in Kampala, Laser Hair Removal treatment in 
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Laser Hair Removal <i class="text-accent font-light">Live.</i>';
+    $treatmentVideosSubtitle = 'Watch an underarm laser hair removal session and see how quick and comfortable the treatment is on melanin-rich skin.';
+    $treatmentVideos = [
+        ['src' => 'laser-hair-removal-underarms', 'title' => 'Underarm Laser Hair Removal', 'desc' => 'A full underarm session filmed at Refine, using settings tuned for darker skin tones.', 'tag' => 'Live Procedure'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     

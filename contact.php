@@ -138,6 +138,54 @@ $pageDescription = "We are here to assist you. Reach out to book a consultation 
     </section>
     
     <!-- ============================================
+         OUR BRANCHES (photos & tours)
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-white border-t border-brand/5">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+            <div class="text-center max-w-2xl mx-auto mb-12 gs-reveal-text">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Find Us</span>
+                <h2 class="text-section font-display text-brand-deeper">Our <i class="text-accent font-light">Kampala Branches.</i></h2>
+            </div>
+            <div class="grid md:grid-cols-2 gap-6 lg:gap-8 gs-stagger-bento">
+                <!-- Kabalagala -->
+                <a href="/skin-clinic-in-kabalagala" class="bento-item group block bg-surface-warm rounded-[32px] border border-brand/5 overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500">
+                    <div class="grid grid-cols-3 gap-1 p-1">
+                        <div class="col-span-2 aspect-[4/3] rounded-tl-[28px] overflow-hidden"><img src="/assets/images/clinic/kabalagala-palm-village.webp" alt="Refine Skin & Body Clinic at Palm Village Mall, Kabalagala" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy"></div>
+                        <div class="grid grid-rows-2 gap-1">
+                            <div class="rounded-tr-[28px] overflow-hidden"><img src="/assets/images/clinic/kabalagala-exterior.webp" alt="Kabalagala clinic entrance" class="w-full h-full object-cover" loading="lazy"></div>
+                            <div class="overflow-hidden"><img src="/assets/images/clinic/kabalagala-reception.webp" alt="Kabalagala clinic reception" class="w-full h-full object-cover" loading="lazy"></div>
+                        </div>
+                    </div>
+                    <div class="p-7">
+                        <div class="flex items-center justify-between gap-4 mb-2">
+                            <h4 class="font-heading font-semibold text-brand-deeper text-xl">Kabalagala Branch</h4>
+                            <span class="text-[10px] uppercase tracking-widest text-accent font-semibold border border-accent/30 rounded-full px-3 py-1">Flagship</span>
+                        </div>
+                        <p class="text-sm text-brand-muted font-light">Palm Village Mall, Second Floor, opposite KIU. Dermatology, injectables, laser, body contouring and the Refine IV Lounge.</p>
+                        <span class="inline-block mt-4 text-xs font-semibold text-brand group-hover:text-accent transition-colors">Take the video tour <i class="fas fa-arrow-right ml-1"></i></span>
+                    </div>
+                </a>
+                <!-- Bukoto -->
+                <a href="/skin-clinic-in-bukoto" class="bento-item group block bg-surface-warm rounded-[32px] border border-brand/5 overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500">
+                    <div class="relative aspect-[16/9] m-1 rounded-t-[28px] overflow-hidden bg-brand-deeper">
+                        <img src="/assets/videos/posters/bukoto-branch-tour.jpg" alt="Refine Skin & Body Clinic at UMC Victoria Hospital, Bukoto" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/60 to-transparent"></div>
+                        <div class="absolute inset-0 flex items-center justify-center"><div class="w-14 h-14 rounded-full bg-white/90 flex items-center justify-center group-hover:bg-accent transition-colors"><i class="fas fa-play text-brand-deeper ml-1"></i></div></div>
+                    </div>
+                    <div class="p-7">
+                        <div class="flex items-center justify-between gap-4 mb-2">
+                            <h4 class="font-heading font-semibold text-brand-deeper text-xl">Bukoto Branch</h4>
+                            <span class="text-[10px] uppercase tracking-widest text-brand-muted font-semibold border border-brand/15 rounded-full px-3 py-1">UMC Victoria</span>
+                        </div>
+                        <p class="text-sm text-brand-muted font-light">UMC Victoria Hospital Annex, Bukoto. Consultations, skin treatments and IV therapy with hospital-grade facilities on site.</p>
+                        <span class="inline-block mt-4 text-xs font-semibold text-brand group-hover:text-accent transition-colors">See the premises <i class="fas fa-arrow-right ml-1"></i></span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
          ARRIVAL GUIDE & EMERGENCY
          ============================================ -->
     <section class="py-16 lg:py-24 bg-surface-warm border-t border-brand/5">

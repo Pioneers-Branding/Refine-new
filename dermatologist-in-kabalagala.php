@@ -98,7 +98,7 @@ $metaKeywords = "Dermatologist in Kabalagala, Skin Doctor Kabalagala, Best Derma
                 <!-- Hero Image Card -->
                 <div class="lg:col-span-5">
                     <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-white/20 group">
-                        <img src="/assets/imagesfromsite/dermatology-new-09.webp" alt="Dermatologist Consultation in Kabalagala" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
+                        <img src="/assets/images/clinic/kabalagala-exterior.webp" alt="Refine Skin & Body Clinic dermatology branch in Kabalagala" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/90 via-brand-deeper/30 to-transparent"></div>
                         
                         <div class="absolute bottom-6 left-6 right-6 p-6 bg-white/95 backdrop-blur-md rounded-2xl border border-white shadow-xl">
@@ -337,7 +337,19 @@ $metaKeywords = "Dermatologist in Kabalagala, Skin Doctor Kabalagala, Best Derma
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Inside Our <i class="text-accent font-light">Kabalagala Clinic.</i>';
+    $treatmentVideosSubtitle = 'See the clinic where our dermatologists consult and treat, at Palm Village Mall, Kabalagala.';
+    $treatmentVideosEyebrow = 'Palm Village Mall, Kabalagala';
+    $treatmentVideos = [
+        ['src' => 'kabalagala-branch-tour', 'title' => 'Kabalagala Branch Tour', 'desc' => 'A guided walkthrough of our flagship Kabalagala clinic.', 'tag' => 'Clinic Tour'],
+        ['src' => 'psoriasis', 'title' => 'Psoriasis: Causes & Treatment', 'desc' => 'A dermatologist-led explainer filmed at Refine.', 'tag' => 'Doctor Explainer'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
     <!-- ============================================
          PATIENT TESTIMONIALS FROM KABALAGALA

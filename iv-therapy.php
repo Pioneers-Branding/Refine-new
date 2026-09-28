@@ -279,7 +279,18 @@ $metaKeywords = "IV Therapy in Kampala, IV Therapy treatment in Kampal, IV Thera
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'IV Therapy <i class="text-accent font-light">At The Lounge.</i>';
+    $treatmentVideosSubtitle = 'Step inside the Refine IV Lounge and see how a vitamin drip session works, from consultation to cannulation.';
+    $treatmentVideos = [
+        ['src' => 'iv-drip-therapy', 'title' => 'IV Drip Therapy at Refine', 'desc' => 'What happens during an IV drip session, how long it takes and who it suits.', 'tag' => 'Explainer'],
+        ['src' => 'iv-drips', 'title' => 'Our IV Drip Menu', 'desc' => 'A quick tour of the drips we offer, from immunity and energy to skin glow.', 'tag' => 'Overview'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     

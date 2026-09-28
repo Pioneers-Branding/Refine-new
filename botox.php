@@ -33,7 +33,7 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
                     
                     <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[16/10] sm:aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/images/services/injectables/Botox.webp" alt="Botox&reg; Anti Aging Treatment at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                        <img src="/assets/images/clinic/botox-session-2.webp" alt="Botox&reg; injection being administered at Refine Skin and Body Clinic, Kampala." class="w-full h-full object-cover object-top gs-reveal-img group-hover:scale-105 transition-all duration-1000" loading="lazy">
                     </div>
                 </div>
 
@@ -167,6 +167,27 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
     </div>
   </section>
 
+    <!-- In-clinic photo strip (July 2026 session) -->
+    <section class="py-10 bg-surface-warm border-y border-brand/5">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+            <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-6">
+                <div>
+                    <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-2 font-semibold">From The Treatment Room</span>
+                    <h3 class="font-display text-2xl lg:text-3xl text-brand-deeper">Botox&reg; Session <i class="text-accent font-light">In Pictures.</i></h3>
+                </div>
+                <p class="text-sm text-brand-muted font-light max-w-md">Dr. Chirag Kotecha preparing and administering Botox&reg; at our Kabalagala clinic. Shared with patient consent.</p>
+            </div>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4">
+                <?php foreach ([['1', 'Preparing the dose'], ['3', 'Forehead injection points'], ['4', 'Brow area technique'], ['5', 'Precision placement']] as $bp): ?>
+                <figure class="relative aspect-[3/4] rounded-2xl overflow-hidden shadow-sm border border-brand/5 group">
+                    <img src="/assets/images/clinic/botox-session-<?php echo $bp[0]; ?>.webp" alt="Botox session at Refine Clinic — <?php echo $bp[1]; ?>" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" loading="lazy">
+                    <figcaption class="absolute bottom-0 left-0 right-0 p-3 bg-gradient-to-t from-brand-deeper/80 to-transparent text-white text-xs font-semibold"><?php echo $bp[1]; ?></figcaption>
+                </figure>
+                <?php endforeach; ?>
+            </div>
+        </div>
+    </section>
+
     <!-- Why Opt for Dr. Chirag & Myths -->
     <section class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
         <div class="absolute inset-0 bg-[url('/assets/imagesfromsite/pattern.svg')] bg-repeat opacity-[0.03]"></div>
@@ -279,7 +300,28 @@ $metaKeywords = "Botox&reg; Anti-Aging Treatment in Kampala, Botox&reg; Anti-Agi
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Botox&reg; <i class="text-accent font-light">Behind The Scenes.</i>';
+    $treatmentVideosSubtitle = 'Filmed in our Kabalagala treatment room: Dr. Chirag Kotecha preparing and administering Botox&reg;, plus a full session walkthrough.';
+    $treatmentVideos = [
+        ['src' => 'botox-dr-chirag', 'title' => 'Botox by Dr. Chirag Kotecha', 'desc' => 'Preview of Dr. Chirag\'s full Botox explainer: how it works, who it suits, and what to expect.', 'tag' => 'Doctor Explainer', 'preview' => true],
+        ['src' => 'botox-treatment-session', 'title' => 'Live Botox Treatment Session', 'desc' => 'An uncut treatment session showing injection technique, dosing and patient comfort.', 'tag' => 'Live Procedure'],
+        ['src' => 'botox-clip-2', 'title' => 'Forehead & Frown Line Injections', 'desc' => 'Close-up of precise injection points across the forehead and glabella.', 'tag' => 'Procedure'],
+        ['src' => 'botox-clip-4', 'title' => 'Crow\'s Feet Treatment', 'desc' => 'Targeting the lateral eye area for a natural, refreshed look.', 'tag' => 'Procedure'],
+    ];
+    $treatmentVideosMoreTitle = 'More clips from the Botox&reg; session';
+    $treatmentVideosMore = [
+        ['src' => 'botox-clip-1', 'title' => 'Patient assessment'],
+        ['src' => 'botox-clip-3', 'title' => 'Marking injection points'],
+        ['src' => 'botox-clip-5', 'title' => 'Glabella injections'],
+        ['src' => 'botox-clip-6', 'title' => 'Forehead lines'],
+        ['src' => 'botox-clip-7', 'title' => 'Final check'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     

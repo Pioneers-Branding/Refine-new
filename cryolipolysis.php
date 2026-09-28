@@ -279,7 +279,19 @@ $metaKeywords = "Cryolipolysis in Kampala, Cryolipolysis treatment in Kampal, Cr
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Fat Freezing <i class="text-accent font-light">At Refine.</i>';
+    $treatmentVideosSubtitle = 'See a cryolipolysis session from applicator placement to the post-treatment massage, and hear how the technology works.';
+    $treatmentVideos = [
+        ['src' => 'fat-freezing-explained', 'title' => 'How Fat Freezing Works', 'desc' => 'Our team explains cryolipolysis, the areas it treats and realistic timelines for results.', 'tag' => 'Explainer'],
+        ['src' => 'fat-freezing-procedure', 'title' => 'Fat Freezing Treatment Procedure', 'desc' => 'Step-by-step footage of a live fat-freezing session in the clinic.', 'tag' => 'Live Procedure'],
+        ['src' => 'fat-freezing-treatment', 'title' => 'Fat Freezing Treatment Room', 'desc' => 'Applicator placement and what the treatment feels like.', 'tag' => 'Procedure'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     

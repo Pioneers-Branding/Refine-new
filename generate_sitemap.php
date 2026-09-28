@@ -81,7 +81,8 @@ $blogSlugs = [
     'is-a-hydrafacial-worth-it',
     'what-does-chemical-peel-do',
     'how-often-should-you-get-a-chemical-peel',
-    'how-to-choose-the-right-treatment-for-acne-scars'
+    'how-to-choose-the-right-treatment-for-acne-scars',
+    'daily-skincare-routine-what-every-client-should-know'
 ];
 
 foreach ($blogSlugs as $slug) {

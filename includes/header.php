@@ -6,7 +6,9 @@
  * - On all other pages, the navbar is always solid (white) because the page
  *   hero has a coloured background. This avoids the "invisible" navbar problem.
  */
-$currentPath = isset($_SERVER['REQUEST_URI']) ? parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) : '/';
+// Strip the query string by hand: parse_url() reads a leading "//" as a host and returns null for the path.
+$currentPath = isset($_SERVER['REQUEST_URI']) ? strtok($_SERVER['REQUEST_URI'], '?#') : '/';
+$currentPath = '/' . trim((string) $currentPath, '/');
 $currentPath = rtrim($currentPath, '/');
 if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index.php') {
     $isHome = true;
@@ -45,6 +47,8 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <div class="space-y-2.5">
                                     <a href="/about" class="block text-sm text-gray-600 hover:text-brand transition-colors">About Us</a>
                                     <a href="/gallery" class="block text-sm text-gray-600 hover:text-brand transition-colors">Gallery</a>
+                                    <a href="/videos" class="block text-sm text-gray-600 hover:text-brand transition-colors">Video Library</a>
+                                    <a href="/offers" class="block text-sm text-accent font-semibold hover:text-brand transition-colors">September Offers</a>
                                     <a href="/blog" class="block text-sm text-gray-600 hover:text-brand transition-colors">Blogs</a>
                                     <a href="/patient-reviews" class="block text-sm text-gray-600 hover:text-brand transition-colors">Patient Reviews</a>
                                     <a href="/before-after" class="block text-sm text-gray-600 hover:text-brand transition-colors">Before & After</a>
@@ -310,6 +314,8 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">The Clinic</p>
                         <a href="/about" class="block font-body text-sm text-white/80 py-1 hover:text-accent">About Us</a>
                         <a href="/gallery" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Gallery</a>
+                        <a href="/videos" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Video Library</a>
+                        <a href="/offers" class="block font-body text-sm text-accent py-1 hover:text-white">September Offers</a>
                         <a href="/blog" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Blogs</a>
                         <a href="/patient-reviews" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Patient Reviews</a>
                         <a href="/before-after" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Before & After</a>

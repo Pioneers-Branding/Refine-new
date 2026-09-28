@@ -279,7 +279,24 @@ $metaKeywords = "RF Microneedling in Kampala, RF Microneedling treatment in Kamp
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Microneedling <i class="text-accent font-light">With Serums.</i>';
+    $treatmentVideosSubtitle = 'Filmed at Refine: a microneedling session combined with targeted serum infusion for texture, scars and glow.';
+    $treatmentVideos = [
+        ['src' => 'microneedling-serums-session', 'title' => 'Microneedling & Serum Infusion Session', 'desc' => 'Preview of a full microneedling session with medical-grade serums.', 'tag' => 'Live Procedure', 'preview' => true],
+        ['src' => 'microneedling-clip-1', 'title' => 'Preparing The Skin', 'desc' => 'Cleansing and numbing before the microneedling pass.', 'tag' => 'Procedure'],
+        ['src' => 'microneedling-clip-2', 'title' => 'Microneedling Pass', 'desc' => 'Controlled micro-channels created across the treatment area.', 'tag' => 'Procedure'],
+        ['src' => 'microneedling-clip-3', 'title' => 'Serum Application', 'desc' => 'Serums applied while channels are open for maximum absorption.', 'tag' => 'Procedure'],
+    ];
+    $treatmentVideosMoreTitle = 'More from the microneedling session';
+    $treatmentVideosMore = [
+        ['src' => 'microneedling-clip-4', 'title' => 'Post-treatment soothing'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     

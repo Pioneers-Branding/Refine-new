@@ -1,0 +1,266 @@
+{
+    "generated":  "2026-09-28T03:52:42.1458574+05:30",
+    "workspace_id":  "6553f91b3699cbd2c01ab6a9",
+    "slugs":  {
+                  "botox-clip-2":  {
+                                       "asset_id":  "6ab987a13518a22dd8b8b175",
+                                       "embed_url":  "https://play.gumlet.io/embed/6ab987a13518a22dd8b8b175",
+                                       "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab987a13518a22dd8b8b175/thumbnail-1-0.png"
+                                   },
+                  "botox-clip-3":  {
+                                       "asset_id":  "6ab987a10b72a4c9159acfd8",
+                                       "embed_url":  "https://play.gumlet.io/embed/6ab987a10b72a4c9159acfd8",
+                                       "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab987a10b72a4c9159acfd8/thumbnail-1-0.png"
+                                   },
+                  "botox-clip-4":  {
+                                       "asset_id":  "6ab987a13518a22dd8b8b173",
+                                       "embed_url":  "https://play.gumlet.io/embed/6ab987a13518a22dd8b8b173",
+                                       "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab987a13518a22dd8b8b173/thumbnail-1-0.png"
+                                   },
+                  "botox-clip-6":  {
+                                       "asset_id":  "6ab987a10b72a4c9159acfd9",
+                                       "embed_url":  "https://play.gumlet.io/embed/6ab987a10b72a4c9159acfd9",
+                                       "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab987a10b72a4c9159acfd9/thumbnail-1-0.png"
+                                   },
+                  "botox-clip-5":  {
+                                       "asset_id":  "6ab987a10b72a4c9159acfda",
+                                       "embed_url":  "https://play.gumlet.io/embed/6ab987a10b72a4c9159acfda",
+                                       "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab987a10b72a4c9159acfda/thumbnail-1-0.png"
+                                   },
+                  "botox-treatment-session":  {
+                                                  "asset_id":  "6ab987a1de5918773f552f50",
+                                                  "embed_url":  "https://play.gumlet.io/embed/6ab987a1de5918773f552f50",
+                                                  "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab987a1de5918773f552f50/thumbnail-1-0.png"
+                                              },
+                  "fillers-clip-1":  {
+                                         "asset_id":  "6ab98bb93518a22dd8b8c506",
+                                         "embed_url":  "https://play.gumlet.io/embed/6ab98bb93518a22dd8b8c506",
+                                         "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98bb93518a22dd8b8c506/thumbnail-1-0.png"
+                                     },
+                  "fillers-clip-2":  {
+                                         "asset_id":  "6ab98bdc0b72a4c9159ae64e",
+                                         "embed_url":  "https://play.gumlet.io/embed/6ab98bdc0b72a4c9159ae64e",
+                                         "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98bdc0b72a4c9159ae64e/thumbnail-1-0.png"
+                                     },
+                  "fillers-clip-3":  {
+                                         "asset_id":  "6ab98bdf0b72a4c9159ae662",
+                                         "embed_url":  "https://play.gumlet.io/embed/6ab98bdf0b72a4c9159ae662",
+                                         "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98bdf0b72a4c9159ae662/thumbnail-1-0.png"
+                                     },
+                  "fillers-clip-4":  {
+                                         "asset_id":  "6ab98bfcde5918773f554584",
+                                         "embed_url":  "https://play.gumlet.io/embed/6ab98bfcde5918773f554584",
+                                         "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98bfcde5918773f554584/thumbnail-1-0.png"
+                                     },
+                  "fillers-clip-5":  {
+                                         "asset_id":  "6ab98b71de5918773f5541c0",
+                                         "embed_url":  "https://play.gumlet.io/embed/6ab98b71de5918773f5541c0",
+                                         "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b71de5918773f5541c0/thumbnail-1-0.png"
+                                     },
+                  "fillers-clip-6":  {
+                                         "asset_id":  "6ab98b710b72a4c9159ae2f6",
+                                         "embed_url":  "https://play.gumlet.io/embed/6ab98b710b72a4c9159ae2f6",
+                                         "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b710b72a4c9159ae2f6/thumbnail-1-0.png"
+                                     },
+                  "fillers-clip-7":  {
+                                         "asset_id":  "6ab98b71de5918773f5541c4",
+                                         "embed_url":  "https://play.gumlet.io/embed/6ab98b71de5918773f5541c4",
+                                         "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b71de5918773f5541c4/thumbnail-1-0.png"
+                                     },
+                  "fillers-clip-8":  {
+                                         "asset_id":  "6ab98b71de5918773f5541c8",
+                                         "embed_url":  "https://play.gumlet.io/embed/6ab98b71de5918773f5541c8",
+                                         "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b71de5918773f5541c8/thumbnail-1-0.png"
+                                     },
+                  "fillers-treatment-session":  {
+                                                    "asset_id":  "6ab98bb93518a22dd8b8c50a",
+                                                    "embed_url":  "https://play.gumlet.io/embed/6ab98bb93518a22dd8b8c50a",
+                                                    "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98bb93518a22dd8b8c50a/thumbnail-1-0.png"
+                                                },
+                  "microneedling-clip-1":  {
+                                               "asset_id":  "6ab98c950b72a4c9159aeb2c",
+                                               "embed_url":  "https://play.gumlet.io/embed/6ab98c950b72a4c9159aeb2c",
+                                               "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98c950b72a4c9159aeb2c/thumbnail-1-0.png"
+                                           },
+                  "microneedling-clip-2":  {
+                                               "asset_id":  "6ab98c95de5918773f5549f7",
+                                               "embed_url":  "https://play.gumlet.io/embed/6ab98c95de5918773f5549f7",
+                                               "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98c95de5918773f5549f7/thumbnail-1-0.png"
+                                           },
+                  "microneedling-clip-3":  {
+                                               "asset_id":  "6ab98c953518a22dd8b8caee",
+                                               "embed_url":  "https://play.gumlet.io/embed/6ab98c953518a22dd8b8caee",
+                                               "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98c953518a22dd8b8caee/thumbnail-1-0.png"
+                                           },
+                  "microneedling-clip-4":  {
+                                               "asset_id":  "6ab98c953518a22dd8b8caef",
+                                               "embed_url":  "https://play.gumlet.io/embed/6ab98c953518a22dd8b8caef",
+                                               "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98c953518a22dd8b8caef/thumbnail-1-0.png"
+                                           },
+                  "hair-transplant-hair-loss":  {
+                                                    "asset_id":  "6ab979b0de5918773f54e70a",
+                                                    "embed_url":  "https://play.gumlet.io/embed/6ab979b0de5918773f54e70a",
+                                                    "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab979b0de5918773f54e70a/thumbnail-1-0.png"
+                                                },
+                  "botox-dr-chirag":  {
+                                          "asset_id":  "6ab860e23518a22dd8b25e5e",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab860e23518a22dd8b25e5e",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab860e23518a22dd8b25e5e/thumbnail-1-0.png"
+                                      },
+                  "microneedling-serums-session":  {
+                                                       "asset_id":  "6ab98c95de5918773f5549f8",
+                                                       "embed_url":  "https://play.gumlet.io/embed/6ab98c95de5918773f5549f8",
+                                                       "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98c95de5918773f5549f8/thumbnail-1-0.png"
+                                                   },
+                  "cleopatra-hydrafacial-treatment":  {
+                                                          "asset_id":  "6ab988b7de5918773f553427",
+                                                          "embed_url":  "https://play.gumlet.io/embed/6ab988b7de5918773f553427",
+                                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab988b7de5918773f553427/thumbnail-1-0.png"
+                                                      },
+                  "alopecia-awareness":  {
+                                             "asset_id":  "6ab860a00b72a4c915947979",
+                                             "embed_url":  "https://play.gumlet.io/embed/6ab860a00b72a4c915947979",
+                                             "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab860a00b72a4c915947979/thumbnail-1-0.png"
+                                         },
+                  "botox-clip-1":  {
+                                       "asset_id":  "6ab987a13518a22dd8b8b174",
+                                       "embed_url":  "https://play.gumlet.io/embed/6ab987a13518a22dd8b8b174",
+                                       "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab987a13518a22dd8b8b174/thumbnail-1-0.png"
+                                   },
+                  "botox-clip-7":  {
+                                       "asset_id":  "6ab987a1de5918773f552f51",
+                                       "embed_url":  "https://play.gumlet.io/embed/6ab987a1de5918773f552f51",
+                                       "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab987a1de5918773f552f51/thumbnail-1-0.png"
+                                   },
+                  "bukoto-branch-tour":  {
+                                             "asset_id":  "6ab988533518a22dd8b8b486",
+                                             "embed_url":  "https://play.gumlet.io/embed/6ab988533518a22dd8b8b486",
+                                             "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab988533518a22dd8b8b486/thumbnail-1-0.png"
+                                         },
+                  "cleopatra-hydrafacial-explained":  {
+                                                          "asset_id":  "6ab988b70b72a4c9159ad4bc",
+                                                          "embed_url":  "https://play.gumlet.io/embed/6ab988b70b72a4c9159ad4bc",
+                                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab988b70b72a4c9159ad4bc/thumbnail-1-0.png"
+                                                      },
+                  "daily-skincare-routine":  {
+                                                 "asset_id":  "6ab860f3de5918773f4edd83",
+                                                 "embed_url":  "https://play.gumlet.io/embed/6ab860f3de5918773f4edd83",
+                                                 "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab860f3de5918773f4edd83/thumbnail-1-0.png"
+                                             },
+                  "fat-freezing-explained":  {
+                                                 "asset_id":  "6ab861e6de5918773f4ee0d3",
+                                                 "embed_url":  "https://play.gumlet.io/embed/6ab861e6de5918773f4ee0d3",
+                                                 "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab861e6de5918773f4ee0d3/thumbnail-1-0.png"
+                                             },
+                  "fat-freezing-procedure":  {
+                                                 "asset_id":  "6ab861e6de5918773f4ee0d3",
+                                                 "embed_url":  "https://play.gumlet.io/embed/6ab861e6de5918773f4ee0d3",
+                                                 "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab861e6de5918773f4ee0d3/thumbnail-1-0.png"
+                                             },
+                  "fat-freezing-treatment":  {
+                                                 "asset_id":  "6ab989fa3518a22dd8b8bb45",
+                                                 "embed_url":  "https://play.gumlet.io/embed/6ab989fa3518a22dd8b8bb45",
+                                                 "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab989fa3518a22dd8b8bb45/thumbnail-1-0.png"
+                                             },
+                  "fillers-clip-9":  {
+                                         "asset_id":  "6ab98be8de5918773f554507",
+                                         "embed_url":  "https://play.gumlet.io/embed/6ab98be8de5918773f554507",
+                                         "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98be8de5918773f554507/thumbnail-1-0.png"
+                                     },
+                  "fillers-clip-10":  {
+                                          "asset_id":  "6ab98bea0b72a4c9159ae6c5",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98bea0b72a4c9159ae6c5",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98bea0b72a4c9159ae6c5/thumbnail-1-0.png"
+                                      },
+                  "fillers-clip-11":  {
+                                          "asset_id":  "6ab98b713518a22dd8b8c2fb",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98b713518a22dd8b8c2fb",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b713518a22dd8b8c2fb/thumbnail-1-0.png"
+                                      },
+                  "fillers-clip-12":  {
+                                          "asset_id":  "6ab98b71de5918773f5541c1",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98b71de5918773f5541c1",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b71de5918773f5541c1/thumbnail-1-0.png"
+                                      },
+                  "fillers-clip-13":  {
+                                          "asset_id":  "6ab98b710b72a4c9159ae2fd",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98b710b72a4c9159ae2fd",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b710b72a4c9159ae2fd/thumbnail-1-0.png"
+                                      },
+                  "fillers-clip-14":  {
+                                          "asset_id":  "6ab98b710b72a4c9159ae2ff",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98b710b72a4c9159ae2ff",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b710b72a4c9159ae2ff/thumbnail-1-0.png"
+                                      },
+                  "fillers-clip-15":  {
+                                          "asset_id":  "6ab98b723518a22dd8b8c301",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98b723518a22dd8b8c301",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b723518a22dd8b8c301/thumbnail-1-0.png"
+                                      },
+                  "fillers-clip-16":  {
+                                          "asset_id":  "6ab98b723518a22dd8b8c303",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98b723518a22dd8b8c303",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b723518a22dd8b8c303/thumbnail-1-0.png"
+                                      },
+                  "fillers-clip-17":  {
+                                          "asset_id":  "6ab98b723518a22dd8b8c306",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98b723518a22dd8b8c306",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98b723518a22dd8b8c306/thumbnail-1-0.png"
+                                      },
+                  "fillers-clip-18":  {
+                                          "asset_id":  "6ab98bb40b72a4c9159ae514",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98bb40b72a4c9159ae514",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98bb40b72a4c9159ae514/thumbnail-1-0.png"
+                                      },
+                  "hair-transplant":  {
+                                          "asset_id":  "6ab98d1b0b72a4c9159aeeb1",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab98d1b0b72a4c9159aeeb1",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98d1b0b72a4c9159aeeb1/thumbnail-1-0.png"
+                                      },
+                  "hydrafacial-keravive":  {
+                                               "asset_id":  "6ab98d1b0b72a4c9159aeeb2",
+                                               "embed_url":  "https://play.gumlet.io/embed/6ab98d1b0b72a4c9159aeeb2",
+                                               "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98d1b0b72a4c9159aeeb2/thumbnail-1-0.png"
+                                           },
+                  "iv-drip-therapy":  {
+                                          "asset_id":  "6ab97a423518a22dd8b86ef1",
+                                          "embed_url":  "https://play.gumlet.io/embed/6ab97a423518a22dd8b86ef1",
+                                          "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab97a423518a22dd8b86ef1/thumbnail-1-0.png"
+                                      },
+                  "iv-drips":  {
+                                   "asset_id":  "6ab97aaede5918773f54ebc5",
+                                   "embed_url":  "https://play.gumlet.io/embed/6ab97aaede5918773f54ebc5",
+                                   "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab97aaede5918773f54ebc5/thumbnail-1-0.png"
+                               },
+                  "kabalagala-branch-tour":  {
+                                                 "asset_id":  "6ab97afbde5918773f54ed17",
+                                                 "embed_url":  "https://play.gumlet.io/embed/6ab97afbde5918773f54ed17",
+                                                 "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab97afbde5918773f54ed17/thumbnail-1-0.png"
+                                             },
+                  "laser-hair-removal-underarms":  {
+                                                       "asset_id":  "6ab97b373518a22dd8b87309",
+                                                       "embed_url":  "https://play.gumlet.io/embed/6ab97b373518a22dd8b87309",
+                                                       "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab97b373518a22dd8b87309/thumbnail-1-0.png"
+                                                   },
+                  "psoriasis":  {
+                                    "asset_id":  "6ab97b733518a22dd8b873f4",
+                                    "embed_url":  "https://play.gumlet.io/embed/6ab97b733518a22dd8b873f4",
+                                    "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab97b733518a22dd8b873f4/thumbnail-1-0.png"
+                                },
+                  "september-offers-announcement":  {
+                                                        "asset_id":  "6ab98da03518a22dd8b8d211",
+                                                        "embed_url":  "https://play.gumlet.io/embed/6ab98da03518a22dd8b8d211",
+                                                        "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98da03518a22dd8b8d211/thumbnail-1-0.png"
+                                                    },
+                  "september-offers-details":  {
+                                                   "asset_id":  "6ab98da0de5918773f55516e",
+                                                   "embed_url":  "https://play.gumlet.io/embed/6ab98da0de5918773f55516e",
+                                                   "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98da0de5918773f55516e/thumbnail-1-0.png"
+                                               },
+                  "skincare-what-clients-should-know":  {
+                                                            "asset_id":  "6ab98dee3518a22dd8b8d46a",
+                                                            "embed_url":  "https://play.gumlet.io/embed/6ab98dee3518a22dd8b8d46a",
+                                                            "thumbnail":  "https://video.gumlet.io/6553f91b3699cbd2c01ab6a9/6ab98dee3518a22dd8b8d46a/thumbnail-1-0.png"
+                                                        }
+              }
+}

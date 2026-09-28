@@ -98,7 +98,7 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
                 <!-- Hero Image Card -->
                 <div class="lg:col-span-5">
                     <div class="relative rounded-3xl overflow-hidden shadow-2xl border border-white/20 group">
-                        <img src="/assets/imagesfromsite/refine_skin_and_body_clinic_dermatology01.webp" alt="Refine Skin Clinic in Bukoto" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
+                        <img src="/assets/videos/posters/bukoto-branch-tour.jpg" alt="Refine Skin & Body Clinic at UMC Victoria Hospital, Bukoto" class="w-full h-[450px] lg:h-[520px] object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/90 via-brand-deeper/30 to-transparent"></div>
                         
                         <div class="absolute bottom-6 left-6 right-6 p-6 bg-white/95 backdrop-blur-md rounded-2xl border border-white shadow-xl">
@@ -337,7 +337,18 @@ $metaKeywords = "Skin Clinic in Bukoto, Dermatologist in Bukoto, Acne Treatment 
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Tour Our <i class="text-accent font-light">Bukoto Clinic.</i>';
+    $treatmentVideosSubtitle = 'Refine Skin &amp; Body Clinic at UMC Victoria Hospital, Bukoto: a look at the premises and treatment spaces.';
+    $treatmentVideosEyebrow = 'UMC Victoria Hospital, Bukoto';
+    $treatmentVideos = [
+        ['src' => 'bukoto-branch-tour', 'title' => 'Bukoto Branch Premises', 'desc' => 'A walkthrough of our Bukoto clinic inside UMC Victoria Hospital.', 'tag' => 'Clinic Tour'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
     <!-- ============================================
          PATIENT TESTIMONIALS FROM BUKOTO

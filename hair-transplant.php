@@ -279,7 +279,18 @@ $metaKeywords = "Hair Transplant in Kampala, Hair Transplant treatment in Kampal
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Hair Transplant <i class="text-accent font-light">At Refine.</i>';
+    $treatmentVideosSubtitle = 'Our surgeons walk you through the FUE hair transplant journey, from donor-area assessment to graft placement and aftercare.';
+    $treatmentVideos = [
+        ['src' => 'hair-transplant', 'title' => 'Hair Transplant at Refine', 'desc' => 'An overview of the FUE hair transplant procedure performed at our Kampala clinic.', 'tag' => 'Procedure'],
+        ['src' => 'hair-transplant-hair-loss', 'title' => 'Hair Loss & Hair Transplant Consultation', 'desc' => 'Preview of our in-depth consultation walkthrough covering causes of hair loss and transplant candidacy.', 'tag' => 'Consultation', 'preview' => true],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     

@@ -279,7 +279,18 @@ include 'includes/head.php'; ?>
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Inside The <i class="text-accent font-light">IV Lounge.</i>';
+    $treatmentVideosSubtitle = 'See the lounge, meet the nursing team and learn how a drip session unfolds.';
+    $treatmentVideos = [
+        ['src' => 'iv-drip-therapy', 'title' => 'IV Drip Therapy at Refine', 'desc' => 'What happens during an IV drip session, how long it takes and who it suits.', 'tag' => 'Explainer'],
+        ['src' => 'iv-drips', 'title' => 'Our IV Drip Menu', 'desc' => 'A quick tour of the drips we offer, from immunity and energy to skin glow.', 'tag' => 'Overview'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     <!-- FAQ Block -->

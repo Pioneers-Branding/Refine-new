@@ -44,6 +44,44 @@ $pageDescription = "Browse authentic, unretouched transformations and clinical o
             <!-- Comparison Grid -->
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8" id="comparison-grid">
                 
+                <!-- Card 0a: Temple Filler (real patient, July 2026) -->
+                <div class="filter-item bg-white p-6 rounded-[32px] border border-brand/5 shadow-sm group hover:shadow-md transition-all flex flex-col justify-between" data-category="injectables">
+                    <div>
+                        <div class="grid grid-cols-2 gap-4 mb-6 relative overflow-hidden rounded-2xl">
+                            <div class="relative aspect-[4/5] bg-surface-cool">
+                                <img src="/assets/images/before-after/fillers-before-1.webp" alt="Temple filler before" class="w-full h-full object-cover" loading="lazy">
+                                <span class="absolute bottom-3 left-3 bg-brand-deeper/70 text-[9px] uppercase tracking-widest text-white px-2.5 py-1 rounded backdrop-blur-xs font-semibold">Before</span>
+                            </div>
+                            <div class="relative aspect-[4/5] bg-surface-cool">
+                                <img src="/assets/images/before-after/fillers-after-1.webp" alt="Temple filler after" class="w-full h-full object-cover" loading="lazy">
+                                <span class="absolute bottom-3 left-3 bg-accent/90 text-[9px] uppercase tracking-widest text-brand-deeper px-2.5 py-1 rounded backdrop-blur-xs font-semibold">After</span>
+                            </div>
+                        </div>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Temple &amp; Mid-Face Filler</h4>
+                        <p class="text-sm text-brand-muted font-light leading-relaxed mb-6">Hollow temples restored with hyaluronic acid filler by Dr. Chirag Kotecha. Photographed immediately before and 35 minutes after treatment. <a href="/dermal-fillers#filler-results" class="text-brand font-semibold hover:text-accent">See all angles</a>.</p>
+                    </div>
+
+</div>
+
+                <!-- Card 0b: Temple Filler profile -->
+                <div class="filter-item bg-white p-6 rounded-[32px] border border-brand/5 shadow-sm group hover:shadow-md transition-all flex flex-col justify-between" data-category="injectables">
+                    <div>
+                        <div class="grid grid-cols-2 gap-4 mb-6 relative overflow-hidden rounded-2xl">
+                            <div class="relative aspect-[4/5] bg-surface-cool">
+                                <img src="/assets/images/before-after/fillers-before-4.webp" alt="Temple filler profile before" class="w-full h-full object-cover" loading="lazy">
+                                <span class="absolute bottom-3 left-3 bg-brand-deeper/70 text-[9px] uppercase tracking-widest text-white px-2.5 py-1 rounded backdrop-blur-xs font-semibold">Before</span>
+                            </div>
+                            <div class="relative aspect-[4/5] bg-surface-cool">
+                                <img src="/assets/images/before-after/fillers-after-4.webp" alt="Temple filler profile after" class="w-full h-full object-cover" loading="lazy">
+                                <span class="absolute bottom-3 left-3 bg-accent/90 text-[9px] uppercase tracking-widest text-brand-deeper px-2.5 py-1 rounded backdrop-blur-xs font-semibold">After</span>
+                            </div>
+                        </div>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Temple Filler — Profile View</h4>
+                        <p class="text-sm text-brand-muted font-light leading-relaxed mb-6">Side profile of the same patient showing the smoothed transition from temple to cheek, with no overfilled look.</p>
+                    </div>
+
+</div>
+
                 <!-- Card 1: Acne Scars -->
                 <div class="filter-item bg-white p-6 rounded-[32px] border border-brand/5 shadow-sm group hover:shadow-md transition-all flex flex-col justify-between" data-category="acne-scars">
                     <div>
@@ -60,11 +98,8 @@ $pageDescription = "Browse authentic, unretouched transformations and clinical o
                         <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Acne Clearing Protocol</h4>
                         <p class="text-sm text-brand-muted font-light leading-relaxed mb-6">Complete clearance of active cystic acne and texture smoothing over a 3-month medical-grade skincare cycle.</p>
                     </div>
-                    <div class="border-t border-brand/5 pt-4 flex justify-between items-center text-xs text-brand-muted">
-                        <span>Sessions: 3 Sessions</span>
-                        <span>Downtime: Minimal</span>
-                    </div>
-                </div>
+
+</div>
 
                 <!-- Card 2: Lip Volumization -->
                 <div class="filter-item bg-white p-6 rounded-[32px] border border-brand/5 shadow-sm group hover:shadow-md transition-all flex flex-col justify-between" data-category="injectables">
@@ -82,11 +117,8 @@ $pageDescription = "Browse authentic, unretouched transformations and clinical o
                         <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Lip Volumization</h4>
                         <p class="text-sm text-brand-muted font-light leading-relaxed mb-6">Restored hydration, symmetry, and youthful volume using premium hyaluronic acid dermal fillers.</p>
                     </div>
-                    <div class="border-t border-brand/5 pt-4 flex justify-between items-center text-xs text-brand-muted">
-                        <span>Sessions: 1 Session</span>
-                        <span>Downtime: 24–48 Hours</span>
-                    </div>
-                </div>
+
+</div>
 
                 <!-- Card 3: Body Contouring -->
                 <div class="filter-item bg-white p-6 rounded-[32px] border border-brand/5 shadow-sm group hover:shadow-md transition-all flex flex-col justify-between" data-category="body-contouring">
@@ -104,11 +136,8 @@ $pageDescription = "Browse authentic, unretouched transformations and clinical o
                         <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Cryolipolysis (Fat Freezing)</h4>
                         <p class="text-sm text-brand-muted font-light leading-relaxed mb-6">Targeted reduction of stubborn abdominal fat deposits using advanced fat-freezing technology.</p>
                     </div>
-                    <div class="border-t border-brand/5 pt-4 flex justify-between items-center text-xs text-brand-muted">
-                        <span>Sessions: 2 Sessions</span>
-                        <span>Downtime: Zero</span>
-                    </div>
-                </div>
+
+</div>
 
                 <!-- Card 4: Hair Restoration -->
                 <div class="filter-item bg-white p-6 rounded-[32px] border border-brand/5 shadow-sm group hover:shadow-md transition-all flex flex-col justify-between" data-category="hair-restoration">
@@ -126,11 +155,8 @@ $pageDescription = "Browse authentic, unretouched transformations and clinical o
                         <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">PRP Hair Restoration</h4>
                         <p class="text-sm text-brand-muted font-light leading-relaxed mb-6">Regrowth and density improvement of thinning crown area using Platelet-Rich Plasma (PRP) therapy.</p>
                     </div>
-                    <div class="border-t border-brand/5 pt-4 flex justify-between items-center text-xs text-brand-muted">
-                        <span>Sessions: 4 Sessions</span>
-                        <span>Downtime: Minimal</span>
-                    </div>
-                </div>
+
+</div>
 
                 <!-- Card 5: Skincare -->
                 <div class="filter-item bg-white p-6 rounded-[32px] border border-brand/5 shadow-sm group hover:shadow-md transition-all flex flex-col justify-between" data-category="skincare">
@@ -148,11 +174,8 @@ $pageDescription = "Browse authentic, unretouched transformations and clinical o
                         <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Chemical Peel Rejuvenation</h4>
                         <p class="text-sm text-brand-muted font-light leading-relaxed mb-6">Leveling of hyperpigmentation, melasma, and sun spots using a personalized peel series.</p>
                     </div>
-                    <div class="border-t border-brand/5 pt-4 flex justify-between items-center text-xs text-brand-muted">
-                        <span>Sessions: 3 Sessions</span>
-                        <span>Downtime: 3–5 Days Peeling</span>
-                    </div>
-                </div>
+
+</div>
 
                 <!-- Card 6: Thread Lifting -->
                 <div class="filter-item bg-white p-6 rounded-[32px] border border-brand/5 shadow-sm group hover:shadow-md transition-all flex flex-col justify-between" data-category="injectables">
@@ -170,11 +193,8 @@ $pageDescription = "Browse authentic, unretouched transformations and clinical o
                         <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">PDO Thread Lifting</h4>
                         <p class="text-sm text-brand-muted font-light leading-relaxed mb-6">Non-surgical jawline tightening and mid-face sagging lift using premium absorbable PDO threads.</p>
                     </div>
-                    <div class="border-t border-brand/5 pt-4 flex justify-between items-center text-xs text-brand-muted">
-                        <span>Sessions: 1 Session</span>
-                        <span>Downtime: 3–5 Days</span>
-                    </div>
-                </div>
+
+</div>
 
             </div>
         </div>

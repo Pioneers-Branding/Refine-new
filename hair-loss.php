@@ -73,7 +73,19 @@ $metaKeywords = "Hair Loss Treatment in Kampala, Hair Loss Treatment treatment i
     <!-- ============================================
          VIDEO TESTIMONIALS & INSIGHTS
          ============================================ -->
-    <?php include 'includes/video-testimonials.php'; ?>
+        <?php
+    // In-house treatment videos (self-hosted)
+    $treatmentVideosTitle = 'Hair Loss <i class="text-accent font-light">Explained.</i>';
+    $treatmentVideosSubtitle = 'Understand the causes of hair loss and the treatments we offer, from PRP and Keravive scalp therapy to FUE transplant.';
+    $treatmentVideos = [
+        ['src' => 'hair-transplant-hair-loss', 'title' => 'Hair Loss & Hair Transplant Consultation', 'desc' => 'Preview of our in-depth hair-loss consultation walkthrough.', 'tag' => 'Consultation', 'preview' => true],
+        ['src' => 'alopecia-awareness', 'title' => 'Alopecia Awareness', 'desc' => 'What alopecia areata is and how it differs from pattern hair loss.', 'tag' => 'Awareness'],
+        ['src' => 'hydrafacial-keravive', 'title' => 'HydraFacial Keravive Scalp Treatment', 'desc' => 'A scalp-health treatment that cleanses follicles and nourishes the scalp for fuller-looking hair.', 'tag' => 'Scalp Therapy'],
+    ];
+    include 'includes/treatment-videos.php';
+    ?>
+
+<?php include 'includes/video-testimonials.php'; ?>
 
 
     
