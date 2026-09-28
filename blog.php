@@ -19,6 +19,426 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: WHAT VITAMIN DEFICIENCIES CAUSE ACNE?
+    // ----------------------------------------------------
+    'what-vitamin-deficiencies-cause-acne' => [
+        'slug' => 'what-vitamin-deficiencies-cause-acne',
+        'title' => 'What Vitamin Deficiencies Cause Acne?',
+        'meta_title' => 'What Vitamin Deficiencies Cause Acne?',
+        'category' => 'Medical Dermatology',
+        'category_slug' => 'medical',
+        'date' => '27 September, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Lead Specialist, Refine Clinic',
+        'read_time' => '12 min',
+        'image' => '/assets/imagesfromsite/what-vitamin-deficiencies-cause-acne-thumbnail.jpg',
+        'excerpt' => 'Discover what vitamin deficiencies cause acne, how Vitamin D, Zinc, Vitamin A, and Vitamin E impact your skin barrier, and doctor-approved steps to restore radiant, clear skin.',
+        'content' => '            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">What Vitamin Deficiencies Cause Acne? Quick Clinical Answer</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct Answer: The main vitamin and micronutrient deficiencies linked to acne breakouts are Vitamin D, Zinc, Vitamin A, and Vitamin E, along with imbalances in Vitamin B5 (deficiency) and Vitamin B12 (excess).</strong> While a nutritional deficiency alone is rarely the single cause of acne vulgaris, inadequate levels weaken the skin barrier, trigger excess sebum (oil) production, cause abnormal pore clogging (hyperkeratinization), and fuel systemic inflammation. Correcting these deficiencies calms hormonal flares, clears congested pores, and promotes rapid skin healing.
+                </p>
+                <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-3 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Vitamin D:</span>
+                        <p class="text-white/80 font-light text-xs">Boosts antimicrobial peptides (cathelicidin), calms inflammation, and regulates hormonal oil surges.</p>
+                    </div>
+                    <div class="bg-white/5 p-3 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Zinc (Mineral):</span>
+                        <p class="text-white/80 font-light text-xs">Suppresses DHT conversion, destroys acne bacteria, and speeds blemish recovery.</p>
+                    </div>
+                    <div class="bg-white/5 p-3 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Vitamin A:</span>
+                        <p class="text-white/80 font-light text-xs">Regulates cell turnover inside pores, preventing dead skin plugs from forming microcomedones.</p>
+                    </div>
+                    <div class="bg-white/5 p-3 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Vitamin E:</span>
+                        <p class="text-white/80 font-light text-xs">Prevents sebum oxidation (squalene peroxide), protecting skin from inflammatory clogging.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                If you have spent months trying acne washes, scrubs, and creams without lasting results, your breakouts may stem from within. Dermatologists emphasize that glowing skin relies on optimal internal nutrition. When your body lacks essential vitamins and minerals, your epidermal barrier weakens, oil glands produce thicker sebum, and your immune system struggles to regulate acne-causing bacteria.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Understanding <strong>what vitamin deficiencies cause acne</strong> is vital for anyone dealing with persistent adult pimples, stubborn chin bumps, or deep cystic breakouts. At <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin &amp; Body Clinic</a> in Kampala, our medical aesthetic specialists combine internal nutritional balance with advanced in-clinic treatments to resolve chronic breakouts at the root.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                In this clinical guide, we explore the science connecting nutrition to skin health, examine the top vitamin deficiencies linked to pimples, highlight symptoms of nutrient-driven breakouts, and review proven clinical options—including customized <a href="https://refineskinandbody.com/acne" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Acne Treatment in Kampala</a>—to help you achieve clear, radiant skin.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">How Nutritional Deficiencies Trigger Acne Breakouts</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                According to dermatological consensus published in <a href="https://en.wikipedia.org/wiki/Acne_vulgaris" target="_blank" rel="noopener noreferrer" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">clinical research on Acne vulgaris</a>, acne is a chronic inflammatory condition of the pilosebaceous unit (the hair follicle and oil gland).
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Every breakout develops through four distinct biological stages:
+            </p>
+
+            <ol class="space-y-3 mb-8 text-gray-700 list-decimal list-inside font-light">
+                <li class="leading-relaxed">
+                    <strong class="text-brand-deeper">Follicular Hyperkeratinization:</strong> Dead skin cells shed abnormally, sticking together inside the pore.
+                </li>
+                <li class="leading-relaxed">
+                    <strong class="text-brand-deeper">Excess Sebum Secretion:</strong> Androgen hormones stimulate glands to produce excess sticky oil.
+                </li>
+                <li class="leading-relaxed">
+                    <strong class="text-brand-deeper">Bacterial Overgrowth:</strong> <em>Cutibacterium acnes</em> feeds on trapped sebum in blocked follicles.
+                </li>
+                <li class="leading-relaxed">
+                    <strong class="text-brand-deeper">Inflammatory Cascade:</strong> The immune response releases cytokines, causing redness, swelling, and pus-filled pimples.
+                </li>
+            </ol>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Vitamins and minerals serve as essential co-factors regulating each of these stages. When a <strong>cystic acne nutritional deficiency</strong> occurs, pores clog faster, skin lipids oxidize, and inflammation flares uncontrollably.
+            </p>
+
+            <div class="bg-surface-cool/80 border-l-4 border-accent p-6 rounded-r-2xl mb-8">
+                <h4 class="font-heading font-bold text-brand-deeper text-base mb-2"><i class="fas fa-link text-accent mr-2"></i>The Gut-Skin-Endocrine Axis</h4>
+                <p class="text-gray-700 text-sm font-light leading-relaxed">
+                    Your digestive system, hormones, and skin barrier function in close harmony. Poor gut absorption of fat-soluble vitamins (A, D, E) or chronic stress-induced nutrient depletion compromises skin immunity, making surface skincare less effective until nutritional balance is restored.
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">The Top 5 Vitamin and Mineral Deficiencies Linked to Acne</h2>
+
+            <!-- 1. Vitamin D -->
+            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">1</span>
+                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Vitamin D: The Hormonal &amp; Immune Regulator</h3>
+                </div>
+
+                <p class="text-gray-700 leading-relaxed mb-4 font-light">
+                    Vitamin D behaves like a hormone in your body. Skin cells and sebaceous glands possess dedicated Vitamin D receptors. Clinical research demonstrates that over <strong>70% of individuals with inflammatory acne have low vitamin D levels</strong> compared to those with clear skin.
+                </p>
+
+                <h4 class="font-bold text-brand-deeper text-base mb-2 font-heading">Why Low Vitamin D Triggers Acne:</h4>
+                <ul class="list-disc pl-5 text-gray-700 text-sm space-y-2 mb-4 font-light">
+                    <li><strong>Reduces Antimicrobial Peptides:</strong> Vitamin D activates cathelicidin (LL-37), a natural antimicrobial defense against <em>C. acnes</em>. Without it, bacteria proliferate unchecked.</li>
+                    <li><strong>Spikes Inflammatory Cytokines:</strong> Low levels elevate IL-6 and TNF-alpha, turning minor clogs into painful cystic lesions.</li>
+                    <li><strong>Aggravates Hormonal Flares:</strong> Vitamin D supports insulin sensitivity. Low levels cause insulin surges that prompt excess oil and leave persistent <a href="/blog/how-to-prevent-post-acne-dark-marks" class="text-brand font-semibold hover:underline">post-acne dark marks</a>.</li>
+                </ul>
+                <p class="text-xs text-brand font-semibold">Recommended Blood Level: 40–60 ng/mL for optimal skin immunity.</p>
+            </div>
+
+            <!-- 2. Zinc -->
+            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">2</span>
+                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Zinc: The Sebum Controller &amp; Wound Healer</h3>
+                </div>
+
+                <p class="text-gray-700 leading-relaxed mb-4 font-light">
+                    Although Zinc is an essential trace mineral, dermatologists consider it one of the most critical micronutrients for acne-prone skin. A classic <strong>zinc deficiency pimples</strong> pattern presents with painful, slow-healing pustules, widespread facial redness, and stubborn scarring.
+                </p>
+
+                <h4 class="font-bold text-brand-deeper text-base mb-2 font-heading">How Zinc Calms Breakouts:</h4>
+                <ul class="list-disc pl-5 text-gray-700 text-sm space-y-2 mb-4 font-light">
+                    <li><strong>Inhibits 5-Alpha Reductase:</strong> Zinc blocks the enzyme that turns testosterone into DHT, preventing androgen-driven oil hypersecretion.</li>
+                    <li><strong>Reduces Inflammation:</strong> It slows inflammatory white blood cell migration to clogged pores, stopping bumps from swelling.</li>
+                    <li><strong>Accelerates Healing:</strong> Zinc aids cellular repair, reducing recovery time as explained in our guide on <a href="/blog/how-to-clear-pimples-in-7-days" class="text-brand font-semibold hover:underline">how to clear pimples in 7 days</a>.</li>
+                </ul>
+            </div>
+
+            <!-- 3. Vitamin A -->
+            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">3</span>
+                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Vitamin A: Cellular Turnover &amp; Pore Health</h3>
+                </div>
+
+                <p class="text-gray-700 leading-relaxed mb-4 font-light">
+                    Prescription acne medications like Tretinoin and Isotretinoin are derived from <strong>Vitamin A for clear skin</strong>. Vitamin A signals follicular cells to shed smoothly. Without adequate Vitamin A, dead epithelial cells become sticky and clump together with sebum, forming microcomedones that quickly turn into blackheads and whiteheads.
+                </p>
+
+                <div class="grid sm:grid-cols-2 gap-4 text-xs sm:text-sm my-3">
+                    <div class="bg-surface-warm p-3 rounded-xl border border-brand/5">
+                        <strong class="text-brand-deeper block mb-1">Preformed Retinoids:</strong>
+                        <p class="text-gray-600 font-light">Found in egg yolks, beef liver, and oily fish; readily bioavailable.</p>
+                    </div>
+                    <div class="bg-surface-warm p-3 rounded-xl border border-brand/5">
+                        <strong class="text-brand-deeper block mb-1">Carotenoids:</strong>
+                        <p class="text-gray-600 font-light">Found in carrots, sweet potatoes, and spinach; converted to retinol in the gut.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 4. Vitamin E -->
+            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">4</span>
+                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Vitamin E: The Lipid Oxidation Shield</h3>
+                </div>
+
+                <p class="text-gray-700 leading-relaxed mb-4 font-light">
+                    Vitamin E is your skin\'s chief fat-soluble antioxidant. Human sebum contains natural squalene, which easily oxidizes when Vitamin E levels run low. This creates squalene peroxide—a sticky substance that blocks follicles, provokes immune cells, and damages tissue, making it harder to prevent <a href="/blog/how-to-choose-the-right-treatment-for-acne-scars" class="text-brand font-semibold hover:underline">acne scars and textural damage</a>.
+                </p>
+            </div>
+
+            <!-- 5. Vitamin B Complex -->
+            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
+                <div class="flex items-center gap-3 mb-4">
+                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">5</span>
+                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Vitamin B Complex: B5 Shortage vs. B12 Excess</h3>
+                </div>
+
+                <p class="text-gray-700 leading-relaxed mb-4 font-light">
+                    B vitamins require careful nuance. A shortage of Vitamin B5 (pantothenic acid) impedes fatty acid breakdown (via Coenzyme A), causing excess oil secretion. Conversely, mega-dosing Vitamin B12 or B6 supplements can trigger sudden acneiform flares by altering <em>C. acnes</em> gene activity to produce irritating porphyrins.
+                </p>
+
+                <p class="text-gray-700 leading-relaxed text-sm font-light">
+                    Additionally, incorporating <strong>omega-3 fatty acids for skin inflammation</strong> enhances the absorption of fat-soluble vitamins (A, D, E) while suppressing inflammatory leukotrienes that irritate follicles.
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Summary: Micronutrients and Skin Breakdown</h2>
+
+            <div class="overflow-x-auto mb-10">
+                <table class="w-full text-left border-collapse text-xs sm:text-sm">
+                    <thead>
+                        <tr class="bg-brand text-white">
+                            <th class="p-3 sm:p-4 rounded-tl-xl font-heading font-semibold">Nutrient</th>
+                            <th class="p-3 sm:p-4 font-heading font-semibold">Skin Function</th>
+                            <th class="p-3 sm:p-4 font-heading font-semibold">Deficiency Signs</th>
+                            <th class="p-3 sm:p-4 rounded-tr-xl font-heading font-semibold">Key Dietary Sources</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/10 bg-white">
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Vitamin D</td>
+                            <td class="p-3 sm:p-4 text-gray-700">Immunity &amp; antimicrobial defense</td>
+                            <td class="p-3 sm:p-4 text-gray-700">Deep cysts, severe inflammation, hormonal flares</td>
+                            <td class="p-3 sm:p-4 text-gray-600">Sunshine, eggs, salmon, fortified foods</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Zinc</td>
+                            <td class="p-3 sm:p-4 text-gray-700">DHT suppression &amp; healing</td>
+                            <td class="p-3 sm:p-4 text-gray-700">Slow-healing pustules, red marks, oily skin</td>
+                            <td class="p-3 sm:p-4 text-gray-600">Pumpkin seeds, beef, oysters, chickpeas</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Vitamin A</td>
+                            <td class="p-3 sm:p-4 text-gray-700">Cellular turnover &amp; desquamation</td>
+                            <td class="p-3 sm:p-4 text-gray-700">Persistent comedones, rough bumpy texture</td>
+                            <td class="p-3 sm:p-4 text-gray-600">Egg yolks, sweet potatoes, carrots, spinach</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Vitamin E</td>
+                            <td class="p-3 sm:p-4 text-gray-700">Antioxidant lipid protection</td>
+                            <td class="p-3 sm:p-4 text-gray-700">Oxidized sebum plugs, impaired barrier</td>
+                            <td class="p-3 sm:p-4 text-gray-600">Almonds, avocados, sunflower seeds</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Vitamin B5</td>
+                            <td class="p-3 sm:p-4 text-gray-700">Fatty acid cellular breakdown</td>
+                            <td class="p-3 sm:p-4 text-gray-700">Greasy skin, enlarged pores, congestive acne</td>
+                            <td class="p-3 sm:p-4 text-gray-600">Mushrooms, legumes, poultry, avocado</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Recognizing Nutrient-Driven Acne Symptoms</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Wondering if your skin troubles are related to a <strong>hormonal acne nutritional deficiency</strong>? Look for these distinct clinical signs:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-8">
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h4 class="font-heading font-semibold text-brand text-base mb-3"><i class="fas fa-check-circle text-accent mr-2"></i>Skin Manifestations:</h4>
+                    <ul class="text-sm text-gray-600 space-y-2 font-light list-disc pl-4">
+                        <li><strong>Poor Response to Topicals:</strong> Cleansers and salicylic acids yield minimal improvement after 8+ weeks.</li>
+                        <li><strong>Deep Cystic Bumps:</strong> Breakouts form as painful, hard nodules beneath the skin surface.</li>
+                        <li><strong>Prolonged Dark Marks:</strong> Every small pimple leaves behind stubborn discoloration for months.</li>
+                        <li><strong>Oily Yet Dehydrated Skin:</strong> Surface feels tight and flaky while simultaneously overproducing grease.</li>
+                    </ul>
+                </div>
+
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h4 class="font-heading font-semibold text-brand text-base mb-3"><i class="fas fa-heartbeat text-accent mr-2"></i>Physical Symptoms:</h4>
+                    <ul class="text-sm text-gray-600 space-y-2 font-light list-disc pl-4">
+                        <li><strong>Fatigue &amp; Low Energy:</strong> Often coexists with Vitamin D or B-vitamin depletion.</li>
+                        <li><strong>Brittle Nails &amp; Thinning Hair:</strong> Classic indicators of low zinc or essential fatty acids.</li>
+                        <li><strong>Frequent Infections:</strong> Reflects compromised mucosal and skin immunity.</li>
+                        <li><strong>Seasonal Breakouts:</strong> Acne intensifies during cloudy or rainy weather when UV synthesis drops.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">The Dangers of Blind Multivitamin Supplementation</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                When faced with acne, many individuals purchase high-dose multivitamins. However, indiscriminate supplementation can worsen skin issues:
+            </p>
+
+            <ul class="space-y-3 mb-8 text-gray-700 font-light text-sm">
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-exclamation-triangle text-amber-500 mt-1"></i>
+                    <span><strong>Mega-Dose B12 &amp; Biotin:</strong> Over-the-counter hair and nail gummies frequently contain extreme doses that provoke inflammatory acneiform breakouts.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-exclamation-triangle text-amber-500 mt-1"></i>
+                    <span><strong>Vitamin A Accumulation:</strong> Fat-soluble Vitamin A stores in the liver and can cause toxicity if taken in high oral doses without medical oversight.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-exclamation-triangle text-amber-500 mt-1"></i>
+                    <span><strong>Zinc-Copper Imbalance:</strong> Taking excessive zinc long-term depletes copper, leading to anemia and nerve dysfunction.</span>
+                </li>
+            </ul>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The safest, most effective approach is to confirm your levels through diagnostic tests and combine nutritional support with professional clinical treatments.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Clinical Treatments at Refine Clinic</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Nutritional correction builds the internal groundwork, but clearing existing congestion and active inflammation requires expert dermatological care. At <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin &amp; Body Clinic</a> in Kampala, our practitioners offer tailored clinical solutions:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-8">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2"><i class="fas fa-spa text-accent mr-2"></i>Medical Chemical Peels</h4>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed mb-3">
+                        Formulated with salicylic, mandelic, and lactic acids to dissolve stubborn keratin plugs, unclog pores, and smooth uneven skin texture.
+                    </p>
+                    <a href="https://refineskinandbody.com/chemical-peel" class="text-xs font-bold text-brand hover:text-accent transition-colors">Explore Chemical Peels &rarr;</a>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2"><i class="fas fa-lightbulb text-accent mr-2"></i>LED Light Therapy</h4>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed mb-3">
+                        Blue LED neutralizes <em>C. acnes</em> bacteria painlessly, while Red LED calms redness, accelerates cellular recovery, and prevents scarring.
+                    </p>
+                    <a href="https://refineskinandbody.com/led-light-therapy" class="text-xs font-bold text-brand hover:text-accent transition-colors">Discover LED Therapy &rarr;</a>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2"><i class="fas fa-syringe text-accent mr-2"></i>Refine IV Lounge Nutrient Infusions</h4>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed mb-3">
+                        Bypass digestive absorption with customized IV infusions of Glutathione, Vitamin C, and Zinc to rapidly restore cellular defenses and enhance skin radiance.
+                    </p>
+                    <a href="/blog/can-iv-therapy-improve-skin-glow-overall-wellness" class="text-xs font-bold text-brand hover:text-accent transition-colors">Learn About Skin IVs &rarr;</a>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2"><i class="fas fa-user-md text-accent mr-2"></i>Comprehensive Acne Programs</h4>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed mb-3">
+                        Personalized combination therapies addressing active acne, post-inflammatory pigmentation, and textural scarring through advanced clinical technologies.
+                    </p>
+                    <a href="https://refineskinandbody.com/acne" class="text-xs font-bold text-brand hover:text-accent transition-colors">Book Acne Treatment in Kampala &rarr;</a>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- AEO FAQ SECTION -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Frequently Asked Questions (FAQs)</h2>
+
+            <div class="space-y-6 my-8">
+                <!-- FAQ 1 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">1. Can low Vitamin D cause cystic acne?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Yes. Over 70% of people with severe inflammatory or cystic acne have low Vitamin D levels. Vitamin D stimulates cathelicidin, a natural antimicrobial peptide that destroys acne bacteria, and suppresses inflammatory cytokines. Low levels allow clogged pores to develop into deep, painful cysts.
+                    </p>
+                </div>
+
+                <!-- FAQ 2 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">2. How long does it take for vitamin supplements to improve acne?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Nutritional improvements generally take 6 to 12 weeks to show on the skin. Because epidermal cell renewal requires 28 to 40 days, replenishing stores of Zinc, Vitamin D, and Vitamin A takes consistent time to normalize oil output and pore shedding.
+                    </p>
+                </div>
+
+                <!-- FAQ 3 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">3. Is Zinc as effective as antibiotics for treating pimples?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Clinical studies indicate that oral zinc (gluconate or picolinate) performs similarly to low-dose oral antibiotics for mild-to-moderate inflammatory acne. Unlike antibiotics, zinc does not foster bacterial resistance or disturb gut flora, making it a valuable long-term option under medical supervision.
+                    </p>
+                </div>
+
+                <!-- FAQ 4 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">4. Can excess Vitamin B12 or Biotin cause sudden breakouts?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Yes. High doses of Vitamin B12 and Biotin frequently trigger acneiform eruptions. Excessive B12 alters <em>C. acnes</em> gene expression, driving bacteria to produce inflammatory porphyrins, while high Biotin intake can interfere with Vitamin B5 absorption, increasing oil congestion.
+                    </p>
+                </div>
+
+                <!-- FAQ 5 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">5. Which vitamin deficiency is linked to hormonal chin and jawline acne?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Vitamin D and Zinc are most closely tied to hormonal lower-face acne. Both regulate insulin sensitivity and suppress 5-alpha reductase, which converts testosterone to DHT. When levels are low, hormonal surges prompt intense sebum production in chin and jawline follicles.
+                    </p>
+                </div>
+
+                <!-- FAQ 6 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">6. What foods best restore acne-fighting vitamins?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Focus on whole, nutrient-dense foods: pumpkin seeds, oysters, and lentils for Zinc; egg yolks, wild salmon, and fortified foods for Vitamin D; sweet potatoes, carrots, and leafy greens for provitamin A; almonds and avocados for Vitamin E; and fatty fish and chia seeds for anti-inflammatory Omega-3s.
+                    </p>
+                </div>
+
+                <!-- FAQ 7 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">7. Can diet alone completely cure severe acne?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Diet is a foundational pillar, but severe or cystic acne is multi-factorial and typically requires clinical care. Correcting dietary deficiencies provides essential building blocks, but in-clinic chemical peels, LED therapy, and topical medical treatments accelerate recovery and prevent permanent scars.
+                    </p>
+                </div>
+
+                <!-- FAQ 8 -->
+                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">8. When should I see a dermatologist for acne in Kampala?</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        You should visit an aesthetic dermatology clinic if your pimples are painful, cystic, leave dark marks or scars, or fail to improve after 8 weeks of consistent home care. Refine Skin &amp; Body Clinic provides medical assessments, professional treatments, and personalized plans to clear your skin safely.
+                    </p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Conclusion: Healing Skin from Within</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Understanding <strong>what vitamin deficiencies cause acne</strong> shifts your focus toward root-cause healing. When your body maintains optimal levels of Vitamin D, Zinc, Vitamin A, Vitamin E, and balanced B vitamins, your skin barrier stabilizes, excess oil subsides, and stubborn inflammation fades.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                If you are ready for clear, calm, healthy skin, our medical team is here to help. Schedule a personalized consultation at <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin &amp; Body Clinic</a> in Kampala to discover tailored, comprehensive <a href="https://refineskinandbody.com/acne" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Acne Treatment in Kampala</a> for lasting confidence.
+            </p>',
+    ],
+
+    // ----------------------------------------------------
     // ARTICLE: DOES HYDRAFACIAL REMOVE FACIAL HAIR?
     // ----------------------------------------------------
     'does-hydrafacial-remove-facial-hair' => [

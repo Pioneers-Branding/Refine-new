@@ -53,6 +53,7 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'what-vitamin-deficiencies-cause-acne',
     'what-is-the-most-effective-treatment-for-melasma',
     'what-is-the-best-age-to-get-lip-fillers',
     'do-hydrafacials-remove-blackheads',
