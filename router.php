@@ -168,6 +168,8 @@ $redirectMap = [
     '/skin-lightening-with-tatioactive' => '/skin-lightening',
 
     // Blog & Legacy redirections
+    '/blog/how-much-is-ozempic-in-uganda' => '/blog',
+    '/how-much-is-ozempic-in-uganda' => '/blog',
     '/blog/how-many-months-will-microblading-last' => '/blog',
     '/how-many-months-will-microblading-last' => '/blog',
     '/faqs' => '/blog',

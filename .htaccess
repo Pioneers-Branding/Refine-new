@@ -159,6 +159,8 @@ DirectoryIndex index.php index.html
     RewriteRule ^heres-why-your-weight-loss-regimen-isnt-paying-off(/.*)?$ / [NC,R=301,L]
     RewriteRule ^tag/skin-cleansing/feed(/.*)?$ /blog [NC,R=301,L]
     RewriteRule ^wp-json/elementskit/v1(/.*)?$ / [NC,R=301,L]
+    RewriteRule ^blog/how-much-is-ozempic-in-uganda/?$ /blog [NC,R=301,L]
+    RewriteRule ^how-much-is-ozempic-in-uganda/?$ /blog [NC,R=301,L]
 
     # Explicit routing for Blog index
     RewriteRule ^blog/?$ blog.php [QSA,L]
