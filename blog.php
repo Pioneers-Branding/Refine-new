@@ -21,235 +21,246 @@ $articles = [
     // ----------------------------------------------------
     // ARTICLE: WHAT VITAMIN DEFICIENCIES CAUSE ACNE?
     // ----------------------------------------------------
+    // ARTICLE: WHAT VITAMIN DEFICIENCIES CAUSE ACNE?
+    // ----------------------------------------------------
     'what-vitamin-deficiencies-cause-acne' => [
         'slug' => 'what-vitamin-deficiencies-cause-acne',
         'title' => 'What Vitamin Deficiencies Cause Acne?',
-        'meta_title' => 'What Vitamin Deficiencies Cause Acne?',
+        'meta_title' => 'What Vitamin Deficiencies Cause Acne? | Refine Skin & Body Clinic',
         'category' => 'Medical Dermatology',
         'category_slug' => 'medical',
-        'date' => '27 September, 2026',
+        'date' => '27 September 2026',
         'author' => 'Dr. Chirag Kotecha',
-        'author_role' => 'Lead Specialist, Refine Clinic',
-        'read_time' => '12 min',
-        'image' => '/assets/imagesfromsite/what-vitamin-deficiencies-cause-acne-thumbnail.jpg',
-        'excerpt' => 'Discover what vitamin deficiencies cause acne, how Vitamin D, Zinc, Vitamin A, and Vitamin E impact your skin barrier, and doctor-approved steps to restore radiant, clear skin.',
-        'content' => '            <!-- AEO Direct Answer Highlight Box -->
+        'author_role' => 'Aesthetic Physician, Refine Clinic',
+        'read_time' => '10 min',
+        'image' => '/assets/imagesfromsite/what-vitamin-deficiencies-cause-acne-hero.jpg',
+        'excerpt' => 'What vitamin deficiencies cause acne? An honest look at zinc, vitamin D, vitamin A and B12, what diet studies show, and when a blood test is worth doing.',
+        'content' => '
+            <!-- AEO Direct Answer Highlight Box -->
             <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
                 <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
-                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
                 </div>
-                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">What Vitamin Deficiencies Cause Acne? Quick Clinical Answer</h3>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">What Vitamin Deficiencies Cause Acne? Direct Answer</h3>
                 <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
-                    <strong>Direct Answer: The main vitamin and micronutrient deficiencies linked to acne breakouts are Vitamin D, Zinc, Vitamin A, and Vitamin E, along with imbalances in Vitamin B5 (deficiency) and Vitamin B12 (excess).</strong> While a nutritional deficiency alone is rarely the single cause of acne vulgaris, inadequate levels weaken the skin barrier, trigger excess sebum (oil) production, cause abnormal pore clogging (hyperkeratinization), and fuel systemic inflammation. Correcting these deficiencies calms hormonal flares, clears congested pores, and promotes rapid skin healing.
+                    <strong>Direct answer: No single vitamin deficiency has been proven to cause acne.</strong> Studies link lower zinc and vitamin D levels with acne, and zinc supplements help a little, but hormones, genetics, and certain medications remain the primary drivers. High-dose vitamin A pills are medically unsafe, and extra vitamin B12 can actually trigger acute breakouts. Always test before supplementing, and focus on treating the acne itself.
                 </p>
-                <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
-                    <div class="bg-white/5 p-3 rounded-xl border border-white/5">
-                        <span class="text-accent font-semibold block mb-1">Vitamin D:</span>
-                        <p class="text-white/80 font-light text-xs">Boosts antimicrobial peptides (cathelicidin), calms inflammation, and regulates hormonal oil surges.</p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Main Causes:</span>
+                        <p class="text-white/80 font-light text-xs">Hormones, genetics, and medications &mdash; not nutritional gaps.</p>
                     </div>
-                    <div class="bg-white/5 p-3 rounded-xl border border-white/5">
-                        <span class="text-accent font-semibold block mb-1">Zinc (Mineral):</span>
-                        <p class="text-white/80 font-light text-xs">Suppresses DHT conversion, destroys acne bacteria, and speeds blemish recovery.</p>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Best-Studied Nutrient:</span>
+                        <p class="text-white/80 font-light text-xs">Zinc, offering a modest calming effect on inflamed spots.</p>
                     </div>
-                    <div class="bg-white/5 p-3 rounded-xl border border-white/5">
-                        <span class="text-accent font-semibold block mb-1">Vitamin A:</span>
-                        <p class="text-white/80 font-light text-xs">Regulates cell turnover inside pores, preventing dead skin plugs from forming microcomedones.</p>
-                    </div>
-                    <div class="bg-white/5 p-3 rounded-xl border border-white/5">
-                        <span class="text-accent font-semibold block mb-1">Vitamin E:</span>
-                        <p class="text-white/80 font-light text-xs">Prevents sebum oxidation (squalene peroxide), protecting skin from inflammatory clogging.</p>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Before Supplementing:</span>
+                        <p class="text-white/80 font-light text-xs">Consult a medical physician to evaluate if blood testing makes sense.</p>
                     </div>
                 </div>
             </div>
 
             <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
-                If you have spent months trying acne washes, scrubs, and creams without lasting results, your breakouts may stem from within. Dermatologists emphasize that glowing skin relies on optimal internal nutrition. When your body lacks essential vitamins and minerals, your epidermal barrier weakens, oil glands produce thicker sebum, and your immune system struggles to regulate acne-causing bacteria.
+                If you have tried every face wash on the shelf, it is natural to wonder whether the problem is inside your body, especially when social media claims that one missing vitamin causes stubborn breakouts and that a pill, shot, or drip will fix it.
             </p>
 
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Understanding <strong>what vitamin deficiencies cause acne</strong> is vital for anyone dealing with persistent adult pimples, stubborn chin bumps, or deep cystic breakouts. At <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin &amp; Body Clinic</a> in Kampala, our medical aesthetic specialists combine internal nutritional balance with advanced in-clinic treatments to resolve chronic breakouts at the root.
+                The truth is more useful, if less exciting. Acne starts in the hair follicle, where oil, dead skin cells, bacteria, and inflammation meet. Nutrition can nudge that process, but it rarely starts it. Refine\'s own <a href="/acne" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">acne treatment</a> page puts it plainly: acne is often a result of hormones, genetics, or even certain medications.
             </p>
 
             <p class="text-gray-700 leading-relaxed mb-8 font-light">
-                In this clinical guide, we explore the science connecting nutrition to skin health, examine the top vitamin deficiencies linked to pimples, highlight symptoms of nutrient-driven breakouts, and review proven clinical options—including customized <a href="https://refineskinandbody.com/acne" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Acne Treatment in Kampala</a>—to help you achieve clear, radiant skin.
+                This clinical guide walks through what research actually shows for zinc, vitamin D, vitamin A, omega-3 fats, and vitamin B12, what diet studies say, and when a blood test is worth doing.
             </p>
 
             <hr class="my-10 border-brand/10" />
 
-            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">How Nutritional Deficiencies Trigger Acne Breakouts</h2>
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">What Really Causes Acne</h2>
 
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                According to dermatological consensus published in <a href="https://en.wikipedia.org/wiki/Acne_vulgaris" target="_blank" rel="noopener noreferrer" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">clinical research on Acne vulgaris</a>, acne is a chronic inflammatory condition of the pilosebaceous unit (the hair follicle and oil gland).
+                Acne is a condition of the hair follicle and its sebaceous (oil) gland. Four biological factors drive it:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-4 my-6">
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-tint text-accent"></i> 1. Extra Oil (Sebum)
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Switched on mainly by androgens, hormones that both men and women produce naturally.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-th text-accent"></i> 2. Blocked Pores
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Dead skin cells stick together and plug the follicle, forming blackheads and whiteheads.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-bacterium text-accent"></i> 3. Bacteria
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Specifically <em>Cutibacterium acnes</em>, which lives on everyone\'s skin but thrives inside oily, blocked pores.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-fire-alt text-accent"></i> 4. Inflammation
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Turns a simple pore plug into a red or dark, tender, and swollen blemish.</p>
+                </div>
+            </div>
+
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">Common Triggers Worth Checking First</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Humidity and sweat, heavy hair oils that spread onto the forehead, and creams with hidden steroids (often sold as "tone" or lightening creams) all worsen breakouts. Some medicines can cause acne too, including steroid tablets, anabolic steroids, some progestogen-only contraceptives, lithium, and certain epilepsy medicines. Never stop a prescribed medicine on your own; ask the prescriber about alternatives.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Vitamins, Minerals and Acne: What the Evidence Says</h2>
+
+            <div class="space-y-6 my-8">
+                <!-- Zinc -->
+                <div class="bg-white rounded-2xl p-6 border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold text-brand-deeper mb-3 font-heading flex items-center gap-2">
+                        <i class="fas fa-shield-virus text-accent"></i> Zinc
+                    </h3>
+                    <p class="text-gray-700 leading-relaxed font-light text-sm sm:text-base mb-3">
+                        Several studies have found lower blood zinc levels in people with acne, and zinc supplements can reduce inflamed spots. The effect is modest: in a head-to-head trial, zinc worked less well than a standard acne antibiotic.
+                    </p>
+                    <p class="text-gray-600 leading-relaxed font-light text-xs sm:text-sm bg-surface-warm p-4 rounded-xl border border-brand/5">
+                        <strong class="text-brand-deeper font-semibold">Clinical Note:</strong> Zinc can upset the stomach, and high doses taken for months can lower copper levels, leading to anaemia (a shortage of red blood cells) and nerve problems. Let a doctor set the dose.
+                    </p>
+                </div>
+
+                <!-- Vitamin D -->
+                <div class="bg-white rounded-2xl p-6 border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold text-brand-deeper mb-3 font-heading flex items-center gap-2">
+                        <i class="fas fa-sun text-accent"></i> Vitamin D
+                    </h3>
+                    <p class="text-gray-700 leading-relaxed font-light text-sm sm:text-base mb-3">
+                        People with acne tend to have lower vitamin D levels, but these are observational studies: they show a link, not a cause. One small trial in people who were already deficient reported fewer inflamed spots after supplements.
+                    </p>
+                    <p class="text-gray-600 leading-relaxed font-light text-xs sm:text-sm bg-surface-warm p-4 rounded-xl border border-brand/5">
+                        <strong class="text-brand-deeper font-semibold">Important Consideration:</strong> Equatorial sunshine does not protect everyone from low levels, because darker skin synthesizes vitamin D more slowly and office work keeps many people indoors. Too much vitamin D is harmful, so test first.
+                    </p>
+                </div>
+
+                <!-- Vitamin A -->
+                <div class="bg-white rounded-2xl p-6 border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold text-brand-deeper mb-3 font-heading flex items-center gap-2">
+                        <i class="fas fa-prescription-bottle text-accent"></i> Vitamin A
+                    </h3>
+                    <p class="text-gray-700 leading-relaxed font-light text-sm sm:text-base mb-3">
+                        Retinoids, medicines related to vitamin A, are some of the most effective acne treatments we have: creams such as tretinoin and adapalene, and isotretinoin tablets for severe acne. That does not make vitamin A pills a home remedy.
+                    </p>
+                    <p class="text-gray-600 leading-relaxed font-light text-xs sm:text-sm bg-surface-warm p-4 rounded-xl border border-brand/5">
+                        <strong class="text-brand-deeper font-semibold">Safety Warning:</strong> The high doses once tried for acne can cause headaches, liver damage, and bone problems. High-dose vitamin A, like isotretinoin, can cause serious birth defects if taken during pregnancy. Retinoid creams are also avoided in pregnancy. If you are taking isotretinoin, consult your doctor before starting any vitamin supplement.
+                    </p>
+                </div>
+
+                <!-- Omega-3 -->
+                <div class="bg-white rounded-2xl p-6 border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold text-brand-deeper mb-3 font-heading flex items-center gap-2">
+                        <i class="fas fa-fish text-accent"></i> Omega-3 Fats
+                    </h3>
+                    <p class="text-gray-700 leading-relaxed font-light text-sm sm:text-base">
+                        A few small trials suggest omega-3 supplements may calm inflamed spots, but the evidence is limited. Eating oily fish, including small fish such as mukene, is a sensible choice for your general cardiovascular and skin health either way.
+                    </p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">When Vitamins Make Acne Worse: The B12 Problem</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Vitamin B12 is essential, and people who are truly deficient need it. But high-dose B12, whether taken as tablets, injections, or drips, can trigger an acne-like rash in some people: a sudden crop of small, similar-looking bumps across the face, chest, or back.
             </p>
 
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Every breakout develops through four distinct biological stages:
+                Research suggests extra B12 alters how skin bacteria behave, making them more likely to cause inflammation. The rash usually settles once the extra B12 stops. High-dose vitamin B6, iodine-rich kelp supplements, and whey protein shakes have been linked to breakouts too.
             </p>
 
-            <ol class="space-y-3 mb-8 text-gray-700 list-decimal list-inside font-light">
-                <li class="leading-relaxed">
-                    <strong class="text-brand-deeper">Follicular Hyperkeratinization:</strong> Dead skin cells shed abnormally, sticking together inside the pore.
-                </li>
-                <li class="leading-relaxed">
-                    <strong class="text-brand-deeper">Excess Sebum Secretion:</strong> Androgen hormones stimulate glands to produce excess sticky oil.
-                </li>
-                <li class="leading-relaxed">
-                    <strong class="text-brand-deeper">Bacterial Overgrowth:</strong> <em>Cutibacterium acnes</em> feeds on trapped sebum in blocked follicles.
-                </li>
-                <li class="leading-relaxed">
-                    <strong class="text-brand-deeper">Inflammatory Cascade:</strong> The immune response releases cytokines, causing redness, swelling, and pus-filled pimples.
-                </li>
-            </ol>
-
-            <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Vitamins and minerals serve as essential co-factors regulating each of these stages. When a <strong>cystic acne nutritional deficiency</strong> occurs, pores clog faster, skin lipids oxidize, and inflammation flares uncontrollably.
-            </p>
-
-            <div class="bg-surface-cool/80 border-l-4 border-accent p-6 rounded-r-2xl mb-8">
-                <h4 class="font-heading font-bold text-brand-deeper text-base mb-2"><i class="fas fa-link text-accent mr-2"></i>The Gut-Skin-Endocrine Axis</h4>
+            <div class="bg-surface-warm p-6 rounded-2xl border-l-4 border-accent mb-8">
                 <p class="text-gray-700 text-sm font-light leading-relaxed">
-                    Your digestive system, hormones, and skin barrier function in close harmony. Poor gut absorption of fat-soluble vitamins (A, D, E) or chronic stress-induced nutrient depletion compromises skin immunity, making surface skincare less effective until nutritional balance is restored.
+                    <strong class="text-brand-deeper font-semibold">Specialist Recommendation:</strong> If new spots appear after you start any supplement, injection, or drip, inform your doctor rather than layering on additional skincare products.
                 </p>
             </div>
 
             <hr class="my-10 border-brand/10" />
 
-            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">The Top 5 Vitamin and Mineral Deficiencies Linked to Acne</h2>
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Does Diet Matter?</h2>
 
-            <!-- 1. Vitamin D -->
-            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
-                <div class="flex items-center gap-3 mb-4">
-                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">1</span>
-                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Vitamin D: The Hormonal &amp; Immune Regulator</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Diet is difficult to study in isolation, but two dietary patterns keep appearing consistently in medical research:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-6 my-6">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-3 font-heading">High Glycaemic Load</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-3">
+                        Glycaemic load describes how sharply a food raises your blood sugar. Small controlled trials found that a lower-glycaemic-load diet reduced spots over 10 to 12 weeks, likely by lowering insulin and related hormones that boost oil production.
+                    </p>
+                    <p class="text-xs text-gray-600 font-light">
+                        <strong>In practice:</strong> Opt for fewer sugary sodas and juices, less white bread and fewer mandazi, and more beans, vegetables, whole grains, and fresh fruit.
+                    </p>
                 </div>
 
-                <p class="text-gray-700 leading-relaxed mb-4 font-light">
-                    Vitamin D behaves like a hormone in your body. Skin cells and sebaceous glands possess dedicated Vitamin D receptors. Clinical research demonstrates that over <strong>70% of individuals with inflammatory acne have low vitamin D levels</strong> compared to those with clear skin.
-                </p>
-
-                <h4 class="font-bold text-brand-deeper text-base mb-2 font-heading">Why Low Vitamin D Triggers Acne:</h4>
-                <ul class="list-disc pl-5 text-gray-700 text-sm space-y-2 mb-4 font-light">
-                    <li><strong>Reduces Antimicrobial Peptides:</strong> Vitamin D activates cathelicidin (LL-37), a natural antimicrobial defense against <em>C. acnes</em>. Without it, bacteria proliferate unchecked.</li>
-                    <li><strong>Spikes Inflammatory Cytokines:</strong> Low levels elevate IL-6 and TNF-alpha, turning minor clogs into painful cystic lesions.</li>
-                    <li><strong>Aggravates Hormonal Flares:</strong> Vitamin D supports insulin sensitivity. Low levels cause insulin surges that prompt excess oil and leave persistent <a href="/blog/how-to-prevent-post-acne-dark-marks" class="text-brand font-semibold hover:underline">post-acne dark marks</a>.</li>
-                </ul>
-                <p class="text-xs text-brand font-semibold">Recommended Blood Level: 40–60 ng/mL for optimal skin immunity.</p>
-            </div>
-
-            <!-- 2. Zinc -->
-            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
-                <div class="flex items-center gap-3 mb-4">
-                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">2</span>
-                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Zinc: The Sebum Controller &amp; Wound Healer</h3>
-                </div>
-
-                <p class="text-gray-700 leading-relaxed mb-4 font-light">
-                    Although Zinc is an essential trace mineral, dermatologists consider it one of the most critical micronutrients for acne-prone skin. A classic <strong>zinc deficiency pimples</strong> pattern presents with painful, slow-healing pustules, widespread facial redness, and stubborn scarring.
-                </p>
-
-                <h4 class="font-bold text-brand-deeper text-base mb-2 font-heading">How Zinc Calms Breakouts:</h4>
-                <ul class="list-disc pl-5 text-gray-700 text-sm space-y-2 mb-4 font-light">
-                    <li><strong>Inhibits 5-Alpha Reductase:</strong> Zinc blocks the enzyme that turns testosterone into DHT, preventing androgen-driven oil hypersecretion.</li>
-                    <li><strong>Reduces Inflammation:</strong> It slows inflammatory white blood cell migration to clogged pores, stopping bumps from swelling.</li>
-                    <li><strong>Accelerates Healing:</strong> Zinc aids cellular repair, reducing recovery time as explained in our guide on <a href="/blog/how-to-clear-pimples-in-7-days" class="text-brand font-semibold hover:underline">how to clear pimples in 7 days</a>.</li>
-                </ul>
-            </div>
-
-            <!-- 3. Vitamin A -->
-            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
-                <div class="flex items-center gap-3 mb-4">
-                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">3</span>
-                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Vitamin A: Cellular Turnover &amp; Pore Health</h3>
-                </div>
-
-                <p class="text-gray-700 leading-relaxed mb-4 font-light">
-                    Prescription acne medications like Tretinoin and Isotretinoin are derived from <strong>Vitamin A for clear skin</strong>. Vitamin A signals follicular cells to shed smoothly. Without adequate Vitamin A, dead epithelial cells become sticky and clump together with sebum, forming microcomedones that quickly turn into blackheads and whiteheads.
-                </p>
-
-                <div class="grid sm:grid-cols-2 gap-4 text-xs sm:text-sm my-3">
-                    <div class="bg-surface-warm p-3 rounded-xl border border-brand/5">
-                        <strong class="text-brand-deeper block mb-1">Preformed Retinoids:</strong>
-                        <p class="text-gray-600 font-light">Found in egg yolks, beef liver, and oily fish; readily bioavailable.</p>
-                    </div>
-                    <div class="bg-surface-warm p-3 rounded-xl border border-brand/5">
-                        <strong class="text-brand-deeper block mb-1">Carotenoids:</strong>
-                        <p class="text-gray-600 font-light">Found in carrots, sweet potatoes, and spinach; converted to retinol in the gut.</p>
-                    </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="text-lg font-bold text-brand-deeper mb-3 font-heading">Skim Milk and Whey Protein</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-3">
+                        Large observational studies in teenagers linked milk, especially skim (low-fat) milk, with higher acne prevalence. Whey protein shakes, popular among gym-goers, have also been linked to sudden breakouts in case reports.
+                    </p>
+                    <p class="text-xs text-gray-600 font-light">
+                        <strong>In practice:</strong> These findings show associations, not definite proof. If cutting back on dairy, source calcium from dark leafy greens (like dodo), beans, and small fish eaten whole.
+                    </p>
                 </div>
             </div>
 
-            <!-- 4. Vitamin E -->
-            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
-                <div class="flex items-center gap-3 mb-4">
-                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">4</span>
-                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Vitamin E: The Lipid Oxidation Shield</h3>
-                </div>
-
-                <p class="text-gray-700 leading-relaxed mb-4 font-light">
-                    Vitamin E is your skin\'s chief fat-soluble antioxidant. Human sebum contains natural squalene, which easily oxidizes when Vitamin E levels run low. This creates squalene peroxide—a sticky substance that blocks follicles, provokes immune cells, and damages tissue, making it harder to prevent <a href="/blog/how-to-choose-the-right-treatment-for-acne-scars" class="text-brand font-semibold hover:underline">acne scars and textural damage</a>.
-                </p>
-            </div>
-
-            <!-- 5. Vitamin B Complex -->
-            <div class="bg-white rounded-3xl p-6 sm:p-8 border border-brand/10 shadow-sm mb-8">
-                <div class="flex items-center gap-3 mb-4">
-                    <span class="w-10 h-10 rounded-xl bg-brand text-accent flex items-center justify-center font-bold text-lg">5</span>
-                    <h3 class="text-xl sm:text-2xl font-bold text-brand-deeper font-heading">Vitamin B Complex: B5 Shortage vs. B12 Excess</h3>
-                </div>
-
-                <p class="text-gray-700 leading-relaxed mb-4 font-light">
-                    B vitamins require careful nuance. A shortage of Vitamin B5 (pantothenic acid) impedes fatty acid breakdown (via Coenzyme A), causing excess oil secretion. Conversely, mega-dosing Vitamin B12 or B6 supplements can trigger sudden acneiform flares by altering <em>C. acnes</em> gene activity to produce irritating porphyrins.
-                </p>
-
-                <p class="text-gray-700 leading-relaxed text-sm font-light">
-                    Additionally, incorporating <strong>omega-3 fatty acids for skin inflammation</strong> enhances the absorption of fat-soluble vitamins (A, D, E) while suppressing inflammatory leukotrienes that irritate follicles.
-                </p>
-            </div>
-
-            <hr class="my-10 border-brand/10" />
-
-            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Summary: Micronutrients and Skin Breakdown</h2>
-
-            <div class="overflow-x-auto mb-10">
-                <table class="w-full text-left border-collapse text-xs sm:text-sm">
+            <!-- Evidence Summary Table -->
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm border border-brand/10">
                     <thead>
-                        <tr class="bg-brand text-white">
-                            <th class="p-3 sm:p-4 rounded-tl-xl font-heading font-semibold">Nutrient</th>
-                            <th class="p-3 sm:p-4 font-heading font-semibold">Skin Function</th>
-                            <th class="p-3 sm:p-4 font-heading font-semibold">Deficiency Signs</th>
-                            <th class="p-3 sm:p-4 rounded-tr-xl font-heading font-semibold">Key Dietary Sources</th>
+                        <tr class="bg-brand text-white text-xs sm:text-sm font-heading">
+                            <th class="p-4">Nutrient or Food</th>
+                            <th class="p-4">What Studies Show</th>
+                            <th class="p-4">Strength of Evidence</th>
                         </tr>
                     </thead>
-                    <tbody class="divide-y divide-brand/10 bg-white">
-                        <tr class="hover:bg-brand-pale/20 transition-colors">
-                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Vitamin D</td>
-                            <td class="p-3 sm:p-4 text-gray-700">Immunity &amp; antimicrobial defense</td>
-                            <td class="p-3 sm:p-4 text-gray-700">Deep cysts, severe inflammation, hormonal flares</td>
-                            <td class="p-3 sm:p-4 text-gray-600">Sunshine, eggs, salmon, fortified foods</td>
+                    <tbody class="text-xs sm:text-sm text-gray-700 font-light divide-y divide-brand/5">
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Zinc</td>
+                            <td class="p-4">Lower levels seen in acne; supplements give a modest benefit</td>
+                            <td class="p-4"><span class="bg-amber-100 text-amber-800 px-2.5 py-1 rounded-full text-xs font-medium">Low to moderate</span></td>
                         </tr>
-                        <tr class="hover:bg-brand-pale/20 transition-colors">
-                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Zinc</td>
-                            <td class="p-3 sm:p-4 text-gray-700">DHT suppression &amp; healing</td>
-                            <td class="p-3 sm:p-4 text-gray-700">Slow-healing pustules, red marks, oily skin</td>
-                            <td class="p-3 sm:p-4 text-gray-600">Pumpkin seeds, beef, oysters, chickpeas</td>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Vitamin D</td>
+                            <td class="p-4">Lower levels linked with acne; only small clinical trials</td>
+                            <td class="p-4"><span class="bg-gray-100 text-gray-700 px-2.5 py-1 rounded-full text-xs font-medium">Weak</span></td>
                         </tr>
-                        <tr class="hover:bg-brand-pale/20 transition-colors">
-                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Vitamin A</td>
-                            <td class="p-3 sm:p-4 text-gray-700">Cellular turnover &amp; desquamation</td>
-                            <td class="p-3 sm:p-4 text-gray-700">Persistent comedones, rough bumpy texture</td>
-                            <td class="p-3 sm:p-4 text-gray-600">Egg yolks, sweet potatoes, carrots, spinach</td>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Vitamin A pills</td>
+                            <td class="p-4">Retinoid medicines work; high-dose OTC pills are unsafe</td>
+                            <td class="p-4"><span class="bg-red-100 text-red-800 px-2.5 py-1 rounded-full text-xs font-medium">Do not self-treat</span></td>
                         </tr>
-                        <tr class="hover:bg-brand-pale/20 transition-colors">
-                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Vitamin E</td>
-                            <td class="p-3 sm:p-4 text-gray-700">Antioxidant lipid protection</td>
-                            <td class="p-3 sm:p-4 text-gray-700">Oxidized sebum plugs, impaired barrier</td>
-                            <td class="p-3 sm:p-4 text-gray-600">Almonds, avocados, sunflower seeds</td>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Omega-3</td>
+                            <td class="p-4">Possible calming effect demonstrated in small trials</td>
+                            <td class="p-4"><span class="bg-gray-100 text-gray-700 px-2.5 py-1 rounded-full text-xs font-medium">Limited</span></td>
                         </tr>
-                        <tr class="hover:bg-brand-pale/20 transition-colors">
-                            <td class="p-3 sm:p-4 font-bold text-brand-deeper">Vitamin B5</td>
-                            <td class="p-3 sm:p-4 text-gray-700">Fatty acid cellular breakdown</td>
-                            <td class="p-3 sm:p-4 text-gray-700">Greasy skin, enlarged pores, congestive acne</td>
-                            <td class="p-3 sm:p-4 text-gray-600">Mushrooms, legumes, poultry, avocado</td>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">High-dose B12</td>
+                            <td class="p-4">Can trigger acute acne-like follicular breakouts</td>
+                            <td class="p-4"><span class="bg-amber-100 text-amber-800 px-2.5 py-1 rounded-full text-xs font-medium">Case reports</span></td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">High-glycaemic diet</td>
+                            <td class="p-4">Lower-glycaemic diets reduced inflammatory spots in small trials</td>
+                            <td class="p-4"><span class="bg-amber-100 text-amber-800 px-2.5 py-1 rounded-full text-xs font-medium">Low to moderate</span></td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Skim milk and whey</td>
+                            <td class="p-4">Linked with increased acne prevalence</td>
+                            <td class="p-4"><span class="bg-gray-100 text-gray-700 px-2.5 py-1 rounded-full text-xs font-medium">Observational only</span></td>
                         </tr>
                     </tbody>
                 </table>
@@ -257,189 +268,449 @@ $articles = [
 
             <hr class="my-10 border-brand/10" />
 
-            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Recognizing Nutrient-Driven Acne Symptoms</h2>
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Should You Get a Blood Test?</h2>
+
+            <figure class="my-8">
+                <img src="/assets/imagesfromsite/what-vitamin-deficiencies-cause-acne-blood-test.jpg" alt="Gloved clinician holding a blood-sample tube in a clinic laboratory" class="rounded-3xl w-full object-cover max-h-[500px] shadow-sm">
+                <figcaption class="text-xs text-gray-500 mt-3 text-center italic">A blood test is worth doing when there is a real reason to suspect a deficiency.</figcaption>
+            </figure>
 
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Wondering if your skin troubles are related to a <strong>hormonal acne nutritional deficiency</strong>? Look for these distinct clinical signs:
+                A blood test makes sense when there is another reason to suspect a deficiency: persistent fatigue, hair shedding, pale skin, a strictly restricted or vegan diet, heavy menstrual cycles, gastrointestinal conditions, or history of bariatric surgery.
             </p>
 
-            <div class="grid sm:grid-cols-2 gap-6 my-8">
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h4 class="font-heading font-semibold text-brand text-base mb-3"><i class="fas fa-check-circle text-accent mr-2"></i>Skin Manifestations:</h4>
-                    <ul class="text-sm text-gray-600 space-y-2 font-light list-disc pl-4">
-                        <li><strong>Poor Response to Topicals:</strong> Cleansers and salicylic acids yield minimal improvement after 8+ weeks.</li>
-                        <li><strong>Deep Cystic Bumps:</strong> Breakouts form as painful, hard nodules beneath the skin surface.</li>
-                        <li><strong>Prolonged Dark Marks:</strong> Every small pimple leaves behind stubborn discoloration for months.</li>
-                        <li><strong>Oily Yet Dehydrated Skin:</strong> Surface feels tight and flaky while simultaneously overproducing grease.</li>
-                    </ul>
-                </div>
-
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h4 class="font-heading font-semibold text-brand text-base mb-3"><i class="fas fa-heartbeat text-accent mr-2"></i>Physical Symptoms:</h4>
-                    <ul class="text-sm text-gray-600 space-y-2 font-light list-disc pl-4">
-                        <li><strong>Fatigue &amp; Low Energy:</strong> Often coexists with Vitamin D or B-vitamin depletion.</li>
-                        <li><strong>Brittle Nails &amp; Thinning Hair:</strong> Classic indicators of low zinc or essential fatty acids.</li>
-                        <li><strong>Frequent Infections:</strong> Reflects compromised mucosal and skin immunity.</li>
-                        <li><strong>Seasonal Breakouts:</strong> Acne intensifies during cloudy or rainy weather when UV synthesis drops.</li>
-                    </ul>
-                </div>
-            </div>
-
-            <hr class="my-10 border-brand/10" />
-
-            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">The Dangers of Blind Multivitamin Supplementation</h2>
-
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                When faced with acne, many individuals purchase high-dose multivitamins. However, indiscriminate supplementation can worsen skin issues:
+                A physician can determine which specific panels fit—such as vitamin D, B12, iron stores (ferritin), or zinc—and interpret the numbers accurately. Zinc results in particular can mislead, as serum levels drop during minor infections and fluctuate throughout the day.
             </p>
 
-            <ul class="space-y-3 mb-8 text-gray-700 font-light text-sm">
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-exclamation-triangle text-amber-500 mt-1"></i>
-                    <span><strong>Mega-Dose B12 &amp; Biotin:</strong> Over-the-counter hair and nail gummies frequently contain extreme doses that provoke inflammatory acneiform breakouts.</span>
-                </li>
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-exclamation-triangle text-amber-500 mt-1"></i>
-                    <span><strong>Vitamin A Accumulation:</strong> Fat-soluble Vitamin A stores in the liver and can cause toxicity if taken in high oral doses without medical oversight.</span>
-                </li>
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-exclamation-triangle text-amber-500 mt-1"></i>
-                    <span><strong>Zinc-Copper Imbalance:</strong> Taking excessive zinc long-term depletes copper, leading to anemia and nerve dysfunction.</span>
-                </li>
-            </ul>
-
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                The safest, most effective approach is to confirm your levels through diagnostic tests and combine nutritional support with professional clinical treatments.
-            </p>
-
-            <hr class="my-10 border-brand/10" />
-
-            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Clinical Treatments at Refine Clinic</h2>
-
-            <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Nutritional correction builds the internal groundwork, but clearing existing congestion and active inflammation requires expert dermatological care. At <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin &amp; Body Clinic</a> in Kampala, our practitioners offer tailored clinical solutions:
-            </p>
-
-            <div class="grid sm:grid-cols-2 gap-6 my-8">
-                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
-                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2"><i class="fas fa-spa text-accent mr-2"></i>Medical Chemical Peels</h4>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed mb-3">
-                        Formulated with salicylic, mandelic, and lactic acids to dissolve stubborn keratin plugs, unclog pores, and smooth uneven skin texture.
-                    </p>
-                    <a href="https://refineskinandbody.com/chemical-peel" class="text-xs font-bold text-brand hover:text-accent transition-colors">Explore Chemical Peels &rarr;</a>
-                </div>
-
-                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
-                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2"><i class="fas fa-lightbulb text-accent mr-2"></i>LED Light Therapy</h4>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed mb-3">
-                        Blue LED neutralizes <em>C. acnes</em> bacteria painlessly, while Red LED calms redness, accelerates cellular recovery, and prevents scarring.
-                    </p>
-                    <a href="https://refineskinandbody.com/led-light-therapy" class="text-xs font-bold text-brand hover:text-accent transition-colors">Discover LED Therapy &rarr;</a>
-                </div>
-
-                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
-                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2"><i class="fas fa-syringe text-accent mr-2"></i>Refine IV Lounge Nutrient Infusions</h4>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed mb-3">
-                        Bypass digestive absorption with customized IV infusions of Glutathione, Vitamin C, and Zinc to rapidly restore cellular defenses and enhance skin radiance.
-                    </p>
-                    <a href="/blog/can-iv-therapy-improve-skin-glow-overall-wellness" class="text-xs font-bold text-brand hover:text-accent transition-colors">Learn About Skin IVs &rarr;</a>
-                </div>
-
-                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
-                    <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2"><i class="fas fa-user-md text-accent mr-2"></i>Comprehensive Acne Programs</h4>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed mb-3">
-                        Personalized combination therapies addressing active acne, post-inflammatory pigmentation, and textural scarring through advanced clinical technologies.
-                    </p>
-                    <a href="https://refineskinandbody.com/acne" class="text-xs font-bold text-brand hover:text-accent transition-colors">Book Acne Treatment in Kampala &rarr;</a>
-                </div>
-            </div>
-
-            <hr class="my-10 border-brand/10" />
-
-            <!-- AEO FAQ SECTION -->
-            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Frequently Asked Questions (FAQs)</h2>
-
-            <div class="space-y-6 my-8">
-                <!-- FAQ 1 -->
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">1. Can low Vitamin D cause cystic acne?</h3>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed">
-                        Yes. Over 70% of people with severe inflammatory or cystic acne have low Vitamin D levels. Vitamin D stimulates cathelicidin, a natural antimicrobial peptide that destroys acne bacteria, and suppresses inflammatory cytokines. Low levels allow clogged pores to develop into deep, painful cysts.
-                    </p>
-                </div>
-
-                <!-- FAQ 2 -->
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">2. How long does it take for vitamin supplements to improve acne?</h3>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed">
-                        Nutritional improvements generally take 6 to 12 weeks to show on the skin. Because epidermal cell renewal requires 28 to 40 days, replenishing stores of Zinc, Vitamin D, and Vitamin A takes consistent time to normalize oil output and pore shedding.
-                    </p>
-                </div>
-
-                <!-- FAQ 3 -->
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">3. Is Zinc as effective as antibiotics for treating pimples?</h3>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed">
-                        Clinical studies indicate that oral zinc (gluconate or picolinate) performs similarly to low-dose oral antibiotics for mild-to-moderate inflammatory acne. Unlike antibiotics, zinc does not foster bacterial resistance or disturb gut flora, making it a valuable long-term option under medical supervision.
-                    </p>
-                </div>
-
-                <!-- FAQ 4 -->
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">4. Can excess Vitamin B12 or Biotin cause sudden breakouts?</h3>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed">
-                        Yes. High doses of Vitamin B12 and Biotin frequently trigger acneiform eruptions. Excessive B12 alters <em>C. acnes</em> gene expression, driving bacteria to produce inflammatory porphyrins, while high Biotin intake can interfere with Vitamin B5 absorption, increasing oil congestion.
-                    </p>
-                </div>
-
-                <!-- FAQ 5 -->
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">5. Which vitamin deficiency is linked to hormonal chin and jawline acne?</h3>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed">
-                        Vitamin D and Zinc are most closely tied to hormonal lower-face acne. Both regulate insulin sensitivity and suppress 5-alpha reductase, which converts testosterone to DHT. When levels are low, hormonal surges prompt intense sebum production in chin and jawline follicles.
-                    </p>
-                </div>
-
-                <!-- FAQ 6 -->
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">6. What foods best restore acne-fighting vitamins?</h3>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed">
-                        Focus on whole, nutrient-dense foods: pumpkin seeds, oysters, and lentils for Zinc; egg yolks, wild salmon, and fortified foods for Vitamin D; sweet potatoes, carrots, and leafy greens for provitamin A; almonds and avocados for Vitamin E; and fatty fish and chia seeds for anti-inflammatory Omega-3s.
-                    </p>
-                </div>
-
-                <!-- FAQ 7 -->
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">7. Can diet alone completely cure severe acne?</h3>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed">
-                        Diet is a foundational pillar, but severe or cystic acne is multi-factorial and typically requires clinical care. Correcting dietary deficiencies provides essential building blocks, but in-clinic chemical peels, LED therapy, and topical medical treatments accelerate recovery and prevent permanent scars.
-                    </p>
-                </div>
-
-                <!-- FAQ 8 -->
-                <div class="bg-white p-6 rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold text-brand-deeper mb-2 font-heading">8. When should I see a dermatologist for acne in Kampala?</h3>
-                    <p class="text-gray-600 text-sm font-light leading-relaxed">
-                        You should visit an aesthetic dermatology clinic if your pimples are painful, cystic, leave dark marks or scars, or fail to improve after 8 weeks of consistent home care. Refine Skin &amp; Body Clinic provides medical assessments, professional treatments, and personalized plans to clear your skin safely.
-                    </p>
-                </div>
-            </div>
-
-            <hr class="my-10 border-brand/10" />
-
-            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Conclusion: Healing Skin from Within</h2>
-
-            <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                Understanding <strong>what vitamin deficiencies cause acne</strong> shifts your focus toward root-cause healing. When your body maintains optimal levels of Vitamin D, Zinc, Vitamin A, Vitamin E, and balanced B vitamins, your skin barrier stabilizes, excess oil subsides, and stubborn inflammation fades.
+                If a deficiency is diagnosed, correct it at the precise dosage your doctor recommends. If your levels are normal, mega-dosing extra vitamins will not clear your skin, and can cause systemic toxicity.
             </p>
 
             <p class="text-gray-700 leading-relaxed mb-8 font-light">
-                If you are ready for clear, calm, healthy skin, our medical team is here to help. Schedule a personalized consultation at <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin &amp; Body Clinic</a> in Kampala to discover tailored, comprehensive <a href="https://refineskinandbody.com/acne" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Acne Treatment in Kampala</a> for lasting confidence.
-            </p>',
+                Nutrition still plays a valuable supporting role. At Refine, clinical nutritionist <a href="/wendy-emyedu-ayayo" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Ms Wendy Emyedu Ayayo</a> offers dedicated <a href="/nutrition-counselling" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">nutrition counselling</a> focused on gut health, balancing hormones through whole foods, and reducing systemic inflammation. Her consultations also provide a tailored Anti-Inflammatory Diet Guide and a 7-day Clear Skin Meal Plan.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">When to See a Specialist at Refine</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Consult a doctor if your acne is painful, cystic, leaving permanent scars or hyperpigmented dark marks, has not improved after three months of consistent skincare, or appeared suddenly in adult life. Book promptly if acne is accompanied by irregular periods, excess facial hair, or thinning scalp hair, which may indicate a hormonal condition such as polycystic ovary syndrome (PCOS).
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At Refine Clinic, <a href="/acne" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">acne treatment</a> is led by <strong>Dr. Chirag Kotecha</strong>, Aesthetic Physician, with no medical referral needed. Consultations evaluate your goals and medical history to create an individualized protocol targeting hormonal, inflammatory, comedonal, or cystic acne, alongside post-acne scarring. Most patients see noticeable skin clearing within 4 to 6 weeks.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                If dark spots linger after pimples resolve, read our detailed guide on <a href="/blog/how-to-prevent-post-acne-dark-marks" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">how to prevent post-acne dark marks</a>.
+            </p>
+
+            <div class="bg-surface-warm p-6 rounded-2xl border border-brand/10 mb-8">
+                <h4 class="font-bold text-brand-deeper text-base mb-2 font-heading">Clinic Locations</h4>
+                <p class="text-sm text-gray-600 font-light leading-relaxed mb-4">
+                    Visit Refine Skin &amp; Body Clinic at Forest Mall (Lugogo), Palm Village Mall (Kabalagala), or UMC Victoria Hospital Annex (Bukoto). In South Sudan, visit Refine Skin &amp; Body Centre on Airport Road, Juba.
+                </p>
+                <a href="/book-appointment" class="inline-flex items-center gap-2 bg-brand hover:bg-brand-deeper text-white text-xs font-bold py-3 px-6 rounded-full transition-all">
+                    <span>Book an Appointment Online</span>
+                    <i class="fas fa-arrow-right text-[10px]"></i>
+                </a>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- FAQs Section -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading flex items-center gap-3">
+                <i class="fas fa-question-circle text-accent"></i> Frequently Asked Questions (FAQs)
+            </h2>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">1. Does low vitamin D cause acne?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> This has not been proven. People with acne tend to have lower vitamin D levels, but studies cannot prove causality. If a blood test demonstrates deficiency, correcting it benefits general health and may support skin recovery.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">2. Can zinc clear acne?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Zinc can reduce inflamed spots modestly, but it rarely clears acne on its own and worked less effectively than standard antibiotics in head-to-head trials. Take it only at doctor-recommended doses to prevent long-term copper deficiency.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">3. Can vitamin B12 cause acne?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Yes, in some individuals. High-dose B12 from supplements, injections, or IV drips can trigger a sudden acne-like eruption across the face, chest, or back, which typically resolves once excess B12 intake ceases.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">4. Should I take vitamin A tablets for acne?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> No. Prescription retinoids work because dosages and patient safety are closely monitored by physicians. High-dose oral vitamin A supplements can cause liver toxicity, bone thinning, and severe teratogenic birth defects during pregnancy.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">5. Does milk cause acne?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Milk, especially skim milk, is associated with higher acne rates in observational research, but direct causation is unproven and the overall effect is modest. If suspected, try reducing dairy for 8 weeks while maintaining calcium intake from dark leafy greens and beans.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">6. Will a vitamin injection or IV drip clear my acne?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> There is no clinical evidence that vitamin injections or IV drips treat acne. Acne responds best to medical therapies such as topical retinoids, benzoyl peroxide, azelaic acid, or oral medications prescribed for your acne type.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">7. What deficiency causes pimples on the chin and jaw?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> No vitamin deficiency is known to cause lower-face breakouts specifically. Pimples along the jawline and chin in adult women are primarily hormonal, requiring endocrine evaluation and targeted dermatological care.</p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading flex items-center gap-3">
+                <i class="fas fa-lightbulb text-accent"></i> The Bottom Line
+            </h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Vitamin gaps are rarely the primary cause of acne. Zinc and vitamin D show intriguing connections, but neither replaces evidence-based dermatological care, and high-dose vitamin A or B12 can cause real harm. Maintain a balanced, lower-sugar diet, get blood levels checked before taking supplements, and partner with a doctor to address the root causes of breakouts.
+            </p>
+
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 rounded-3xl shadow-xl border border-white/10 text-center my-8">
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-3">Ready for a Plan Aimed at the Real Cause of Your Breakouts?</h3>
+                <p class="text-white/80 font-light text-sm mb-6 max-w-xl mx-auto">Get expert dermatological evaluation and personalized clinical care at Refine Clinic.</p>
+                <a href="/book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-accent-light text-brand-deeper font-bold py-3.5 px-8 rounded-full text-sm transition-all shadow-md">
+                    <span>Book a Consultation at Refine</span>
+                    <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+
+        '
     ],
 
     // ----------------------------------------------------
-    // ARTICLE: DOES HYDRAFACIAL REMOVE FACIAL HAIR?
+    // ARTICLE: HOW LONG DOES LIP FILLER SWELLING LAST?
+    // ----------------------------------------------------
+    'how-long-does-lip-filler-swelling-last' => [
+        'slug' => 'how-long-does-lip-filler-swelling-last',
+        'title' => 'How Long Does Lip Filler Swelling Last?',
+        'meta_title' => 'How Long Does Lip Filler Swelling Last? | Refine Skin & Body Clinic',
+        'category' => 'Injectables & Anti-Aging',
+        'category_slug' => 'injectables',
+        'date' => '30 September 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Aesthetic Physician, Refine Clinic',
+        'read_time' => '8 min',
+        'image' => '/assets/imagesfromsite/how-long-does-lip-filler-swelling-last-hero.jpg',
+        'excerpt' => 'Lip filler swelling peaks at 24 to 48 hours and mostly settles in 3 to 7 days. See the day-by-day timeline, aftercare tips and the red flags to act on.',
+        'content' => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How Long Does Lip Filler Swelling Last? Direct Answer</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer: Lip filler swelling usually peaks 24 to 48 hours after treatment and has mostly settled within 3 to 7 days.</strong> Refine\\\'s lip page notes that mild swelling, bruising, or tenderness typically subsides within a week. Small amounts can linger, so judge the final shape at about two weeks. White or dusky skin, or severe or worsening pain, is not normal swelling: call the clinic immediately.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Swelling Peaks:</span>
+                        <p class="text-white/80 font-light text-xs">24 to 48 hours after treatment.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Mostly Settled:</span>
+                        <p class="text-white/80 font-light text-xs">3 to 7 days post-injection.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Final Result:</span>
+                        <p class="text-white/80 font-light text-xs">Visible at approximately 2 weeks.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                You have just had lip filler, you look in the mirror, and your lips look bigger, tighter and perhaps more uneven than you expected. If you have a wedding, a photo shoot or simply work on Monday, it is easy to panic.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Swelling is the most common and most temporary part of lip filler. Lips have a rich blood supply and soft, loose tissue, so they react to the needle and to the filler more than most areas of the face. Most hyaluronic acid fillers also draw in a little water as they settle.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                This guide gives you a realistic day-by-day timeline, explains what is normal and what is not, and shows you how to help the swelling settle.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Lip Filler Swelling: A Day-by-Day Timeline</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Everyone heals differently, and the amount of filler, the technique and your own tissues all play a part. This is a typical course for hyaluronic acid lip filler:
+            </p>
+
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm border border-brand/10">
+                    <thead>
+                        <tr class="bg-brand text-white text-xs sm:text-sm font-heading">
+                            <th class="p-4">When</th>
+                            <th class="p-4">What Is Normal</th>
+                            <th class="p-4">What Helps</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-xs sm:text-sm text-gray-700 font-light divide-y divide-brand/5">
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">First few hours</td>
+                            <td class="p-4">Lips look fuller than the final result, feel numb, tender or tight, with small marks where the needle went in</td>
+                            <td class="p-4">Cold compress in a cloth; no lipstick on injection points</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Days 1 to 2</td>
+                            <td class="p-4">Swelling at its peak; lips may look uneven, firm or lumpy; bruises may appear</td>
+                            <td class="p-4">Head raised at night; avoid exercise, alcohol and heat</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Days 3 to 4</td>
+                            <td class="p-4">Swelling clearly going down; bruises start to fade</td>
+                            <td class="p-4">Gentle care; avoid pressing or squeezing your lips</td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Days 5 to 7</td>
+                            <td class="p-4">Most swelling has settled; small firm areas softening</td>
+                            <td class="p-4">Normal routine for most people</td>
+                        </tr>
+                        <tr>
+                            <td class="p-4 font-bold text-brand-deeper">Around 2 weeks</td>
+                            <td class="p-4">Filler has fully integrated and settled; this is your real result</td>
+                            <td class="p-4">Review appointment if anything still concerns you</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">Why One Side Can Look Bigger</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Swelling is rarely completely symmetrical. One lip, or one side, often swells more because of where the needle passed, a small localized bruise, or how you slept. Asymmetry in the first week is common and usually settles, which is why true lip shape is evaluated at two weeks, not on day two.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Bruising, Lumps and the &ldquo;Sausage Lip&rdquo; Fear</h2>
+
+            <div class="space-y-6 my-8">
+                <div class="bg-white rounded-2xl p-6 border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold text-brand-deeper mb-3 font-heading flex items-center gap-2">
+                        <i class="fas fa-tint text-accent"></i> Bruising
+                    </h3>
+                    <p class="text-gray-700 leading-relaxed font-light text-sm sm:text-base">
+                        Bruising is common because lips have so many small blood vessels. On darker skin, bruises often look purple, brown or dark red rather than blue. Most fade within about a week, though some take up to two. To lower the risk, your doctor may ask you to avoid alcohol and non-prescribed products that increase bleeding, such as aspirin, ibuprofen, fish oil and vitamin E, for about a week beforehand. Never stop a prescribed medicine without asking the doctor who prescribed it. Arnica is popular, but clinical evidence that it speeds recovery is limited.
+                    </p>
+                </div>
+
+                <div class="bg-white rounded-2xl p-6 border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold text-brand-deeper mb-3 font-heading flex items-center gap-2">
+                        <i class="fas fa-circle-notch text-accent"></i> Lumps
+                    </h3>
+                    <p class="text-gray-700 leading-relaxed font-light text-sm sm:text-base mb-3">
+                        Small, firm areas are common in the first one to two weeks while swelling settles. Do not massage your lips unless your injector specifically tells you to. A lump that is still there after two weeks deserves a clinical review. Hyaluronic acid filler can be dissolved with an enzyme called hyaluronidase if a doctor decides it is needed.
+                    </p>
+                    <p class="text-xs text-gray-600 bg-surface-warm p-4 rounded-xl border border-brand/5 font-light">
+                        <strong class="text-brand-deeper font-semibold">Important:</strong> A lump that becomes red, hot, or painful days or weeks later needs prompt assessment for inflammation or infection.
+                    </p>
+                </div>
+
+                <div class="bg-white rounded-2xl p-6 border border-brand/10 shadow-sm">
+                    <h3 class="text-xl font-bold text-brand-deeper mb-3 font-heading flex items-center gap-2">
+                        <i class="fas fa-smile text-accent"></i> The &ldquo;Sausage Lip&rdquo; Fear
+                    </h3>
+                    <p class="text-gray-700 leading-relaxed font-light text-sm sm:text-base">
+                        Lips can look overfilled, with the upper lip jutting forward, for the first 24 to 48 hours. That is swelling, not the result. True overfilling can only be judged once swelling has fully subsided. Refine\\\'s Aesthetic Physician, Dr. Chirag Kotecha, describes his philosophy as aesthetic enhancements that are &ldquo;entirely undetectable,&rdquo; and a natural, balanced result is best judged at two weeks.
+                    </p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Aftercare That Helps Swelling Settle</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                You cannot skip swelling completely, but you can prevent making it worse. For the first 24 to 48 hours:
+            </p>
+
+            <div class="grid sm:grid-cols-2 gap-4 my-6">
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-snowflake text-accent"></i> Use Cold Compresses
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Wrap ice or a cold pack in a clean cloth and hold it gently against your lips for about 10 minutes at a time. Never put ice straight on bare skin, and do not press hard.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-running text-accent"></i> Avoid Exercise
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Refine\\\'s <a href="/dermal-fillers" class="text-brand font-semibold underline">dermal fillers</a> protocol advises avoiding strenuous workouts for 24 to 48 hours to minimize blood pressure surges.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-wine-glass-alt text-accent"></i> Avoid Alcohol
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Alcohol acts as a vasodilator, widening blood vessels and increasing both swelling and bruising risk.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-hot-tub text-accent"></i> Avoid Excess Heat
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Skip saunas, steam rooms, and direct midday sun. Drink fluids warm rather than piping hot while lips remain numb.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-hand-paper text-accent"></i> Avoid Hard Pressure
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">No firm kissing, pressing, rubbing, or squeezing your lips during initial tissue integration.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-bed text-accent"></i> Elevate Your Head
+                    </h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Sleep with your head propped on an extra pillow, on your back if possible, for the first night or two.</p>
+                </div>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Keep makeup and lipstick off the injection points for about 24 hours to minimize infection risk. If you need pain relief, paracetamol is generally preferred; avoid anti-inflammatory painkillers like ibuprofen without consulting your practitioner.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Cold Sores: Inform Your Doctor Before Treatment</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Needle entry can reactivate dormant herpes simplex virus in individuals prone to cold sores. If you have ever experienced a cold sore, inform your physician during your initial consultation. At Refine, patients with a history of cold sores are prescribed a prophylactic antiviral medication to take around the time of treatment.
+            </p>
+
+            <div class="bg-surface-warm p-6 rounded-2xl border-l-4 border-accent mb-8">
+                <p class="text-gray-700 text-sm font-light leading-relaxed">
+                    <strong class="text-brand-deeper font-semibold">Important Rule:</strong> Never receive lip filler while experiencing an active cold sore, breakout, or infection on or near the lips; reschedule instead. If a cold sore appears post-treatment, contact the clinic promptly for early antiviral management.
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">When Swelling Is Not Normal: Red Flags</h2>
+
+            <div class="bg-red-50 border-2 border-red-200 rounded-3xl p-6 sm:p-8 mb-8 text-red-900">
+                <div class="flex items-center gap-3 text-red-700 text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-exclamation-triangle"></i> Urgent Clinical Safety Alert
+                </div>
+                <h3 class="text-xl font-bold font-heading mb-3 text-red-950">Call the Clinic Immediately If You Notice Any of These:</h3>
+                <p class="text-sm font-light leading-relaxed mb-4 text-red-900">
+                    Rarely, filler can press on or enter a blood vessel (vascular occlusion). This is a medical emergency requiring rapid intervention.
+                </p>
+                <ul class="list-disc pl-5 space-y-2 text-sm font-light text-red-900 mb-6">
+                    <li>Skin on or around your lips turning <strong>white</strong>, or a <strong>dusky</strong> grey, blue, or purple hue.</li>
+                    <li><strong>Severe pain</strong>, or pain that progressively <strong>worsens</strong> rather than improving.</li>
+                    <li><strong>Mottling</strong>: a blotchy, lace-like or reticulated discoloration pattern on the lip, chin, nose, or cheek.</li>
+                    <li><strong>Blisters or small pus-filled spots</strong> appearing in a cluster near the lip 1 to 3 days later.</li>
+                    <li><strong>Any change in vision</strong> (blurring, dimming, or loss of sight) &mdash; go straight to the nearest emergency department immediately.</li>
+                </ul>
+                <p class="text-xs text-red-800 font-medium">
+                    During clinic hours, call Refine Clinic directly. Out of hours, call your treating physician on the emergency contact number provided at your session. Do not wait to see if it settles.
+                </p>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                On darker skin tones, blanching or dusky discoloration can be subtle. Compare the treated area with surrounding facial tissue, and treat unusual, severe pain as a standalone warning sign. Because many lip fillers include lidocaine that masks initial discomfort, inspect the skin color carefully. Swelling spreading to the throat or causing breathing difficulty indicates a severe allergic reaction requiring emergency care.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">When to See a Specialist at Refine</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                <a href="/lip-volumization" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Lip volumization in Uganda</a> at Refine Clinic is led by <strong>Dr. Chirag Kotecha</strong>, utilizing premium hyaluronic acid fillers from the internationally renowned Croma range. The injection procedure typically takes under 30 minutes, with maintenance sessions recommended every 6 to 12 months.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                During your personalized assessment, our aesthetic physician evaluates your facial anatomy, lip proportions, and aesthetic goals to recommend the ideal filler density. Always disclose any history of cold sores, blood-thinning medications, allergies, or if you are pregnant or breastfeeding (filler treatments are not administered during pregnancy).
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Explore our full range of <a href="/dermal-fillers" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">dermal fillers</a>, or discover our guide on <a href="/blog/what-is-the-best-age-to-get-lip-fillers" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">the best age to get lip fillers</a>.
+            </p>
+
+            <div class="bg-surface-warm p-6 rounded-2xl border border-brand/10 mb-8">
+                <h4 class="font-bold text-brand-deeper text-base mb-2 font-heading">Refine Clinic Locations</h4>
+                <p class="text-sm text-gray-600 font-light leading-relaxed mb-4">
+                    Appointments are available at Forest Mall (Lugogo), Palm Village Mall (Kabalagala), and UMC Victoria Hospital Annex (Bukoto) in Kampala, Uganda, as well as Sadeco Building, Airport Road in Juba, South Sudan.
+                </p>
+                <a href="/book-appointment" class="inline-flex items-center gap-2 bg-brand hover:bg-brand-deeper text-white text-xs font-bold py-3 px-6 rounded-full transition-all">
+                    <span>Book Your Consultation Online</span>
+                    <i class="fas fa-arrow-right text-[10px]"></i>
+                </a>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- FAQs Section -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading flex items-center gap-3">
+                <i class="fas fa-question-circle text-accent"></i> Frequently Asked Questions (FAQs)
+            </h2>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">1. Is lip filler swelling worse on day 2?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Often, yes. Swelling usually reaches its peak between 24 and 48 hours post-treatment. Many patients wake up looking puffier on the morning after than immediately following their appointment, after which swelling steadily subsides.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">2. How long before an event should I get lip filler?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Plan for at least two weeks before any major event, wedding, or photoshoot. This ensures all swelling and potential minor bruising have cleared, leaving time for a 2-week follow-up review if subtle adjustments are desired.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">3. How can I make lip filler swelling go down faster?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Apply cold compresses gently (10 minutes on/off), sleep with your head elevated on extra pillows, and strictly avoid strenuous exercise, alcohol, and excessive heat for 24 to 48 hours.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">4. How long does bruising from lip filler last?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Most bruises fade within 5 to 7 days, though deeper bruising can take up to two weeks. Once needle entry points close (typically 24 hours), mineral makeup can be applied to conceal discoloration.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">5. Should I massage lumps after lip filler?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Only if specifically instructed by your aesthetic doctor. Small firmness softens naturally as tissues adapt. If a distinct lump persists beyond 14 days or feels hot, red, or painful, schedule an in-clinic evaluation.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">6. Is it normal to still have swelling after two weeks?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Subtle firmness can take slightly longer to blend, but pronounced swelling at two weeks is unusual. If swelling recurs weeks later, contact the clinic for professional assessment.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">7. Can I drink alcohol after lip filler?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> It is strongly recommended to abstain from alcohol for at least 24 to 48 hours. Alcohol dilates blood vessels, compounding both swelling and bruising.</p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading flex items-center gap-3">
+                <i class="fas fa-lightbulb text-accent"></i> The Bottom Line
+            </h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Lip filler swelling is completely normal, expected, and temporary. Anticipate a peak at 24 to 48 hours, noticeable resolution within 3 to 7 days, and your true, settled contour at two weeks. Simple aftercare like cold compresses, elevated sleep, and rest will smooth your recovery. Familiarize yourself with red flags, and reach out to your clinic team immediately if concerns arise.
+            </p>
+
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 rounded-3xl shadow-xl border border-white/10 text-center my-8">
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-3">Thinking About Fuller, Naturally Enhanced Lips?</h3>
+                <p class="text-white/80 font-light text-sm mb-6 max-w-xl mx-auto">Schedule a personalized consultation at Refine Clinic to design results tailored to your unique facial aesthetics.</p>
+                <a href="/book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-accent-light text-brand-deeper font-bold py-3.5 px-8 rounded-full text-sm transition-all shadow-md">
+                    <span>Book a Lip Consultation at Refine</span>
+                    <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+
+        '
+    ],
+
     // ----------------------------------------------------
     'does-hydrafacial-remove-facial-hair' => [
         'slug' => 'does-hydrafacial-remove-facial-hair',
@@ -9311,18 +9582,6 @@ include 'includes/header.php';
 
                 <div class="prose prose-lg max-w-none text-gray-800 font-body">
                     <?php echo $currentArticle['content']; ?>
-                </div>
-
-                <!-- Author Box -->
-                <div class="mt-12 pt-8 border-t border-brand/10 bg-surface-warm rounded-2xl p-6 flex flex-col sm:flex-row items-center sm:items-start gap-5">
-                    <div class="w-16 h-16 rounded-full bg-brand text-accent flex items-center justify-center text-2xl flex-shrink-0 shadow-md">
-                        <i class="fas fa-user-md"></i>
-                    </div>
-                    <div>
-                        <h4 class="font-bold text-brand-deeper text-lg font-heading mb-1"><?php echo htmlspecialchars($currentArticle['author']); ?></h4>
-                        <p class="text-xs text-accent font-semibold uppercase tracking-wider mb-2"><?php echo htmlspecialchars($currentArticle['author_role']); ?></p>
-                        <p class="text-sm text-gray-600 font-light leading-relaxed">Specialized medical practitioner dedicated to providing evidence-based healthcare, medical aesthetics, and personalized patient care.</p>
-                    </div>
                 </div>
 
                 <div class="mt-8 flex justify-between items-center">
