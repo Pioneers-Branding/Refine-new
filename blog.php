@@ -712,345 +712,324 @@ $articles = [
     ],
 
     // ----------------------------------------------------
+    // ARTICLE: DOES HYDRAFACIAL REMOVE FACIAL HAIR?
+    // ----------------------------------------------------
     'does-hydrafacial-remove-facial-hair' => [
         'slug' => 'does-hydrafacial-remove-facial-hair',
         'title' => 'Does HydraFacial Remove Facial Hair?',
-        'meta_title' => 'Does HydraFacial Remove Facial Hair?',
-        'category' => 'Skincare',
-        'category_slug' => 'skincare',
-        'date' => '21 September, 2026',
+        'meta_title' => 'Does HydraFacial Remove Facial Hair? | Refine Skin & Body Clinic',
+        'category' => 'Facial Treatments',
+        'category_slug' => 'dermatology-skin',
+        'date' => '3 October 2026',
         'author' => 'Dr. Chirag Kotecha',
-        'author_role' => 'Lead Specialist, Refine Clinic',
-        'read_time' => '13 min',
-        'image' => '/assets/imagesfromsite/does-hydrafacial-remove-facial-hair-thumbnail.jpg',
-        'excerpt' => 'Does HydraFacial remove facial hair or peach fuzz? Discover what dermatologists say about vortex suction, dermaplaning combinations, laser pairings, and how to achieve silky-smooth skin.',
-        'content' => '            <!-- AEO Direct Answer Highlight Box -->
+        'author_role' => 'Aesthetic Physician, Refine Clinic',
+        'read_time' => '9 min',
+        'image' => '/assets/imagesfromsite/does-hydrafacial-remove-facial-hair-hero.jpg',
+        'excerpt' => 'No, a HydraFacial does not remove facial hair. See what it really does, and which hair removal options, including laser, are safest for darker skin.',
+        'content' => '
+            <!-- AEO Direct Answer Highlight Box -->
             <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
                 <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
-                    <i class="fas fa-bolt"></i> AEO Quick Answer Summary
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
                 </div>
-                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Does HydraFacial Remove Facial Hair?</h3>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Does HydraFacial Remove Facial Hair? Direct Answer</h3>
                 <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
-                    <strong>Direct Answer: No, a standard HydraFacial does not remove facial hair, peach fuzz, or beard stubble. HydraFacial uses patented Vortex-Fusion suction technology designed specifically to exfoliate dead surface cells, extract congested sebum and blackheads, and infuse nourishing serums into pores—not pull or shave hair follicles. However, pairing a HydraFacial with dermaplaning right beforehand provides the ultimate combination for both hair removal and intense dermal hydration.</strong>
+                    <strong>Direct answer: No. A HydraFacial does not remove facial hair.</strong> It cleanses, exfoliates, extracts and hydrates the skin, and the exfoliation may lift a little loose peach fuzz from the surface, but it never reaches the hair root, so hair grows back as before. For longer-lasting reduction, laser hair removal is the main medical option. Threading, waxing, shaving and dermaplaning are temporary.
                 </p>
                 <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
-                    <div>
-                        <span class="text-accent font-semibold block mb-1">Primary Function:</span>
-                        <p class="text-white/80 font-light">Deep pore extraction, cellular exfoliation, and antioxidant hydration.</p>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">What HydraFacial Does:</span>
+                        <p class="text-white/80 font-light text-xs">Cleanses, exfoliates, extracts and hydrates in a 30 to 60 minute session.</p>
                     </div>
-                    <div>
-                        <span class="text-accent font-semibold block mb-1">Impact on Facial Hair:</span>
-                        <p class="text-white/80 font-light">Leaves vellus hair intact while thoroughly cleaning around hair follicles.</p>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Effect on Hair:</span>
+                        <p class="text-white/80 font-light text-xs">None at the root; any smoother feel is temporary.</p>
                     </div>
-                    <div>
-                        <span class="text-accent font-semibold block mb-1">Best Combination:</span>
-                        <p class="text-white/80 font-light">Dermaplaning + HydraFacial (Dermaglow) for total fuzz removal &amp; glass skin.</p>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">For Facial Hair:</span>
+                        <p class="text-white/80 font-light text-xs">Laser hair removal; facial hair is often hormonal and can take more than 10 sessions.</p>
                     </div>
                 </div>
             </div>
 
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                HydraFacial has rapidly grown into one of the most beloved non-invasive clinical skincare treatments across the globe. Known for delivering an immediate &quot;red carpet glow&quot; without redness, peeling, or downtime, this multi-step facial is celebrated for transforming dull, congested skin into a smooth, radiant canvas.
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                If you have dark hairs on your upper lip or chin, or soft fuzz along your jaw, it is natural to hope one good facial will deal with everything at once. HydraFacial is often described online as clearing &ldquo;everything&rdquo; from the skin, so some people book one expecting hair-free skin.
             </p>
 
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                Yet, because skin feels so baby-soft, smooth, and refreshed immediately following a session, many first-time patients frequently ask an important practical question: <em>Does HydraFacial remove facial hair?</em>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The honest answer is that a HydraFacial is a skin treatment, not a hair removal treatment. It can leave your skin clean, bright and soft, but hair grows from a root deep in the skin that it does not touch. This guide explains what it really does, which hair removal methods suit darker skin, and when new facial hair is a reason to see a doctor.
             </p>
 
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                If you are planning to book an authentic medical-grade <a href="https://refineskinandbody.com/hydrafacial" class="text-brand font-semibold hover:underline">Hydrafacial in Uganda</a>, understanding exactly how the procedure interacts with facial hair, peach fuzz, and beard stubble will help you plan your appointments and achieve the best possible aesthetic outcome. At <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:underline">Refine Skin &amp; Body Clinic</a> in Kampala, our cosmetic specialists guide you through the clinical facts, explain why hair stays in place, and share the best treatment pairings to safely banish unwanted facial fuzz.
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">What a HydraFacial Actually Does</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Refine describes HydraFacial as a treatment that &ldquo;cleanses, extracts and hydrates the skin simultaneously&rdquo;, using a patented device for exfoliation, pore cleansing and serum infusion. Refine lists it as HydraFacial MD&reg; on its consent forms and pricing page. A session follows four steps:
             </p>
 
-            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">How a HydraFacial Works: The Vortex-Fusion Mechanism</h2>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                To understand why HydraFacials do not remove hair, it helps to look at what the technology actually does to your skin. Unlike manual extractions, abrasive microdermabrasion crystals, or chemical peeling solutions, a HydraFacial relies on a specialized handpiece equipped with spiral hydropeel tips and patented <strong>Vortex-Fusion</strong> fluid mechanics.
-            </p>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                A classic HydraFacial session is structured into three essential medical phases:
-            </p>
-            <ol class="space-y-4 mb-8 text-brand-muted list-decimal list-inside">
-                <li class="leading-relaxed">
-                    <strong class="text-brand-deeper">Cleanse &amp; Peel (Gentle Exfoliation):</strong> The treatment begins by bathing the skin in a nourishing lactic acid and glucosamine solution. This softens the outer layer of dead stratum corneum cells, lifting microscopic grime without scratching the skin surface.
-                </li>
-                <li class="leading-relaxed">
-                    <strong class="text-brand-deeper">Extract &amp; Hydrate (Pore Decongestion):</strong> Next, a mild blend of salicylic and glycolic acids loosens stubborn debris tucked deep inside the sebaceous follicles. A gentle, pneumatic spiral suction vacuum effortlessly clears pores. If you have ever wondered about blackheads, our clinical specialists <a href="/blog/do-hydrafacials-remove-blackheads" class="text-brand font-semibold hover:underline">extract stubborn blackheads</a> quickly and comfortably during this exact stage.
-                </li>
-                <li class="leading-relaxed">
-                    <strong class="text-brand-deeper">Fuse &amp; Protect (Targeted Infusion):</strong> In the final step, the device saturates the dermal surface with potent antioxidants, hyaluronic acid, and rejuvenating peptides to lock in moisture, calm the skin barrier, and restore a dewy, luminous finish.
-                </li>
-            </ol>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                Notice what is missing from this equation: there are no blades, no hot waxes, no tweezers, and no thermal lasers targeting melanin inside hair roots. The vacuum suction is calibrated exclusively to clear viscous sebum and microscopic debris—it does not possess the mechanical tension or physical grip necessary to dislodge anchored hair shafts from their follicles.
-            </p>
-
-            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Vellus Hair vs. Terminal Hair: What Happens During Treatment?</h2>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                Human facial skin features two fundamentally different classes of hair:
-            </p>
-            <ul class="space-y-4 mb-8 text-brand-muted">
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
-                    <div>
-                        <strong class="text-brand-deeper">1. Vellus Hair (Peach Fuzz):</strong> These are the soft, translucent, ultra-fine hairs that cover the cheeks, temples, jawline, and forehead. According to dermatological anatomical definitions of <a href="https://en.wikipedia.org/wiki/Vellus_hair" target="_blank" rel="noopener" class="text-brand font-semibold hover:underline">fine vellus hair</a>, these strands lack significant pigment and serve a protective biological role by regulating body temperature and facilitating sweat evaporation.
-                    </div>
-                </li>
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
-                    <div>
-                        <strong class="text-brand-deeper">2. Terminal Hair (Coarse Facial Hair):</strong> These are thicker, deeply rooted, pigmented hairs found in eyebrows, eyelashes, upper lip, chin, and male beard areas.
-                    </div>
-                </li>
-            </ul>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                During a HydraFacial session, the spiral vacuum tip glides effortlessly over both vellus and terminal hairs. Because hair follicles are anchored deep in the dermis, the suction glides past them without pulling, plucking, or thinning the strands. When you look in the mirror after your session, your peach fuzz will still be intact.
-            </p>
-
-            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Why Does Skin Feel So Hair-Free After a HydraFacial?</h2>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                If HydraFacial does not remove facial hair, why do so many clients insist that their peach fuzz feels invisible or vanished after treatment? This common sensation is known as the <em>exfoliation illusion</em>, caused by several distinct physiological factors:
-            </p>
-            <div class="grid sm:grid-cols-2 gap-6 mb-8">
-                <div class="p-6 bg-[#faf9f6] rounded-2xl border border-brand/10">
-                    <h4 class="font-bold text-brand-deeper mb-2 flex items-center gap-2">
-                        <i class="fas fa-sparkles text-accent"></i> Elimination of Rough Cellular Buildup
+            <div class="grid sm:grid-cols-2 gap-4 my-6">
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-search text-accent"></i> 1. Skin Analysis
                     </h4>
-                    <p class="text-sm text-brand-muted leading-relaxed font-light">
-                        Layers of dead, keratinized skin cells normally cling around the base of each tiny hair shaft, making peach fuzz feel stiff, coarse, and textured to the touch. By dissolving this crust, the hairs lay completely flat against softened, supple skin.
-                    </p>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">To check your skin type and concerns.</p>
                 </div>
-                <div class="p-6 bg-[#faf9f6] rounded-2xl border border-brand/10">
-                    <h4 class="font-bold text-brand-deeper mb-2 flex items-center gap-2">
-                        <i class="fas fa-water text-accent"></i> Deep Dermal Plumping
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-sparkles text-accent"></i> 2. Cleansing &amp; Exfoliation
                     </h4>
-                    <p class="text-sm text-brand-muted leading-relaxed font-light">
-                        Intense infusion of low-molecular-weight hyaluronic acid inflates dehydrated skin cells like water balloons. As the epidermis plumps, the microscopic spaces between hair follicles tighten, creating an uninterrupted glassy glide.
-                    </p>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">To lift away dead skin cells.</p>
                 </div>
-                <div class="p-6 bg-[#faf9f6] rounded-2xl border border-brand/10">
-                    <h4 class="font-bold text-brand-deeper mb-2 flex items-center gap-2">
-                        <i class="fas fa-tint-slash text-accent"></i> Cleansing Follicular Collars
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-filter text-accent"></i> 3. Extraction
                     </h4>
-                    <p class="text-sm text-brand-muted leading-relaxed font-light">
-                        Microscopic plugs of oxidized oil and makeup residue collect inside follicular openings. Cleansing these collars eliminates the microscopic bumps that fingers often mistake for prickly hairs.
-                    </p>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Using gentle suction to clean out pores.</p>
                 </div>
-                <div class="p-6 bg-[#faf9f6] rounded-2xl border border-brand/10">
-                    <h4 class="font-bold text-brand-deeper mb-2 flex items-center gap-2">
-                        <i class="fas fa-sun text-accent"></i> Optimal Light Reflection
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-2 font-heading flex items-center gap-2">
+                        <i class="fas fa-tint text-accent"></i> 4. Hydration
                     </h4>
-                    <p class="text-sm text-brand-muted leading-relaxed font-light">
-                        When facial skin is flawlessly smooth and polished, light bounces cleanly off the surface rather than catching on angled peach fuzz, rendering fine hairs visually imperceptible in normal daylight.
-                    </p>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">With serums infused into the freshly cleaned skin.</p>
                 </div>
             </div>
 
-            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">The Ultimate Combination: Dermaplaning + HydraFacial</h2>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                What if your goal is to eliminate facial hair <em>and</em> experience the revitalizing hydration of a HydraFacial? In modern clinical aesthetics, the premier solution is combining <strong>dermaplaning with HydraFacial</strong>—a synergistic protocol frequently called the <em>&quot;Dermaglow Treatment.&quot;</em>
-            </p>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                In this multi-modality treatment, a trained aesthetic practitioner uses a sterile surgical-grade scalpel held at a 45-degree angle to gently scrape away the top layer of dead stratum corneum cells alongside 100% of visible peach fuzz.
-            </p>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                Performing dermaplaning immediately <em>before</em> your HydraFacial unlocks major benefits:
-            </p>
-            <ul class="space-y-4 mb-8 text-brand-muted">
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-arrow-right text-accent mt-1 flex-shrink-0"></i>
-                    <div>
-                        <strong class="text-brand-deeper">Deeper Serum Penetration:</strong> Peach fuzz and dead surface skin create a physical barrier. Removing this barrier allows the HydraFacial vortex serums (salicylic acid, hyaluronic acid, and peptide boosters) to penetrate up to 60% deeper into living tissue.
-                    </div>
-                </li>
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-arrow-right text-accent mt-1 flex-shrink-0"></i>
-                    <div>
-                        <strong class="text-brand-deeper">Unmatched Glass-Skin Finish:</strong> The combined physical exfoliation of a surgical blade followed by fluid-based vacuum cleansing produces a baby-smooth texture that makes foundation and skincare apply like silk. To explore if this comprehensive protocol fits your routine, read our review of <a href="/blog/is-a-hydrafacial-worth-it" class="text-brand font-semibold hover:underline">HydraFacial treatment benefits</a>.
-                    </div>
-                </li>
-            </ul>
-
-            <!-- Treatment Comparison Table -->
-            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Comparing Facial Treatments: Hair Removal vs. Skin Health</h2>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                To help you choose the right procedure for your personal skin and hair goals, review this direct clinical comparison:
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                It is used for dry, oily and acne-prone skin, uneven skin tone and fine lines. There is no downtime, and sessions are usually repeated every 4 to 6 weeks. For the pore-cleansing side, read our guides on <a href="/blog/do-hydrafacials-remove-blackheads" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">whether HydraFacials remove blackheads</a> and <a href="/blog/is-a-hydrafacial-worth-it" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">whether a HydraFacial is worth it</a>.
             </p>
 
-            <div class="overflow-x-auto mb-10">
-                <table class="w-full text-left border-collapse border border-brand/10 bg-white rounded-2xl overflow-hidden shadow-sm">
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">Why It Cannot Remove Hair</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Each hair grows from a follicle, a small pocket in the skin with a living root (the hair bulb) at its base, deep in the dermis, the thick layer beneath the surface. Hair is only reduced in the long term when that root is damaged, for example by laser heat. HydraFacial exfoliation and suction work on the surface and at the opening of the pore, so the follicle is untouched and the hair keeps growing at its usual rate.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">What About Peach Fuzz?</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Fine, soft, light facial hair is called vellus hair, or &ldquo;peach fuzz&rdquo;. The exfoliation step may dislodge a few loose vellus hairs, and freshly cleaned skin can feel smoother. That is a side effect, not hair removal. Coarse, dark hairs (terminal hairs) on the lip, chin or jaw are not affected at all.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Facial Hair Removal Options Compared</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Every method below except laser either cuts the hair at the surface or pulls it out, so the hair returns. On darker skin, the main risks are ingrown hairs and post-inflammatory hyperpigmentation (PIH): dark marks left behind after the skin has been irritated or inflamed.
+            </p>
+
+            <!-- Comparison Table -->
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl overflow-hidden shadow-sm border border-brand/10">
                     <thead>
-                        <tr class="bg-brand-deeper text-white text-sm uppercase tracking-wider font-heading">
-                            <th class="p-4 sm:p-5">Treatment</th>
-                            <th class="p-4 sm:p-5">Removes Peach Fuzz?</th>
-                            <th class="p-4 sm:p-5">Removes Coarse Hair?</th>
-                            <th class="p-4 sm:p-5">Primary Benefit</th>
-                            <th class="p-4 sm:p-5">Downtime</th>
+                        <tr class="bg-brand text-white text-xs sm:text-sm font-heading">
+                            <th class="p-4">Method</th>
+                            <th class="p-4">How It Works</th>
+                            <th class="p-4">How Long It Lasts</th>
+                            <th class="p-4">Main Risks on Darker Skin</th>
                         </tr>
                     </thead>
-                    <tbody class="divide-y divide-brand/10 text-sm sm:text-base text-brand-muted">
+                    <tbody class="text-xs sm:text-sm text-gray-700 font-light divide-y divide-brand/5">
                         <tr>
-                            <td class="p-4 sm:p-5 font-semibold text-brand-deeper">HydraFacial</td>
-                            <td class="p-4 sm:p-5 text-red-600 font-semibold">No</td>
-                            <td class="p-4 sm:p-5 text-red-600 font-semibold">No</td>
-                            <td class="p-4 sm:p-5">Pore clearing, deep hydration, and radiant glow</td>
-                            <td class="p-4 sm:p-5 text-green-600 font-semibold">Zero Downtime</td>
+                            <td class="p-4 font-bold text-brand-deeper">Shaving</td>
+                            <td class="p-4">Cuts hair at the surface</td>
+                            <td class="p-4">1 to 3 days</td>
+                            <td class="p-4"><span class="bg-amber-100 text-amber-800 px-2.5 py-1 rounded-full text-xs font-medium">Razor bumps, ingrown hairs, PIH</span></td>
+                        </tr>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Dermaplaning</td>
+                            <td class="p-4">A blade scrapes off fine hair and dead skin</td>
+                            <td class="p-4">About 3 to 4 weeks for fine hair</td>
+                            <td class="p-4"><span class="bg-amber-100 text-amber-800 px-2.5 py-1 rounded-full text-xs font-medium">Nicks and irritation; not for active acne; acts like shaving on coarse hair</span></td>
                         </tr>
                         <tr>
-                            <td class="p-4 sm:p-5 font-semibold text-brand-deeper">Dermaplaning</td>
-                            <td class="p-4 sm:p-5 text-green-600 font-semibold">Yes (Complete)</td>
-                            <td class="p-4 sm:p-5 text-amber-600 font-semibold">Surface Shave</td>
-                            <td class="p-4 sm:p-5">Removes peach fuzz and dead keratin layer</td>
-                            <td class="p-4 sm:p-5 text-green-600 font-semibold">None (1–2 hrs mild pinkness)</td>
+                            <td class="p-4 font-bold text-brand-deeper">Threading</td>
+                            <td class="p-4">A twisted thread pulls hairs out from the root</td>
+                            <td class="p-4">About 2 to 4 weeks</td>
+                            <td class="p-4"><span class="bg-amber-100 text-amber-800 px-2.5 py-1 rounded-full text-xs font-medium">Redness, bumps, inflamed follicles, PIH</span></td>
                         </tr>
-                        <tr>
-                            <td class="p-4 sm:p-5 font-semibold text-brand-deeper">Dermaplaning + HydraFacial</td>
-                            <td class="p-4 sm:p-5 text-green-600 font-semibold">Yes (Complete)</td>
-                            <td class="p-4 sm:p-5 text-amber-600 font-semibold">Surface Shave</td>
-                            <td class="p-4 sm:p-5">Fuzz removal + maximum vacuum hydration</td>
-                            <td class="p-4 sm:p-5 text-green-600 font-semibold">Zero Downtime</td>
+                        <tr class="bg-surface-warm/50">
+                            <td class="p-4 font-bold text-brand-deeper">Waxing</td>
+                            <td class="p-4">Wax pulls hairs out from the root</td>
+                            <td class="p-4">About 3 to 6 weeks</td>
+                            <td class="p-4"><span class="bg-red-100 text-red-800 px-2.5 py-1 rounded-full text-xs font-medium">Burns, skin lifting if you use retinoid creams, ingrown hairs, PIH</span></td>
                         </tr>
-                        <tr>
-                            <td class="p-4 sm:p-5 font-semibold text-brand-deeper">Medical Laser Hair Removal</td>
-                            <td class="p-4 sm:p-5 text-amber-600 font-semibold">Only Pigmented Hairs</td>
-                            <td class="p-4 sm:p-5 text-green-600 font-semibold">Yes (Permanent Reduction)</td>
-                            <td class="p-4 sm:p-5">Destroys hair follicles at the root</td>
-                            <td class="p-4 sm:p-5">24–48 hours mild swelling</td>
+                        <tr class="bg-green-50/50">
+                            <td class="p-4 font-bold text-brand-deeper">Laser Hair Removal</td>
+                            <td class="p-4">Laser heat damages the follicle</td>
+                            <td class="p-4">Long-term reduction after a course</td>
+                            <td class="p-4"><span class="bg-emerald-100 text-emerald-800 px-2.5 py-1 rounded-full text-xs font-medium">Burns or PIH if the laser or settings do not suit your skin</span></td>
                         </tr>
                     </tbody>
                 </table>
             </div>
 
-            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Pairing HydraFacial with Laser Hair Removal</h2>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                If you suffer from unwanted coarse facial hair—such as on the upper lip, chin, or sideburns—modern clinical <a href="/blog/how-laser-hair-removal-works-benefits-myths-what-to-expect" class="text-brand font-semibold hover:underline">laser hair removal</a> is the medical gold standard for long-term reduction.
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">Ingrown Hairs and Dark Marks</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Curly or coarse hair, common in people of African descent, can curl back into the skin after shaving, threading or waxing. This causes ingrown hairs and pseudofolliculitis (razor bumps): tender, itchy bumps that can leave dark marks for months. To lower the risk:
             </p>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                However, patients frequently wonder how to coordinate these two treatments safely without overstressing their skin barrier:
-            </p>
-            <ul class="space-y-4 mb-8 text-brand-muted">
+
+            <ul class="space-y-3 mb-6 text-gray-700 font-light">
                 <li class="flex items-start gap-3">
-                    <span class="text-accent font-bold">&bull;</span>
-                    <div>
-                        <strong class="text-brand-deeper">Option 1: HydraFacial First (Preferred Sequence):</strong> Receiving a HydraFacial 5 to 7 days <em>before</em> your laser session clears dead skin cells, sebum, and blackhead plugs. This allows laser beams to travel cleanly down into hair follicles with minimal surface energy scatter. At Refine Clinic, we specialize in <a href="/blog/is-laser-hair-removal-safe-for-darker-skin-tones" class="text-brand font-semibold hover:underline">safe facial lasers</a> that protect melanin-rich skin.
-                    </div>
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Shave with a sharp, clean razor</strong> in the direction of hair growth, without stretching the skin.</span>
                 </li>
                 <li class="flex items-start gap-3">
-                    <span class="text-accent font-bold">&bull;</span>
-                    <div>
-                        <strong class="text-brand-deeper">Option 2: Laser Hair Removal First:</strong> If you receive your laser hair removal session first, dermatologists advise waiting at least <strong>7 to 10 days</strong> before scheduling a HydraFacial. This gives laser-treated hair follicles sufficient time to cool down and recover from thermal energy before vacuum suction and mild exfoliating acids are applied.
-                    </div>
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Do not pick or dig out ingrown hairs</strong>, as this deepens the marks.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Avoid waxing skin</strong> that is on retinoid creams or strong exfoliants, which make it fragile.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Wear a broad-spectrum sunscreen daily</strong>, because sun darkens existing marks.</span>
                 </li>
             </ul>
 
-            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Can Men with Beards Get a HydraFacial?</h2>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                Absolutely! HydraFacials are exceptionally popular among male patients. While the treatment will not thin or remove your beard, it resolves some of the most common grooming challenges men face:
-            </p>
-            <ul class="space-y-3 mb-8 text-brand-muted">
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-check text-accent mt-1 flex-shrink-0"></i>
-                    <span><strong>Clearing Beard Dandruff (Seborrheic Dermatitis):</strong> The vortex suction vacuums away stubborn flakes of dead skin trapped underneath thick facial hair.</span>
-                </li>
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-check text-accent mt-1 flex-shrink-0"></i>
-                    <span><strong>Preventing Painful Ingrown Hairs:</strong> Salicylic acid gently unclogs blocked hair follicles, ensuring emerging stubble grows straight outward without curling beneath the skin.</span>
-                </li>
-                <li class="flex items-start gap-3">
-                    <i class="fas fa-check text-accent mt-1 flex-shrink-0"></i>
-                    <span><strong>Customized Application:</strong> For men with full beards, the aesthetician works around the beard contours—focusing heavily on the forehead, temples, nose, and exposed upper cheeks, while applying calming infusions to the beard line.</span>
-                </li>
-            </ul>
+            <hr class="my-10 border-brand/10" />
 
-            <!-- Inline CTA Box -->
-            <div class="my-10 p-8 rounded-3xl bg-accent/10 border border-accent/20 flex flex-col md:flex-row items-center justify-between gap-6">
-                <div>
-                    <h4 class="text-xl font-bold font-heading text-brand-deeper mb-2">Experience the Real HydraFacial Glow</h4>
-                    <p class="text-brand-muted text-sm sm:text-base font-light max-w-xl">
-                        Ready for purified pores, intensely hydrated skin, and an unmistakable natural glow? Book your clinical <a href="https://refineskinandbody.com/hydrafacial" class="text-brand font-semibold hover:underline">Hydrafacial in Uganda</a> at Refine Skin &amp; Body Clinic today.
-                    </p>
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">Laser Hair Removal: The Medical Option for Facial Hair</h2>
+
+            <figure class="my-8">
+                <img src="/assets/imagesfromsite/does-hydrafacial-remove-facial-hair-body1.jpg" alt="Clinician using a laser hair-removal handpiece on a woman\'s chin, both wearing laser safety glasses" class="rounded-3xl w-full object-cover max-h-[500px] shadow-sm">
+                <figcaption class="text-xs text-gray-500 mt-2 text-center font-light">Laser targets the hair root, which is why it can reduce facial hair and a facial cannot.</figcaption>
+            </figure>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Refine\'s laser hair removal page explains the principle: &ldquo;The laser emits a light absorbed by the pigment (melanin) in the hair. The light energy is converted to heat, which damages the hair follicles, inhibiting future hair growth.&rdquo; The page lists the upper lip, chin, sideburns and jawline as treatment areas, and says 3 to 6 sessions are typically recommended for most areas, depending on hair density. Facial hair is different: it is often driven by hormonal imbalance, and it can take more than 10 sessions.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Laser works best on hairs in their active growing phase, so treatment is given as a course spaced several weeks apart. The result is long-term reduction rather than total removal, and hormone-driven hair often needs more sessions and occasional maintenance. Because laser targets pigment, it works poorly on white, grey, blonde or red hair and on the finest vellus hair. White or grey hairs usually need electrolysis, which treats each root with a fine probe. Rarely, laser on the face triggers new growth nearby (paradoxical hair growth), so your specialist will watch how you respond.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">Why the Choice of Laser Matters on Darker Skin</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Most people in Kampala and Juba have Fitzpatrick skin types IV to VI, the types on this medical scale that tan easily and rarely or never burn. Melanin in the skin competes with melanin in the hair for the laser\'s energy. Shorter wavelengths and IPL (intense pulsed light, which is not a true laser) are absorbed more strongly at the surface, raising the risk of burns, blisters and PIH.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The long-pulsed Nd:YAG laser, at a wavelength of 1064 nm, travels deeper with less absorption at the surface. It is widely regarded as the safest choice for darker skin when used with skin cooling and careful settings.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Refine uses the <strong>Alma Soprano Titanium</strong>. It combines three laser wavelengths in one handpiece, including the 1064 nm Nd:YAG wavelength suited to darker skin, and cools the skin as it works. The settings are adjusted to your skin type and hair, and a test patch comes first. Read more on <a href="https://almalasers.com" target="_blank" rel="noopener noreferrer nofollow" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Alma\'s website</a>. Read more in our guides on <a href="/blog/is-laser-hair-removal-safe-for-darker-skin-tones" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">whether laser hair removal is safe for darker skin tones</a> and <a href="/blog/how-laser-hair-removal-works-benefits-myths-what-to-expect" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">how laser hair removal works</a>.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">When New Facial Hair Is a Medical Sign</h2>
+
+            <figure class="my-8">
+                <img src="/assets/imagesfromsite/does-hydrafacial-remove-facial-hair-body2.jpg" alt="Black woman on a treatment couch listening to a female doctor in a white coat" class="rounded-3xl w-full object-cover max-h-[500px] shadow-sm">
+                <figcaption class="text-xs text-gray-500 mt-2 text-center font-light">New or coarse facial hair in women can have a hormonal cause, and it is worth checking with a doctor.</figcaption>
+            </figure>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Some facial hair is completely normal, and the amount varies between families. But new, coarse, dark hair in a male pattern (upper lip, chin, jawline, neck or chest) in a woman is called hirsutism, and it can have a hormonal cause.
+            </p>
+
+            <div class="space-y-4 my-6">
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-1 font-heading">1. Polycystic Ovary Syndrome (PCOS)</h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">The most common cause. Other signs include irregular or missed periods, acne, weight gain and thinning scalp hair.</p>
                 </div>
-                <a href="https://refineskinandbody.com/hydrafacial" class="px-8 py-4 bg-brand hover:bg-brand-deeper text-white font-medium rounded-full shadow-lg transition-all duration-300 whitespace-nowrap text-sm uppercase tracking-wider">
-                    Book Treatment
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-1 font-heading">2. Some Medicines</h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Certain steroids and hormone treatments can increase hair growth.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <h4 class="font-bold text-brand-deeper text-sm mb-1 font-heading">3. Rare Endocrine Causes</h4>
+                    <p class="text-xs text-gray-600 font-light leading-relaxed">Rarely, a hormone-producing growth of the ovary or adrenal gland is responsible.</p>
+                </div>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                See a doctor promptly if the hair appears suddenly or spreads quickly over a few months, or comes with a deepening voice, loss of periods or increased muscle bulk. Otherwise, book a routine check. Treating a hormonal cause alongside laser generally gives better, longer-lasting results than hair removal alone.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading">When to See a Specialist at Refine</h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At Refine, both HydraFacial and laser hair removal come under the care of Aesthetic Physician <strong>Dr. Chirag Kotecha</strong>. A consultation usually covers your skin type, hair colour and thickness; your periods and any pregnancy (laser is usually postponed); your medicines (such as isotretinoin, or medicines that make skin sensitive to light) and past reactions to hair removal; and whether a test patch is needed before a laser course. If a hormonal cause seems likely, you may be advised to have it checked.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                You can be seen at Refine Skin &amp; Body Clinic in Kampala, at Lugogo (Forest Mall), Kabalagala (Palm Village Mall) or Bukoto (UMC Victoria Hospital Annex), or at Refine Skin &amp; Body Centre in Juba (Sadeco Building, Airport Road). <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Book a consultation</a> or read more about <a href="/laser-hair-removal" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">laser hair removal at Refine</a>.
+            </p>
+
+            <div class="bg-surface-warm p-6 rounded-2xl border border-brand/10 mb-8">
+                <h4 class="font-bold text-brand-deeper text-base mb-2 font-heading">Clinic Locations</h4>
+                <p class="text-sm text-gray-600 font-light leading-relaxed mb-4">
+                    Visit Refine Skin &amp; Body Clinic at Forest Mall (Lugogo), Palm Village Mall (Kabalagala), or UMC Victoria Hospital Annex (Bukoto). In South Sudan, visit Refine Skin &amp; Body Centre on Airport Road, Juba.
+                </p>
+                <a href="/book-appointment" class="inline-flex items-center gap-2 bg-brand hover:bg-brand-deeper text-white text-xs font-bold py-3 px-6 rounded-full transition-all">
+                    <span>Book an Appointment Online</span>
+                    <i class="fas fa-arrow-right text-[10px]"></i>
                 </a>
             </div>
 
-            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Frequently Asked Questions (FAQs)</h2>
-            <p class="text-lg leading-relaxed text-brand-muted mb-8">
-                Here are straightforward, doctor-verified answers to common questions about HydraFacials, facial hair, and pre-treatment preparation:
-            </p>
+            <hr class="my-10 border-brand/10" />
 
-            <div class="space-y-4 mb-12">
-                <!-- FAQ 1 -->
-                <div class="p-6 bg-white rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">1. Does HydraFacial remove peach fuzz or fine vellus hair?</h3>
-                    <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
-                        No. HydraFacial does not remove peach fuzz or vellus hair. Its vortex vacuum suction and liquid exfoliating serums are formulated to remove dead skin cells and clear clogged pores, leaving fine facial hairs completely undisturbed.
-                    </p>
+            <!-- FAQs Section -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading flex items-center gap-3">
+                <i class="fas fa-question-circle text-accent"></i> Frequently Asked Questions (FAQs)
+            </h2>
+
+            <div class="space-y-4 my-8">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">1. Does HydraFacial remove peach fuzz?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Not really. The exfoliation step may lift a few loose, fine vellus hairs, and your skin may feel smoother afterwards. The roots are untouched, so the fuzz grows back as before.</p>
                 </div>
 
-                <!-- FAQ 2 -->
-                <div class="p-6 bg-white rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">2. Should I shave my face before getting a HydraFacial?</h3>
-                    <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
-                        If you choose to shave, do so at least 24 to 48 hours before your appointment. Shaving immediately before a HydraFacial creates microscopic micro-tears in the skin barrier that can sting when mild glycolic and salicylic peel serums are applied.
-                    </p>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">2. Does dermaplaning make hair grow back thicker?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> No. Dermaplaning and shaving cut hair straight across, so regrowth has a blunt tip that can feel coarser, but the hair is not thicker, darker or faster-growing. On coarse, curly hair, the bigger concern is ingrown hairs.</p>
                 </div>
 
-                <!-- FAQ 3 -->
-                <div class="p-6 bg-white rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">3. Can I get dermaplaning and a HydraFacial at the same visit?</h3>
-                    <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
-                        Yes! In fact, combining dermaplaning right before a HydraFacial is widely considered the ultimate aesthetic duo. Dermaplaning physically sweeps away all peach fuzz and surface dead skin, allowing the HydraFacial vacuum and serums to penetrate deeper with zero resistance.
-                    </p>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">3. Will laser stop facial hair for good?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Laser gives long-term reduction, not a promise that no hair will ever return. Many people have far fewer, finer hairs after a course. Hormone-driven hair, such as hair linked to PCOS, often needs occasional maintenance sessions.</p>
                 </div>
 
-                <!-- FAQ 4 -->
-                <div class="p-6 bg-white rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">4. Can I wax or thread my facial hair before a HydraFacial?</h3>
-                    <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
-                        You should avoid waxing, threading, or using depilatory creams on your face for at least 48 to 72 hours before a HydraFacial. Waxing strips off outer epidermal layers and leaves hair follicles open and sensitized, which increases the risk of irritation from exfoliating acids.
-                    </p>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">4. How many laser sessions does facial hair need?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> More than most areas. Refine\'s laser hair removal page says 3 to 6 sessions for most areas, but facial hair is often hormonal and can take more than 10 sessions. Your specialist will set a plan once they see how your hair responds.</p>
                 </div>
 
-                <!-- FAQ 5 -->
-                <div class="p-6 bg-white rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">5. Will a HydraFacial cause facial hair to grow back thicker or darker?</h3>
-                    <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
-                        No. HydraFacial does not affect the internal structure, density, or biological growth cycle of hair follicles in any way. It is physiologically impossible for a facial treatment to turn fine vellus hair into coarse terminal hair.
-                    </p>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">5. Is threading or waxing better for dark skin?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Neither is risk-free. Both pull hair from the root and can cause ingrown hairs, bumps and dark marks. A skilled practitioner, clean materials and never treating irritated skin all lower the risk.</p>
                 </div>
 
-                <!-- FAQ 6 -->
-                <div class="p-6 bg-white rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">6. How long should I wait between laser hair removal and a HydraFacial?</h3>
-                    <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
-                        Dermatologists recommend waiting 7 to 10 days after a laser hair removal session before receiving a HydraFacial. This waiting period allows follicular inflammation to subside completely. Alternatively, you can have a HydraFacial 5 days prior to laser hair removal.
-                    </p>
-                </div>
-
-                <!-- FAQ 7 -->
-                <div class="p-6 bg-white rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">7. Is HydraFacial better than a chemical peel for people with facial hair?</h3>
-                    <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
-                        Both offer distinctive benefits. A HydraFacial simultaneously cleanses and hydrates without visible shedding, making it very comfortable around facial hair. For individuals looking to correct deeper pigmentation or active acne, reviewing our guide on <a href="/blog/how-often-should-you-get-a-chemical-peel" class="text-brand font-semibold hover:underline">chemical peel frequency</a> helps determine whether a peel or a HydraFacial aligns best with your treatment schedule.
-                    </p>
-                </div>
-
-                <!-- FAQ 8 -->
-                <div class="p-6 bg-white rounded-2xl border border-brand/10 shadow-sm">
-                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">8. Where can I book an authentic HydraFacial in Kampala?</h3>
-                    <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
-                        You can receive an authentic, certified <a href="https://refineskinandbody.com/hydrafacial" class="text-brand font-semibold hover:underline">Hydrafacial in Uganda</a> at <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:underline">Refine Skin &amp; Body Clinic</a> in Kampala. Our certified aestheticians utilize official medical-grade vortex technology, custom skin boosters, and optional dermaplaning add-ons for peerless results.
-                    </p>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-base font-heading mb-2">6. What causes chin hair in women?</h3>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed"><strong>Direct answer:</strong> Genetics and normal hormone changes, including around menopause, are common causes. PCOS is the most common medical cause. Hair that appears suddenly, spreads quickly or comes with changes such as missed periods should be checked by a doctor.</p>
                 </div>
             </div>
 
-            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">Conclusion: The Right Tool for the Right Job</h2>
-            <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                So, does HydraFacial remove facial hair? In short: <strong>no, it is engineered for pore clarification, cellular exfoliation, and deep dermal hydration—not hair removal.</strong>
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper mt-10 mb-6 font-heading flex items-center gap-3">
+                <i class="fas fa-lightbulb text-accent"></i> The Bottom Line
+            </h2>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                A HydraFacial is a good treatment for clean, hydrated, brighter skin, but it does not remove facial hair. Temporary methods suit many people when done carefully, and laser offers long-term reduction when the laser and settings are right for darker skin. If your facial hair is new or coarse, rule out a hormonal cause first. <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Book a consultation at Refine</a> for a plan that fits your skin and your hair.
             </p>
-            <p class="text-lg leading-relaxed text-brand-muted mb-8">
-                However, if you crave both hairless smoothness and breathtaking radiance, combining a HydraFacial with pre-treatment dermaplaning or a structured laser hair removal series gives you the best of all worlds. To discover your personalized skin transformation plan, schedule your consultation at <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:underline">Refine Skin &amp; Body Clinic</a> today.
-            </p>'
+
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 rounded-3xl shadow-xl border border-white/10 text-center my-8">
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-3">Ready for a Plan That Fits Your Skin and Hair?</h3>
+                <p class="text-white/80 font-light text-sm mb-6 max-w-xl mx-auto">Get expert dermatological evaluation and safe, personalized laser or facial treatments at Refine Clinic.</p>
+                <a href="/book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-accent-light text-brand-deeper font-bold py-3.5 px-8 rounded-full text-sm transition-all shadow-md">
+                    <span>Book a Consultation at Refine</span>
+                    <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        '
     ],
     // ----------------------------------------------------
     // ARTICLE: CAN SKIN BE LIGHTENED PERMANENTLY?
