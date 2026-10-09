@@ -53,6 +53,9 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'does-hydrafacial-remove-facial-hair',
+    'what-vitamin-deficiencies-cause-acne',
+    'how-long-does-lip-filler-swelling-last',
     'what-is-the-most-effective-treatment-for-melasma',
     'what-is-the-best-age-to-get-lip-fillers',
     'do-hydrafacials-remove-blackheads',
@@ -67,7 +70,6 @@ $blogSlugs = [
     'what-is-melasma-can-it-be-permanently-treated',
     'can-iv-therapy-improve-skin-glow-overall-wellness',
     'body-contouring-vs-weight-loss-whats-the-difference',
-    'how-much-is-ozempic-in-uganda',
     'how-much-is-a-hair-transplant-in-uganda',
     'how-much-is-laser-hair-removal-in-uganda',
     'how-laser-hair-removal-works-benefits-myths-what-to-expect',
