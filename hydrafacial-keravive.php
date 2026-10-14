@@ -33,9 +33,15 @@ $metaKeywords = "HydraFacial Keravive Kampala, Keravive scalp treatment Uganda, 
                         In a single relaxing session, Keravive cleanses and exfoliates the scalp, extracts impurities from around each follicle, and infuses a proprietary <strong>Peptide Complex Solution</strong> of growth factors and skin proteins. The result is a nourished, hydrated scalp and hair that looks fuller, shinier and healthier. At <strong>Refine Skin &amp; Body Clinic</strong>, Keravive is offered on its own or as part of our hair-loss protocols alongside PRP and hair transplant.
                     </p>
 
-                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[16/10] sm:aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5">
-                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/videos/posters/hydrafacial-keravive.jpg" alt="HydraFacial Keravive scalp treatment at Refine Skin and Body Clinic Kampala" class="w-full h-full object-cover object-top gs-reveal-img group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5 bg-surface-cool">
+                        <div class="grid grid-cols-2 gap-2 sm:gap-3 w-full h-full p-0">
+                            <div class="relative overflow-hidden w-full h-full">
+                                <img src="/assets/images/services/hair-restoration/hydrafacial-keravive-scalp-cleanse.webp" alt="HydraFacial Keravive scalp cleanse and exfoliation at Refine Skin and Body Clinic Kampala" class="w-full h-full object-cover gs-reveal-img group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                            </div>
+                            <div class="relative overflow-hidden w-full h-full">
+                                <img src="/assets/images/services/hair-restoration/hydrafacial-keravive-follicle-infusion.webp" alt="HydraFacial Keravive peptide follicle infusion at Refine Skin and Body Clinic Kampala" class="w-full h-full object-cover gs-reveal-img group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                            </div>
+                        </div>
                     </div>
                 </div>
 
