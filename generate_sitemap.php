@@ -53,7 +53,9 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'which-is-the-best-treatment-for-skin-lightening',
     'does-hydrafacial-remove-facial-hair',
+    'can-melasma-be-removed-permanently',
     'what-vitamin-deficiencies-cause-acne',
     'how-long-does-lip-filler-swelling-last',
     'what-is-the-most-effective-treatment-for-melasma',
