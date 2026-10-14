@@ -1,11 +1,11 @@
 <?php
 $pageCategory = "Specialty";
 $pageTitle = "Advanced Skin & Body Rejuvenation in Kampala & Juba | Refine Clinic";
-$pageDescription = "Experience premier skin rejuvenation at Refine Clinic. Physician-led HydraFacial, Chemical Peels, Coolifting®, and RF Microneedling in Kampala & Juba.";
+$pageDescription = "Experience premier skin rejuvenation at Refine Clinic. Physician-led HydraFacial, Chemical Peels, Coolifting®, and Dermapen® Microneedling in Kampala & Juba.";
 $metaTitle = "Skin & Body Rejuvenation in Kampala & Juba | Refine Clinic";
-$metaDescription = "Transform your skin texture, tone, and vitality with physician-led HydraFacial, Chemical Peels, LED Therapy, and RF Microneedling at Refine Skin & Body Clinic.";
+$metaDescription = "Transform your skin texture, tone, and vitality with physician-led HydraFacial, Chemical Peels, LED Therapy, and Dermapen® Microneedling at Refine Skin & Body Clinic.";
 $canonicalUrl = "https://refineskinandbody.com/skin-rejuvenation";
-$metaKeywords = "Skin Rejuvenation Kampala, HydraFacial Uganda, Chemical Peel Kampala, RF Microneedling Uganda, Coolifting Kampala";
+$metaKeywords = "Skin Rejuvenation Kampala, HydraFacial Uganda, Chemical Peel Kampala, Dermapen Microneedling Uganda, Coolifting Kampala";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/landing-header.php'; ?>
@@ -48,7 +48,7 @@ $metaKeywords = "Skin Rejuvenation Kampala, HydraFacial Uganda, Chemical Peel Ka
 
                     <!-- Short Description -->
                     <p class="font-body text-base md:text-lg text-white/80 font-light leading-relaxed max-w-md">
-                        Physician-led HydraFacial, Chemical Peels, LED Therapy, and RF Microneedling for luminous, smooth skin.
+                        Physician-led HydraFacial, Chemical Peels, LED Therapy, and Dermapen® Microneedling for luminous, smooth skin.
                     </p>
                 </div>
 
@@ -99,7 +99,7 @@ $metaKeywords = "Skin Rejuvenation Kampala, HydraFacial Uganda, Chemical Peel Ka
                                         <option value="hydrafacial" selected class="bg-[#1a0f3c]">HydraFacial MD®</option>
                                         <option value="chemical_peel" class="bg-[#1a0f3c]">Medical Chemical Peels</option>
                                         <option value="coolifting" class="bg-[#1a0f3c]">Coolifting® Gun</option>
-                                        <option value="rf_microneedling" class="bg-[#1a0f3c]">RF Microneedling</option>
+                                        <option value="dermapen_microneedling" class="bg-[#1a0f3c]">Dermapen® Microneedling</option>
                                         <option value="led_therapy" class="bg-[#1a0f3c]">LED Phototherapy</option>
                                     </select>
                                 </div>
@@ -154,7 +154,7 @@ $metaKeywords = "Skin Rejuvenation Kampala, HydraFacial Uganda, Chemical Peel Ka
                 <div class="xl:col-span-6">
                     <div class="p-8 rounded-3xl bg-white border border-brand/5 shadow-md">
                         <p class="text-brand-deeper font-body text-base font-light leading-relaxed italic mb-4">
-                            "By combining HydraFacial vortex technology with medical-grade chemical peels and RF microneedling, we treat stubborn dullness, fine lines, and open pores at every cellular layer."
+                            "By combining HydraFacial vortex technology with medical-grade chemical peels and Dermapen® microneedling, we treat stubborn dullness, fine lines, and open pores at every cellular layer."
                         </p>
                         <span class="text-xs uppercase tracking-widest text-accent font-semibold">— Refine Aesthetic Specialists</span>
                     </div>
@@ -175,8 +175,8 @@ $metaKeywords = "Skin Rejuvenation Kampala, HydraFacial Uganda, Chemical Peel Ka
                 </div>
                 <div class="glass-panel p-8 rounded-3xl bg-white border border-brand/5 shadow-sm hover:shadow-xl transition-all duration-500">
                     <div class="w-12 h-12 rounded-2xl bg-accent/10 text-accent flex items-center justify-center text-xl font-bold mb-6">3</div>
-                    <h4 class="font-display text-xl text-brand-deeper mb-3">RF Microneedling Tightening</h4>
-                    <p class="text-brand-muted text-xs leading-relaxed font-light">Radiofrequency heat delivered deep into the dermis tightens lax skin and smooths acne scars with minimal downtime.</p>
+                    <h4 class="font-display text-xl text-brand-deeper mb-3">Dermapen® Collagen Induction</h4>
+                    <p class="text-brand-muted text-xs leading-relaxed font-light">1,920 micro-channels per second stimulate natural collagen remodeling and infuse meso-actives with zero heat damage.</p>
                 </div>
             </div>
         </div>
@@ -250,23 +250,23 @@ $metaKeywords = "Skin Rejuvenation Kampala, HydraFacial Uganda, Chemical Peel Ka
                     </div>
                 </div>
 
-                <!-- 3: RF Microneedling -->
+                <!-- 3: Dermapen Microneedling -->
                 <div class="group rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between">
                     <div class="relative h-64 overflow-hidden bg-brand-pale">
-                        <img src="/assets/imagesfromsite/RF-Microneedling_09.png" alt="RF Microneedling" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <img src="/assets/imagesfromsite/dermapen/dermapen-clinical-treatment-face.jpg" alt="Dermapen® 4 Microneedling" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
                         <span class="absolute top-4 left-4 px-3 py-1 bg-white/20 backdrop-blur-md rounded-full text-[10px] uppercase tracking-widest text-white font-semibold">Collagen Induction</span>
                     </div>
                     <div class="p-8 flex-1 flex flex-col justify-between">
                         <div>
-                            <h3 class="font-display text-2xl text-brand-deeper mb-3">RF Microneedling</h3>
+                            <h3 class="font-display text-2xl text-brand-deeper mb-3">Dermapen® Microneedling</h3>
                             <p class="text-brand-muted text-sm font-light leading-relaxed mb-6">
-                                Radiofrequency microneedling stimulates collagen deep within the dermis to tighten lax skin and smooth acne scars.
+                                World-leading automated microneedling delivering 1,920 punctures/sec to remodel acne scars, minimize pores, and stimulate collagen.
                             </p>
                         </div>
                         <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                             <span class="text-xs text-brand-muted">Results: Progressive 3-6 Weeks</span>
-                            <a href="/rf-microneedling" class="inline-flex items-center gap-2 text-accent font-semibold text-xs uppercase tracking-wider group-hover:gap-3 transition-all">
+                            <a href="/dermapen-microneedling" class="inline-flex items-center gap-2 text-accent font-semibold text-xs uppercase tracking-wider group-hover:gap-3 transition-all">
                                 Explore <i class="fas fa-arrow-right"></i>
                             </a>
                         </div>

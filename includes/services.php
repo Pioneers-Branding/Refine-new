@@ -42,7 +42,7 @@
                         class="inline-block px-3 py-1 bg-white/20 backdrop-blur-sm rounded-full text-[10px] uppercase tracking-widest text-white font-semibold mb-3 self-start">Cosmetic</span>
                     <h3 class="font-display text-2xl md:text-3xl text-white mb-2 shadow-sm">Skin Rejuvenation</h3>
                     <p class="font-body text-white/90 text-sm font-light leading-relaxed max-w-md mb-4 drop-shadow-sm">
-                        HydraFacial, Chemical Peels, and RF Microneedling to restore your youthful glow.</p>
+                        HydraFacial, Chemical Peels, and Dermapen® Microneedling to restore your youthful glow.</p>
                     <div
                         class="flex items-center gap-2 text-white text-xs font-semibold uppercase tracking-wider group-hover:gap-4 transition-all">
                         Explore <i class="fas fa-arrow-right"></i>

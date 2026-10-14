@@ -169,7 +169,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                             <h4 class="font-bold text-brand-deeper text-base mb-2 font-heading flex items-center gap-2">
                                 <i class="fas fa-sparkles text-accent"></i> Advanced Technology
                             </h4>
-                            <p class="text-xs text-gray-600 font-light leading-relaxed">FDA-approved laser systems, medical-grade chemical peels, RF microneedling, and IV nutrient infusions.</p>
+                            <p class="text-xs text-gray-600 font-light leading-relaxed">FDA-approved laser systems, medical-grade chemical peels, Dermapen® microneedling, and IV nutrient infusions.</p>
                         </div>
                     </div>
                 </div>
@@ -216,7 +216,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
                         <i class="fas fa-notes-medical"></i>
                     </div>
                     <h3 class="text-2xl font-bold text-brand-deeper font-heading mb-3 group-hover:text-accent transition-colors">Acne & Scar Clearance</h3>
-                    <p class="text-gray-600 font-light text-sm leading-relaxed mb-6 flex-1">Clinical acne extraction, RF microneedling, fractional laser therapy, and scar revision to restore smooth, clear skin.</p>
+                    <p class="text-gray-600 font-light text-sm leading-relaxed mb-6 flex-1">Clinical acne extraction, Dermapen® microneedling, fractional laser therapy, and scar revision to restore smooth, clear skin.</p>
                     <a href="/acne-in-kabalagala" class="inline-flex items-center gap-2 text-brand font-bold text-sm hover:text-accent transition-colors">
                         <span>Explore Acne Treatments</span>
                         <i class="fas fa-arrow-right text-xs"></i>
@@ -439,7 +439,7 @@ $metaKeywords = "Skin Clinic in Kabalagala, Dermatologist in Kabalagala, Acne Tr
 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-lg font-heading mb-2">Q2: What services are offered at the Kabalagala clinic?</h3>
-                    <p class="text-gray-700 text-sm font-light leading-relaxed">We offer medical dermatology, melasma & acne clearance, chemical peels, HydraFacials, RF microneedling, laser rejuvenation, Botox & dermal fillers, IV drips, and PRP hair loss treatments.</p>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed">We offer medical dermatology, melasma & acne clearance, chemical peels, HydraFacials, Dermapen® microneedling, laser rejuvenation, Botox & dermal fillers, IV drips, and PRP hair loss treatments.</p>
                 </div>
 
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">

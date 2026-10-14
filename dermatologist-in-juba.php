@@ -230,7 +230,7 @@ $metaKeywords = "Dermatologist in Juba, Skin Doctor Juba, Best Dermatologist Sou
                         <i class="fas fa-magic"></i>
                     </div>
                     <h3 class="text-2xl font-bold text-brand-deeper font-heading mb-3 group-hover:text-accent transition-colors">Cosmetic & Laser Skin Care</h3>
-                    <p class="text-gray-600 font-light text-sm leading-relaxed mb-6 flex-1">HydraFacial, RF Microneedling, CO2 Laser Scar Removal, and Plasma Pen therapy to smooth fine lines, shrink enlarged pores, and boost collagen.</p>
+                    <p class="text-gray-600 font-light text-sm leading-relaxed mb-6 flex-1">HydraFacial, Dermapen® Microneedling, CO2 Laser Scar Removal, and Plasma Pen therapy to smooth fine lines, shrink enlarged pores, and boost collagen.</p>
                     <a href="/laser-skin-rejuvenation-in-juba" class="inline-flex items-center gap-2 text-brand font-bold text-sm hover:text-accent transition-colors">
                         <span>Explore Cosmetic Skin Care</span>
                         <i class="fas fa-arrow-right text-xs"></i>
@@ -376,7 +376,7 @@ $metaKeywords = "Dermatologist in Juba, Skin Doctor Juba, Best Dermatologist Sou
                     <div class="flex items-center gap-1 text-accent mb-4 text-sm">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-6 flex-1">"I had severe acne scars and dark hyperpigmentation. The chemical peels and RF Microneedling at Refine Clinic completely transformed my skin texture."</p>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-6 flex-1">"I had severe acne scars and dark hyperpigmentation. The chemical peels and Dermapen® Microneedling at Refine Clinic completely transformed my skin texture."</p>
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
                             <span class="font-bold text-brand-deeper text-sm block">Emmanuel K.</span>

@@ -108,7 +108,8 @@
                     <li><a href="sculptra-face-lift" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Sculptra Face Lift</a></li>
                     <li><a href="hydrafacial" class="text-white/55 hover:text-accent text-sm font-light transition-colors">HydraFacial</a></li>
                     <li><a href="chemical-peel" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Chemical Peel</a></li>
-                    <li><a href="rf-microneedling" class="text-white/55 hover:text-accent text-sm font-light transition-colors">RF Microneedling</a></li>
+                    <li><a href="/skincare-products" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Skincare Products</a></li>
+                    <li><a href="/dermapen-microneedling" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Dermapen® Microneedling</a></li>
                     <li><a href="co2-laser-scar-removal" class="text-white/55 hover:text-accent text-sm font-light transition-colors">CO2 Laser</a></li>
                     <li><a href="laser-hair-removal" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Laser Hair Removal</a></li>
                     <li><a href="thread-lifting" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Thread Lifting</a></li>
@@ -142,7 +143,6 @@
                     <li><a href="prp-hair-restoration" class="text-white/55 hover:text-accent text-sm font-light transition-colors">PRP Hair</a></li>
                     <li><a href="/hair-transplant" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Beard Transplant</a></li>
                     <li><a href="/hair-transplant" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Eyebrow Transplant</a></li>
-                    <li><a href="/services" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Microblading</a></li>
                     <li><a href="/body-contouring" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Body Contouring</a></li>
                     <li><a href="/pcdc-fat-dissolving" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Liposuction</a></li>
                     <li><a href="/body-contouring" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Mommy Makeover</a></li>

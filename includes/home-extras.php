@@ -122,7 +122,7 @@
                 <div class="absolute inset-0 p-6 lg:p-7 flex flex-col justify-end text-white">
                     <h3 class="font-display text-2xl lg:text-3xl mb-2">Hair Restoration</h3>
                     <p class="text-white/70 text-xs lg:text-sm font-light leading-relaxed mb-4">FUE transplant, PRP,
-                        eyebrow &amp; beard transplant, microblading.</p>
+                        eyebrow &amp; beard transplant.</p>
                     <span
                         class="text-accent text-[11px] uppercase tracking-widest font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">Explore
                         <i class="fas fa-arrow-right text-[10px]"></i></span>

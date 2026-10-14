@@ -82,6 +82,9 @@ $is_main_active = ($current_page === $base_page || $current_page === basename($m
             
             <div class="flex items-center flex-wrap gap-2 pt-2 lg:pt-0">
                 <!-- Location Buttons -->
+                <a href="<?php echo $main_service_url; ?>" class="px-3.5 py-1.5 rounded-full border text-xs lg:text-sm transition-all duration-300 font-heading <?php echo $is_main_active ? 'bg-accent/20 border-accent text-accent font-bold pointer-events-none' : 'border-white/10 text-white/80 hover:bg-white/5 hover:border-white/20'; ?>">
+                    Kampala
+                </a>
                 <?php foreach ($all_locations as $locSlug => $locName): ?>
                     <?php 
                         $locUrl = '/' . $base_page . '-in-' . $locSlug;

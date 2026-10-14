@@ -13,6 +13,7 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
 
 <main class="pt-20">
     <?php include 'includes/page-hero.php'; ?>
+    <?php include 'includes/locations-selector.php'; ?>
 
     <!-- Nutrition Counselling -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
@@ -32,9 +33,38 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
                         Experience personalized Nutrition & Diet Counselling at Refine Skin and Body Clinic. True beauty and vitality begin from within. Our evidence-based nutrition plans are tailored to your unique metabolic profile, helping you achieve sustainable weight management, radiant skin, enhanced energy, and long-term wellness under expert guidance.
                     </p>
                     
-                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[16/10] sm:aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5">
-                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/imagesfromsite/nutrition-counselling-hero.png" alt="Nutrition & Diet Counselling at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                    <!-- Split Diagonal Container (Taller / Longer Placeholder) -->
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl h-[560px] sm:h-[640px] lg:h-[700px] w-full max-w-xl lg:max-w-none mx-auto border border-brand/10 bg-brand-deeper group gs-reveal-img-group">
+                        
+                        <!-- Top Image: Nutritionist Ms. Wendy Emyedu -->
+                        <div class="absolute inset-0 z-10 transition-transform duration-700 group-hover:scale-[1.02]" style="clip-path: polygon(0 0, 100% 0, 100% 66%, 0 46%);">
+                            <img src="/assets/imagesfromsite/Ms_Wendy_Emyedu_Ayayo.png" alt="Ms. Wendy Emyedu Ayayo - Clinical Nutritionist" class="w-full absolute top-0 inset-x-0 object-cover object-top filter grayscale-[0.1] group-hover:grayscale-0 transition-all duration-700" style="height: 70%;" loading="lazy">
+                            <div class="absolute inset-0 bg-gradient-to-b from-brand-deeper/40 via-transparent to-transparent pointer-events-none"></div>
+                            
+                            <!-- Top Specialist Badge -->
+                            <div class="absolute top-5 left-5 z-20">
+                                <span class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-accent text-white font-body text-[11px] tracking-wider uppercase font-semibold shadow-lg backdrop-blur-md">
+                                    <span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
+                                    Ms. Wendy Emyedu &bull; Nutritionist
+                                </span>
+                            </div>
+                        </div>
+
+                        <!-- Diagonal Divider Bar (Exact angle from sketch) -->
+                        <div class="absolute inset-0 z-20 pointer-events-none" style="clip-path: polygon(0 calc(46% - 3px), 100% calc(66% - 3px), 100% calc(66% + 3px), 0 calc(46% + 3px)); background: linear-gradient(90deg, #ffffff, #d4af37, #ffffff); box-shadow: 0 0 15px rgba(0,0,0,0.5);"></div>
+
+                        <!-- Bottom Image: Clinical Consultation Hero -->
+                        <div class="absolute inset-0 z-0 transition-transform duration-700 group-hover:scale-[1.02]" style="clip-path: polygon(0 46%, 100% 66%, 100% 100%, 0 100%);">
+                            <img src="/assets/imagesfromsite/nutrition-counselling-hero.png" alt="Personalized Nutrition Consultation at Refine Skin & Body Clinic" class="w-full absolute bottom-0 inset-x-0 object-cover object-center filter grayscale-[0.1] group-hover:grayscale-0 transition-all duration-700" style="height: 60%;" loading="lazy">
+                            <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-brand-deeper/20 to-transparent pointer-events-none"></div>
+                            
+                            <!-- Bottom Badge -->
+                            <div class="absolute bottom-5 right-5 z-20 text-right">
+                                <span class="inline-block px-3.5 py-1.5 rounded-full bg-brand-deeper/90 border border-white/20 text-white font-body text-[11px] tracking-wider uppercase font-semibold shadow-lg backdrop-blur-md">
+                                    Dietary Assessment &amp; Metabolic Care
+                                </span>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -399,7 +429,6 @@ $canonicalUrl = "https://refineskinandbody.com/nutrition-counselling-in-juba";
         });
     </script>
     
-<?php include 'includes/locations-selector.php'; ?>
     <?php include 'includes/appointment-form.php'; ?>
 </main>
 

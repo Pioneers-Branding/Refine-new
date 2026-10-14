@@ -216,7 +216,7 @@ $metaKeywords = "Skin Clinic in Juba, Dermatologist in Juba, Acne Treatment Juba
                         <i class="fas fa-allergies"></i>
                     </div>
                     <h3 class="text-2xl font-bold text-brand-deeper font-heading mb-3 group-hover:text-accent transition-colors">Acne & Acne Scarring</h3>
-                    <p class="text-gray-600 font-light text-sm leading-relaxed mb-6 flex-1">Target active breakouts, clogged pores, and post-acne scarring with medical extractions, Salicylic peels, and RF Microneedling for smooth, clear skin.</p>
+                    <p class="text-gray-600 font-light text-sm leading-relaxed mb-6 flex-1">Target active breakouts, clogged pores, and post-acne scarring with medical extractions, Salicylic peels, and Dermapen® Microneedling for smooth, clear skin.</p>
                     <a href="/acne-in-juba" class="inline-flex items-center gap-2 text-brand font-bold text-sm hover:text-accent transition-colors">
                         <span>View Acne Treatments</span>
                         <i class="fas fa-arrow-right text-xs"></i>

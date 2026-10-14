@@ -230,7 +230,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto, Best Dermatologist
                         <i class="fas fa-magic"></i>
                     </div>
                     <h3 class="text-2xl font-bold text-brand-deeper font-heading mb-3 group-hover:text-accent transition-colors">Cosmetic & Laser Skin Care</h3>
-                    <p class="text-gray-600 font-light text-sm leading-relaxed mb-6 flex-1">HydraFacial, RF Microneedling, CO2 Laser Scar Removal, and Plasma Pen therapy to smooth fine lines, shrink enlarged pores, and boost collagen.</p>
+                    <p class="text-gray-600 font-light text-sm leading-relaxed mb-6 flex-1">HydraFacial, Dermapen® Microneedling, CO2 Laser Scar Removal, and Plasma Pen therapy to smooth fine lines, shrink enlarged pores, and boost collagen.</p>
                     <a href="/laser-skin-rejuvenation-in-bukoto" class="inline-flex items-center gap-2 text-brand font-bold text-sm hover:text-accent transition-colors">
                         <span>Explore Cosmetic Skin Care</span>
                         <i class="fas fa-arrow-right text-xs"></i>
@@ -375,7 +375,7 @@ $metaKeywords = "Dermatologist in Bukoto, Skin Doctor Bukoto, Best Dermatologist
                     <div class="flex items-center gap-1 text-accent mb-4 text-sm">
                         <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
                     </div>
-                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-6 flex-1">"I had severe adult acne and dark spots. The chemical peels and RF Microneedling at Refine Clinic Bukoto completely transformed my skin tone and texture."</p>
+                    <p class="text-gray-700 text-sm font-light leading-relaxed mb-6 flex-1">"I had severe adult acne and dark spots. The chemical peels and Dermapen® Microneedling at Refine Clinic Bukoto completely transformed my skin tone and texture."</p>
                     <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
                         <div>
                             <span class="font-bold text-brand-deeper text-sm block">Emmanuel K.</span>

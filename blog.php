@@ -2021,7 +2021,7 @@ $articles = [
 
             <h3 class="text-xl font-bold font-heading text-brand-deeper mt-8 mb-4">C. Radiofrequency (RF) Microneedling</h3>
             <p class="text-lg leading-relaxed text-brand-muted mb-6">
-                Recent dermatological studies demonstrate that melasma is not merely a pigment defect, but also involves basement membrane disruption and abnormal vascularity. RF microneedling repairs damaged basement membranes, stopping dermal melanin leakage while stimulating collagen remodeling.
+                Recent dermatological studies demonstrate that melasma is not merely a pigment defect, but also involves basement membrane disruption and abnormal vascularity. Dermapen® microneedling repairs damaged basement membranes, stopping dermal melanin leakage while stimulating collagen remodeling.
             </p>
 
             <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6">3. Systemic Breakthrough: Low-Dose Oral Tranexamic Acid</h2>
@@ -4149,7 +4149,7 @@ $articles = [
                         </tr>
                         <tr>
                             <td class="p-4 font-semibold text-brand-deeper">Acne Scars & Deep Scars</td>
-                            <td class="p-4 font-light">Fractional CO2 / RF Microneedling</td>
+                            <td class="p-4 font-light">Fractional CO2 / Dermapen® Microneedling</td>
                             <td class="p-4 font-semibold text-brand font-medium">4 – 6 Sessions</td>
                             <td class="p-4 font-light">4 to 6 Weeks</td>
                         </tr>
@@ -7943,7 +7943,7 @@ $articles = [
   'author_role' => 'Aesthetic Physician & Dermatologist, Refine Clinic',
   'read_time' => '17 min',
   'image' => '/assets/imagesfromsite/acne-09.png',
-  'excerpt' => 'Tired of persistent acne scars? Discover clinical acne scar treatments that actually deliver results — including RF Microneedling, CO2 Laser Resurfacing, Chemical Peels, and Subcision.',
+  'excerpt' => 'Tired of persistent acne scars? Discover clinical acne scar treatments that actually deliver results — including Dermapen® Microneedling, CO2 Laser Resurfacing, Chemical Peels, and Subcision.',
   'content' => '
         <!-- AEO Direct Answer Highlight Box -->
         <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
@@ -7952,7 +7952,7 @@ $articles = [
             </div>
             <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Which Acne Scar Treatments Actually Work?</h3>
             <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
-                <strong>Medical Treatment Standards:</strong> Over-the-counter creams cannot repair deep dermal collagen loss caused by inflammatory acne. Clinical acne scar treatments that deliver proven results include: <strong>RF Microneedling</strong> (remodels collagen in boxcar and rolling scars), <strong>CO2 Fractional Laser Resurfacing</strong> (vaporizes scar edges and smooths texture), <strong>Deep Chemical Peels & TCA Cross</strong> (reconstructs deep icepick scars), and <strong>Subcision with Fillers</strong> (releases fibrotic tethered scar bands beneath the skin). Most patients require a customized multi-modality treatment plan over 3 to 6 sessions.
+                <strong>Medical Treatment Standards:</strong> Over-the-counter creams cannot repair deep dermal collagen loss caused by inflammatory acne. Clinical acne scar treatments that deliver proven results include: <strong>Dermapen® Microneedling</strong> (remodels collagen in boxcar and rolling scars), <strong>CO2 Fractional Laser Resurfacing</strong> (vaporizes scar edges and smooths texture), <strong>Deep Chemical Peels & TCA Cross</strong> (reconstructs deep icepick scars), and <strong>Subcision with Fillers</strong> (releases fibrotic tethered scar bands beneath the skin). Most patients require a customized multi-modality treatment plan over 3 to 6 sessions.
             </p>
             <div class="grid sm:grid-cols-2 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
                 <div>
@@ -8008,7 +8008,7 @@ $articles = [
 
         <!-- In-Content Featured Image 2 -->
         <figure class="my-8">
-            <img src="/assets/imagesfromsite/services/acne-02.png" alt="RF Microneedling for Scars" class="w-full h-auto max-h-[450px] rounded-3xl shadow-lg border border-brand/10 object-cover" />
+            <img src="/assets/imagesfromsite/services/acne-02.png" alt="Dermapen® Microneedling for Scars" class="w-full h-auto max-h-[450px] rounded-3xl shadow-lg border border-brand/10 object-cover" />
             <figcaption class="text-center text-xs text-gray-500 mt-3 font-light italic">Gold-Plated Radiofrequency Microneedling for Pitted Acne Scars</figcaption>
         </figure>
 
@@ -8961,7 +8961,7 @@ $articles = [
                 </div>
                 <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How to Choose the Right Treatment for Acne Scars? Quick Answer</h3>
                 <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
-                    <strong>Direct Answer:</strong> To choose the right acne scar treatment, you must first identify your exact <strong>scar type, depth, and skin tone (Fitzpatrick scale)</strong>. Pitted <strong>ice-pick scars</strong> respond best to <strong>TCA CROSS</strong>; wide <strong>boxcar scars</strong> heal fastest with <strong>Fractional CO2 Laser</strong>; tethered <strong>rolling scars</strong> require <strong>Subcision paired with RF Microneedling or Dermal Fillers</strong>; and raised <strong>hypertrophic scars</strong> require <strong>steroid injections</strong>. For darker complexions, RF Microneedling and Subcision offer maximum scar remodeling with zero risk of post-inflammatory hyperpigmentation.
+                    <strong>Direct Answer:</strong> To choose the right acne scar treatment, you must first identify your exact <strong>scar type, depth, and skin tone (Fitzpatrick scale)</strong>. Pitted <strong>ice-pick scars</strong> respond best to <strong>TCA CROSS</strong>; wide <strong>boxcar scars</strong> heal fastest with <strong>Fractional CO2 Laser</strong>; tethered <strong>rolling scars</strong> require <strong>Subcision paired with Dermapen® Microneedling or Dermal Fillers</strong>; and raised <strong>hypertrophic scars</strong> require <strong>steroid injections</strong>. For darker complexions, Dermapen® Microneedling and Subcision offer maximum scar remodeling with zero risk of post-inflammatory hyperpigmentation.
                 </p>
                 <div class="grid sm:grid-cols-2 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
                     <div>
@@ -8969,14 +8969,14 @@ $articles = [
                         <ul class="list-disc pl-4 text-white/80 space-y-1 font-light">
                             <li><strong>Deep Ice-Pick Scars:</strong> TCA CROSS or Punch Excision</li>
                             <li><strong>Depressed Boxcar Scars:</strong> Fractional CO2 Laser Resurfacing</li>
-                            <li><strong>Tethered Rolling Scars:</strong> Subcision + RF Microneedling</li>
+                            <li><strong>Tethered Rolling Scars:</strong> Subcision + Dermapen® Microneedling</li>
                             <li><strong>Raised Keloid Scars:</strong> Intralesional Steroid Injections</li>
                         </ul>
                     </div>
                     <div>
                         <span class="text-accent font-semibold block mb-1">Key Decision Factors for Patients:</span>
                         <ul class="list-disc pl-4 text-white/80 space-y-1 font-light">
-                            <li><strong>Skin Tone Safety:</strong> RF Microneedling for melanin-rich African skin</li>
+                            <li><strong>Skin Tone Safety:</strong> Dermapen® Microneedling for melanin-rich African skin</li>
                             <li><strong>Downtime Window:</strong> 1–3 days (RF) vs. 7–10 days (CO2 Laser)</li>
                             <li><strong>Combination Approach:</strong> Multi-modality therapy yields up to 80% improvement</li>
                             <li><strong>Active Acne Status:</strong> Clear active breakouts before scar therapy</li>
@@ -9026,7 +9026,7 @@ $articles = [
                 <strong>Appearance:</strong> Wide, shallow depressions that create an uneven, undulating, "wave-like" texture across the cheeks and jawline.
             </p>
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                <strong>Best Treatment: Subcision + RF Microneedling or Dermal Fillers.</strong> Rolling scars are caused by thick, fibrous collagen bands in the sub-dermis pulling the surface skin downward. Lasers alone cannot smooth rolling scars because they cannot sever these deep fibrous tethers. Subcision physically releases the tethers, while RF Microneedling or hyaluronic acid fillers restore volume underneath.
+                <strong>Best Treatment: Subcision + Dermapen® Microneedling or Dermal Fillers.</strong> Rolling scars are caused by thick, fibrous collagen bands in the sub-dermis pulling the surface skin downward. Lasers alone cannot smooth rolling scars because they cannot sever these deep fibrous tethers. Subcision physically releases the tethers, while Dermapen® Microneedling or hyaluronic acid fillers restore volume underneath.
             </p>
 
             <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">4. Hypertrophic & Keloid Scars (Raised, Thick Tissue)</h3>
@@ -9069,14 +9069,14 @@ $articles = [
                             <td class="p-4 font-semibold text-brand-deeper">Boxcar Scars</td>
                             <td class="p-4">Broad pits with sharp edges</td>
                             <td class="p-4 font-semibold text-accent-dark">Fractional CO2 Laser</td>
-                            <td class="p-4">Medium TCA Peels, RF Microneedling</td>
+                            <td class="p-4">Medium TCA Peels, Dermapen® Microneedling</td>
                             <td class="p-4">5 – 7 days (Peeling)</td>
                         </tr>
                         <tr class="hover:bg-brand/5">
                             <td class="p-4 font-semibold text-brand-deeper">Rolling Scars</td>
                             <td class="p-4">Tethered wave-like indentations</td>
                             <td class="p-4 font-semibold text-accent-dark">Subcision Therapy</td>
-                            <td class="p-4">RF Microneedling, Fillers</td>
+                            <td class="p-4">Dermapen® Microneedling, Fillers</td>
                             <td class="p-4">2 – 4 days (Mild swelling)</td>
                         </tr>
                         <tr class="hover:bg-brand/5">
@@ -9111,7 +9111,7 @@ $articles = [
                 <strong>Best For: Rolling scars, mild boxcars, and safe treatment of dark skin complexions.</strong>
             </p>
             <p class="text-gray-700 leading-relaxed mb-6 font-light">
-                RF Microneedling combines physical micro-punctures with gentle radiofrequency heat emitted directly at precise dermal depths. Because energy is delivered under the epidermis, it bypasses surface pigment, making it 100% safe for African skin tones without risk of hyperpigmentation. <em>Downtime: 1 to 3 days of mild pinkness.</em>
+                Dermapen® Microneedling combines physical micro-punctures with gentle radiofrequency heat emitted directly at precise dermal depths. Because energy is delivered under the epidermis, it bypasses surface pigment, making it 100% safe for African skin tones without risk of hyperpigmentation. <em>Downtime: 1 to 3 days of mild pinkness.</em>
             </p>
 
             <h3 class="text-xl font-bold text-brand-deeper mt-8 mb-4 font-heading">3. Subcision Therapy</h3>
@@ -9142,7 +9142,7 @@ $articles = [
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Safe Treatments for Melanin-Rich African Skin</h3>
                     <p class="text-gray-700 text-sm font-light leading-relaxed">
-                        For darker complexions, dermatologists prioritize modalities that bypass surface epidermal melanin: <strong>RF Microneedling, Subcision, 1064nm Nd:YAG Laser, TCA CROSS, and Mandelic Acid Peels</strong>. When CO2 laser is required, lower energy parameters paired with long-pulse conservative settings guarantee safe, flawless scar removal.
+                        For darker complexions, dermatologists prioritize modalities that bypass surface epidermal melanin: <strong>Dermapen® Microneedling, Subcision, 1064nm Nd:YAG Laser, TCA CROSS, and Mandelic Acid Peels</strong>. When CO2 laser is required, lower energy parameters paired with long-pulse conservative settings guarantee safe, flawless scar removal.
                     </p>
                 </div>
             </div>
@@ -9157,7 +9157,7 @@ $articles = [
 
             <ul class="list-disc pl-6 text-gray-700 space-y-3 mb-8 font-light">
                 <li><strong>Session 1:</strong> Subcision to untether rolling scars + TCA CROSS inside deep ice-pick pits.</li>
-                <li><strong>Session 2 (4 Weeks Later):</strong> RF Microneedling or Fractional CO2 Laser to smooth overall surface texture and build dermal collagen.</li>
+                <li><strong>Session 2 (4 Weeks Later):</strong> Dermapen® Microneedling or Fractional CO2 Laser to smooth overall surface texture and build dermal collagen.</li>
                 <li><strong>Session 3 (8 Weeks Later):</strong> Follow-up laser touch-up or hyaluronic acid filler for stubborn residual depressions.</li>
             </ul>
 
@@ -9169,7 +9169,7 @@ $articles = [
             <div class="space-y-6">
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-base mb-2 font-heading">1. Can acne scars be removed 100% permanently?</h3>
-                    <p class="text-sm text-gray-600 font-light leading-relaxed">While no medical treatment can restore skin to 100% pre-acne perfection, advanced clinical multi-modality treatments (combining CO2 laser, subcision, and RF microneedling) achieve <strong>50% to 80%+ permanent improvement</strong> in scar depth and overall texture.</p>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">While no medical treatment can restore skin to 100% pre-acne perfection, advanced clinical multi-modality treatments (combining CO2 laser, subcision, and Dermapen® microneedling) achieve <strong>50% to 80%+ permanent improvement</strong> in scar depth and overall texture.</p>
                 </div>
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-base mb-2 font-heading">2. What is the fastest treatment for deep pitted acne scars?</h3>
@@ -9177,7 +9177,7 @@ $articles = [
                 </div>
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-base mb-2 font-heading">3. Is CO2 laser scar removal safe for dark African skin complexions?</h3>
-                    <p class="text-sm text-gray-600 font-light leading-relaxed">Yes, Fractional CO2 laser is safe for darker skin when performed by an experienced dermatologist using conservative fluence settings and proper pre-treatment skin conditioning. Alternatively, RF Microneedling offers equivalent scar remodeling with zero pigment risk.</p>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">Yes, Fractional CO2 laser is safe for darker skin when performed by an experienced dermatologist using conservative fluence settings and proper pre-treatment skin conditioning. Alternatively, Dermapen® Microneedling offers equivalent scar remodeling with zero pigment risk.</p>
                 </div>
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-base mb-2 font-heading">4. How many sessions of acne scar treatment will I need?</h3>
@@ -9484,7 +9484,7 @@ $articles = [
                 </div>
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-base mb-2 font-heading">7. Can chemical peels be combined with microneedling or laser treatments?</h3>
-                    <p class="text-sm text-gray-600 font-light leading-relaxed">Yes, combining chemical peels with laser skin rejuvenation or RF microneedling yields outstanding results. However, treatments must be staggered—dermatologists typically alternate chemical peels and microneedling sessions 2 to 4 weeks apart to allow complete tissue recovery.</p>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">Yes, combining chemical peels with laser skin rejuvenation or Dermapen® microneedling yields outstanding results. However, treatments must be staggered—dermatologists typically alternate chemical peels and microneedling sessions 2 to 4 weeks apart to allow complete tissue recovery.</p>
                 </div>
                 <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
                     <h3 class="font-bold text-brand-deeper text-base mb-2 font-heading">8. Where can I consult a certified dermatologist for a chemical peel in Uganda?</h3>

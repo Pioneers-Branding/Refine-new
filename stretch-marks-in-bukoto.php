@@ -1,7 +1,7 @@
 <?php
 $pageCategory = "Skin & Body";
 $pageTitle = "Stretch Marks Treatment in Bukoto";
-$pageDescription = "Smooth, fade, and remodel stretch marks using advanced RF microneedling, laser, and PRP combination therapies in Bukoto and Juba.";
+$pageDescription = "Smooth, fade, and remodel stretch marks using advanced Dermapen® microneedling, laser, and PRP combination therapies in Bukoto and Juba.";
 $metaTitle = "Stretch Marks Treatment Treatment in Bukoto | Refine Clinic";
 $metaDescription = "Seeking stretch marks treatment treatment in Bukoto? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
 $canonicalUrl = "https://refineskinandbody.com/stretch-marks-in-bukoto";

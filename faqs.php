@@ -92,7 +92,7 @@ $canonicalUrl = "https://refineskinandbody.com/faqs";
                                     <i class="fas fa-plus text-brand transition-transform duration-300 transform group-[.active]:rotate-45"></i>
                                 </div>
                                 <div class="faq-content h-0 overflow-hidden px-6 pb-0 group-[.active]:pb-6 transition-all duration-300">
-                                    <p class="text-brand-muted font-body text-sm leading-relaxed mt-2 border-t border-brand/5 pt-4">Yes, we offer a multi-modal approach to acne scarring including CO2 lasers, RF microneedling, subcision, and chemical peels depending on the scar type.</p>
+                                    <p class="text-brand-muted font-body text-sm leading-relaxed mt-2 border-t border-brand/5 pt-4">Yes, we offer a multi-modal approach to acne scarring including CO2 lasers, Dermapen® microneedling, subcision, and chemical peels depending on the scar type.</p>
                                 </div>
                             </div>
                         </div>

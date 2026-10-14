@@ -1,7 +1,7 @@
 <?php
 $pageCategory = "Skin & Body";
 $pageTitle = "Stretch Marks Treatment in Nansana";
-$pageDescription = "Smooth, fade, and remodel stretch marks using advanced RF microneedling, laser, and PRP combination therapies in Nansana and Juba.";
+$pageDescription = "Smooth, fade, and remodel stretch marks using advanced Dermapen® microneedling, laser, and PRP combination therapies in Nansana and Juba.";
 $metaTitle = "Stretch Marks Treatment Treatment in Nansana | Refine Clinic";
 $metaDescription = "Seeking stretch marks treatment treatment in Nansana? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
 $canonicalUrl = "https://refineskinandbody.com/stretch-marks-in-nansana";

@@ -100,8 +100,8 @@ include 'includes/head.php'; ?>
                     </div>
                     <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
                         <div>
-                            <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">RF Microneedling</h4>
-                            <p class="text-xs text-brand-muted mt-1 font-light">Collagen induction for scars and anti-aging.</p>
+                            <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Dermapen® 4 Microneedling</h4>
+                            <p class="text-xs text-brand-muted mt-1 font-light">Automated collagen induction & meso-infusion for scars and rejuvenation.</p>
                         </div>
                         <div class="font-display text-xl text-accent">From 800K</div>
                     </div>

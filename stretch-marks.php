@@ -1,7 +1,7 @@
 <?php
 $pageCategory = "Skin & Body";
 $pageTitle = "Stretch Marks Treatment in Kampala";
-$pageDescription = "Smooth, fade, and remodel stretch marks using advanced RF microneedling, laser, and PRP combination therapies in Kampala and Juba.";
+$pageDescription = "Smooth, fade, and remodel stretch marks using advanced Dermapen® microneedling, laser, and PRP combination therapies in Kampala and Juba.";
 $metaTitle = "Stretch Marks Treatment Treatment in Kampala, Uganda | Refine Clinic";
 $metaDescription = "Seeking stretch marks treatment treatment in Kampala, Uganda? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
 $canonicalUrl = "https://refineskinandbody.com/stretch-marks";

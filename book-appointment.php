@@ -110,7 +110,7 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                                                 <optgroup label="Cosmetic Dermatology">
                                                     <option value="hydrafacial">HydraFacial</option>
                                                     <option value="chemical-peel">Chemical Peels</option>
-                                                    <option value="microneedling">RF Microneedling</option>
+                                                    <option value="dermapen-microneedling">Dermapen® Microneedling</option>
                                                 </optgroup>
                                                 <optgroup label="Anti-Aging">
                                                     <option value="Botox&reg;">Botox®</option>

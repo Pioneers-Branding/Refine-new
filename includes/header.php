@@ -94,11 +94,11 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Skin/Body Rejuvenation</h5>
                                 <div class="space-y-2">
                                     <a href="/hydrafacial" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">HydraFacial</a>
-                                    <a href="/microblading" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Microblading</a>
                                     <a href="/chemical-peel" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Chemical Peel</a>
+                                    <a href="/skincare-products" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Skincare Products</a>
                                     <a href="/iv-therapy" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">IV Therapy</a>
                                     <a href="/bio-identical-hormone-replacement-therapy" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Bio-Identical Hormone Replacement Therapy</a>
-                                    <a href="/rf-microneedling" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">RF Microneedling for Scars</a>
+                                    <a href="/dermapen-microneedling" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Dermapen® Microneedling</a>
                                     <a href="/stretch-marks" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Stretch Marks</a>
                                     <a href="/non-surgical-brazilian-butt-lift" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Non-Surgical Brazilian Butt Lift</a>
                                     <a href="/lip-volumization" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Lip Volumization</a>
@@ -346,11 +346,11 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Skin/Body Rejuvenation</p>
                         <a href="/hydrafacial" class="block font-body text-sm text-white/80 py-1 hover:text-accent">HydraFacial</a>
-                        <a href="/microblading" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Microblading</a>
                         <a href="/chemical-peel" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Chemical Peel</a>
+                        <a href="/skincare-products" class="block font-body text-sm text-white/80 py-1 hover:text-accent font-medium text-accent">Skincare Products</a>
                         <a href="/iv-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent">IV Therapy</a>
                         <a href="/bio-identical-hormone-replacement-therapy" class="block font-body text-sm text-white/80 py-1 hover:text-accent leading-tight">Bio-Identical Hormone Replacement</a>
-                        <a href="/rf-microneedling" class="block font-body text-sm text-white/80 py-1 hover:text-accent">RF Microneedling</a>
+                        <a href="/dermapen-microneedling" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Dermapen® Microneedling</a>
                         <a href="/stretch-marks" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Stretch Marks</a>
                         <a href="/non-surgical-brazilian-butt-lift" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Non-Surgical BBL</a>
                         <a href="/lip-volumization" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Lip Volumization</a>

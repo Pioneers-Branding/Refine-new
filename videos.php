@@ -19,7 +19,7 @@ $videoLibrary = [
     'Skin & Facials' => [
         ['src' => 'cleopatra-hydrafacial-explained', 'title' => 'Cleopatra HydraFacial Explained', 'desc' => 'What makes our signature Cleopatra treatment different.', 'tag' => 'Explainer', 'link' => '/hydrafacial'],
         ['src' => 'cleopatra-hydrafacial-treatment', 'title' => 'Cleopatra HydraFacial Full Session', 'desc' => 'Preview of a complete Cleopatra HydraFacial session.', 'tag' => 'Live Procedure', 'preview' => true, 'link' => '/hydrafacial'],
-        ['src' => 'microneedling-serums-session', 'title' => 'Microneedling & Serum Infusion', 'desc' => 'Preview of a microneedling session with medical-grade serums.', 'tag' => 'Live Procedure', 'preview' => true, 'link' => '/rf-microneedling'],
+        ['src' => 'microneedling-serums-session', 'title' => 'Dermapen® Microneedling & Infusion', 'desc' => 'Preview of a Dermapen® 4 microneedling session with medical-grade serums.', 'tag' => 'Live Procedure', 'preview' => true, 'link' => '/dermapen-microneedling'],
         ['src' => 'psoriasis', 'title' => 'Psoriasis: Causes & Treatment', 'desc' => 'A dermatologist-led explainer on psoriasis and modern treatment options.', 'tag' => 'Doctor Explainer', 'link' => '/psoriasis'],
         ['src' => 'laser-hair-removal-underarms', 'title' => 'Underarm Laser Hair Removal', 'desc' => 'A full underarm session using settings tuned for darker skin tones.', 'tag' => 'Live Procedure', 'link' => '/laser-hair-removal'],
     ],
