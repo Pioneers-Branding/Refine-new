@@ -53,6 +53,7 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'will-a-chemical-peel-lighten-your-skin',
     'which-is-the-best-treatment-for-skin-lightening',
     'does-hydrafacial-remove-facial-hair',
     'can-melasma-be-removed-permanently',
