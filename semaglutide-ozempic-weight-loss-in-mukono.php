@@ -152,9 +152,410 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
     </section>
 
     <!-- ============================================
+         PHARMACEUTICAL MEDICINES & PRODUCT CATALOG
+         (EXTRACTED FROM NOVO NORDISK NOVO MEDLINK / MEDICINES.HTML)
+         ============================================ -->
+    <section id="medicines-catalog" class="py-16 lg:py-24 bg-white relative">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+            <div class="text-center max-w-3xl mx-auto mb-16">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">
+                    Novo Nordisk® Product Catalog &bull; Refine Medical
+                </span>
+                <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">
+                    Genuine GLP-1 Medicines <i class="text-accent font-light">&amp; Formulations Available</i>
+                </h3>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
+                    Refine Skin and Body Clinic provides 100% authentic, temperature-controlled Novo Nordisk® medications. Explore the full range of injectable pens and oral tablet formulations prescribed under doctor supervision in Mukono.
+                </p>
+            </div>
+
+            <!-- Product Cards Grid -->
+            <div class="grid lg:grid-cols-2 gap-8 mb-16">
+                
+                <!-- PRODUCT 1: OZEMPIC® INJECTION -->
+                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/10 p-8 hover:shadow-2xl hover:border-accent/40 transition-all duration-300 flex flex-col justify-between group">
+                    <div>
+                        <!-- Header & Logo -->
+                        <div class="flex flex-wrap items-center justify-between gap-4 pb-6 border-b border-brand/10 mb-6">
+                            <div class="flex items-center gap-3">
+                                <img src="/assets/imagesfromsite/semaglutide/ozempic-logo-injection.png" alt="Ozempic Injection Logo" class="h-9 object-contain">
+                            </div>
+                            <span class="px-3.5 py-1.5 rounded-full bg-blue-50 text-blue-700 text-[11px] font-semibold tracking-wider uppercase border border-blue-200">
+                                Once-Weekly Subcutaneous Pen
+                            </span>
+                        </div>
+
+                        <!-- Product Visual -->
+                        <div class="relative bg-white rounded-2xl p-6 mb-6 border border-brand/5 shadow-sm text-center overflow-hidden">
+                            <div class="absolute top-3 right-3 px-2.5 py-1 rounded-md bg-accent/15 text-accent text-[10px] font-bold uppercase tracking-wider">
+                                3 Doses Available
+                            </div>
+                            <img src="/assets/imagesfromsite/semaglutide/ozempic-three-pens.png" alt="Ozempic Injection Pens 0.5mg, 1mg, 2mg" class="w-full max-h-48 object-contain mx-auto group-hover:scale-105 transition-transform duration-500">
+                            <div class="mt-4 flex flex-wrap justify-center gap-2 text-[11px] font-medium">
+                                <span class="px-2.5 py-1 rounded-md bg-red-50 text-red-700 border border-red-200">0.5 mg Pen (Red Label)</span>
+                                <span class="px-2.5 py-1 rounded-md bg-teal-50 text-teal-700 border border-teal-200">1.0 mg Pen (Teal Label)</span>
+                                <span class="px-2.5 py-1 rounded-md bg-amber-50 text-amber-700 border border-amber-200">2.0 mg Pen (Gold Label)</span>
+                            </div>
+                        </div>
+
+                        <!-- Clinical Indications (Direct from NovoMedLink / FDA prescribing info) -->
+                        <div class="space-y-4 mb-6 text-sm text-brand-muted">
+                            <p class="font-heading font-semibold text-brand-deeper text-base">
+                                Ozempic® (semaglutide) injection 0.5 mg, 1 mg, or 2 mg is a prescription medicine indicated:
+                            </p>
+                            <ul class="space-y-2.5 text-xs text-brand-muted leading-relaxed">
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Glycemic Control:</strong> Along with diet and exercise to improve blood sugar (glucose) in adults with type 2 diabetes.</span>
+                                </li>
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Cardiovascular Defense:</strong> To reduce the risk of major cardiovascular events such as heart attack, stroke, or cardiovascular death in adults with type 2 diabetes and known heart disease.</span>
+                                </li>
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Kidney Disease Protection:</strong> To reduce the risk of kidney disease worsening, kidney failure (end-stage kidney disease), and death due to cardiovascular disease in adults with type 2 diabetes and chronic kidney disease.</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pt-6 border-t border-brand/10 flex flex-wrap items-center justify-between gap-4">
+                        <div class="text-xs text-brand-muted">
+                            <span class="inline-block w-2 h-2 rounded-full bg-emerald-500 mr-1.5"></span>
+                            <span>Prescribed &amp; Monitored at Refine Clinic Mukono</span>
+                        </div>
+                        <a href="#book-consultation" class="px-4 py-2 rounded-xl bg-brand-deeper hover:bg-accent text-white hover:text-brand-deeper text-xs font-semibold tracking-wider uppercase transition-colors">
+                            Consult Doctor
+                        </a>
+                    </div>
+                </div>
+
+                <!-- PRODUCT 2: OZEMPIC® ORAL TABLETS -->
+                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/10 p-8 hover:shadow-2xl hover:border-accent/40 transition-all duration-300 flex flex-col justify-between group">
+                    <div>
+                        <!-- Header & Logo -->
+                        <div class="flex flex-wrap items-center justify-between gap-4 pb-6 border-b border-brand/10 mb-6">
+                            <div class="flex items-center gap-3">
+                                <img src="/assets/imagesfromsite/semaglutide/ozempic-logo-tablets.png" alt="Ozempic Tablets Logo" class="h-9 object-contain">
+                            </div>
+                            <span class="px-3.5 py-1.5 rounded-full bg-purple-50 text-purple-700 text-[11px] font-semibold tracking-wider uppercase border border-purple-200">
+                                Once-Daily Oral Tablet
+                            </span>
+                        </div>
+
+                        <!-- Product Visual -->
+                        <div class="relative bg-white rounded-2xl p-6 mb-6 border border-brand/5 shadow-sm text-center overflow-hidden">
+                            <div class="absolute top-3 right-3 px-2.5 py-1 rounded-md bg-accent/15 text-accent text-[10px] font-bold uppercase tracking-wider">
+                                Needle-Free Oral
+                            </div>
+                            <img src="/assets/imagesfromsite/semaglutide/ozempic-tablets-package.jpeg" alt="Ozempic Oral Tablets Formulation" class="w-full max-h-48 object-contain mx-auto group-hover:scale-105 transition-transform duration-500">
+                            <div class="mt-4 flex flex-wrap justify-center gap-2 text-[11px] font-medium">
+                                <span class="px-2.5 py-1 rounded-md bg-emerald-50 text-emerald-700 border border-emerald-200">4 mg Daily Tablet</span>
+                                <span class="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200">9 mg Daily Tablet</span>
+                                <span class="px-2.5 py-1 rounded-md bg-purple-50 text-purple-700 border border-purple-200">SNAC Peptide Absorption</span>
+                            </div>
+                        </div>
+
+                        <!-- Clinical Indications -->
+                        <div class="space-y-4 mb-6 text-sm text-brand-muted">
+                            <p class="font-heading font-semibold text-brand-deeper text-base">
+                                Ozempic® (semaglutide) tablets 4 mg or 9 mg are prescription medicines indicated:
+                            </p>
+                            <ul class="space-y-2.5 text-xs text-brand-muted leading-relaxed">
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Glycemic Control:</strong> Along with diet and exercise to improve blood sugar (glucose) in adults with type 2 diabetes.</span>
+                                </li>
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Cardiovascular Risk Reduction:</strong> To reduce the risk of major adverse cardiovascular (CV) events (CV death, nonfatal myocardial infarction, or nonfatal stroke) in adults with type 2 diabetes who are at high risk.</span>
+                                </li>
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Oral Bioavailability Protocol:</strong> Taken first thing in the morning with a sip of plain water (up to 4 oz) at least 30 minutes before any food, drink, or other medications.</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pt-6 border-t border-brand/10 flex flex-wrap items-center justify-between gap-4">
+                        <div class="text-xs text-brand-muted">
+                            <span class="inline-block w-2 h-2 rounded-full bg-emerald-500 mr-1.5"></span>
+                            <span>Prescribed &amp; Monitored at Refine Clinic Mukono</span>
+                        </div>
+                        <a href="#book-consultation" class="px-4 py-2 rounded-xl bg-brand-deeper hover:bg-accent text-white hover:text-brand-deeper text-xs font-semibold tracking-wider uppercase transition-colors">
+                            Consult Doctor
+                        </a>
+                    </div>
+                </div>
+
+                <!-- PRODUCT 3: WEGOVY® INJECTION PEN -->
+                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/10 p-8 hover:shadow-2xl hover:border-accent/40 transition-all duration-300 flex flex-col justify-between group">
+                    <div>
+                        <!-- Header & Logo -->
+                        <div class="flex flex-wrap items-center justify-between gap-4 pb-6 border-b border-brand/10 mb-6">
+                            <div class="flex items-center gap-3">
+                                <img src="/assets/imagesfromsite/semaglutide/wegovy-logo.svg" alt="Wegovy Logo" class="h-9 object-contain">
+                            </div>
+                            <span class="px-3.5 py-1.5 rounded-full bg-rose-50 text-rose-700 text-[11px] font-semibold tracking-wider uppercase border border-rose-200">
+                                Chronic Weight Management Pen
+                            </span>
+                        </div>
+
+                        <!-- Product Visual -->
+                        <div class="relative bg-white rounded-2xl p-6 mb-6 border border-brand/5 shadow-sm text-center overflow-hidden">
+                            <div class="absolute top-3 right-3 px-2.5 py-1 rounded-md bg-accent/15 text-accent text-[10px] font-bold uppercase tracking-wider">
+                                Max 2.4 mg STEP Dose
+                            </div>
+                            <img src="/assets/imagesfromsite/semaglutide/wegovy-pen.png" alt="Wegovy 2.4mg Injection Pen" class="w-full max-h-48 object-contain mx-auto group-hover:scale-105 transition-transform duration-500">
+                            <div class="mt-4 flex flex-wrap justify-center gap-2 text-[11px] font-medium">
+                                <span class="px-2.5 py-1 rounded-md bg-slate-50 text-slate-700 border border-slate-200">0.25 mg</span>
+                                <span class="px-2.5 py-1 rounded-md bg-slate-50 text-slate-700 border border-slate-200">0.5 mg</span>
+                                <span class="px-2.5 py-1 rounded-md bg-slate-50 text-slate-700 border border-slate-200">1.0 mg</span>
+                                <span class="px-2.5 py-1 rounded-md bg-slate-50 text-slate-700 border border-slate-200">1.7 mg</span>
+                                <span class="px-2.5 py-1 rounded-md bg-rose-50 text-rose-700 font-bold border border-rose-200">2.4 mg Target Dose</span>
+                            </div>
+                        </div>
+
+                        <!-- Clinical Indications -->
+                        <div class="space-y-4 mb-6 text-sm text-brand-muted">
+                            <p class="font-heading font-semibold text-brand-deeper text-base">
+                                Wegovy® (semaglutide) injection is a prescription medicine used with a reduced-calorie diet and increased physical activity to:
+                            </p>
+                            <ul class="space-y-2.5 text-xs text-brand-muted leading-relaxed">
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Weight Reduction &amp; Maintenance:</strong> Help adults with obesity (BMI &ge;30), or excess weight (BMI &ge;27) who also have weight-related medical problems, lose weight and keep the weight off permanently (~15-20% average total weight loss).</span>
+                                </li>
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>SELECT Cardiovascular Trial:</strong> Reduce the risk of major cardiovascular events such as death, heart attack, or stroke in adults with known heart disease and with either obesity or overweight.</span>
+                                </li>
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Pediatric Indication:</strong> Approved to reduce excess body weight and sustain weight reduction in pediatric patients 12 years and older with obesity.</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pt-6 border-t border-brand/10 flex flex-wrap items-center justify-between gap-4">
+                        <div class="text-xs text-brand-muted">
+                            <span class="inline-block w-2 h-2 rounded-full bg-emerald-500 mr-1.5"></span>
+                            <span>Prescribed &amp; Monitored at Refine Clinic Mukono</span>
+                        </div>
+                        <a href="#book-consultation" class="px-4 py-2 rounded-xl bg-brand-deeper hover:bg-accent text-white hover:text-brand-deeper text-xs font-semibold tracking-wider uppercase transition-colors">
+                            Consult Doctor
+                        </a>
+                    </div>
+                </div>
+
+                <!-- PRODUCT 4: WEGOVY® ORAL TABLETS -->
+                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/10 p-8 hover:shadow-2xl hover:border-accent/40 transition-all duration-300 flex flex-col justify-between group">
+                    <div>
+                        <!-- Header & Logo -->
+                        <div class="flex flex-wrap items-center justify-between gap-4 pb-6 border-b border-brand/10 mb-6">
+                            <div class="flex items-center gap-3">
+                                <img src="/assets/imagesfromsite/semaglutide/wegovy-logo.svg" alt="Wegovy Logo" class="h-9 object-contain">
+                            </div>
+                            <span class="px-3.5 py-1.5 rounded-full bg-amber-50 text-amber-700 text-[11px] font-semibold tracking-wider uppercase border border-amber-200">
+                                Oral Weight Management Tablets
+                            </span>
+                        </div>
+
+                        <!-- Product Visual -->
+                        <div class="relative bg-white rounded-2xl p-6 mb-6 border border-brand/5 shadow-sm text-center overflow-hidden">
+                            <div class="absolute top-3 right-3 px-2.5 py-1 rounded-md bg-accent/15 text-accent text-[10px] font-bold uppercase tracking-wider">
+                                OASIS Trial Formulation
+                            </div>
+                            <img src="/assets/imagesfromsite/semaglutide/wegovy-tablets-bottles.png" alt="Wegovy Oral Tablets Color-Coded Bottles" class="w-full max-h-48 object-contain mx-auto group-hover:scale-105 transition-transform duration-500">
+                            <div class="mt-4 flex flex-wrap justify-center gap-2 text-[11px] font-medium">
+                                <span class="px-2.5 py-1 rounded-md bg-emerald-50 text-emerald-700 border border-emerald-200">Green Bottle</span>
+                                <span class="px-2.5 py-1 rounded-md bg-rose-50 text-rose-700 border border-rose-200">Pink Bottle</span>
+                                <span class="px-2.5 py-1 rounded-md bg-amber-50 text-amber-700 border border-amber-200">Orange Bottle</span>
+                                <span class="px-2.5 py-1 rounded-md bg-blue-50 text-blue-700 border border-blue-200">Blue Bottle (25 mg)</span>
+                            </div>
+                        </div>
+
+                        <!-- Clinical Indications -->
+                        <div class="space-y-4 mb-6 text-sm text-brand-muted">
+                            <p class="font-heading font-semibold text-brand-deeper text-base">
+                                Wegovy® (semaglutide) tablets are a prescription medicine used with a reduced-calorie diet and increased physical activity to:
+                            </p>
+                            <ul class="space-y-2.5 text-xs text-brand-muted leading-relaxed">
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Non-Injectable Weight Loss:</strong> Deliver profound satiety, crave reduction, and significant body weight loss (up to 15.1% mean reduction in OASIS-1) for needle-averse patients.</span>
+                                </li>
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Cardiovascular Protection:</strong> Reduce the risk of major cardiovascular events such as death, heart attack, or stroke in adults with known heart disease and overweight/obesity.</span>
+                                </li>
+                                <li class="flex items-start gap-2.5">
+                                    <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                    <span><strong>Consistent Daily Rhythm:</strong> Once-daily oral formulation that eliminates the need for self-injections and cold-chain travel concerns once opened.</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="pt-6 border-t border-brand/10 flex flex-wrap items-center justify-between gap-4">
+                        <div class="text-xs text-brand-muted">
+                            <span class="inline-block w-2 h-2 rounded-full bg-emerald-500 mr-1.5"></span>
+                            <span>Prescribed &amp; Monitored at Refine Clinic Mukono</span>
+                        </div>
+                        <a href="#book-consultation" class="px-4 py-2 rounded-xl bg-brand-deeper hover:bg-accent text-white hover:text-brand-deeper text-xs font-semibold tracking-wider uppercase transition-colors">
+                            Consult Doctor
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- ADDITIONAL FORMULATIONS ROW: RYBELSUS & SAXENDA -->
+            <div class="grid md:grid-cols-2 gap-8 mb-16">
+                <!-- RYBELSUS CARD -->
+                <div class="glass-panel p-6 rounded-3xl bg-[#faf9f6] border border-brand/10 flex items-center gap-6 hover:shadow-lg transition-all duration-300">
+                    <div class="w-24 h-24 rounded-2xl bg-white p-3 flex items-center justify-center border border-brand/5 flex-shrink-0 shadow-sm">
+                        <img src="/assets/imagesfromsite/semaglutide/rybelsus-tablet.png" alt="Rybelsus Oral Tablet" class="max-h-full object-contain">
+                    </div>
+                    <div>
+                        <div class="flex items-center gap-2 mb-1.5">
+                            <img src="/assets/imagesfromsite/semaglutide/rybelsus-logo.svg" alt="Rybelsus Logo" class="h-6 object-contain">
+                            <span class="text-[10px] uppercase font-bold tracking-wider px-2 py-0.5 rounded bg-emerald-100 text-emerald-800">Oral GLP-1</span>
+                        </div>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base">RYBELSUS® (semaglutide) tablets 7 mg &amp; 14 mg</h4>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mt-1">
+                            The original FDA-approved daily oral GLP-1 receptor agonist for glycemic optimization, moderate weight loss, and appetite modulation without needles.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- SAXENDA CARD -->
+                <div class="glass-panel p-6 rounded-3xl bg-[#faf9f6] border border-brand/10 flex items-center gap-6 hover:shadow-lg transition-all duration-300">
+                    <div class="w-24 h-24 rounded-2xl bg-white p-3 flex items-center justify-center border border-brand/5 flex-shrink-0 shadow-sm">
+                        <img src="/assets/imagesfromsite/semaglutide/semaglutide-pen-device.png" alt="Saxenda FlexTouch Pen" class="max-h-full object-contain">
+                    </div>
+                    <div>
+                        <div class="flex items-center gap-2 mb-1.5">
+                            <img src="/assets/imagesfromsite/semaglutide/saxenda-logo.svg" alt="Saxenda Logo" class="h-6 object-contain">
+                            <span class="text-[10px] uppercase font-bold tracking-wider px-2 py-0.5 rounded bg-blue-100 text-blue-800">Daily GLP-1 Pen</span>
+                        </div>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base">Saxenda® (liraglutide) injection 3 mg</h4>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mt-1">
+                            Once-daily subcutaneous injection indicated for chronic weight management in adults (BMI &ge;30 or &ge;27 with risk factors) and adolescents aged 12-17.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- COMPREHENSIVE FORMULATION COMPARISON TABLE -->
+            <div class="rounded-3xl border border-brand/10 bg-[#faf9f6] p-8 shadow-xl">
+                <div class="mb-6">
+                    <span class="text-accent text-[11px] font-bold uppercase tracking-widest">Medical Comparison Matrix</span>
+                    <h4 class="font-display text-2xl text-brand-deeper mt-1">Choosing the Right Formulation for Your Body</h4>
+                    <p class="text-brand-muted text-xs font-light">Dr. Chirag Kotecha evaluates your medical history, metabolic baseline, and lifestyle to determine the exact optimal GLP-1 formulation.</p>
+                </div>
+
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left border-collapse text-xs">
+                        <thead>
+                            <tr class="bg-brand-deeper text-white uppercase tracking-wider text-[11px]">
+                                <th class="p-4 font-semibold rounded-tl-xl">Formulation</th>
+                                <th class="p-4 font-semibold">Active Molecule</th>
+                                <th class="p-4 font-semibold">Route &amp; Frequency</th>
+                                <th class="p-4 font-semibold">Target Indication</th>
+                                <th class="p-4 font-semibold text-accent">Clinical Weight Loss</th>
+                                <th class="p-4 font-semibold rounded-tr-xl">Delivery Method</th>
+                            </tr>
+                        </thead>
+                        <tbody class="divide-y divide-brand/5 bg-white font-light text-brand-muted">
+                            <tr class="hover:bg-brand/5 transition-colors">
+                                <td class="p-4 font-semibold text-brand-deeper">Ozempic® Injection</td>
+                                <td class="p-4">Semaglutide</td>
+                                <td class="p-4">Once Weekly Subcutaneous</td>
+                                <td class="p-4">Type 2 Diabetes, CV Defense, Kidney Protection</td>
+                                <td class="p-4 font-bold text-brand-deeper">Up to ~15% TBWL</td>
+                                <td class="p-4">Pre-filled Multi-Dose Pen (32G micro-needle)</td>
+                            </tr>
+                            <tr class="hover:bg-brand/5 transition-colors">
+                                <td class="p-4 font-semibold text-brand-deeper">Ozempic® Tablets</td>
+                                <td class="p-4">Semaglutide</td>
+                                <td class="p-4">Once Daily Oral (Fasting)</td>
+                                <td class="p-4">Glycemic Control &amp; High CV Risk Reduction</td>
+                                <td class="p-4 font-bold text-brand-deeper">Up to ~10-12% TBWL</td>
+                                <td class="p-4">Oral Tablet (with up to 4 oz plain water)</td>
+                            </tr>
+                            <tr class="hover:bg-brand/5 transition-colors bg-accent/5">
+                                <td class="p-4 font-semibold text-brand-deeper">Wegovy® Injection</td>
+                                <td class="p-4">Semaglutide (High Dose)</td>
+                                <td class="p-4">Once Weekly Subcutaneous</td>
+                                <td class="p-4">Chronic Weight Management (Obesity / Overweight) + CV</td>
+                                <td class="p-4 font-bold text-accent">~15% &ndash; 20% TBWL (STEP-1)</td>
+                                <td class="p-4">Pre-filled Single-Dose Auto-Injector Pen</td>
+                            </tr>
+                            <tr class="hover:bg-brand/5 transition-colors">
+                                <td class="p-4 font-semibold text-brand-deeper">Wegovy® Tablets</td>
+                                <td class="p-4">Semaglutide (25 mg)</td>
+                                <td class="p-4">Once Daily Oral (Fasting)</td>
+                                <td class="p-4">Oral Chronic Weight Management (Needle-Free)</td>
+                                <td class="p-4 font-bold text-brand-deeper">Up to ~15.1% TBWL (OASIS-1)</td>
+                                <td class="p-4">Oral Tablet in moisture-sealed bottle</td>
+                            </tr>
+                            <tr class="hover:bg-brand/5 transition-colors">
+                                <td class="p-4 font-semibold text-brand-deeper">RYBELSUS®</td>
+                                <td class="p-4">Semaglutide</td>
+                                <td class="p-4">Once Daily Oral</td>
+                                <td class="p-4">Type 2 Diabetes Glycemic Control &amp; Moderate Satiety</td>
+                                <td class="p-4 font-bold text-brand-deeper">~8% &ndash; 10% TBWL</td>
+                                <td class="p-4">Oral Tablet (SNAC enhanced carrier)</td>
+                            </tr>
+                            <tr class="hover:bg-brand/5 transition-colors">
+                                <td class="p-4 font-semibold text-brand-deeper">Saxenda®</td>
+                                <td class="p-4">Liraglutide</td>
+                                <td class="p-4">Once Daily Subcutaneous</td>
+                                <td class="p-4">Chronic Weight Management (Adults &amp; Adolescents 12+)</td>
+                                <td class="p-4 font-bold text-brand-deeper">~8% &ndash; 10% TBWL</td>
+                                <td class="p-4">FlexTouch® Daily Dial-a-Dose Pen</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- QUALITY ASSURANCE & COLD CHAIN VERIFICATION -->
+            <div class="mt-8 grid sm:grid-cols-3 gap-6 text-center">
+                <div class="p-6 rounded-2xl bg-[#faf9f6] border border-brand/5">
+                    <div class="w-10 h-10 rounded-xl bg-accent/10 text-accent flex items-center justify-center mx-auto mb-3 text-lg">
+                        <i class="fas fa-snowflake"></i>
+                    </div>
+                    <h5 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Cold-Chain Guaranteed</h5>
+                    <p class="text-[11px] text-brand-muted">Continuous 2°C–8°C storage monitoring to preserve delicate peptide integrity.</p>
+                </div>
+                <div class="p-6 rounded-2xl bg-[#faf9f6] border border-brand/5">
+                    <div class="w-10 h-10 rounded-xl bg-accent/10 text-accent flex items-center justify-center mx-auto mb-3 text-lg">
+                        <i class="fas fa-qrcode"></i>
+                    </div>
+                    <h5 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Authentic Batch Verification</h5>
+                    <p class="text-[11px] text-brand-muted">100% genuine Novo Nordisk® serialized packs directly sourced from verified distributors.</p>
+                </div>
+                <div class="p-6 rounded-2xl bg-[#faf9f6] border border-brand/5">
+                    <div class="w-10 h-10 rounded-xl bg-accent/10 text-accent flex items-center justify-center mx-auto mb-3 text-lg">
+                        <i class="fas fa-user-md"></i>
+                    </div>
+                    <h5 class="font-heading font-semibold text-brand-deeper text-sm mb-1">Physician Oversight</h5>
+                    <p class="text-[11px] text-brand-muted">Personalized dosing titration, lab biomarker monitoring, and nutritionist meal coaching.</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- ============================================
          REAL PATIENT TRANSFORMATIONS (BEFORE & AFTER)
          ============================================ -->
-    <section class="py-16 lg:py-24 bg-white relative">
+    <section class="py-16 lg:py-24 bg-[#faf9f6] relative">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             <div class="text-center max-w-3xl mx-auto mb-16">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Verified Weight Loss Outcomes</span>
@@ -169,7 +570,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
             <!-- Transformation Gallery Grid -->
             <div class="grid md:grid-cols-3 gap-8">
                 <!-- Case 1 -->
-                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between group">
+                <div class="glass-panel rounded-3xl bg-white border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between group">
                     <div class="relative aspect-[4/3] overflow-hidden bg-brand-deeper">
                         <img src="/assets/imagesfromsite/allurion/allurion-patient-dot.jpg" alt="Patient Dot Weight Loss Transformation" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
@@ -191,7 +592,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
                 </div>
 
                 <!-- Case 2 -->
-                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between group">
+                <div class="glass-panel rounded-3xl bg-white border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between group">
                     <div class="relative aspect-[4/3] overflow-hidden bg-brand-deeper">
                         <img src="/assets/imagesfromsite/allurion/allurion-patient-jacques.jpg" alt="Patient Jacques Weight Loss Transformation" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
@@ -213,7 +614,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
                 </div>
 
                 <!-- Case 3 -->
-                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between group">
+                <div class="glass-panel rounded-3xl bg-white border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between group">
                     <div class="relative aspect-[4/3] overflow-hidden bg-brand-deeper">
                         <img src="/assets/imagesfromsite/allurion/allurion-patient-georgie.jpg" alt="Patient Georgie Weight Loss Transformation" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
@@ -236,7 +637,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
             </div>
 
             <!-- Lifestyle & Community Photo Banner -->
-            <div class="mt-12 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 p-8 lg:p-12 overflow-hidden relative">
+            <div class="mt-12 rounded-[2.5rem] bg-white border border-brand/5 p-8 lg:p-12 overflow-hidden relative">
                 <div class="grid lg:grid-cols-12 gap-8 items-center">
                     <div class="lg:col-span-7">
                         <span class="inline-block px-3 py-1 rounded-full bg-accent/10 text-accent font-body text-[10px] tracking-widest uppercase font-semibold mb-3 border border-accent/20">
@@ -265,7 +666,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
     <!-- ============================================
          THE 4-STEP REFINEMED CLINICAL PROTOCOL
          ============================================ -->
-    <section class="py-16 lg:py-24 bg-[#faf9f6] relative">
+    <section class="py-16 lg:py-24 bg-white relative">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             <div class="text-center max-w-3xl mx-auto mb-16">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Clinical Pathway</span>
@@ -279,7 +680,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
 
             <div class="grid md:grid-cols-4 gap-6">
                 <!-- Step 1 -->
-                <div class="glass-panel p-8 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
+                <div class="glass-panel p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
                     <div class="w-12 h-12 rounded-2xl bg-accent/10 text-accent font-display text-2xl flex items-center justify-center mb-6">1</div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3">Comprehensive Evaluation</h4>
                     <p class="text-brand-muted text-xs leading-relaxed font-light">
@@ -288,7 +689,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
                 </div>
 
                 <!-- Step 2 -->
-                <div class="glass-panel p-8 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
+                <div class="glass-panel p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
                     <div class="w-12 h-12 rounded-2xl bg-accent/10 text-accent font-display text-2xl flex items-center justify-center mb-6">2</div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3">Micro-Dose Initiation</h4>
                     <p class="text-brand-muted text-xs leading-relaxed font-light">
@@ -297,7 +698,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
                 </div>
 
                 <!-- Step 3 -->
-                <div class="glass-panel p-8 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
+                <div class="glass-panel p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
                     <div class="w-12 h-12 rounded-2xl bg-accent/10 text-accent font-display text-2xl flex items-center justify-center mb-6">3</div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3">Monthly Titration</h4>
                     <p class="text-brand-muted text-xs leading-relaxed font-light">
@@ -306,7 +707,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
                 </div>
 
                 <!-- Step 4 -->
-                <div class="glass-panel p-8 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
+                <div class="glass-panel p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
                     <div class="w-12 h-12 rounded-2xl bg-accent/10 text-accent font-display text-2xl flex items-center justify-center mb-6">4</div>
                     <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3">Long-Term Maintenance</h4>
                     <p class="text-brand-muted text-xs leading-relaxed font-light">
@@ -320,7 +721,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
     <!-- ============================================
          CLINICAL DOSING SCHEDULE TABLE (FROM NOVO NORDISK)
          ============================================ -->
-    <section class="py-16 lg:py-24 bg-white relative">
+    <section class="py-16 lg:py-24 bg-[#faf9f6] relative">
         <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
             <div class="text-center max-w-3xl mx-auto mb-16">
                 <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Standard of Care</span>
@@ -332,7 +733,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
                 </p>
             </div>
 
-            <div class="overflow-x-auto rounded-3xl border border-brand/10 bg-[#faf9f6] shadow-xl">
+            <div class="overflow-x-auto rounded-3xl border border-brand/10 bg-white shadow-xl">
                 <table class="w-full text-left border-collapse">
                     <thead>
                         <tr class="bg-brand-deeper text-white text-xs uppercase tracking-wider">
@@ -344,35 +745,35 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
                         </tr>
                     </thead>
                     <tbody class="text-sm divide-y divide-brand/5 font-light">
-                        <tr class="hover:bg-white transition-colors">
+                        <tr class="hover:bg-brand/5 transition-colors">
                             <td class="p-6 font-medium text-brand-deeper">Initiation Phase</td>
                             <td class="p-6 text-brand-muted">Weeks 1 &ndash; 4</td>
                             <td class="p-6 font-bold text-brand-deeper bg-accent/5">0.25 mg / week</td>
                             <td class="p-6 text-brand-muted">Gastrointestinal tolerance and baseline receptor binding</td>
                             <td class="p-6 text-brand-muted">Mild craving suppression, steady hunger reduction</td>
                         </tr>
-                        <tr class="hover:bg-white transition-colors">
+                        <tr class="hover:bg-brand/5 transition-colors">
                             <td class="p-6 font-medium text-brand-deeper">Step-Up Phase</td>
                             <td class="p-6 text-brand-muted">Weeks 5 &ndash; 8</td>
                             <td class="p-6 font-bold text-brand-deeper bg-accent/5">0.50 mg / week</td>
                             <td class="p-6 text-brand-muted">Active weight reduction onset and glycemic stabilization</td>
                             <td class="p-6 text-brand-muted">Significant drop in portion sizes, reduced snacking</td>
                         </tr>
-                        <tr class="hover:bg-white transition-colors">
+                        <tr class="hover:bg-brand/5 transition-colors">
                             <td class="p-6 font-medium text-brand-deeper">Therapeutic Phase</td>
                             <td class="p-6 text-brand-muted">Weeks 9 &ndash; 12</td>
                             <td class="p-6 font-bold text-brand-deeper bg-accent/5">1.0 mg / week</td>
                             <td class="p-6 text-brand-muted">Substantial fat loss acceleration and metabolic reset</td>
                             <td class="p-6 text-brand-muted">Rapid visceral fat clearance, clothes fitting noticeably looser</td>
                         </tr>
-                        <tr class="hover:bg-white transition-colors">
+                        <tr class="hover:bg-brand/5 transition-colors">
                             <td class="p-6 font-medium text-brand-deeper">Escalation Phase</td>
                             <td class="p-6 text-brand-muted">Weeks 13 &ndash; 16</td>
                             <td class="p-6 font-bold text-brand-deeper bg-accent/5">1.7 mg / week</td>
                             <td class="p-6 text-brand-muted">Continued deep lipolysis for patients requiring higher control</td>
                             <td class="p-6 text-brand-muted">High satiety, elimination of food obsession</td>
                         </tr>
-                        <tr class="hover:bg-white transition-colors">
+                        <tr class="hover:bg-brand/5 transition-colors">
                             <td class="p-6 font-medium text-brand-deeper">Full Maintenance Phase</td>
                             <td class="p-6 text-brand-muted">Week 17+ Ongoing</td>
                             <td class="p-6 font-bold text-accent bg-accent/10">2.4 mg / week</td>
@@ -462,7 +863,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
                         <div class="px-6 pb-6 text-brand-muted font-body text-sm leading-relaxed border-t border-brand/5 pt-4">
-                            Both Ozempic and Wegovy contain the exact same active molecule: <strong>Semaglutide</strong>, produced by Novo Nordisk. Ozempic is FDA-approved primarily for Type 2 Diabetes at maximum doses of 1.0 mg to 2.0 mg per week, whereas Wegovy is FDA-approved specifically for chronic weight management at a higher maintenance dose of 2.4 mg per week. Dr. Chirag tailors the specific dosage to your metabolic profile and weight loss targets.
+                            Both Ozempic and Wegovy contain the exact same active molecule: <strong>Semaglutide</strong>, produced by Novo Nordisk. Ozempic is FDA-approved primarily for Type 2 Diabetes at maximum doses of 1.0 mg to 2.0 mg per week, whereas Wegovy is FDA-approved specifically for chronic weight management at a higher maintenance dose of 2.4 mg per week. Both also offer cardiovascular risk reduction benefits. Dr. Chirag tailors the specific dosage and formulation to your metabolic profile and weight loss targets.
                         </div>
                     </div>
                 </div>
@@ -483,21 +884,35 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
 
                 <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
                     <div class="p-6 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">3. How is Semaglutide administered? Does the injection hurt?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">3. Are both injection pens and oral tablets available at Refine Clinic?</h4>
                         <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
                     </div>
                     <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
                         <div class="px-6 pb-6 text-brand-muted font-body text-sm leading-relaxed border-t border-brand/5 pt-4">
-                            Semaglutide is injected once weekly under the skin (subcutaneously) into the abdomen, front of the thigh, or upper arm using an ultra-fine micro-needle pen. The needle is tiny and hair-thin—most patients report feeling virtually nothing, comparable to a mild tap on the skin.
+                            Yes! For patients who prefer not to use needles, Refine Clinic stocks authentic oral Semaglutide formulations (including Ozempic® tablets, Wegovy® oral tablets, and RYBELSUS®). During your consultation, Dr. Chirag will evaluate which administration method best matches your medical profile, daily routine, and personal comfort.
                         </div>
                     </div>
                 </div>
 
                 <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
                     <div class="p-6 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">4. Can I combine Semaglutide with Wonder® Axon body sculpting?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">4. How is the injection pen administered? Does it hurt?</h4>
+                        <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-6 pb-6 text-brand-muted font-body text-sm leading-relaxed border-t border-brand/5 pt-4">
+                            Semaglutide injection is administered once weekly under the skin (subcutaneously) into the abdomen, front of the thigh, or upper arm using an ultra-fine NovoFine® 32G micro-needle pen. The needle is tiny and hair-thin—most patients report feeling virtually nothing, comparable to a mild tap on the skin. Our clinical team demonstrates proper technique during your first appointment.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
+                    <div class="p-6 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">5. Can I combine Semaglutide with Wonder® Axon body sculpting?</h4>
                         <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
@@ -511,7 +926,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
 
                 <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
                     <div class="p-6 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">5. What happens when I reach my target weight? Will I regain the weight?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">6. What happens when I reach my target weight? Will I regain the weight?</h4>
                         <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
@@ -525,7 +940,7 @@ $metaKeywords = "Semaglutide in Mukono, Ozempic Mukono, Wegovy Uganda, medical w
 
                 <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
                     <div class="p-6 flex justify-between items-center transition-colors">
-                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">6. Where are Refine Clinic locations in Uganda and Juba?</h4>
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">7. Where are Refine Clinic locations in Uganda and Juba?</h4>
                         <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
                             <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
                         </div>
