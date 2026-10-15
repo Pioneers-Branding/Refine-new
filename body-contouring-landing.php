@@ -203,6 +203,29 @@ $metaKeywords = "Body Contouring Kampala, EmBody Sculpt Uganda, Fat Dissolving I
             <!-- Bento Grid Showcase -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
+                <!-- 0: Wonder Axon -->
+                <div class="group rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between">
+                    <div class="relative h-64 overflow-hidden bg-brand-pale">
+                        <img src="/assets/imagesfromsite/wonderaxon/axon-hero-model-BiGgNxWR.png" alt="Wonder Axon Body Contouring" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
+                        <span class="absolute top-4 left-4 px-3 py-1 bg-white/20 backdrop-blur-md rounded-full text-[10px] uppercase tracking-widest text-white font-semibold">Triple Tech &bull; AMWC Winner</span>
+                    </div>
+                    <div class="p-8 flex-1 flex flex-col justify-between">
+                        <div>
+                            <h3 class="font-display text-2xl text-brand-deeper mb-3">Wonder® Axon</h3>
+                            <p class="text-brand-muted text-sm font-light leading-relaxed mb-6">
+                                60,000 supramaximal contractions &amp; synchronized radiofrequency across 6 muscle zones simultaneously in 25 minutes.
+                            </p>
+                        </div>
+                        <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                            <span class="text-xs text-brand-muted">Session: 25 Minutes</span>
+                            <a href="/wonder-axon-treatment" class="inline-flex items-center gap-2 text-accent font-semibold text-xs uppercase tracking-wider group-hover:gap-3 transition-all">
+                                Explore <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- 1: EmBody Sculpt -->
                 <div class="group rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between">
                     <div class="relative h-64 overflow-hidden bg-brand-pale">

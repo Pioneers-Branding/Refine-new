@@ -118,8 +118,13 @@ $pageDescription = "Take the first step towards your aesthetic transformation. P
                                                     <option value="sculptra">Sculptra Face Lift</option>
                                                 </optgroup>
                                                 <optgroup label="Laser & Body">
+                                                    <option value="wonder-axon">Wonder® Axon Body Contouring</option>
                                                     <option value="laser-hair">Laser Hair Removal</option>
                                                     <option value="body-contouring">Body Contouring</option>
+                                                </optgroup>
+                                                <optgroup label="Medical Weight Loss">
+                                                    <option value="allurion-weight-loss">Allurion® Gastric Balloon</option>
+                                                    <option value="semaglutide-ozempic">Semaglutide / Ozempic</option>
                                                 </optgroup>
                                                 <optgroup label="Medical Dermatology">
                                                     <option value="acne">Acne Care</option>

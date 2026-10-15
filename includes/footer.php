@@ -147,6 +147,8 @@
                     <li><a href="/pcdc-fat-dissolving" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Liposuction</a></li>
                     <li><a href="/body-contouring" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Mommy Makeover</a></li>
                     <li><a href="tummy-tuck" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Tummy Tuck</a></li>
+                    <li><a href="/wonder-axon-treatment" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Wonder® Axon Body Contouring</a></li>
+                    <li><a href="/allurion-weight-loss" class="text-white/55 hover:text-accent text-sm font-light transition-colors">Allurion® Gastric Balloon</a></li>
                 </ul>
             </div>
 

@@ -158,7 +158,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/Gastric%20Sleeve%20and%20Bypass-09.png" alt="Weight Loss" class="w-full aspect-video object-cover bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Weight Loss</h5>
                                 <div class="space-y-2">
-                                    <a href="/allurion-weight-loss" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Allurion</a>
+                                    <a href="/allurion-weight-loss" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Allurion® Gastric Balloon</a>
                                     <a href="/semaglutide-ozempic-weight-loss" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Semaglutide/Ozempic</a>
                                     <a href="/mounjaro" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Mounjaro</a>
                                     <a href="/gastric-sleeve-and-bypass-surgery" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">Gastric Sleeve and Bypass</a>
@@ -171,7 +171,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                                 <img src="/assets/imagesfromsite/Fat%20Dissolving-09.png" alt="Body Contouring" class="w-full aspect-video object-cover object-top bg-brand-faint/50 rounded-2xl mb-3" loading="lazy">
                                 <h5 class="font-display italic text-[11px] lg:text-xs text-accent font-semibold uppercase tracking-wider mb-4">Body Contouring</h5>
                                 <div class="space-y-2">
-                                    <a href="https://www.wonderaxon.com" target="_blank" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Wonderaxon</a>
+                                    <a href="/wonder-axon-treatment" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Wonder® Axon Body Contouring</a>
                                     <a href="/plastic-surgery" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight font-medium text-brand">Plastic Surgery</a>
                                     <a href="/cryolipolysis" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors">Cryolipolysis</a>
                                     <a href="/pcdc-fat-dissolving" class="block text-xs lg:text-sm text-gray-600 hover:text-brand transition-colors leading-tight">PCDC Fat Dissolving Injections</a>
@@ -388,7 +388,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                     </div>
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Weight Loss</p>
-                        <a href="/allurion-weight-loss" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Allurion</a>
+                        <a href="/allurion-weight-loss" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Allurion® Gastric Balloon</a>
                         <a href="/semaglutide-ozempic-weight-loss" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Semaglutide/Ozempic</a>
                         <a href="/mounjaro" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Mounjaro</a>
                         <a href="/gastric-sleeve-and-bypass-surgery" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Gastric Sleeve and Bypass</a>
@@ -397,7 +397,7 @@ if ($currentPath === '' || $currentPath === '/index' || $currentPath === '/index
                     <div>
                         <p class="text-accent/80 text-[10px] tracking-wider uppercase font-semibold mb-2">Body Contouring & Surgery</p>
                         <a href="/plastic-surgery" class="block font-body text-sm text-white/80 py-1 hover:text-accent font-medium">Plastic Surgery</a>
-                        <a href="https://www.wonderaxon.com" target="_blank" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Wonderaxon</a>
+                        <a href="/wonder-axon-treatment" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Wonder® Axon Body Contouring</a>
                         <a href="/cryolipolysis" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Cryolipolysis</a>
                         <a href="/pcdc-fat-dissolving" class="block font-body text-sm text-white/80 py-1 hover:text-accent">PCDC Fat Dissolving</a>
                         <a href="/tummy-tuck" class="block font-body text-sm text-white/80 py-1 hover:text-accent">Tummy Tuck / Abdominoplasty</a>

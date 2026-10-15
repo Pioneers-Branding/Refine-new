@@ -150,6 +150,48 @@ include 'includes/head.php'; ?>
                 </div>
             </div>
 
+            <!-- Body Contouring & Muscle Sculpting Category -->
+            <div class="mb-16">
+                <h3 class="font-display text-2xl text-brand-deeper border-b border-brand/10 pb-4 mb-6 flex items-center gap-3"><i class="fas fa-running text-accent"></i> Body Contouring &amp; Muscle Sculpting</h3>
+                <div class="bg-surface-warm rounded-3xl overflow-hidden shadow-sm border border-brand/5">
+                    <div class="flex justify-between items-center p-6 border-b border-brand/5 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Wonder® Axon Body Contouring</h4>
+                            <p class="text-xs text-brand-muted mt-1 font-light">60,000 supramaximal contractions &amp; synchronized RF across 6 muscle groups in 25 mins.</p>
+                        </div>
+                        <div class="font-display text-xl text-accent">From 450K / Session</div>
+                    </div>
+                    <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Wonder® Axon 6-Session Sculpt Package</h4>
+                            <p class="text-xs text-brand-muted mt-1 font-light">Comprehensive radical toning, core rehabilitation &amp; glute lifting protocol.</p>
+                        </div>
+                        <div class="font-display text-xl text-brand-deeper">Package Discount</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Medical Weight Loss Category -->
+            <div class="mb-16">
+                <h3 class="font-display text-2xl text-brand-deeper border-b border-brand/10 pb-4 mb-6 flex items-center gap-3"><i class="fas fa-weight text-accent"></i> Medical Weight Loss</h3>
+                <div class="bg-surface-warm rounded-3xl overflow-hidden shadow-sm border border-brand/5">
+                    <div class="flex justify-between items-center p-6 border-b border-brand/5 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Allurion® Gastric Balloon Programme</h4>
+                            <p class="text-xs text-brand-muted mt-1 font-light">Swallowable balloon, connected scale, watch, app & 6-month clinical nutrition coaching.</p>
+                        </div>
+                        <div class="font-display text-xl text-brand-deeper">Consultation</div>
+                    </div>
+                    <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Semaglutide / Ozempic® Program</h4>
+                            <p class="text-xs text-brand-muted mt-1 font-light">Physician-managed GLP-1 weight loss therapy and metabolic support.</p>
+                        </div>
+                        <div class="font-display text-xl text-brand-deeper">Consultation</div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </section>
 

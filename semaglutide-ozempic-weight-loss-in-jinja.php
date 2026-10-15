@@ -1,11 +1,11 @@
 <?php
 $pageCategory = "Medical Weight Loss";
-$pageTitle = "Semaglutide & Ozempic Weight Loss in Jinja";
-$pageDescription = "Doctor-supervised medical weight loss with semaglutide (GLP-1) injections — the breakthrough treatment for sustainable, significant weight loss.";
-$metaTitle = "Semaglutide / Ozempic Weight Loss Treatment in Jinja | Refine Clinic";
-$metaDescription = "Seeking semaglutide / ozempic weight loss treatment in Jinja? Refine Skin & Body Clinic offers advanced treatments to deeply cleanse, hydrate, and rejuvenate your skin.";
+$pageTitle = "Semaglutide & Ozempic® Weight Loss in Jinja";
+$pageDescription = "Physician-supervised medical weight loss with Semaglutide (Ozempic® / Wegovy®) GLP-1 receptor agonist therapy. Clinically proven 15-20% average body weight loss with metabolic and cardiovascular protection.";
+$metaTitle = "Ozempic & Semaglutide Medical Weight Loss in Jinja | Refine Clinic";
+$metaDescription = "Advanced Semaglutide weight management program for patients traveling from Jinja. Full physician oversight, blood biomarker tracking, and personalized dosing.";
 $canonicalUrl = "https://refineskinandbody.com/semaglutide-ozempic-weight-loss-in-jinja";
-$metaKeywords = "Semaglutide / Ozempic Weight Loss in Jinja, Semaglutide / Ozempic Weight Loss treatment in Kampal";
+$metaKeywords = "Semaglutide in Jinja, Ozempic Jinja, Wegovy Uganda, medical weight loss Jinja, GLP-1 injections Kampala, obesity doctor Uganda, Dr Chirag Kotecha weight loss";
 ?>
 <?php include 'includes/head.php'; ?>
 <?php include 'includes/header.php'; ?>
@@ -18,12 +18,12 @@ $metaKeywords = "Semaglutide / Ozempic Weight Loss in Jinja, Semaglutide / Ozemp
             <div class="flex items-center gap-2">
                 <a href="/" class="hover:text-accent transition-colors">Home</a>
                 <span class="text-gray-300">/</span>
-                <a href="/semaglutide-ozempic-weight-loss" class="hover:text-accent font-semibold text-brand-deeper transition-colors">Semaglutide Ozempic Weight Loss</a>
+                <a href="/semaglutide-ozempic-weight-loss" class="hover:text-accent font-semibold text-brand-deeper transition-colors">Semaglutide / Ozempic</a>
                 <span class="text-gray-300">/</span>
                 <span class="text-accent font-medium">Jinja Location</span>
             </div>
             <a href="/semaglutide-ozempic-weight-loss" class="inline-flex items-center gap-1.5 text-accent font-semibold hover:underline">
-                <span>View Main Semaglutide Ozempic Weight Loss Page</span>
+                <span>View Main Semaglutide Page</span>
                 <i class="fas fa-arrow-right text-[10px]"></i>
             </a>
         </div>
@@ -31,9 +31,40 @@ $metaKeywords = "Semaglutide / Ozempic Weight Loss in Jinja, Semaglutide / Ozemp
 
     <?php include 'includes/page-hero.php'; ?>
 
-    <!-- What is Semaglutide/Ozempic? -->
+    <!-- ============================================
+         CLINICAL BENCHMARKS STRIP (FROM STEP & SELECT TRIALS)
+         ============================================ -->
+    <section class="py-10 bg-brand-deeper text-white relative overflow-hidden border-y border-white/10">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center divide-y md:divide-y-0 md:divide-x divide-white/10">
+                <div class="pt-4 md:pt-0">
+                    <p class="font-display text-4xl lg:text-5xl text-accent font-light mb-1">~15-20%</p>
+                    <p class="text-xs uppercase tracking-widest text-white/70 font-medium">Mean Body Weight Loss</p>
+                    <p class="text-[11px] text-white/40 mt-1">STEP Clinical Trial Benchmark</p>
+                </div>
+                <div class="pt-4 md:pt-0">
+                    <p class="font-display text-4xl lg:text-5xl text-accent font-light mb-1">88.7%</p>
+                    <p class="text-xs uppercase tracking-widest text-white/70 font-medium">Achieved &ge;5% Weight Loss</p>
+                    <p class="text-[11px] text-white/40 mt-1">Significant Metabolic Shift</p>
+                </div>
+                <div class="pt-4 md:pt-0">
+                    <p class="font-display text-4xl lg:text-5xl text-accent font-light mb-1">20% MACE</p>
+                    <p class="text-xs uppercase tracking-widest text-white/70 font-medium">Cardiovascular Risk Reduction</p>
+                    <p class="text-[11px] text-white/40 mt-1">SELECT Landmark 17,604 Trial</p>
+                </div>
+                <div class="pt-4 md:pt-0">
+                    <p class="font-display text-4xl lg:text-5xl text-accent font-light mb-1">Once-Weekly</p>
+                    <p class="text-xs uppercase tracking-widest text-white/70 font-medium">Subcutaneous Micro-Dose</p>
+                    <p class="text-[11px] text-white/40 mt-1">Doctor Titrated &amp; Monitored</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
+         WHAT IS SEMAGLUTIDE - CLINICAL OVERVIEW
+         ============================================ -->
     <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden">
-        <!-- Abstract gradient orbs -->
         <div class="absolute top-0 right-0 w-[600px] h-[600px] bg-accent/10 rounded-full blur-[120px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
         <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
         
@@ -42,618 +73,558 @@ $metaKeywords = "Semaglutide / Ozempic Weight Loss in Jinja, Semaglutide / Ozemp
                 <div class="gs-reveal-text">
                     <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 text-accent font-body text-xs tracking-[0.2em] uppercase mb-6 font-semibold border border-accent/20">
                         <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
-                        Premium Semaglutide/Ozempic Weight Loss
+                        Physician-Led GLP-1 Therapy &bull; Refine Medical
                     </div>
-                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">What is <br/><i class="text-accent font-light">Semaglutide/Ozempic?</i></h2>
-                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-10 max-w-xl">
-                        Semaglutide, commercially known as Ozempic, is a game-changing medication primarily designed for Type 2 Diabetes management. It belongs to the GLP-1 receptor agonists class of drugs, which influence the body's insulin production and glucagon secretion. However, a notable side effect – appetite suppression – has pivoted its use towards weight loss. When combined with a healthy lifestyle, Semaglutide/Ozempic can offer impressive weight loss outcomes, making it a valuable tool in the fight against obesity. So for anyone struggling to lose weight, seeking to achieve excess abdominal fat removal, this is a solution for you.
+                    <h2 class="text-section font-display text-brand-deeper mb-6 leading-[1.1]">
+                        What is <br/><i class="text-accent font-light">Semaglutide / Ozempic®?</i>
+                    </h2>
+                    <p class="text-brand-muted font-body text-lg font-light leading-relaxed mb-6">
+                        <strong>Semaglutide</strong> is a synthetic glucagon-like peptide-1 receptor agonist (GLP-1 RA) originally developed by Novo Nordisk (known internationally under the brand names <em>Ozempic®</em> and <em>Wegovy®</em>). At Refine Clinic in Jinja, Semaglutide is administered under strict physician guidance as a transformative medical weight-loss therapy for patients dealing with obesity, metabolic syndrome, or stubborn weight plateaus.
                     </p>
                     
-                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[16/10] sm:aspect-[4/3] w-full max-w-xl lg:max-w-none mx-auto gs-reveal-img-group group border border-brand/5">
-                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent z-10 opacity-60 group-hover:opacity-40 transition-opacity duration-700 pointer-events-none"></div>
-                        <img src="/assets/images/services/body-contouring/semaglutide-09.png" alt="Semaglutide Ozempic Weight Loss at Refine Skin and Body Clinic." class="w-full h-full object-cover gs-reveal-img filter grayscale-[0.2] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000" loading="lazy">
+                    <div class="space-y-4 mb-8">
+                        <div class="flex items-start gap-4 p-4 rounded-2xl bg-white border border-brand/5 shadow-sm">
+                            <div class="w-10 h-10 rounded-xl bg-accent/10 flex items-center justify-center text-accent text-lg flex-shrink-0">
+                                <i class="fas fa-brain"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-heading font-semibold text-brand-deeper text-base">Hypothalamic Appetite &amp; "Food Noise" Suppression</h4>
+                                <p class="text-xs text-brand-muted leading-relaxed">Semaglutide crosses into the central nervous system to target the hypothalamus, turning down constant food cravings, emotional snacking impulses, and chronic hunger signals.</p>
+                            </div>
+                        </div>
+
+                        <div class="flex items-start gap-4 p-4 rounded-2xl bg-white border border-brand/5 shadow-sm">
+                            <div class="w-10 h-10 rounded-xl bg-accent/10 flex items-center justify-center text-accent text-lg flex-shrink-0">
+                                <i class="fas fa-hourglass-half"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-heading font-semibold text-brand-deeper text-base">Delayed Gastric Emptying</h4>
+                                <p class="text-xs text-brand-muted leading-relaxed">Slows the rate at which food leaves the stomach, prolonging post-meal satiety and fullness so smaller, nutrient-dense portions satisfy you completely for hours.</p>
+                            </div>
+                        </div>
+
+                        <div class="flex items-start gap-4 p-4 rounded-2xl bg-white border border-brand/5 shadow-sm">
+                            <div class="w-10 h-10 rounded-xl bg-accent/10 flex items-center justify-center text-accent text-lg flex-shrink-0">
+                                <i class="fas fa-heartbeat"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-heading font-semibold text-brand-deeper text-base">Insulin Sensitivity &amp; Cardiovascular Protection</h4>
+                                <p class="text-xs text-brand-muted leading-relaxed">Stimulates glucose-dependent insulin secretion, suppresses glucagon, dramatically improves HbA1c, and delivers a clinically proven 20% reduction in major adverse cardiac events.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="p-5 rounded-2xl bg-brand-deeper text-white flex items-center justify-between">
+                        <div>
+                            <p class="text-xs uppercase tracking-wider text-accent font-semibold">Weekly Micro-Injection Protocol</p>
+                            <p class="font-heading text-lg font-light text-white/90">Gradual Dose Escalation for Maximum Comfort</p>
+                        </div>
+                        <a href="#book-consultation" class="px-5 py-2.5 rounded-full bg-accent hover:bg-white text-brand-deeper text-xs font-semibold uppercase tracking-wider transition-colors shadow">
+                            Start Program
+                        </a>
                     </div>
                 </div>
 
                 <div class="relative">
-                    <!-- Subtle timeline connector -->
-                    <div class="absolute left-8 top-10 bottom-10 w-px bg-gradient-to-b from-brand/5 via-accent/30 to-brand/5 hidden sm:block"></div>
-                    <div class="space-y-8 relative z-10">
-                        <h3 class="text-section font-display text-brand-deeper mb-10 pl-0 sm:pl-24">The <i class="text-accent font-light">Process</i></h3>
-                        
-                        <!-- Step 1 -->
-                        <div class="relative flex items-start gap-8 group">
-                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
-                                <span class="text-accent font-display text-2xl">1</span>
-                            </div>
-                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
-                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">1.</span> Consultation
-                                </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Discuss your aesthetic goals with Dr. Chirag and evaluate if this non-invasive treatment perfectly aligns with your desired profile.</p>
-                            </div>
+                    <div class="relative rounded-[2.5rem] overflow-hidden shadow-2xl aspect-[4/3] w-full max-w-xl mx-auto border border-brand/5 group">
+                        <img src="/assets/imagesfromsite/semaglutide/wegovy-patient-hero.png" alt="Semaglutide Medical Weight Loss at Refine Clinic" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent pointer-events-none"></div>
+                        <div class="absolute bottom-6 left-6 right-6 text-white z-10">
+                            <span class="inline-block px-3 py-1 rounded-full bg-accent/90 text-brand-deeper text-[10px] uppercase font-bold tracking-widest mb-2">Clinical Protocol</span>
+                            <h4 class="font-display text-xl text-white">Novo Nordisk Scientific Standard</h4>
+                            <p class="text-xs text-white/80 font-light">Administered by Medical Aesthetic Doctors &amp; Certified Nutritionists</p>
                         </div>
+                    </div>
 
-                        <!-- Step 2 -->
-                        <div class="relative flex items-start gap-8 group">
-                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
-                                <span class="text-accent font-display text-2xl">2</span>
-                            </div>
-                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
-                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">2.</span> Preparation
-                                </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">We prioritize your comfort. A premium topical numbing cream is applied to ensure a completely painless and relaxing experience.</p>
-                            </div>
+                    <!-- Floating Pen Graphic -->
+                    <div class="absolute -bottom-6 -left-6 bg-white p-5 rounded-2xl shadow-xl border border-brand/10 hidden sm:flex items-center gap-4 max-w-xs">
+                        <div class="w-12 h-12 rounded-xl bg-accent/10 flex items-center justify-center text-accent text-2xl flex-shrink-0">
+                            <i class="fas fa-syringe"></i>
                         </div>
-
-                        <!-- Step 3 -->
-                        <div class="relative flex items-start gap-8 group">
-                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
-                                <span class="text-accent font-display text-2xl">3</span>
-                            </div>
-                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
-                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
-                                </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
-                            </div>
+                        <div>
+                            <p class="font-heading font-semibold text-brand-deeper text-sm">Pre-Filled Micro-Needle Pen</p>
+                            <p class="text-[11px] text-brand-muted">Virtually painless once-weekly self-administration</p>
                         </div>
-
-                        <!-- Step 4 -->
-                        <div class="relative flex items-start gap-8 group">
-                            <div class="w-16 h-16 rounded-full bg-white shadow-[0_0_30px_rgba(var(--color-accent),0.1)] border border-brand/5 group-hover:border-accent transition-all duration-500 flex items-center justify-center flex-shrink-0 z-10 hidden sm:flex transform group-hover:scale-110">
-                                <span class="text-accent font-display text-2xl">4</span>
-                            </div>
-                            <div class="glass-panel p-8 rounded-[2rem] bg-white border border-brand/5 shadow-sm hover:shadow-[0_10px_40px_rgba(0,0,0,0.04)] hover:border-accent/20 transition-all duration-500 flex-1 transform hover:-translate-y-1">
-                                <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
-                                    <span class="sm:hidden text-accent font-display text-2xl">4.</span> Post-Treatment
-                                </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Walk out immediately with your stunning, refined new profile.</p>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Conditions Treated -->
-    <section class="py-16 lg:py-24 bg-white relative">
-    <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
-      <div class="mb-12 gs-reveal-text text-center max-w-3xl mx-auto">
-        <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Target Areas</span>
-        <h3 class="text-section font-display text-brand-deeper mb-6">Conditions <i class="text-accent font-light">Treated</i></h3>
-        <p class="text-brand-muted font-body text-xl font-light leading-relaxed">
-          This treatment is remarkably versatile. Explore how this non-invasive technique addresses diverse aesthetic concerns to restore balance and harmony.
-        </p>
-      </div>
-
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 gs-stagger-bento">
-        <!-- 1: Large Span -->
-        <div class="md:col-span-2 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 overflow-hidden relative cursor-pointer">
-          <div class="absolute right-0 bottom-0 w-64 h-64 bg-accent/5 rounded-full blur-[80px] group-hover:bg-accent/15 transition-colors duration-700"></div>
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Obesity</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed max-w-3xl relative z-10">Counteract the health challenges of excessive weight with Semaglutide/Ozempic. Our expert team utilizes advanced, evidence-based techniques to address this effectively. We personalize every step of the process to ensure optimal, long-lasting results that harmonize with your natural aesthetics and restore your confidence.</p>
-        
-          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
-            <i class="fas fa-arrow-right -rotate-45"></i>
-          </div>
-        </div>
-        
-        <!-- 2 -->
-        <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Type 2 Diabetes</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">By addressing insulin resistance with Semaglutide/Ozempic, manage blood sugar levels better.</p>
-        
-          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
-            <i class="fas fa-arrow-right -rotate-45"></i>
-          </div>
-        </div>
-        
-        <!-- 3 -->
-        <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Heart Disease Risk</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">With Semaglutide/Ozempic, reduce the risks associated with obesity-related cardiac issues.</p>
-        
-          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
-            <i class="fas fa-arrow-right -rotate-45"></i>
-          </div>
-        </div>
-        
-        <!-- 4 -->
-        <div class="group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Metabolic Syndrome</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Address a cluster of conditions—including high blood pressure, high blood sugar, and abnormal cholesterol levels—using Semaglutide/Ozempic.</p>
-        
-          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
-            <i class="fas fa-arrow-right -rotate-45"></i>
-          </div>
-        </div>
-        
-        <!-- 5 -->
-        <div class="md:col-span-2 lg:col-span-1 group glass-panel p-6 lg:p-8 rounded-3xl bg-[#faf9f6] border border-brand/5 hover:border-accent/30 hover:shadow-[0_20px_50px_rgba(var(--color-accent),0.08)] transition-all duration-500 relative cursor-pointer">
-          <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-2 relative z-10 pr-12">Post-Surgical Fixes</h4>
-          <p class="text-base text-brand-muted font-light leading-relaxed relative z-10">Advanced aesthetic treatments tailored to your unique needs, helping you achieve your desired results with precision and care.</p>
-        
-          <div class="absolute top-6 right-6 lg:top-8 lg:right-8 w-10 h-10 rounded-full bg-brand/5 flex items-center justify-center text-accent opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-x-2 group-hover:translate-x-0 z-20">
-            <i class="fas fa-arrow-right -rotate-45"></i>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-    <!-- Why Opt for Dr. Chirag & Myths -->
-    <section class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
-        <div class="absolute inset-0 bg-[url('/assets/imagesfromsite/pattern.svg')] bg-repeat opacity-[0.03]"></div>
-        <div class="absolute top-0 right-0 w-[800px] h-[800px] bg-accent/20 rounded-full blur-[150px] -translate-y-1/2 translate-x-1/3 pointer-events-none"></div>
-        <div class="absolute bottom-0 left-0 w-[600px] h-[600px] bg-brand/40 rounded-full blur-[150px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
-        
-        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
-            <div class="grid lg:grid-cols-12 gap-16 xl:gap-24 items-center">
-                
-                <!-- Why Dr Chirag -->
-                <div class="lg:col-span-7">
-                    <div class="mb-12">
-                        <span class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 text-white font-body text-xs tracking-[0.2em] uppercase mb-8 font-semibold backdrop-blur-md border border-white/10">
-                            Quality & Excellence
-                        </span>
-                        
-                        <div class="flex flex-col sm:flex-row gap-8 items-start sm:items-center">
-                            <div class="w-32 h-32 sm:w-40 sm:h-40 rounded-full overflow-hidden flex-shrink-0 border-[3px] border-accent/40 shadow-[0_0_40px_rgba(var(--color-accent),0.3)] relative group">
-                                <div class="absolute inset-0 bg-accent/20 group-hover:opacity-0 transition-opacity duration-500 z-10"></div>
-                                <img src="/assets/imagesfromsite/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover filter grayscale-[0.1] group-hover:grayscale-0 transition-all duration-700 scale-100 group-hover:scale-110">
-                            </div>
-                            <div>
-                                <h3 class="text-section font-display leading-tight m-0 drop-shadow-lg">Why Opt for <br/><i class="text-accent font-light">Dr. Chirag?</i></h3>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="space-y-8 pl-0 sm:pl-8 border-l border-white/10 ml-0 sm:ml-20">
-                        <div class="flex gap-6 items-start group">
-                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
-                                <i class="fas fa-eye"></i>
-                            </div>
-                            <div>
-                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Artistic Vision</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A keen, masterful aesthetic eye ensuring beautifully harmonious and perfectly proportioned results.</p>
-                            </div>
-                        </div>
-                        
-                        <div class="flex gap-6 items-start group">
-                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
-                                <i class="fas fa-shield-alt"></i>
-                            </div>
-                            <div>
-                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Safety First</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using only premium, high-quality, FDA-approved dermal fillers.</p>
-                            </div>
-                        </div>
-
-                        <div class="flex gap-6 items-start group">
-                            <div class="w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center flex-shrink-0 text-accent text-2xl group-hover:bg-accent group-hover:text-white group-hover:border-accent transition-all duration-300 shadow-lg">
-                                <i class="fas fa-user-md"></i>
-                            </div>
-                            <div>
-                                <h4 class="font-heading font-semibold text-xl mb-2 text-white">Vast Experience</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">A proven track record with thousands of successful treatments performed by our expert team.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Myths and Facts -->
-                <div class="lg:col-span-5 relative mt-12 lg:mt-0">
-                    <!-- Glow behind card -->
-                    <div class="absolute inset-0 bg-gradient-to-br from-accent/30 to-brand-light/30 blur-3xl transform scale-90"></div>
-                    
-                    <div class="glass-panel p-10 lg:p-12 rounded-[3rem] bg-[#1a2333]/60 backdrop-blur-2xl border border-white/10 shadow-2xl relative overflow-hidden h-full flex flex-col justify-center transform hover:-translate-y-2 transition-transform duration-500">
-                        <div class="absolute top-0 right-0 w-40 h-40 bg-accent/40 blur-[60px] rounded-full"></div>
-                        
-                        <div class="flex items-center gap-4 mb-10 relative z-10">
-                            <div class="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center text-accent text-xl border border-accent/20">
-                                <i class="fas fa-lightbulb"></i>
-                            </div>
-                            <h3 class="text-section font-display m-0"><i class="text-accent font-light">Myths</i> & Facts</h3>
-                        </div>
-                        
-                        <div class="space-y-8 relative z-10">
-                            <div class="bg-white/5 p-6 rounded-3xl border border-white/5 shadow-inner">
-                                <div class="flex items-center gap-3 mb-3 text-white/40">
-                                    <i class="fas fa-times-circle text-lg"></i>
-                                    <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
-                                </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Semaglutide/Ozempic is just another quick-fix diet pill."</p>
-                            </div>
-                            
-                            <div class="relative py-2">
-                                <div class="absolute inset-0 flex items-center justify-center">
-                                    <div class="w-10 h-10 rounded-full bg-[#1a2333] border border-white/10 flex items-center justify-center z-10 shadow-lg">
-                                        <i class="fas fa-arrow-down text-accent"></i>
-                                    </div>
-                                </div>
-                                <div class="h-px w-full bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
-                            </div>
-                            
-                            <div class="bg-accent/10 p-6 rounded-3xl border border-accent/20 shadow-lg relative overflow-hidden">
-                                <div class="absolute top-0 right-0 w-20 h-20 bg-accent/30 blur-[30px] rounded-full pointer-events-none"></div>
-                                <div class="flex items-center gap-3 mb-3 text-accent relative z-10">
-                                    <i class="fas fa-check-circle text-lg"></i>
-                                    <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
-                                </div>
-                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">Semaglutide/Ozempic is a clinically tested medication, initially designed for Type 2 Diabetes, which has shown significant weight loss results when combined with a balanced diet and exercise.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-
-    
     <!-- ============================================
-         HAPPY PATIENTS / REVIEWS
+         REAL PATIENT TRANSFORMATIONS (BEFORE & AFTER)
          ============================================ -->
-    <section id="patient-reviews" class="py-16 lg:py-24 bg-surface-cool relative overflow-hidden">
-        <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-accent/5 rounded-full blur-[100px] -translate-y-1/2 translate-x-1/4 pointer-events-none"></div>
-        <div class="absolute bottom-0 left-0 w-[500px] h-[500px] bg-brand/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none"></div>
-
-        <div class="max-w-[1600px] mx-auto px-6 lg:px-10 relative z-10">
-            <!-- Section Header -->
-            <div class="text-center max-w-3xl mx-auto mb-20 gs-reveal-text">
-                <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand/5 border border-brand/10 mb-6">
-                    <span class="text-accent font-body text-[10px] tracking-[0.25em] uppercase font-semibold">Testimonials</span>
-                </div>
-                <h2 class="font-display text-section text-brand-deeper leading-tight mb-6">
-                    Our Happy <i class="bg-clip-text text-transparent bg-gradient-to-r from-brand to-brand-light font-light">Patients.</i>
-                </h2>
+    <section class="py-16 lg:py-24 bg-white relative">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+            <div class="text-center max-w-3xl mx-auto mb-16">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Verified Weight Loss Outcomes</span>
+                <h3 class="text-section font-display text-brand-deeper mb-6">
+                    Real Transformations <i class="text-accent font-light">&amp; Documented Progress</i>
+                </h3>
                 <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
-                    Discover why we are the top-rated clinic for Semaglutide / Ozempic Weight Loss treatments. Here is what our patients say about their body contouring and weight loss journey.
+                    Explore documented weight loss milestones from patients undergoing physician-supervised medical weight management at Refine Clinic.
                 </p>
             </div>
 
-            <!-- Editorial Swiper Carousel -->
-            <div class="testimonials-swiper swiper gs-reveal-fade">
-                <div class="swiper-wrapper">
-
-                    <!-- Review 1 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I had the most amazing experience getting a <strong class="text-brand font-semibold">Semaglutide & Ozempic Weight Loss in Jinja</strong> at Refine Clinic. The staff is professional, and the results are truly life-changing!
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">N</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Nalule H.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
+            <!-- Transformation Gallery Grid -->
+            <div class="grid md:grid-cols-3 gap-8">
+                <!-- Case 1 -->
+                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between group">
+                    <div class="relative aspect-[4/3] overflow-hidden bg-brand-deeper">
+                        <img src="/assets/imagesfromsite/allurion/allurion-patient-dot.jpg" alt="Patient Dot Weight Loss Transformation" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
+                        <span class="absolute top-4 left-4 px-3 py-1 bg-accent/90 text-brand-deeper text-[10px] uppercase font-bold tracking-widest rounded-full">
+                            -21.0 kg (-3.3 Stone)
+                        </span>
+                        <span class="absolute bottom-4 left-4 text-xs font-semibold text-white">Dot &bull; 12-Week Milestone</span>
+                    </div>
+                    <div class="p-6">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Visceral Belly Fat &amp; Waist Contour</h4>
+                        <p class="text-brand-muted text-xs font-light leading-relaxed mb-4">
+                            "Before starting, food noise and evening cravings ruled my days. Within 2 weeks of clinical dosing, I felt comfortably in control. Losing 21 kg completely restored my energy and health."
+                        </p>
+                        <div class="flex items-center justify-between text-[11px] text-accent font-semibold pt-3 border-t border-brand/5">
+                            <span>BMI: 34.2 &rarr; 26.5</span>
+                            <span>Waist: -14 cm</span>
                         </div>
                     </div>
-
-                    <!-- Review 2 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Best <strong class="text-brand font-semibold">Semaglutide / Ozempic Weight Loss treatment in Jinja</strong> by far! The clinic is beautiful, and the specialists are so supportive and knowledgeable.
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">P</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Peter O.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Review 3 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Refine Clinic has set a new standard for quality care. The treatment process was smooth, comfortable, and highly effective.
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">B</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Brenda A.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Review 4 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                If you're looking for real results, this is the place. I feel so much more confident in my own body, and the progress has been steady and visible.
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">M</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Michael K.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Review 5 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Absolutely loved my <strong class="text-brand font-semibold">Semaglutide / Ozempic Weight Loss treatment in Jinja</strong>! The specialists guided me through every step, and the progress has exceeded my expectations.
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">S</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Sarah N.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Review 6 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                The ultimate destination for body contouring and wellness. The quality of care at Refine is unmatched, helping me achieve my body goals.
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">D</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">David M.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Review 7 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I feel incredibly healthy and happy. This was my first experience with <strong class="text-brand font-semibold">Semaglutide / Ozempic Weight Loss in Jinja</strong>, and the results exceeded my expectations. Highly recommend!
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">F</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Fatuma S.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Review 8 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                I noticed visible improvements and tone enhancements very quickly. The staff explained every step clearly and made me feel so comfortable.
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">J</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Joseph L.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Review 9 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Refine is the absolute best for <strong class="text-brand font-semibold">Semaglutide / Ozempic Weight Loss in Jinja</strong>. The clinic uses state-of-the-art technology, and their customized plan made all the difference.
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">G</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Grace T.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Review 10 -->
-                    <div class="swiper-slide w-full md:w-[600px]">
-                        <div class="testimonial-slide-inner relative">
-                            <span class="quote-mark">"</span>
-                            <div class="flex items-center gap-1 text-accent text-sm mb-8 relative z-10">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <h4 class="font-display text-xl lg:text-2xl text-brand-deeper leading-snug mb-8 relative z-10 italic font-light">
-                                Highly professional service! The treatment has completely boosted my self-confidence. Perfect for anyone looking to achieve their ideal shape.
-                            </h4>
-                            <div class="flex items-center gap-4 relative z-10 border-t border-brand/5 pt-6">
-                                <div class="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white font-display text-lg">A</div>
-                                <div>
-                                    <p class="font-heading font-semibold text-brand-deeper text-sm tracking-wide">Alex R.</p>
-                                    <p class="text-xs text-brand-muted font-body font-light">Verified Patient</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
 
-                <!-- Custom Navigation / Pagination -->
-                <div class="flex items-center justify-center gap-6 mt-12">
-                    <div class="testi-prev w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
-                        <i class="fas fa-chevron-left text-sm"></i>
+                <!-- Case 2 -->
+                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between group">
+                    <div class="relative aspect-[4/3] overflow-hidden bg-brand-deeper">
+                        <img src="/assets/imagesfromsite/allurion/allurion-patient-jacques.jpg" alt="Patient Jacques Weight Loss Transformation" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
+                        <span class="absolute top-4 left-4 px-3 py-1 bg-accent/90 text-brand-deeper text-[10px] uppercase font-bold tracking-widest rounded-full">
+                            -20.3 kg (-3.2 Stone)
+                        </span>
+                        <span class="absolute bottom-4 left-4 text-xs font-semibold text-white">Jacques &bull; 6-Month Program</span>
                     </div>
-                    <div class="swiper-pagination !relative !bottom-0 !w-auto"></div>
-                    <div class="testi-next w-12 h-12 rounded-full border border-brand/20 flex items-center justify-center text-brand cursor-pointer hover:bg-brand hover:text-white transition-all">
-                        <i class="fas fa-chevron-right text-sm"></i>
+                    <div class="p-6">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Pre-Diabetes Reversal &amp; Liver Fat</h4>
+                        <p class="text-brand-muted text-xs font-light leading-relaxed mb-4">
+                            "My blood sugar had crept into pre-diabetic territory and blood pressure was high. Under Dr. Chirag's protocol, I shed over 20 kg, dropped my HbA1c to normal, and feel 15 years younger."
+                        </p>
+                        <div class="flex items-center justify-between text-[11px] text-accent font-semibold pt-3 border-t border-brand/5">
+                            <span>HbA1c: 6.4% &rarr; 5.2%</span>
+                            <span>BP: 145/95 &rarr; 118/78</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Case 3 -->
+                <div class="glass-panel rounded-3xl bg-[#faf9f6] border border-brand/5 overflow-hidden shadow-sm hover:shadow-2xl hover:border-accent/30 transition-all duration-500 flex flex-col justify-between group">
+                    <div class="relative aspect-[4/3] overflow-hidden bg-brand-deeper">
+                        <img src="/assets/imagesfromsite/allurion/allurion-patient-georgie.jpg" alt="Patient Georgie Weight Loss Transformation" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-brand-deeper/80 via-transparent to-transparent"></div>
+                        <span class="absolute top-4 left-4 px-3 py-1 bg-accent/90 text-brand-deeper text-[10px] uppercase font-bold tracking-widest rounded-full">
+                            -17.2 kg (-2.7 Stone)
+                        </span>
+                        <span class="absolute bottom-4 left-4 text-xs font-semibold text-white">Georgie &bull; 16-Week Program</span>
+                    </div>
+                    <div class="p-6">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-2">Postpartum Weight Reset</h4>
+                        <p class="text-brand-muted text-xs font-light leading-relaxed mb-4">
+                            "Post-baby weight wouldn't budge no matter how much cardio I did. Semaglutide paired with Refine Clinic's nutrition guidance broke through my plateau without extreme starvation."
+                        </p>
+                        <div class="flex items-center justify-between text-[11px] text-accent font-semibold pt-3 border-t border-brand/5">
+                            <span>Total Loss: 17.2 kg</span>
+                            <span>Dress Size: 16 &rarr; 10</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Lifestyle & Community Photo Banner -->
+            <div class="mt-12 rounded-[2.5rem] bg-[#faf9f6] border border-brand/5 p-8 lg:p-12 overflow-hidden relative">
+                <div class="grid lg:grid-cols-12 gap-8 items-center">
+                    <div class="lg:col-span-7">
+                        <span class="inline-block px-3 py-1 rounded-full bg-accent/10 text-accent font-body text-[10px] tracking-widest uppercase font-semibold mb-3 border border-accent/20">
+                            Beyond Just The Scale
+                        </span>
+                        <h4 class="font-display text-2xl lg:text-3xl text-brand-deeper mb-4">
+                            A Full Metabolic <i class="text-accent font-light">Lifestyle Reset</i>
+                        </h4>
+                        <p class="text-brand-muted text-sm font-light leading-relaxed mb-6">
+                            At Refine Clinic, weight loss is never just about handing you a prescription. Our medical team pairs GLP-1 therapy with <strong>lean muscle preservation protocols</strong> (including optional Wonder® Axon body sculpting), continuous dietary coaching by certified nutritionist Wendy Emyedu Ayayo, and regular blood biomarker checks to ensure your results stay permanent.
+                        </p>
+                        <div class="flex flex-wrap gap-4 text-xs font-medium text-brand-deeper">
+                            <span class="flex items-center gap-1.5"><i class="fas fa-check-circle text-accent"></i> Authentic Novo Nordisk Formulations</span>
+                            <span class="flex items-center gap-1.5"><i class="fas fa-check-circle text-accent"></i> Certified Cold-Chain Storage</span>
+                            <span class="flex items-center gap-1.5"><i class="fas fa-check-circle text-accent"></i> Full Metabolic Blood Work</span>
+                        </div>
+                    </div>
+                    <div class="lg:col-span-5 rounded-2xl overflow-hidden shadow-lg border border-brand/10">
+                        <img src="/assets/imagesfromsite/semaglutide/ozempic-people-lifestyle.png" alt="Patients Living Healthy and Happy" class="w-full h-full object-cover">
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- FAQ Block -->
-  <section class="py-16 lg:py-24 bg-[#faf9f6]">
-    <div class="max-w-[900px] mx-auto px-6">
-      <div class="text-center mb-16">
-        <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Answers</span>
-        <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
-        <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
-          Explore our comprehensive FAQ section for quick answers to common queries about Semaglutide Ozempic Weight Loss. Find the clarity you need without delay.
-        </p>
-      </div>
+    <!-- ============================================
+         THE 4-STEP REFINEMED CLINICAL PROTOCOL
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-[#faf9f6] relative">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+            <div class="text-center max-w-3xl mx-auto mb-16">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Clinical Pathway</span>
+                <h3 class="text-section font-display text-brand-deeper mb-6">
+                    Our 4-Step <i class="text-accent font-light">Weight Loss Journey</i>
+                </h3>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
+                    Designed by Dr. Chirag Kotecha to guarantee patient safety, minimize gastrointestinal adjustment side effects, and optimize steady fat reduction.
+                </p>
+            </div>
 
-      <div class="space-y-3">
-        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">1. What is the primary purpose of Semaglutide/Ozempic?</h4>
-            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-            </div>
-          </div>
-          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">While initially for Type 2 diabetes, its appetite-reducing properties made it a weight loss tool.</p>
-            </div>
-          </div>
-        </div>
-        
-        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">2. Are there side effects?</h4>
-            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-            </div>
-          </div>
-          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Some may experience digestive disturbances. Always discuss potential side effects with Dr. Kotecha.</p>
-            </div>
-          </div>
-        </div>
+            <div class="grid md:grid-cols-4 gap-6">
+                <!-- Step 1 -->
+                <div class="glass-panel p-8 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
+                    <div class="w-12 h-12 rounded-2xl bg-accent/10 text-accent font-display text-2xl flex items-center justify-center mb-6">1</div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3">Comprehensive Evaluation</h4>
+                    <p class="text-brand-muted text-xs leading-relaxed font-light">
+                        Full physician consultation including BMI assessment, blood pressure, fasting lipid panel, liver/kidney function tests, and personal/family health history.
+                    </p>
+                </div>
 
-        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">3. How long is the treatment course?</h4>
-            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-            </div>
-          </div>
-          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The duration varies based on individual needs, but regular monitoring ensures optimal results.</p>
-            </div>
-          </div>
-        </div>
+                <!-- Step 2 -->
+                <div class="glass-panel p-8 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
+                    <div class="w-12 h-12 rounded-2xl bg-accent/10 text-accent font-display text-2xl flex items-center justify-center mb-6">2</div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3">Micro-Dose Initiation</h4>
+                    <p class="text-brand-muted text-xs leading-relaxed font-light">
+                        Begin with a low introductory dose (0.25 mg weekly) to gently introduce your gastrointestinal system to GLP-1 signaling while avoiding nausea.
+                    </p>
+                </div>
 
-        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">4. Is it safe for everyone?</h4>
-            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
-            </div>
-          </div>
-          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Dr. Kotecha evaluates your health profile to ensure it's right for you.</p>
-            </div>
-          </div>
-        </div>
+                <!-- Step 3 -->
+                <div class="glass-panel p-8 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
+                    <div class="w-12 h-12 rounded-2xl bg-accent/10 text-accent font-display text-2xl flex items-center justify-center mb-6">3</div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3">Monthly Titration</h4>
+                    <p class="text-brand-muted text-xs leading-relaxed font-light">
+                        Dosing is systematically escalated (0.5 mg &rarr; 1.0 mg &rarr; 1.7 mg &rarr; 2.4 mg) on a 4-week cycle based on your personal tolerance and weight-loss rate.
+                    </p>
+                </div>
 
-        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">5. Do I need to combine it with diet and exercise?</h4>
-            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                <!-- Step 4 -->
+                <div class="glass-panel p-8 rounded-3xl bg-white border border-brand/5 hover:border-accent/30 shadow-sm transition-all duration-300">
+                    <div class="w-12 h-12 rounded-2xl bg-accent/10 text-accent font-display text-2xl flex items-center justify-center mb-6">4</div>
+                    <h4 class="font-heading font-semibold text-brand-deeper text-lg mb-3">Long-Term Maintenance</h4>
+                    <p class="text-brand-muted text-xs leading-relaxed font-light">
+                        Once goal weight is achieved, our medical team transitions you to a customized maintenance strategy or tapering program to permanently prevent weight regain.
+                    </p>
+                </div>
             </div>
-          </div>
-          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">Combine it with a balanced diet and regular exercise for best results.</p>
-            </div>
-          </div>
         </div>
+    </section>
 
-        <div class="glass-panel rounded-xl md:rounded-2xl overflow-hidden faq-item cursor-pointer group bg-white border border-brand/5 shadow-sm hover:shadow-xl hover:shadow-brand/5 hover:border-accent/30 transition-all duration-300">
-          <div class="px-4 py-3 md:px-5 md:py-4 lg:p-6 flex justify-between items-center transition-colors">
-            <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 md:pr-6 group-hover:text-accent transition-colors">6. What is the cost of Semaglutide Ozempic Weight Loss in Jinja?</h4>
-            <div class="w-8 h-8 md:w-10 md:h-10 rounded-full bg-surface-cool group-hover:bg-accent/10 flex items-center justify-center flex-shrink-0 transition-colors">
-              <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+    <!-- ============================================
+         CLINICAL DOSING SCHEDULE TABLE (FROM NOVO NORDISK)
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-white relative">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+            <div class="text-center max-w-3xl mx-auto mb-16">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Standard of Care</span>
+                <h3 class="text-section font-display text-brand-deeper mb-6">
+                    Novo Nordisk <i class="text-accent font-light">Dose Escalation Schedule</i>
+                </h3>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed">
+                    Semaglutide requires careful, structured dose titration to prevent gastrointestinal upset and build sustained metabolic tolerance.
+                </p>
             </div>
-          </div>
-          <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
-            <div class="px-4 pb-3 md:px-5 md:pb-4 lg:px-6 lg:pb-6">
-              <p class="text-brand-muted font-body text-sm leading-relaxed mt-0 border-t border-brand/5 pt-4">The actual cost will totally depend on your diagnosis, the severity of your condition, the amount and length of time required and your ultimate goals. The first step will be a consultation to define the treatment plan and then a cost can be accurately shared.</p>
+
+            <div class="overflow-x-auto rounded-3xl border border-brand/10 bg-[#faf9f6] shadow-xl">
+                <table class="w-full text-left border-collapse">
+                    <thead>
+                        <tr class="bg-brand-deeper text-white text-xs uppercase tracking-wider">
+                            <th class="p-6 font-semibold">Phase</th>
+                            <th class="p-6 font-semibold">Timeline</th>
+                            <th class="p-6 font-semibold text-accent">Weekly Subcutaneous Dose</th>
+                            <th class="p-6 font-semibold">Clinical Objective</th>
+                            <th class="p-6 font-semibold">Patient Experience</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-sm divide-y divide-brand/5 font-light">
+                        <tr class="hover:bg-white transition-colors">
+                            <td class="p-6 font-medium text-brand-deeper">Initiation Phase</td>
+                            <td class="p-6 text-brand-muted">Weeks 1 &ndash; 4</td>
+                            <td class="p-6 font-bold text-brand-deeper bg-accent/5">0.25 mg / week</td>
+                            <td class="p-6 text-brand-muted">Gastrointestinal tolerance and baseline receptor binding</td>
+                            <td class="p-6 text-brand-muted">Mild craving suppression, steady hunger reduction</td>
+                        </tr>
+                        <tr class="hover:bg-white transition-colors">
+                            <td class="p-6 font-medium text-brand-deeper">Step-Up Phase</td>
+                            <td class="p-6 text-brand-muted">Weeks 5 &ndash; 8</td>
+                            <td class="p-6 font-bold text-brand-deeper bg-accent/5">0.50 mg / week</td>
+                            <td class="p-6 text-brand-muted">Active weight reduction onset and glycemic stabilization</td>
+                            <td class="p-6 text-brand-muted">Significant drop in portion sizes, reduced snacking</td>
+                        </tr>
+                        <tr class="hover:bg-white transition-colors">
+                            <td class="p-6 font-medium text-brand-deeper">Therapeutic Phase</td>
+                            <td class="p-6 text-brand-muted">Weeks 9 &ndash; 12</td>
+                            <td class="p-6 font-bold text-brand-deeper bg-accent/5">1.0 mg / week</td>
+                            <td class="p-6 text-brand-muted">Substantial fat loss acceleration and metabolic reset</td>
+                            <td class="p-6 text-brand-muted">Rapid visceral fat clearance, clothes fitting noticeably looser</td>
+                        </tr>
+                        <tr class="hover:bg-white transition-colors">
+                            <td class="p-6 font-medium text-brand-deeper">Escalation Phase</td>
+                            <td class="p-6 text-brand-muted">Weeks 13 &ndash; 16</td>
+                            <td class="p-6 font-bold text-brand-deeper bg-accent/5">1.7 mg / week</td>
+                            <td class="p-6 text-brand-muted">Continued deep lipolysis for patients requiring higher control</td>
+                            <td class="p-6 text-brand-muted">High satiety, elimination of food obsession</td>
+                        </tr>
+                        <tr class="hover:bg-white transition-colors">
+                            <td class="p-6 font-medium text-brand-deeper">Full Maintenance Phase</td>
+                            <td class="p-6 text-brand-muted">Week 17+ Ongoing</td>
+                            <td class="p-6 font-bold text-accent bg-accent/10">2.4 mg / week</td>
+                            <td class="p-6 text-brand-muted">Full STEP trial dose for maximum weight loss &amp; MACE cardiac defense</td>
+                            <td class="p-6 text-brand-muted">Peak physical transformation, up to 15-20% TBWL sustained</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
-          </div>
         </div>
-      </div>
-    </div>
-  </section>
+    </section>
 
-    <script>
-        document.querySelectorAll('.faq-item').forEach(item => {
-            item.addEventListener('click', () => {
-                const isActive = item.classList.contains('active');
-                document.querySelectorAll('.faq-item').forEach(el => {
-                    el.classList.remove('active');
-                    el.querySelector('.faq-content').style.maxHeight = '0px';
-                });
-                if (!isActive) {
-                    item.classList.add('active');
-                    const content = item.querySelector('.faq-content');
-                    content.style.maxHeight = content.scrollHeight + 'px';
-                }
-            });
-        });
-    </script>
-    
-<?php include 'includes/locations-selector.php'; ?>
-    <?php include 'includes/appointment-form.php'; ?>
+    <!-- ============================================
+         SAFETY, CONTRAINDICATIONS & IMPORTANT SAFETY INFO
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="grid lg:grid-cols-12 gap-12 lg:gap-16 items-center">
+                <div class="lg:col-span-5 text-center lg:text-left">
+                    <div class="w-48 h-48 mx-auto lg:mx-0 rounded-full overflow-hidden border-4 border-accent/40 shadow-2xl mb-6 relative group">
+                        <img src="/assets/imagesfromsite/dr_chirag_kotecha.png" alt="Dr. Chirag Kotecha" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                    </div>
+                    <span class="inline-block px-4 py-1.5 rounded-full bg-white/10 text-accent font-body text-xs tracking-widest uppercase font-semibold mb-3">
+                        Medical Safety Leadership
+                    </span>
+                    <h3 class="font-display text-3xl text-white mb-2">Dr. Chirag Kotecha</h3>
+                    <p class="text-xs text-white/60 uppercase tracking-widest mb-4">Refine Skin &amp; Body Clinic &bull; Kampala, Uganda</p>
+                    <p class="text-sm text-white/80 font-light leading-relaxed mb-6">
+                        "Semaglutide is a powerful medical molecule that should never be purchased from unverified online vendors or administered without clinical lab monitoring. At Refine, our strict safety protocol screens out contraindications, balances thyroid health, and ensures authentic, temperature-controlled medication."
+                    </p>
+                    <div class="inline-flex items-center gap-3 bg-white/5 border border-white/10 px-4 py-2 rounded-xl text-xs text-white/90">
+                        <i class="fas fa-shield-alt text-accent"></i>
+                        <span>100% Genuine Novo Nordisk GLP-1 Formulations</span>
+                    </div>
+                </div>
+
+                <div class="lg:col-span-7">
+                    <div class="p-8 rounded-3xl bg-white/5 border border-white/10 backdrop-blur-md">
+                        <div class="flex items-center gap-3 mb-6 text-accent">
+                            <i class="fas fa-exclamation-triangle text-xl"></i>
+                            <h4 class="font-heading font-semibold text-lg text-white">Important Safety Information &amp; Contraindications</h4>
+                        </div>
+                        <ul class="space-y-4 text-xs text-white/80 font-light leading-relaxed">
+                            <li class="flex items-start gap-3">
+                                <i class="fas fa-times-circle text-red-400 mt-0.5 flex-shrink-0"></i>
+                                <span><strong>Thyroid C-Cell Tumor Risk:</strong> Semaglutide is contraindicated in patients with a personal or family history of Medullary Thyroid Carcinoma (MTC) or Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).</span>
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <i class="fas fa-times-circle text-red-400 mt-0.5 flex-shrink-0"></i>
+                                <span><strong>Pancreatitis:</strong> Patients with a history of acute pancreatitis should not use GLP-1 receptor agonists without prior specialist medical clearance.</span>
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <i class="fas fa-times-circle text-red-400 mt-0.5 flex-shrink-0"></i>
+                                <span><strong>Pregnancy &amp; Breastfeeding:</strong> Discontinue medication at least 2 months before a planned pregnancy. Not approved for nursing mothers.</span>
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <i class="fas fa-check-circle text-accent mt-0.5 flex-shrink-0"></i>
+                                <span><strong>Managing Mild Side Effects:</strong> Nausea, acid reflux, or constipation are typically mild and transient during dose escalation. Our medical team prescribes hydration protocols and anti-emetics when needed.</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
+         COMPREHENSIVE MEDICAL FAQS
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-white relative">
+        <div class="max-w-[900px] mx-auto px-6">
+            <div class="text-center mb-16">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold border-b border-accent/30 pb-1">Doctor Q&amp;A</span>
+                <h3 class="text-section font-display text-brand-deeper mb-6 mt-4">Frequently Asked <i class="text-accent font-light">Questions</i></h3>
+                <p class="text-brand-muted font-body text-lg font-light leading-relaxed max-w-2xl mx-auto">
+                    Everything you need to know about Semaglutide (Ozempic/Wegovy) treatment at Refine Clinic.
+                </p>
+            </div>
+
+            <div class="space-y-4">
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
+                    <div class="p-6 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">1. What is the difference between Ozempic® and Wegovy®?</h4>
+                        <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-6 pb-6 text-brand-muted font-body text-sm leading-relaxed border-t border-brand/5 pt-4">
+                            Both Ozempic and Wegovy contain the exact same active molecule: <strong>Semaglutide</strong>, produced by Novo Nordisk. Ozempic is FDA-approved primarily for Type 2 Diabetes at maximum doses of 1.0 mg to 2.0 mg per week, whereas Wegovy is FDA-approved specifically for chronic weight management at a higher maintenance dose of 2.4 mg per week. Dr. Chirag tailors the specific dosage to your metabolic profile and weight loss targets.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
+                    <div class="p-6 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">2. How much weight can I expect to lose on Semaglutide?</h4>
+                        <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-6 pb-6 text-brand-muted font-body text-sm leading-relaxed border-t border-brand/5 pt-4">
+                            In landmark global clinical trials (the STEP program), patients achieved an average weight loss of <strong>15% to 20% of their total body weight</strong> over 68 weeks when combined with lifestyle guidance. Individual results depend on starting BMI, dose escalation adherence, physical activity, and dietary quality.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
+                    <div class="p-6 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">3. How is Semaglutide administered? Does the injection hurt?</h4>
+                        <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-6 pb-6 text-brand-muted font-body text-sm leading-relaxed border-t border-brand/5 pt-4">
+                            Semaglutide is injected once weekly under the skin (subcutaneously) into the abdomen, front of the thigh, or upper arm using an ultra-fine micro-needle pen. The needle is tiny and hair-thin—most patients report feeling virtually nothing, comparable to a mild tap on the skin.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
+                    <div class="p-6 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">4. Can I combine Semaglutide with Wonder® Axon body sculpting?</h4>
+                        <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-6 pb-6 text-brand-muted font-body text-sm leading-relaxed border-t border-brand/5 pt-4">
+                            Yes, this is Refine Clinic's premier combination protocol. When losing weight rapidly, up to 25-40% of weight lost can come from lean skeletal muscle, leading to skin flaccidity. Pairing Semaglutide with Wonder® Axon (60,000 neuromuscular contractions per session) stimulates muscle hypertrophy and uses synchronized radiofrequency to tighten skin, ensuring you achieve a sculpted, firm silhouette rather than a loose look.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
+                    <div class="p-6 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">5. What happens when I reach my target weight? Will I regain the weight?</h4>
+                        <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-6 pb-6 text-brand-muted font-body text-sm leading-relaxed border-t border-brand/5 pt-4">
+                            Abruptly stopping any weight loss medication without nutritional coaching can result in appetite rebound. At Refine Clinic, Dr. Chirag implements a gradual step-down maintenance titration alongside dietary re-education, helping your metabolic setpoint adapt so you sustain your new weight permanently.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="glass-panel rounded-2xl overflow-hidden faq-item cursor-pointer group bg-[#faf9f6] border border-brand/5 shadow-sm hover:border-accent/30 transition-all duration-300">
+                    <div class="p-6 flex justify-between items-center transition-colors">
+                        <h4 class="font-heading font-semibold text-brand-deeper text-base md:text-lg pr-4 group-hover:text-accent transition-colors">6. Where are Refine Clinic locations in Uganda and Juba?</h4>
+                        <div class="w-8 h-8 rounded-full bg-surface-cool flex items-center justify-center flex-shrink-0">
+                            <i class="fas fa-plus text-brand group-[.active]:text-accent transition-transform duration-500 transform group-[.active]:rotate-45"></i>
+                        </div>
+                    </div>
+                    <div class="faq-content max-h-0 overflow-hidden transition-all duration-500 ease-in-out">
+                        <div class="px-6 pb-6 text-brand-muted font-body text-sm leading-relaxed border-t border-brand/5 pt-4">
+                            Refine Skin and Body Clinic operates across 4 full-service clinical centers:
+                            <ul class="mt-2 space-y-1 list-disc list-inside">
+                                <li><strong>HQ Forest Mall</strong>: First Floor, Lugogo Bypass, Kampala (+256 703 898 904)</li>
+                                <li><strong>Kabalagala Branch</strong>: Palm Village Mall, 2nd Floor (+256 705 035 096)</li>
+                                <li><strong>Bukoto Branch</strong>: UMC Victoria Hospital Annex (+256 748 951 996)</li>
+                                <li><strong>Juba Branch</strong>: 1st Floor, Sadeco Building, Airport Road, South Sudan (+211 922 687 111)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================
+         BOOKING APPOINTMENT / CTA FORM
+         ============================================ -->
+    <section id="book-consultation" class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <div class="max-w-3xl mx-auto text-center mb-12">
+                <span class="inline-block text-accent font-body text-xs tracking-[0.25em] uppercase mb-4 font-semibold">Doctor-Supervised Care</span>
+                <h3 class="text-section font-display text-white mb-4">
+                    Begin Your <i class="text-accent font-light">Semaglutide Weight Loss Program</i>
+                </h3>
+                <p class="text-white/70 font-body text-base font-light">
+                    Schedule your confidential medical consultation with Dr. Chirag Kotecha at Refine Clinic.
+                </p>
+            </div>
+
+            <div class="max-w-2xl mx-auto glass-panel p-8 sm:p-10 rounded-[2.5rem] bg-white/5 border border-white/10 shadow-2xl">
+                <form accept-charset="UTF-8" action="https://app.formester.com/forms/9f739eec-3fbd-49bf-a7a9-ebf490069756/submissions" method="POST" class="space-y-6">
+                    <div class="grid sm:grid-cols-2 gap-6">
+                        <div>
+                            <label class="block text-white/70 text-xs tracking-widest uppercase mb-2">Your Name *</label>
+                            <input type="text" name="name" required class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-accent">
+                        </div>
+                        <div>
+                            <label class="block text-white/70 text-xs tracking-widest uppercase mb-2">Phone Number *</label>
+                            <input type="tel" name="phone" required class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-accent">
+                        </div>
+                    </div>
+
+                    <div class="grid sm:grid-cols-2 gap-6">
+                        <div>
+                            <label class="block text-white/70 text-xs tracking-widest uppercase mb-2">Email Address *</label>
+                            <input type="email" name="email" required class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-accent">
+                        </div>
+                        <div>
+                            <label class="block text-white/70 text-xs tracking-widest uppercase mb-2">Preferred Branch *</label>
+                            <select name="location" required class="w-full bg-[#1a0f3c] border border-white/10 rounded-xl px-4 py-3 text-sm text-white focus:outline-none focus:border-accent">
+                                <option value="forest_mall">Forest Mall (HQ) &mdash; Kampala</option>
+                                <option value="kabalagala">Kabalagala &mdash; Kampala</option>
+                                <option value="bukoto">Bukoto @ UMC Victoria &mdash; Kampala</option>
+                                <option value="juba">Juba &mdash; South Sudan</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div>
+                        <label class="block text-white/70 text-xs tracking-widest uppercase mb-2">Treatment Interest</label>
+                        <input type="text" name="treatment_interest" value="Semaglutide / Ozempic Weight Loss (Jinja)" readonly class="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-sm text-accent font-semibold focus:outline-none">
+                    </div>
+
+                    <button type="submit" class="w-full py-4 rounded-xl bg-accent hover:bg-white text-brand-deeper font-semibold text-xs tracking-widest uppercase transition-all duration-300 shadow-xl">
+                        Request Medical Consultation &bull; Refine Clinic
+                    </button>
+                    <p class="text-[11px] text-white/40 text-center">Your private health data is strictly confidential.</p>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Regional Locations Hub Links -->
+    <section class="py-12 bg-white border-t border-brand/5">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10">
+            <h4 class="font-heading font-semibold text-brand-deeper text-xs uppercase tracking-widest mb-4 text-center">
+                Refine Clinic Semaglutide Weight Loss Regional Centers:
+            </h4>
+            <div class="flex flex-wrap justify-center gap-2 text-xs">
+                <a href="/semaglutide-ozempic-weight-loss" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Kampala (Main)</a>
+                <a href="/semaglutide-ozempic-weight-loss-in-bukoto" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Bukoto</a>
+                <a href="/semaglutide-ozempic-weight-loss-in-kabalagala" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Kabalagala</a>
+                <a href="/semaglutide-ozempic-weight-loss-in-entebbe" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Entebbe</a>
+                <a href="/semaglutide-ozempic-weight-loss-in-jinja" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Jinja</a>
+                <a href="/semaglutide-ozempic-weight-loss-in-mukono" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Mukono</a>
+                <a href="/semaglutide-ozempic-weight-loss-in-wakiso" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Wakiso</a>
+                <a href="/semaglutide-ozempic-weight-loss-in-nansana" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Nansana</a>
+                <a href="/semaglutide-ozempic-weight-loss-in-mpigi" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Mpigi</a>
+                <a href="/semaglutide-ozempic-weight-loss-in-juba" class="px-3 py-1.5 rounded-full bg-brand-pale text-brand-deeper hover:bg-accent hover:text-white transition-colors">Juba (South Sudan)</a>
+            </div>
+        </div>
+    </section>
+
 </main>
 
 <?php include 'includes/footer.php'; ?>

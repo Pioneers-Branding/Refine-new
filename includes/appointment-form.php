@@ -58,7 +58,9 @@
                             <option value="cosmetic" class="bg-[#1a0f3c]">Cosmetic Dermatology</option>
                             <option value="hair_restoration" class="bg-[#1a0f3c]">Hair Restoration</option>
                             <option value="body_contouring" class="bg-[#1a0f3c]">Body Contouring</option>
-                            <option value="weight_loss" class="bg-[#1a0f3c]">Weight Loss / Wellness</option>
+                            <option value="wonder_axon" class="bg-[#1a0f3c]">Wonder® Axon Muscle Contouring</option>
+                            <option value="allurion_balloon" class="bg-[#1a0f3c]">Allurion® Gastric Balloon</option>
+                            <option value="weight_loss" class="bg-[#1a0f3c]">Weight Loss / Semaglutide</option>
                             <option value="iv_therapy" class="bg-[#1a0f3c]">IV Therapy</option>
                             <option value="laser" class="bg-[#1a0f3c]">Laser Treatments</option>
                             <option value="medical_derm" class="bg-[#1a0f3c]">Medical Dermatology</option>

@@ -64,7 +64,7 @@ $canonicalUrl = "https://refineskinandbody.com/body-contouring";
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">2.</span> Preparation
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">We prioritize your comfort. A premium topical numbing cream is applied to ensure a completely painless and relaxing experience.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Target treatment areas are mapped precisely, skin is prepared, and customized energy frequencies or micro-droplet parameters are calibrated for your comfort.</p>
                             </div>
                         </div>
 
@@ -77,7 +77,7 @@ $canonicalUrl = "https://refineskinandbody.com/body-contouring";
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Advanced body contouring protocols—including Wonder® Axon triple neuromuscular stimulation, EmBody Sculpting, or targeted fat reduction—are delivered with clinical precision.</p>
                             </div>
                         </div>
 
@@ -90,7 +90,7 @@ $canonicalUrl = "https://refineskinandbody.com/body-contouring";
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">4.</span> Post-Treatment
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Walk out immediately with your stunning, refined new profile.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Walk out immediately with zero downtime. Receive structured guidance on hydration, muscle recovery, and maintenance sessions for sculpted, long-lasting contours.</p>
                             </div>
                         </div>
 
@@ -210,7 +210,7 @@ $canonicalUrl = "https://refineskinandbody.com/body-contouring";
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Safety First</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using only premium, high-quality, FDA-approved dermal fillers.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using CE &amp; FDA-cleared non-invasive body technologies and medical protocols.</p>
                             </div>
                         </div>
 
@@ -247,7 +247,7 @@ $canonicalUrl = "https://refineskinandbody.com/body-contouring";
                                     <i class="fas fa-times-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold">The Myth</span>
                                 </div>
-                                <p class="font-heading text-xl font-light text-white/80 italic">"Results from Body Contouring are permanent."</p>
+                                <p class="font-heading text-xl font-light text-white/80 italic">"Body contouring requires painful surgery and weeks of recovery."</p>
                             </div>
                             
                             <div class="relative py-2">
@@ -265,7 +265,7 @@ $canonicalUrl = "https://refineskinandbody.com/body-contouring";
                                     <i class="fas fa-check-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
                                 </div>
-                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">The effects last gracefully between 6-18 months, varying beautifully per individual.</p>
+                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">Wonder® Axon and modern contouring are 100% non-invasive, painless, and require zero recovery time.</p>
                             </div>
                         </div>
                     </div>
