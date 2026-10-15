@@ -384,6 +384,191 @@ $metaKeywords = "Dermapen in Juba, microneedling in Juba South Sudan, skin clini
         </div>
     </section>
 
+    <!-- ============================================
+         POST-MICRONEEDLING SCAR REVISION & CELLULAR REPAIR (FIXDERMA & FCL)
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-surface-warm relative overflow-hidden border-t border-brand/5">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <!-- Header -->
+            <div class="text-center max-w-3xl mx-auto mb-16 gs-reveal-text">
+                <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 border border-accent/20 mb-4">
+                    <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
+                    <span class="text-accent font-body text-xs tracking-[0.25em] uppercase font-semibold">Post-Needling Homecare Protocol</span>
+                </div>
+                <h3 class="text-section font-display text-brand-deeper mb-6">
+                    Post-Microneedling Cellular Repair &amp; Scar Remodeling <br/>
+                    <i class="text-accent font-light">by Fixderma® &amp; FCL</i>
+                </h3>
+                <p class="text-brand-muted font-body text-base lg:text-lg font-light leading-relaxed">
+                    Dermapen® micro-channels remain biologically receptive for hours after treatment. At Refine Clinic in Kampala, we pair every microneedling journey with targeted <strong>Fixderma® medical scar gels, retinoids, and non-comedogenic sunscreens</strong> to accelerate collagen maturation, suppress keloids, and remodel stubborn acne craters.
+                </p>
+            </div>
+
+            <!-- Product Cards Grid -->
+            <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
+                
+                <!-- Product 1: Fixderma Scar Gel -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Acne Scars</span>
+                            <img src="/assets/imagesfromsite/fixderma/scar-gel-acne-scar-removal.webp" alt="Fixderma Scar Gel" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 15g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Fixderma Scar Gel</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Allium Cepa Bulb Extract, Allantoin &amp; Panthenol</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Prescribed after Dermapen sessions for atrophic acne pits and surgical scars. Softens hardened fibrous tissue, promotes smooth neo-collagenesis, and fades stubborn red-brown scar erythema.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">32,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹385 (~$8.50 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Scar%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 2: Kelocepa Silicone Gel -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Keloid &amp; Hypertrophic</span>
+                            <img src="/assets/imagesfromsite/fixderma/kelocepa-silicone-gel.webp" alt="Fixderma Kelocepa Silicone Gel" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 15g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Kelocepa Silicone Scar Gel</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Cross-Linked Silicone, Cepalin Extract &amp; Vitamin E</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Gold-standard medical silicone occlusive sheeting in an invisible gel. Crucial for patients prone to raised hypertrophic or keloidal scarring on the chest, jawline, and body post-needling.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">55,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹650 (~$15 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Kelocepa%20Silicone%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 3: Reticuram Retinol 0.2% Serum -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Collagen Booster</span>
+                            <img src="/assets/imagesfromsite/fixderma/reticuram-serum.webp" alt="Fixderma Reticuram Serum" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 30ml Dropper</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Reticuram Retinol 0.2% Serum</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Encapsulated Retinol, Vitamin C &amp; Jojoba Oil</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Stabilized encapsulated retinol introduced 5 days post-microneedling. Multiplies fibroblast pro-collagen production and smooths dynamic fine lines and crinkled skin between monthly needling sessions.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">60,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹725 (~$16 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Reticuram%20Serum" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 4: Strallium Stretch Mark Cream -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Striae Remodeling</span>
+                            <img src="/assets/imagesfromsite/fixderma/strallium-stretch-mark-cream.webp" alt="Fixderma Strallium Stretch Mark Cream" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 75g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Strallium Stretch Mark Cream</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Allium Cepa, Shea Butter &amp; Red Algae Extract</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            The essential companion to body microneedling protocols. Re-densifies the torn dermal elastin network across postpartum stretch marks and rapid-growth striae on the abdomen, hips, and thighs.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">35,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹425 (~$10 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Strallium%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 5: 10% Niacinamide Pore Refining Serum -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Pore Tightening</span>
+                            <img src="/assets/imagesfromsite/fixderma/niacinamide-serum-skin-brightening.webp" alt="Fixderma 10% Niacinamide Serum" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 30ml Dropper</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">10% Niacinamide Serum</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Pure Niacinamide (Vitamin B3) &amp; Hyaluronic Acid</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Calms post-procedure erythema, replenishes ceramides, and visibly tightens enlarged follicular pores as the skin contracts during the collagen-rebuilding phase.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">28,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹325 (~$7.50 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%2010%25%20Niacinamide%20Serum" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 6: Shadow SPF 50+ Gel -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Post-Needling Shield</span>
+                            <img src="/assets/imagesfromsite/fixderma/shadow-sunscreen-for-oily-skin-spf-50-gel.webp" alt="Fixderma Shadow SPF 50+ Gel" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 75g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Shadow SPF 50+ Gel</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Octinoxate, Micronized Titanium Dioxide &amp; Avobenzone</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Completely oil-free, non-comedogenic sunscreen gel that protects freshly micro-punctured skin from UV stimulation without clogging open micro-channels. Zero white residue on African skin.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">30,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Shadow%20SPF%2050%2B%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Dispensary Callout Footer -->
+            <div class="mt-12 text-center">
+                <a href="/skincare-products" class="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-brand-deeper hover:bg-brand text-white font-heading font-semibold text-sm transition-all shadow-lg hover:shadow-xl">
+                    <span>Explore Complete Dermapen® &amp; Fixderma® Medical Dispensary</span>
+                    <i class="fas fa-arrow-right text-accent"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- Conditions Treated -->
     <section class="py-16 lg:py-24 bg-white relative">
     <div class="max-w-[1400px] mx-auto px-6 lg:px-10">

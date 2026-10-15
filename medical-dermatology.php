@@ -78,7 +78,7 @@ $metaKeywords = "Medical Dermatology in Kampala, Medical Dermatology treatment i
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">3.</span> Procedure
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Strategic, micro-precise injections of dermal filler are administered by Dr. Chirag to reshape, elevate, and contour your nose.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Comprehensive diagnostic assessment by Dr. Chirag, including digital dermoscopy, Wood's lamp examination, and personalized therapeutic prescription.</p>
                             </div>
                         </div>
 
@@ -91,7 +91,7 @@ $metaKeywords = "Medical Dermatology in Kampala, Medical Dermatology treatment i
                                 <h4 class="font-heading font-semibold text-brand-deeper text-xl mb-3 flex items-center gap-3">
                                     <span class="sm:hidden text-accent font-display text-2xl">4.</span> Post-Treatment
                                 </h4>
-                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Walk out immediately with your stunning, refined new profile.</p>
+                                <p class="text-brand-muted font-body text-sm leading-relaxed">Receive personalized guidance to ensure lasting results. Receive your physician-dispensed pharmacotherapy regimen, barrier-restoring skincare protocol, and follow-up clinical schedule.</p>
                             </div>
                         </div>
 
@@ -167,6 +167,241 @@ $metaKeywords = "Medical Dermatology in Kampala, Medical Dermatology treatment i
     </div>
   </section>
 
+<!-- ============================================
+         PHYSICIAN-DISPENSED DERMATOLOGY PHARMACOTHERAPY (FIXDERMA & FCL)
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-surface-warm relative overflow-hidden border-t border-brand/5">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <!-- Header -->
+            <div class="text-center max-w-3xl mx-auto mb-16 gs-reveal-text">
+                <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 border border-accent/20 mb-4">
+                    <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
+                    <span class="text-accent font-body text-xs tracking-[0.25em] uppercase font-semibold">Physician-Dispensed Medical Pharmacotherapy</span>
+                </div>
+                <h3 class="text-section font-display text-brand-deeper mb-6">
+                    Targeted Clinical Skincare &amp; Dermatological Solutions <br/>
+                    <i class="text-accent font-light">by Fixderma® &amp; FCL</i>
+                </h3>
+                <p class="text-brand-muted font-body text-base lg:text-lg font-light leading-relaxed">
+                    Accurate dermatological diagnosis must be matched with pharmaceutical-grade topical therapies. Refine Clinic dispenses genuine <strong>Fixderma® and FCL</strong> pharmacotherapy — trusted by over 7,000 dermatologists across 35+ countries and rigorously formulated for safety on melanin-rich Fitzpatrick III–VI skin.
+                </p>
+            </div>
+
+            <!-- Product Cards Grid -->
+            <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 lg:gap-8">
+                
+                <!-- Product 1: Salyzap Face Gel -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Acne Vulgaris</span>
+                            <img src="/assets/imagesfromsite/fixderma/salyzap-salicylic-acid-gel-for-acne-prone-skin.webp" alt="Fixderma Salyzap Face Gel" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 20g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Salyzap Face Gel</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Salicylic Acid, Nicotinamide, Allantoin &amp; Tea Tree Oil</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Rapid-acting daytime anti-acne gel. Dissolves micro-comedones, inhibits Cutibacterium acnes bacterial colonization, and soothes inflammatory redness without causing flaking or rebound seborrhea.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">25,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹285 (~$6.70 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Salyzap%20Face%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 2: Salyzap-AZ Body Acne Spray -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Back &amp; Body Acne</span>
+                            <img src="/assets/imagesfromsite/fixderma/salyzap-a-z-body-spray.webp" alt="Fixderma Salyzap-AZ Body Spray" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 50ml Spray</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Salyzap-AZ Body Spray</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Azelaic Acid, Salicylic Acid, Retinol &amp; Lipacide</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            360-degree multi-angle aerosol mist designed for hard-to-reach follicular breakouts on the back, shoulders, and chest. Clears inflamed papules and fades post-acne body marks.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">70,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹825 (~$19 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Salyzap-AZ%20Body%20Spray" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 3: Nigrifix Cream -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Acanthosis Nigricans</span>
+                            <img src="/assets/imagesfromsite/fixderma/nigrifix-cream-for-dark-body-parts.webp" alt="Fixderma Nigrifix Cream" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 50g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Nigrifix Cream</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Retinol, Lactic Acid, Urea &amp; Tea Tree Oil</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            The globally celebrated clinical treatment for Acanthosis Nigricans. Gently sheds hyperkeratotic, velvety dark patches on the nape of the neck, elbows, knees, groin, and underarms.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">38,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹440 (~$10 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Nigrifix%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 4: Nigrifix Underarm Roll-On -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Underarm Pigmentation</span>
+                            <img src="/assets/imagesfromsite/fixderma/nigrifix-underarm-lightening-roll-on.webp" alt="Fixderma Nigrifix Roll-On" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 50ml Roll-On</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Nigrifix Underarm Roll-On</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Niacinamide, Alpha Arbutin &amp; Kojic Acid</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Targeted axillary hyperpigmentation treatment roll-on. Lightens darkened, friction-damaged armpit skin while controlling microbial odor with zero aluminium salts or pore-clogging waxes.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">28,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹325 (~$7.50 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Nigrifix%20Roll-On" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 5: Skarfix-TX Melasma Cream -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Melasma &amp; PIH</span>
+                            <img src="/assets/imagesfromsite/fixderma/skarfix-tx-melasma-treatment.webp" alt="Fixderma Skarfix-TX Melasma Cream" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 15g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Skarfix-TX Melasma Cream</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Tranexamic Acid, Kojic Acid Dipalmitate &amp; Alpha Arbutin</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Prescribed for recalcitrant melasma, chloasma, and epidermal discoloration. Hydroquinone-free formula safe for long-term continuous use without risk of ochronosis.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">35,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹404 (~$9.50 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Skarfix-TX%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 6: Vitipause Gel for Vitiligo -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Vitiligo Care</span>
+                            <img src="/assets/imagesfromsite/fixderma/vitipause-gel.webp" alt="Fixderma Vitipause Gel for Vitiligo" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 50ml Pump</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Vitipause Pigment Gel</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Phenylalanine, Piperine, Madecassoside &amp; Melitane</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Breakthrough cellular therapy designed for Vitiligo and hypopigmented macules. Stimulates dormant melanocytes, stimulates tyrosinase synthesis, and promotes progressive repigmentation.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">78,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹925 (~$21 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Vitipause%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 7: Foobetik Diabetic & Cracked Heel Cream -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Diabetic Foot Care</span>
+                            <img src="/assets/imagesfromsite/fixderma/foobetik-cream-50g.webp" alt="Fixderma Foobetik Cream" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 100g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Foobetik Foot Cream</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: L-Arginine, Lactic Acid, Urea &amp; Tea Tree Oil</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Specially formulated for diabetic xerosis, calluses, and heel fissures. L-Arginine improves micro-vascular circulation while medical urea restores cellular moisture and prevents bacterial infection.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">24,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹275 (~$6.50 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Foobetik%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 8: Shadow SPF 50+ Gel -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Clinical Photoprotection</span>
+                            <img src="/assets/imagesfromsite/fixderma/shadow-sunscreen-for-oily-skin-spf-50-gel.webp" alt="Fixderma Shadow SPF 50+ Gel" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 75g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Shadow SPF 50+ Gel</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Octinoxate, Titanium Dioxide &amp; Avobenzone</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            The cornerstone of every dermatology treatment plan. Oil-free, lightweight gel sunscreen that safeguards active dermatoses from solar aggravation with zero white cast on melanin-rich skin.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">30,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Shadow%20SPF%2050%2B%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Dispensary Callout Footer -->
+            <div class="mt-12 text-center">
+                <a href="/skincare-products" class="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-brand-deeper hover:bg-brand text-white font-heading font-semibold text-sm transition-all shadow-lg hover:shadow-xl">
+                    <span>View Complete Refine Skincare &amp; Pharmacotherapy Dispensary (33+ Products)</span>
+                    <i class="fas fa-arrow-right text-accent"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- Why Opt for Dr. Chirag & Myths -->
     <section class="py-16 lg:py-24 bg-brand-deeper text-white relative overflow-hidden">
         <div class="absolute inset-0 bg-[url('/assets/imagesfromsite/pattern.svg')] bg-repeat opacity-[0.03]"></div>
@@ -211,7 +446,7 @@ $metaKeywords = "Medical Dermatology in Kampala, Medical Dermatology treatment i
                             </div>
                             <div>
                                 <h4 class="font-heading font-semibold text-xl mb-2 text-white">Safety First</h4>
-                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using only premium, high-quality, FDA-approved dermal fillers.</p>
+                                <p class="text-base text-white/70 font-light leading-relaxed">Uncompromising standards using only authentic, certified cosmeceuticals, pharmacotherapy, and evidence-based protocols.</p>
                             </div>
                         </div>
 
@@ -266,7 +501,7 @@ $metaKeywords = "Medical Dermatology in Kampala, Medical Dermatology treatment i
                                     <i class="fas fa-check-circle text-lg"></i>
                                     <span class="font-body text-xs tracking-[0.2em] uppercase font-bold text-white">The Fact</span>
                                 </div>
-                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">The effects last gracefully between 6-18 months, varying beautifully per individual.</p>
+                                <p class="font-heading text-2xl font-light text-white relative z-10 leading-snug">With precise diagnosis, physician-guided topical pharmacotherapy, and lifestyle modifications, many chronic dermatoses achieve complete and sustained long-term clinical remission.</p>
                             </div>
                         </div>
                     </div>

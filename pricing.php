@@ -192,6 +192,105 @@ include 'includes/head.php'; ?>
                 </div>
             </div>
 
+            <!-- Medical Cosmeceuticals & Skincare Dispensary Category -->
+            <div class="mb-16">
+                <div class="flex flex-col md:flex-row md:items-center justify-between border-b border-brand/10 pb-4 mb-6 gap-4">
+                    <h3 class="font-display text-2xl text-brand-deeper flex items-center gap-3">
+                        <i class="fas fa-prescription-bottle-alt text-accent"></i> Medical Cosmeceuticals &amp; Skincare Dispensary
+                    </h3>
+                    <a href="/skincare-products" class="inline-flex items-center gap-2 text-accent font-heading text-sm font-semibold hover:underline">
+                        <span>View All 33+ Dispensary Products</span>
+                        <i class="fas fa-arrow-right text-xs"></i>
+                    </a>
+                </div>
+                <div class="bg-surface-warm rounded-3xl overflow-hidden shadow-sm border border-brand/5 divide-y divide-brand/5">
+                    <!-- Item 1 -->
+                    <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Sun Defense</span>
+                                <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Fixderma® Shadow SPF 50+ Gel (75g Tube)</h4>
+                            </div>
+                            <p class="text-xs text-brand-muted font-light">Doctor-recommended broad-spectrum sunscreen gel for oily &amp; acne-prone skin. Leaves zero white cast on African skin.</p>
+                        </div>
+                        <div class="text-right flex-shrink-0 ml-4">
+                            <div class="font-display text-xl text-accent">30,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</div>
+                        </div>
+                    </div>
+                    <!-- Item 2 -->
+                    <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Melasma &amp; PIH</span>
+                                <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Fixderma® Skarfix-TX Melasma Cream (15g Tube)</h4>
+                            </div>
+                            <p class="text-xs text-brand-muted font-light">Tranexamic Acid + Kojic Acid Dipalmitate tyrosinase inhibitor for stubborn epidermal discoloration and post-peel care.</p>
+                        </div>
+                        <div class="text-right flex-shrink-0 ml-4">
+                            <div class="font-display text-xl text-accent">35,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹404 (~$9.50 USD)</div>
+                        </div>
+                    </div>
+                    <!-- Item 3 -->
+                    <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Acanthosis Nigricans</span>
+                                <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Fixderma® Nigrifix Cream (50g Tube)</h4>
+                            </div>
+                            <p class="text-xs text-brand-muted font-light">Retinol, Lactic Acid &amp; Urea therapy for dark, thickened skin folds on the neck, underarms, and joints.</p>
+                        </div>
+                        <div class="text-right flex-shrink-0 ml-4">
+                            <div class="font-display text-xl text-accent">38,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹440 (~$10 USD)</div>
+                        </div>
+                    </div>
+                    <!-- Item 4 -->
+                    <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Acne Pharmacotherapy</span>
+                                <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Fixderma® Salyzap Anti-Acne Solutions</h4>
+                            </div>
+                            <p class="text-xs text-brand-muted font-light">Salicylic Acid, Azelaic Acid &amp; Nicotinamide regimens for facial breakouts, cleansers, and 360° body acne sprays.</p>
+                        </div>
+                        <div class="text-right flex-shrink-0 ml-4">
+                            <div class="font-display text-xl text-accent">From 25,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹285 - ₹825</div>
+                        </div>
+                    </div>
+                    <!-- Item 5 -->
+                    <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Scar &amp; Keloid Remodeling</span>
+                                <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Fixderma® Scar &amp; Kelocepa Silicone Gels</h4>
+                            </div>
+                            <p class="text-xs text-brand-muted font-light">Clinically proven formulas for atrophic acne pits, surgical scars, and medical silicone keloid prevention.</p>
+                        </div>
+                        <div class="text-right flex-shrink-0 ml-4">
+                            <div class="font-display text-xl text-accent">From 32,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹385 - ₹650</div>
+                        </div>
+                    </div>
+                    <!-- Item 6 -->
+                    <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <span class="px-2.5 py-0.5 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Vitiligo &amp; Barrier Care</span>
+                                <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Fixderma® Vitipause &amp; Foobetik Clinical Formulations</h4>
+                            </div>
+                            <p class="text-xs text-brand-muted font-light">Targeted repigmentation therapy for vitiligo macules, plus L-Arginine + Urea diabetic xerosis repair.</p>
+                        </div>
+                        <div class="text-right flex-shrink-0 ml-4">
+                            <div class="font-display text-xl text-accent">From 24,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹275 - ₹925</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </section>
 

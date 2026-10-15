@@ -839,6 +839,141 @@ $metaKeywords = "Chemical Peel in Nansana, Chemical Peel treatment in Kampal";
 
             </div>
 
+            <!-- ============================================
+         DOCTOR-PRESCRIBED POST-PEEL HOMECARE (FIXDERMA & FCL)
+         ============================================ -->
+    <section class="py-16 lg:py-24 bg-[#faf9f6] relative overflow-hidden border-t border-brand/5">
+        <div class="max-w-[1400px] mx-auto px-6 lg:px-10 relative z-10">
+            <!-- Header -->
+            <div class="text-center max-w-3xl mx-auto mb-16 gs-reveal-text">
+                <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/10 border border-accent/20 mb-4">
+                    <span class="w-2 h-2 rounded-full bg-accent animate-pulse"></span>
+                    <span class="text-accent font-body text-xs tracking-[0.25em] uppercase font-semibold">Evidence-Based Post-Peel Pharmacotherapy</span>
+                </div>
+                <h3 class="text-section font-display text-brand-deeper mb-6">
+                    Doctor-Prescribed Post-Peel Medical Homecare <br/>
+                    <i class="text-accent font-light">by Fixderma® &amp; FCL</i>
+                </h3>
+                <p class="text-brand-muted font-body text-base lg:text-lg font-light leading-relaxed">
+                    Chemical peeling accelerates cellular turnover and temporarily compromises the lipid barrier. To prevent Post-Inflammatory Hyperpigmentation (PIH) and maximize dermal re-epithelialization, Refine Clinic dispenses genuine <strong>Fixderma® &amp; FCL</strong> dermatological homecare formulated specifically for melanin-rich African skin (Fitzpatrick III–VI).
+                </p>
+            </div>
+
+            <!-- Product Cards Grid -->
+            <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 lg:gap-8">
+                
+                <!-- Product 1: Shadow SPF 50+ Gel -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Mandatory Post-Peel</span>
+                            <img src="/assets/imagesfromsite/fixderma/shadow-sunscreen-for-oily-skin-spf-50-gel.webp" alt="Fixderma Shadow SPF 50+ Gel" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 75g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Shadow SPF 50+ Gel</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Octinoxate, Micronized Titanium Dioxide, Avobenzone</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Non-greasy, transparent broad-spectrum sunscreen gel. Formulated to provide zero white cast on African skin, preventing UV-induced post-inflammatory hyperpigmentation following chemical exfoliation.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">30,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Shadow%20SPF%2050%2B%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 2: Skarfix-TX Melasma Cream -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Tyrosinase Inhibitor</span>
+                            <img src="/assets/imagesfromsite/fixderma/skarfix-tx-melasma-treatment.webp" alt="Fixderma Skarfix-TX Melasma Cream" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 15g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Skarfix-TX Melasma Cream</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Tranexamic Acid, Kojic Acid Dipalmitate, Alpha Arbutin</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Prescribed pre- and post-peel to downregulate melanocyte hyperactivity. Directly blocks UV-induced plasminogen activity to eliminate stubborn melasma, chloasma, and epidermal discoloration.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">35,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹404 (~$9.50 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Skarfix-TX%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 3: Peelonate AHA/BHA Brightening Kit -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Home Maintenance Peel</span>
+                            <img src="/assets/imagesfromsite/fixderma/peelonate-brightening-kit.webp" alt="Fixderma Peelonate AHA/BHA Brightening Kit" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 100ml Kit</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Peelonate AHA/BHA Kit</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Glycolic Acid, Salicylic Acid &amp; Botanical Extracts</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Dermatologist-engineered home chemical peeling kit. Sustains the skin-renewing results of clinical chemical peels between sessions by dissolving dead corneocyte bonds without micro-tears.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">85,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹1,000 (~$23 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Peelonate%20AHA/BHA%20Kit" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Product 4: Nigrifix Cream for Acanthosis Nigricans -->
+                <div class="group glass-panel p-6 rounded-3xl bg-white border border-brand/5 hover:border-accent/40 hover:shadow-xl transition-all duration-500 flex flex-col justify-between">
+                    <div>
+                        <div class="relative w-full aspect-square bg-[#fcfbfa] rounded-2xl overflow-hidden mb-5 p-4 flex items-center justify-center border border-brand/5">
+                            <span class="absolute top-3 left-3 px-2.5 py-1 rounded-full bg-accent/15 text-accent text-[10px] font-mono font-bold uppercase tracking-wider">Body Peel Companion</span>
+                            <img src="/assets/imagesfromsite/fixderma/nigrifix-cream-for-dark-body-parts.webp" alt="Fixderma Nigrifix Cream" class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy">
+                        </div>
+                        <div class="text-[11px] font-mono text-brand/60 uppercase tracking-wider mb-1">Fixderma • 50g Tube</div>
+                        <h4 class="font-heading font-bold text-brand-deeper text-lg mb-2">Nigrifix Cream</h4>
+                        <div class="text-xs text-accent font-medium mb-3">Actives: Retinol, Lactic Acid, Urea &amp; Tea Tree Oil</div>
+                        <p class="text-xs text-brand-muted leading-relaxed font-light mb-4">
+                            Clinically proven therapy for Acanthosis Nigricans and localized hyperkeratosis. Gently exfoliates thickened, hyperpigmented skin folds on the neck, elbows, knees, and underarms.
+                        </p>
+                    </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
+                        <div>
+                            <div class="font-heading font-bold text-brand-deeper text-lg">38,000 UGX</div>
+                            <div class="text-[10px] text-brand-muted font-mono">₹440 (~$10 USD)</div>
+                        </div>
+                        <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Nigrifix%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
+                            <i class="fab fa-whatsapp"></i> Order
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Dispensary Callout Footer -->
+            <div class="mt-12 text-center">
+                <a href="/skincare-products" class="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-brand-deeper hover:bg-brand text-white font-heading font-semibold text-sm transition-all shadow-lg hover:shadow-xl">
+                    <span>Explore All 33+ Fixderma® &amp; FCL Medical Products</span>
+                    <i class="fas fa-arrow-right text-accent"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+
             <!-- Skincare Routine Banner -->
             <div class="mt-16 p-8 lg:p-12 rounded-[2.5rem] bg-gradient-to-r from-brand-deeper via-[#1a2333] to-brand text-white relative overflow-hidden shadow-2xl flex flex-col md:flex-row items-center justify-between gap-8">
                 <div class="max-w-2xl relative z-10">
