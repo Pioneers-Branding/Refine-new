@@ -53,6 +53,8 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'how-long-do-prp-results-last',
+    'how-long-does-a-nose-job-last',
     'will-a-chemical-peel-lighten-your-skin',
     'which-is-the-best-treatment-for-skin-lightening',
     'does-hydrafacial-remove-facial-hair',

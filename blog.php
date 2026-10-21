@@ -19,6 +19,493 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: HOW LONG DO PRP RESULTS LAST?
+    // ----------------------------------------------------
+    'how-long-do-prp-results-last' => [
+        'slug' => 'how-long-do-prp-results-last',
+        'title' => 'How Long Do PRP Results Last?',
+        'meta_title' => 'How Long Do PRP Results Last? | Refine Skin & Body',
+        'category' => 'Hair Restoration & PRP',
+        'category_slug' => 'hair-prp',
+        'date' => '21 October, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Aesthetic Physician, Refine Clinic',
+        'read_time' => '8 min',
+        'image' => '/assets/imagesfromsite/how-long-do-prp-results-last-hero.jpg',
+        'excerpt' => 'How long do PRP results last? Hair PRP needs a course plus maintenance every 6–12 months, and a PRP facial can last up to 18 months. See what affects it.',
+        'content' => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How Long Do PRP Results Last?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> It depends on what the PRP is treating. For hair loss, PRP is a course rather than a one-off: usually 3–4 sessions across a few months, then maintenance roughly every 6–12 months, and the benefit fades gradually if you stop. For the face, the effects of a PRP facial can last up to 18 months, depending on your skin and how you care for it.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Hair (PRP Hair Restoration):</span>
+                        <p class="text-white/80 font-light text-xs">3–4 sessions across a few months, then regular maintenance every 6–12 months.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Face (PRP Facial / Facelift):</span>
+                        <p class="text-white/80 font-light text-xs">Up to 18 months after a course of 3 sessions a month apart.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Downtime:</span>
+                        <p class="text-white/80 font-light text-xs">Minimal; slight redness or tenderness usually settles within 24–48 hours.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                You have probably heard that PRP uses your own blood to thicken hair or refresh the skin. The question most people ask next is a practical one: if I pay for a course of treatment, how long will the results stay with me?
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The honest answer is that PRP can help many people, but its effects wear off over time, and how long they last depends on where it is used. PRP for hair and PRP for the face work on different tissues, follow different schedules and fade at different speeds.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                This guide splits the answer by use, explains what shortens or extends your results, and is clear about what PRP cannot do. If you want to know whether PRP for hair is worth trying at all, and what recovery involves, read our earlier article, <a href="/blog/is-prp-hair-restoration-worth-it-recovery-explained" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Is PRP Hair Restoration Worth It?</a>
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">What PRP Is, in Plain Terms</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                PRP stands for platelet-rich plasma. A small sample of your blood is taken and spun in a medical centrifuge, which concentrates the platelets to up to five times their level in normal blood plasma. Platelets are the blood cells that help wounds heal. They carry growth factors, which are natural signalling proteins, including ones known as PDGF, VEGF and TGF-beta.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                When the concentrated plasma is injected into the scalp or skin, these growth factors are thought to support weakened hair follicles and prompt the skin to make more collagen, the protein that keeps skin firm. None of this is instant, and none of it switches off the underlying cause, which is why results fade.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">How Long PRP Results Last for Hair</h2>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">The First Course</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                A series of 3–4 sessions across a few months is usually needed for the best result, with sessions spaced about 4–6 weeks apart. Initial results can often be seen after 2–3 sessions, with full results after the recommended course. Hair grows slowly, so progress is judged over months, not weeks.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">Maintenance</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Pattern hair loss (androgenetic alopecia, the inherited thinning that affects both men and women) keeps progressing in the background. PRP does not stop it. To hold on to the improvement, most people need a maintenance session roughly every 6–12 months, and some need them more often. Without ongoing treatment, results may not last.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">What the Evidence Says</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The research on PRP for pattern hair loss is encouraging but still limited. Several small controlled trials and reviews report improvements in hair count and thickness, but studies use different preparation methods, doses and schedules, and not every patient responds. That is why a doctor should confirm the cause of your hair loss first and track progress with photographs, rather than promise a set result.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">What PRP Cannot Do</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                PRP only works on follicles that are still alive. It does not regrow hair on areas that are fully bald and shiny, or where scarring has destroyed the follicles, such as long-standing traction alopecia from years of tight braids or weaves, or scarring hair loss conditions that need a doctor\'s diagnosis. Moving healthy follicles into a bald area is a different procedure, a hair transplant. Our guide to <a href="/blog/how-much-is-a-hair-transplant-in-uganda" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">hair transplant costs in Uganda</a> explains how it works.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">How Long PRP Results Last for the Face</h2>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">PRP Facial</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                For the skin, the effects of a PRP facial can last up to 18 months, depending on your skin and how you care for it. We recommend a course of 3 sessions a month apart for the best results, with minimal to no downtime. Because PRP works by encouraging the skin to rebuild collagen, improvements in texture, glow and fine lines appear gradually over the months after treatment rather than on the day. Research on facial PRP is more limited than for hair, so treat 18 months as the upper end, not the norm.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">PRP Facelift</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The PRP facelift, also known as the Vampire facelift, combines PRP with hyaluronic acid filler. The filler restores volume straight away while the PRP works on the skin, which is why results last longer, typically 12–18 months. As with the facial, how long results last depends on your skin, your age and how well you protect it.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">Why Facial Results Fade</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Your skin keeps ageing after treatment. Collagen declines naturally every year, and ultraviolet (UV) light from the sun breaks it down faster. In Kampala and Juba the sun is strong all year, including through the rainy seasons, so daily sunscreen is one of the simplest ways to protect what PRP has built. On darker skin, sun protection also lowers the risk of post-inflammatory hyperpigmentation (PIH), the dark marks that can follow any irritation of the skin.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">PRP Results at a Glance</h2>
+
+            <!-- Results Table -->
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl shadow-sm border border-brand/10 overflow-hidden text-sm">
+                    <thead>
+                        <tr class="bg-brand text-white font-heading">
+                            <th class="p-4">Treatment</th>
+                            <th class="p-4">First Course</th>
+                            <th class="p-4">How Long Results Last</th>
+                            <th class="p-4">Maintenance</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/10 text-gray-700 font-light">
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">PRP Hair Restoration</td>
+                            <td class="p-4">3–4 sessions across a few months</td>
+                            <td class="p-4">No fixed figure; benefits fade gradually without maintenance</td>
+                            <td class="p-4"><span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-brand-pale text-brand">Roughly every 6–12 months</span></td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">PRP Facial</td>
+                            <td class="p-4">3 sessions, a month apart</td>
+                            <td class="p-4 font-medium text-brand">Up to 18 months</td>
+                            <td class="p-4">Reviewed with your doctor</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">PRP Facelift</td>
+                            <td class="p-4">PRP plus hyaluronic acid filler, planned at consultation</td>
+                            <td class="p-4 font-medium text-brand">12–18 months</td>
+                            <td class="p-4">Reviewed with your doctor</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">What Makes PRP Results Last Longer, or Shorter</h2>
+            <ul class="list-disc pl-6 space-y-3 mb-8 text-gray-700 font-light">
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">The cause of your hair loss:</strong> PRP is mainly used for pattern hair loss. Heavy shedding after illness, childbirth or stress (telogen effluvium) often recovers once the trigger passes, while patchy hair loss and scarring conditions need different treatment. Getting the diagnosis right comes first.</li>
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">Smoking:</strong> Smoking narrows blood vessels and slows healing and collagen production, which works against both hair and skin results.</li>
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">Your general health:</strong> Low iron, thyroid problems, poorly controlled diabetes, crash dieting and some medicines can all worsen hair loss or blunt the response. Your doctor may suggest blood tests.</li>
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">Consistency:</strong> Completing the first course and keeping maintenance appointments matters more than any single session.</li>
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">Combining treatments:</strong> For pattern hair loss, doctors often pair PRP with medical treatment, such as minoxidil, where it is suitable. Use prescription treatments only on medical advice.</li>
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">Hair care:</strong> Tight braids, heavy extensions, harsh relaxers and high heat all put stress on the follicles PRP is trying to support.</li>
+            </ul>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">When to See a Specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At Refine, PRP is performed by our team of doctors: <a href="/dr-chirag-kotecha" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Dr Chirag Kotecha</a>, Aesthetic Physician, <a href="/dr-henry-owiny" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Dr Henry Owiny</a>, Aesthetic Physician, Dr Fouzia and Dr Vicky. Your first visit is a consultation: the doctor asks about your hair or skin history, examines your scalp or face, and checks whether PRP suits you. For hair, that means working out why you are losing hair before any sessions are planned. A numbing agent is used to keep treatment comfortable.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At Refine in Kampala, PRP hair injections start from US$700, PRP microneedling from US$200, the Vampire facial from US$800 and the Vampire (PRP) facelift from US$1,800. Your exact cost depends on the plan agreed with your doctor and is confirmed at consultation.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">See a Doctor Promptly If You Notice:</h3>
+            <ul class="list-disc pl-6 space-y-2 mb-6 text-gray-700 font-light">
+                <li>Sudden or rapid hair loss, or hair coming out in clumps</li>
+                <li>Round bald patches, or a scalp that is red, scaly, itchy or painful</li>
+                <li>Hair loss with other symptoms, such as tiredness, weight change or irregular periods</li>
+            </ul>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Refine Skin &amp; Body Clinic has three branches in Kampala: Lugogo (Forest Mall), Kabalagala (Palm Village Mall) and Bukoto (UMC Victoria Hospital Annex). In South Sudan, Refine Skin &amp; Body Centre is on Airport Road in Juba. Read more about <a href="/prp-hair-restoration" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">PRP hair restoration</a> and the <a href="/platelet-rich-plasma-facial" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">PRP facial</a>, or <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">book a consultation</a>.
+            </p>
+
+            <!-- FAQs Section -->
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6 font-heading">Frequently Asked Questions (FAQs)</h2>
+
+            <div class="space-y-6 mb-12">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">1. Is PRP for hair loss a one-time treatment?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> No. PRP for hair is a course followed by maintenance. A series of 3–4 sessions across a few months is usually needed, and most people then need top-up sessions roughly every 6–12 months to keep the benefit.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">2. How soon will I see results from PRP for hair?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Early changes, such as less shedding, are often noticed after 2–3 sessions. Because hair grows slowly, the full effect is usually judged a few months after the first course ends. Photos taken at each visit make progress easier to see.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">3. What happens if I stop PRP treatments?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> The benefit fades gradually over the following months rather than all at once. If the underlying cause is pattern hair loss, thinning usually carries on at its natural pace. Your doctor can advise whether a maintenance plan is worthwhile for you.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">4. Can PRP regrow hair on a completely bald area?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> No. PRP supports follicles that are still alive, so it cannot regrow hair where the scalp is fully bald, shiny or scarred. For those areas, a hair transplant, which moves healthy follicles from elsewhere on the scalp, is a separate option to discuss with a doctor.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">5. How long does a PRP facial last?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> The effects can last up to 18 months, depending on your skin and how you care for it. The usual course is 3 sessions a month apart. Daily sunscreen and not smoking help results last longer.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">6. Does PRP hurt?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Most people feel pressure and mild stinging. We use a numbing agent for both hair and facial PRP to keep you comfortable. The treated area may feel tender for a day or so afterwards.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">7. Who should not have PRP?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> PRP may not be suitable if you have a blood or platelet disorder, take blood-thinning medicines, have an infection where the treatment would go, or are having cancer treatment. It is usually postponed during pregnancy and breastfeeding. Your doctor will review your health before booking you in.</p>
+                </div>
+            </div>
+
+            <!-- Conclusion -->
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6 font-heading">The Bottom Line</h2>
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                PRP results can last, but not forever, and the answer depends on the use. For hair, think of PRP as a course plus maintenance roughly every 6–12 months, with the benefit fading gradually if you stop. For the face, results last up to 18 months after a PRP facial and 12–18 months after a PRP facelift, which adds hyaluronic acid filler. The biggest factors are the cause of the problem, your health and habits, and sticking with the plan.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                If you are weighing up PRP, start with a diagnosis. <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Book a consultation</a> at any Refine branch to find out whether PRP suits you, and what a realistic result looks like.
+            </p>
+
+            <!-- CTA Card -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 rounded-3xl text-center shadow-xl my-10">
+                <h3 class="text-2xl font-bold font-heading mb-4 text-white">Ready to Restore Your Hair or Rejuvenate Your Skin?</h3>
+                <p class="text-white/80 font-light mb-6 max-w-2xl mx-auto">Book a private consultation with our medical doctors at Refine Skin &amp; Body Clinic in Kampala or Juba for a personalised PRP assessment.</p>
+                <a href="/book-appointment" class="inline-block bg-accent text-brand-deeper font-bold px-8 py-3 rounded-full hover:bg-white transition-colors shadow-lg">Book A Consultation</a>
+            </div>
+        ',
+    ],
+    // ----------------------------------------------------
+    // ARTICLE: HOW LONG DOES A NOSE JOB LAST? SURGICAL VS NON-SURGICAL
+    // ----------------------------------------------------
+    'how-long-does-a-nose-job-last' => [
+        'slug' => 'how-long-does-a-nose-job-last',
+        'title' => 'How Long Does a Nose Job Last? Surgical vs Non-Surgical',
+        'meta_title' => 'How Long Does a Nose Job Last? | Refine Skin & Body',
+        'category' => 'Body Contouring & Surgical Aesthetics',
+        'category_slug' => 'body-surgery',
+        'date' => '18 October, 2026',
+        'author' => 'Dr. William Lubega',
+        'author_role' => 'Plastic & Reconstructive Surgeon, Refine Clinic',
+        'read_time' => '8 min',
+        'image' => '/assets/imagesfromsite/how-long-does-a-nose-job-last-hero.jpg',
+        'excerpt' => 'How long does a nose job last? Surgery gives a long-lasting change that settles over a year; filler lasts 6–18 months. Compare both, including the risks.',
+        'content' => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How Long Does a Nose Job Last? Surgical vs Non-Surgical</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> It depends on which nose job you mean. Surgical rhinoplasty reshapes the bone and cartilage, so the change is long-lasting, although your nose keeps ageing with the rest of your face and the final shape can take up to a year to settle. A non-surgical &quot;liquid rhinoplasty&quot; with filler lasts 6–18 months and then needs repeating.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Surgical Rhinoplasty:</span>
+                        <p class="text-white/80 font-light text-xs">Long-lasting; the final shape can take up to a year to show.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Liquid Rhinoplasty (Filler):</span>
+                        <p class="text-white/80 font-light text-xs">6–18 months, varying from person to person.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Downtime:</span>
+                        <p class="text-white/80 font-light text-xs">Surgery: ~2 weeks before social plans; Filler: avoid heavy exercise for 24 hours.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                If you are unhappy with a bump on your nose, a drooping tip or a shape that does not seem to match the rest of your face, the first question is often not &quot;how much?&quot; but &quot;how long will it last?&quot; Nobody wants to pay for a change that disappears within months, or commit to one that cannot easily be undone.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The phrase &quot;nose job&quot; covers two very different treatments: an operation performed by a plastic surgeon, and filler injections given in a clinic room by a medical injector. They last for very different lengths of time, suit different noses and carry different risks.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                At Refine, both are available: surgical rhinoplasty with our plastic surgeon, <a href="/dr-william-lubega" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Dr William Lubega</a>, and non-surgical liquid rhinoplasty with <a href="/dr-chirag-kotecha" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Dr Chirag Kotecha</a>, Aesthetic Physician. Here is how long each one lasts, and how to choose between them.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">Two Different &quot;Nose Jobs&quot;</h2>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">Surgical Rhinoplasty</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Rhinoplasty is an operation to reshape the nose by changing its bone and cartilage, the firm but flexible tissue that shapes the lower nose. A surgeon can reduce a hump, refine the tip, straighten a crooked nose or change the overall size. Sometimes the wall between the nostrils, called the septum, is straightened at the same time to help breathing. At Refine, rhinoplasty is performed by <a href="/dr-william-lubega" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Dr Lubega</a>.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">Non-Surgical Liquid Rhinoplasty</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Liquid rhinoplasty uses dermal filler, a smooth gel injected under the skin, to camouflage a bump, lift a slightly low tip or improve symmetry. It changes the nose\'s shape and profile without the downtime of surgery. Filler adds volume, so it can make a nose look straighter or more balanced, but it cannot make a nose smaller.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">How Long Surgical Rhinoplasty Lasts</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Because surgery changes the structure of the nose itself, the new shape is long-lasting, and most people never need another operation. A minority choose a second, &quot;revision&quot; operation to fine-tune the result or correct a problem, which is one reason the choice of surgeon matters.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">The Swelling Timeline</h3>
+            <ul class="list-disc pl-6 space-y-3 mb-6 text-gray-700 font-light">
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">First week:</strong> A splint is often worn, and swelling and bruising around the eyes are common.</li>
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">Weeks 2–3:</strong> Most visible bruising fades, and many people return to work and social plans.</li>
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">First few months:</strong> Most of the swelling settles and the new shape becomes clear.</li>
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">Up to a year:</strong> The last swelling, especially at the tip, goes down and the final shape shows. Thicker nasal skin, which is common in people of African descent, tends to hold swelling for longer.</li>
+            </ul>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">Your Nose Still Ages</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Rhinoplasty does not stop time. With age, the skin thins, the tissues supporting the tip weaken and the tip may drop slightly. These changes happen whether or not you have had surgery, and they are gradual.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">How Long Liquid Rhinoplasty Lasts</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Liquid rhinoplasty is temporary. The effects last between 6 and 18 months, varying from person to person.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At Refine we use hyaluronic acid filler, a gel similar to a substance found naturally in the skin, which the body gradually breaks down. How quickly depends on the product used, the amount injected and your own body. There is no fixed touch-up schedule; your doctor will advise at review whether and when a top-up makes sense.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Hyaluronic acid filler can usually be dissolved with an enzyme called hyaluronidase, which we keep on hand, so it is adjustable in a way surgery is not.
+            </p>
+
+            <div class="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-2xl my-6">
+                <p class="text-amber-900 text-sm leading-relaxed">
+                    <strong>One firm rule:</strong> We do not use filler or any other non-surgical correction on a nose that has already had surgical rhinoplasty. Surgery changes the anatomy, including the blood supply, and the risk is too high. If you are unhappy with a surgical result, we will refer you for a surgical revision instead.
+                </p>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">Nose Filler Safety: Why the Injector Matters</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Liquid rhinoplasty is quick, but the nose is one of the higher-risk areas for filler. Its blood vessels connect with vessels that supply the skin of the face and the eye. If filler enters or presses on one of these vessels, it can block blood flow, which can damage the skin and, rarely, cause permanent loss of sight.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-4 font-light">
+                That is why nose filler should only be done by an experienced medical injector who:
+            </p>
+            <ul class="list-disc pl-6 space-y-2 mb-6 text-gray-700 font-light">
+                <li>Knows the anatomy of the nose in detail and injects slowly and cautiously</li>
+                <li>Uses a hyaluronic acid filler that can be dissolved</li>
+                <li>Keeps hyaluronidase and an emergency plan ready in the clinic</li>
+                <li>Works in a medical setting, never at a salon, spa or home &quot;filler party&quot;</li>
+            </ul>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                After any nose filler, call the clinic immediately if you notice severe or worsening pain, skin that turns pale, grey, blue or blotchy, or any change in your vision. During clinic hours, call the clinic; out of hours, call your doctor on the personal number they give you at the time of your treatment. If your vision changes, also go straight to the nearest emergency department.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Surgery carries its own risks, including bleeding, infection, changes in breathing, the risks of anaesthesia and a result you are unhappy with. A good surgeon will discuss these openly before you decide.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">Surgical vs Non-Surgical: Side by Side</h2>
+
+            <!-- Side by Side Comparison Table -->
+            <div class="overflow-x-auto my-8">
+                <table class="w-full text-left border-collapse bg-white rounded-2xl shadow-sm border border-brand/10 overflow-hidden text-sm">
+                    <thead>
+                        <tr class="bg-brand text-white font-heading">
+                            <th class="p-4">Feature</th>
+                            <th class="p-4">Surgical Rhinoplasty</th>
+                            <th class="p-4">Liquid Rhinoplasty (Filler)</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/10 text-gray-700 font-light">
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">What it does</td>
+                            <td class="p-4">Reshapes bone and cartilage</td>
+                            <td class="p-4">Adds filler to smooth, lift or balance</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">Can it make the nose smaller?</td>
+                            <td class="p-4"><span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-green-100 text-green-800">Yes</span></td>
+                            <td class="p-4"><span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-gray-100 text-gray-800">No</span></td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">How long it lasts</td>
+                            <td class="p-4">Long-lasting; the nose still ages naturally</td>
+                            <td class="p-4">6–18 months</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">Downtime</td>
+                            <td class="p-4">Usually about 2 weeks before most social plans; final shape up to a year</td>
+                            <td class="p-4">Avoid heavy physical activity for 24 hours</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">Comfort</td>
+                            <td class="p-4">Done under anaesthesia, usually general</td>
+                            <td class="p-4">Minimal discomfort, with a numbing agent</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">Can it be reversed?</td>
+                            <td class="p-4">No; changes need further surgery</td>
+                            <td class="p-4">Hyaluronic acid filler can usually be dissolved</td>
+                        </tr>
+                        <tr class="hover:bg-brand-pale/20 transition-colors">
+                            <td class="p-4 font-semibold text-brand-deeper">At Refine</td>
+                            <td class="p-4 font-medium text-brand">Dr William Lubega, Plastic Surgeon</td>
+                            <td class="p-4 font-medium text-brand">Dr Chirag Kotecha, Aesthetic Physician</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3 class="text-xl font-bold text-brand mt-6 mb-3 font-heading">Which Might Suit You?</h3>
+            <ul class="list-disc pl-6 space-y-3 mb-8 text-gray-700 font-light">
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">Filler may suit you if</strong> you have never had nose surgery and have a small bump, a slightly low tip or mild asymmetry, want to preview a change, or cannot take time off.</li>
+                <li class="leading-relaxed"><strong class="font-semibold text-brand-deeper">Surgery may suit you if</strong> you want a smaller or narrower nose, have a large hump or wide nostrils, have breathing problems, or want a long-lasting change.</li>
+            </ul>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">When to See a Specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                For surgical rhinoplasty, the specialist is <a href="/dr-william-lubega" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Dr William Lubega</a>, Plastic Surgeon, who carries out a thorough evaluation before any surgery. For liquid rhinoplasty, it is <a href="/dr-chirag-kotecha" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Dr Chirag Kotecha</a>, Aesthetic Physician.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Either consultation should cover what bothers you about your nose, your medical history (including pregnancy or breastfeeding, when treatment is usually postponed), any breathing problems or previous injury or surgery, and an examination of your nose, skin thickness and facial proportions. You should leave understanding what is realistic, what the risks are, and whether filler or surgery fits your goals. It is fine to take time to decide.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Refine Skin &amp; Body Clinic has three branches in Kampala: Lugogo (Forest Mall), Kabalagala (Palm Village Mall) and Bukoto (UMC Victoria Hospital Annex). In South Sudan, Refine Skin &amp; Body Centre is on Airport Road in Juba. Learn more about <a href="/plastic-surgery" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">plastic surgery at Refine</a>, <a href="/non-surgical-liquid-rhinoplasty" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">non-surgical liquid rhinoplasty</a> and <a href="/dr-william-lubega" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Dr William Lubega</a>, or <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">book a consultation</a>.
+            </p>
+
+            <!-- FAQs Section -->
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6 font-heading">Frequently Asked Questions (FAQs)</h2>
+
+            <div class="space-y-6 mb-12">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">1. Does a surgical nose job last for life?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> The structural change is long-lasting, and most people never need more surgery. However, your nose continues to age with the rest of your face, so it will change gradually over the years. A minority of people have a revision operation to refine the result.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">2. How long does liquid rhinoplasty last?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> The effects last between 6 and 18 months, varying from person to person. Your doctor will advise at review whether a top-up is worthwhile.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">3. When will I see the final result of a rhinoplasty?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Most swelling settles in the first few months, but the final shape, particularly at the tip, can take up to a year. Thicker nasal skin tends to take longer.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">4. Can filler make my nose smaller?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> No. Filler adds volume, so it can hide a bump, lift a tip or improve symmetry, which can make a nose look more balanced. Making a nose smaller or narrower needs surgery.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">5. Is non-surgical rhinoplasty safe?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> In experienced medical hands, most people have only mild swelling or bruising. However, the nose carries a small risk of filler blocking a blood vessel, which can damage the skin or, rarely, sight. Choose a medical injector who uses dissolvable hyaluronic acid filler and is ready to act in an emergency.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">6. Can I have filler after a surgical rhinoplasty?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Not at Refine. Once a nose has had surgery, its anatomy and blood supply have changed, so we do not offer filler or any other non-surgical correction. If something needs correcting, we refer you for a surgical revision.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">7. Does a nose job hurt?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Liquid rhinoplasty causes minimal discomfort because we use a numbing agent. Surgery is done under anaesthesia, and afterwards most people feel stuffiness and aching rather than sharp pain, which is managed with pain relief.</p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">8. Can a nose job keep my natural features?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> It should. A good result suits your face rather than replacing your identity, and Dr Lubega aims for results that complement your natural features. Tell your surgeon what you want to keep as well as what you want to change.</p>
+                </div>
+            </div>
+
+            <!-- Conclusion -->
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-12 mb-6 font-heading">The Bottom Line</h2>
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                How long a nose job lasts depends on the type. Surgical rhinoplasty gives a long-lasting structural change, with the final shape settling over about a year and the nose ageing naturally after that. Liquid rhinoplasty lasts 6–18 months, needs repeating to maintain, and suits smaller changes on a nose that has not had surgery, but only in the hands of an experienced medical injector.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                If you are unsure which is right for you, <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">book a consultation</a> at Refine and talk it through before you decide.
+            </p>
+
+            <!-- CTA Card -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 rounded-3xl text-center shadow-xl my-10">
+                <h3 class="text-2xl font-bold font-heading mb-4 text-white">Wondering Which Nose Reshaping Option Suits You?</h3>
+                <p class="text-white/80 font-light mb-6 max-w-2xl mx-auto">Book a private consultation with Dr William Lubega or Dr Chirag Kotecha at Refine Skin &amp; Body Clinic to discuss your goals and find out whether surgery or liquid rhinoplasty is right for you.</p>
+                <a href="/book-appointment" class="inline-block bg-accent text-brand-deeper font-bold px-8 py-3 rounded-full hover:bg-white transition-colors shadow-lg">Book A Consultation</a>
+            </div>
+        ',
+    ],
+    // ----------------------------------------------------
     // ARTICLE: WILL A CHEMICAL PEEL LIGHTEN YOUR SKIN?
     // ----------------------------------------------------
     'will-a-chemical-peel-lighten-your-skin' => [
