@@ -53,6 +53,7 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'why-does-eczema-get-worse-in-the-dry-season',
     'can-stretch-marks-be-removed',
     'how-long-do-prp-results-last',
     'how-long-does-a-nose-job-last',
