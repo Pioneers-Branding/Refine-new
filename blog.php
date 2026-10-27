@@ -19,6 +19,315 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: CAN STRETCH MARKS BE REMOVED?
+    // ----------------------------------------------------
+    'can-stretch-marks-be-removed' => [
+        'slug' => 'can-stretch-marks-be-removed',
+        'title' => 'Can Stretch Marks Be Removed?',
+        'meta_title' => 'Can Stretch Marks Be Removed?',
+        'category' => 'Skin Rejuvenation & Scars',
+        'category_slug' => 'skin-rejuvenation',
+        'date' => '24 October, 2026',
+        'author' => 'Dr. Chirag Kotecha',
+        'author_role' => 'Aesthetic Physician, Refine Clinic',
+        'read_time' => '9 min',
+        'image' => '/assets/images/services/skincare_general/stretch_marks_treatment_1.png',
+        'excerpt' => 'Can stretch marks be removed completely? Discover the medical facts, the difference between red and white marks, advanced clinical solutions, and honest answers.',
+        'content' => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Can Stretch Marks Be Removed?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> No, stretch marks cannot be wiped away 100% without a trace because they are permanent tears in the deep dermal layer of the skin. However, modern medical aesthetic treatments can fade them by 60% to 90%, significantly smoothing indented texture, tightening loose skin, and restoring natural pigment so they become barely noticeable to the naked eye.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Early Red / Purple Marks:</span>
+                        <p class="text-white/80 font-light text-xs">High vascularity; highly responsive to microneedling and non-ablative lasers.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Mature White / Silver Marks:</span>
+                        <p class="text-white/80 font-light text-xs">Healed scar tissue; best remodeled with RF microneedling, fractional CO2, and PRP.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Realistic Improvement:</span>
+                        <p class="text-white/80 font-light text-xs">60% to 90% texture and color blending over 3 to 6 clinical sessions.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                Almost everyone has looked in the mirror at some point and noticed narrow bands, stripes, or streaks running across their stomach, thighs, hips, breasts, buttocks, or upper arms. Whether they appeared after a sudden teenage growth spurt, pregnancy, intense gym training, or rapid weight fluctuations, stretch marks are one of the most common skin concerns shared across the world.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Because they are so common, they are also surrounded by endless claims from cosmetic brands selling miracle creams, oils, and lotions that promise to erase them within days. If you are wondering whether stretch marks can truly be removed, this comprehensive medical guide separates marketing hype from clinical reality. Below, we explain what causes these marks, why some are red while others are white, which professional treatments genuinely work, and how modern medical technology can help you achieve smooth, confident skin.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">What Exactly Are Stretch Marks?</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                To understand whether stretch marks can disappear, it helps to understand what they actually are beneath the surface. In dermatology, stretch marks are clinically referred to as <a href="https://en.wikipedia.org/wiki/Striae_distensae" target="_blank" rel="noopener noreferrer" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">striae distensae</a>. Your skin is composed of three primary anatomical layers: the superficial epidermis, the structural dermis, and the deeper subcutaneous hypodermis.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The dermis contains a rich, interwoven mesh of collagen and elastin fibers. Collagen gives your skin structural strength and firmness, while elastin provides elasticity, allowing your skin to expand and bounce back smoothly during everyday physical motion.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                However, when your body expands faster than your skin can manufacture new cells, the connective scaffolding in the dermis is placed under extreme mechanical tension. When that tension exceeds the skin natural elastic threshold, the collagen and elastin fibers rupture internally. As the dermal layer pulls apart, the overlying epidermis thins out over the tear. What you observe on the surface as a stretch mark is essentially an internal dermal scar showing through thin skin.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">Why Do Stretch Marks Form? Common Triggers</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Stretch marks do not occur due to poor hygiene or neglected skincare. They happen whenever the body undergoes rapid physical transformation or hormonal changes that weaken skin elasticity. Common causes include:
+            </p>
+            <ul class="space-y-4 mb-8 text-gray-700 font-light">
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Puberty and Growth Spurts:</strong> Rapid bone elongation and muscle growth during teenage years frequently cause horizontal bands across the lower back, hips, thighs, and knees.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Pregnancy Stretch Marks:</strong> Over 80% of pregnant women develop marks across the abdomen, hips, and breasts due to mechanical stretching paired with high estrogen and relaxin levels, which soften pelvic ligaments and dermal proteins.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Rapid Weight Gain or Loss:</strong> Sudden weight gain stretches the skin rapidly, while subsequent weight loss leaves behind visible lines where skin laxity has increased.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Intense Bodybuilding and Weightlifting:</strong> Rapid muscle hypertrophy stretches the skin over biceps, shoulders, and chest muscles.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Hormonal Imbalances & Corticosteroids:</strong> Elevated cortisol levels from stress, medical conditions, or long-term topical steroid creams inhibit fibroblasts from synthesizing collagen, making skin fragile and prone to tearing.</span>
+                </li>
+            </ul>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">Red vs. White Stretch Marks: Why Timing Determines Your Results</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Not all stretch marks look or behave the same. Their age, color, and microscopic structure dramatically influence how well they respond to clinical care.
+            </p>
+
+            <div class="overflow-x-auto mb-8">
+                <table class="w-full text-left border-collapse border border-gray-200 rounded-2xl overflow-hidden shadow-sm">
+                    <thead>
+                        <tr class="bg-brand text-white text-xs sm:text-sm font-heading">
+                            <th class="p-4 border border-brand/20">Stage & Characteristic</th>
+                            <th class="p-4 border border-brand/20">Early Stage: Red / Purple Marks</th>
+                            <th class="p-4 border border-brand/20">Mature Stage: White / Silver Marks</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-xs sm:text-sm text-gray-700 divide-y divide-gray-200 font-light">
+                        <tr class="hover:bg-gray-50">
+                            <td class="p-4 font-semibold text-brand-deeper">Medical Name</td>
+                            <td class="p-4">Striae rubrae</td>
+                            <td class="p-4">Striae albae</td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="p-4 font-semibold text-brand-deeper">Visual Appearance</td>
+                            <td class="p-4">Bright red, pink, purplish, or violaceous</td>
+                            <td class="p-4">Pale white, pearlescent silver, or light tan</td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="p-4 font-semibold text-brand-deeper">Microscopic State</td>
+                            <td class="p-4">Active inflammation, dilated capillaries, fresh micro-tears</td>
+                            <td class="p-4">Avascular scar tissue, collapsed blood supply, lost pigment</td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="p-4 font-semibold text-brand-deeper">Skin Texture</td>
+                            <td class="p-4">Flat or slightly raised, often itchy</td>
+                            <td class="p-4">Indented, depressed, crepey, or crinkled</td>
+                        </tr>
+                        <tr class="hover:bg-gray-50">
+                            <td class="p-4 font-semibold text-brand-deeper">Clinical Responsiveness</td>
+                            <td class="p-4 text-emerald-600 font-medium">Highest response rate; quickest to fade</td>
+                            <td class="p-4 text-amber-600 font-medium">Requires deeper remodeling & repigmentation</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                When a stretch mark first forms as striae rubrae, blood vessels beneath the torn dermis dilate as part of your body initial inflammatory healing response. During this active vascular phase, the tissue is still alive with cellular activity, making it far more receptive to treatment. Just as it is vital to <a href="/blog/how-to-prevent-post-acne-dark-marks" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">prevent post acne marks</a> during early inflammation, treating red stretch marks early produces the fastest and most dramatic clearance.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Over months and years, the initial inflammation subsides into striae albae. The dilated blood vessels constrict and recede, leaving behind an avascular band of mature scar tissue. Melanin-producing cells in the area often shut down, giving mature marks their signature chalky white or silvery look. While older white marks are much more stubborn, they can still be significantly remodeled.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">Can Stretch Marks Ever Be Removed Completely?</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Let us address the honest clinical truth: <strong>no non-surgical treatment can erase mature stretch marks 100%.</strong>
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Because a stretch mark represents a permanent physical break in the dermal architecture—identical in structure to an atrophic scar—the original cellular structure cannot be restored to its pre-stretch state without surgically cutting the damaged skin away (such as via an abdominoplasty or tummy tuck).
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                However, <strong>there is a massive difference between cannot be erased 100% and cannot be fixed.</strong> With modern aesthetic technology, you do not need 100% eradication to achieve skin that looks smooth, even, and natural. By using targeted clinical protocols, aesthetic doctors can thicken the thinned epidermis so the valley-like depression fills in flush with healthy skin, re-knit broken collagen and elastin cross-links, and restore natural melanin color to pale stripes. In practical terms, a successful clinical protocol typically delivers <strong>60% to 90% visible improvement</strong>, making the marks virtually invisible in everyday lighting and swimwear.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">Proven Clinical Treatments for Stretch Marks</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                If over-the-counter moisturizers cannot penetrate deep enough to remodel scar tissue, what actually works? Clinical aesthetic medicine relies on controlled cellular stimulation to force your body to build healthy new dermis. For patients seeking effective <a href="https://refineskinandbody.com/stretch-marks" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Stretch Marks Treatment in Kampala</a>, a customized, multi-modality approach tailored to your specific skin tone and scar depth delivers the most reliable results.
+            </p>
+
+            <h3 class="text-xl sm:text-2xl font-bold font-heading mb-3 text-brand-deeper">1. Medical Microneedling (Collagen Induction Therapy)</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Medical microneedling uses precision surgical-grade micro-needles to create thousands of controlled microscopic punctures into the dermis. This controlled micro-trauma triggers a powerful wound-healing cascade without burning or removing the epidermis. Fibroblasts immediately migrate to the micro-channels, synthesizing fresh, unorganized collagen into organized collagen fibers. Over a series of sessions, the sunken surface of the stretch mark rises, skin density thickens, and the crepey texture becomes remarkably smooth. Microneedling is exceptionally safe for darker skin types because it does not deliver heat that could cause post-inflammatory hyperpigmentation.
+            </p>
+
+            <h3 class="text-xl sm:text-2xl font-bold font-heading mb-3 text-brand-deeper">2. Radiofrequency (RF) Microneedling</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                RF microneedling elevates standard microneedling by releasing concentrated radiofrequency heat energy directly at the needle tips deep inside the dermis. While mechanical puncture breaks apart rigid scar bands, thermal energy causes immediate contraction of loose fibers and stimulates long-term neocollagenesis. This dual action tightens lax skin around stretch marks while lifting depressed lines.
+            </p>
+
+            <h3 class="text-xl sm:text-2xl font-bold font-heading mb-3 text-brand-deeper">3. Fractional Laser Skin Resurfacing</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Fractional lasers emit micro-beams of light that penetrate columns of the dermis while leaving intervening tissue untouched. Non-ablative fractional lasers heat the dermis without peeling the surface, making them well-suited for early vascular marks and melanin-rich skin. Ablative fractional lasers, such as fractionated CO2, vaporize tiny columns of damaged scar tissue, forcing total cellular regeneration. Much like treating deep pitted skin using targeted <a href="/blog/acne-scars-treatment-options-that-really-work" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">acne scar treatment options</a>, fractional energy softens rigid scar borders so they blend seamlessly into surrounding skin.
+            </p>
+
+            <h3 class="text-xl sm:text-2xl font-bold font-heading mb-3 text-brand-deeper">4. Chemical Peels & Medical Exfoliation</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Medium-depth chemical peels formulated with trichloroacetic acid (TCA), glycolic acid, or retinoic acid accelerate epidermal turnover and encourage mild dermal remodeling. While chemical peels alone cannot resolve deep dermal gouges, they are outstanding for smoothing surface roughness and fading dark borders around hyperpigmented marks. You can discover more about <a href="/blog/what-does-chemical-peel-do" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">how chemical peels work</a> to understand how superficial exfoliation supports deep skin renewal.
+            </p>
+
+            <h3 class="text-xl sm:text-2xl font-bold font-heading mb-3 text-brand-deeper">5. Platelet-Rich Plasma (PRP) Therapy</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Often combined with microneedling or fractional laser resurfacing, PRP involves extracting a small vial of your own blood, concentrating the platelets in a centrifuge, and applying the growth-factor-rich plasma directly into the micro-channels. Growth factors stimulate cell division, accelerate vascular regeneration, and dramatically boost healing speed, turning stubborn mature marks into active remodeling zones.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">Why Home Remedies and Creams Fall Short</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Walk down any beauty aisle and you will find shelves stocked with cocoa butter, shea butter, almond oil, coconut oil, and vitamin E serums promising to erase stretch marks in 14 days. Do these products actually work?
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Quality plant butters and oils are wonderful moisturizers. They hydrate the stratum corneum (the top layer of your epidermis), improve surface softness, relieve itching, and make skin feel supple. However, moisturizers cannot cross the basement membrane in concentrations high enough to reconstruct snapped collagen bundles in the deep reticular dermis. Applying cocoa butter to a deep stretch mark is like putting lotion over a torn piece of leather—it conditions the surface, but it cannot re-stitch the tear underneath.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                The only topical ingredient backed by rigorous clinical data is prescription tretinoin (retinoid). When applied consistently to fresh, red stretch marks under medical guidance, retinoids can boost collagen synthesis and noticeably shrink scar width. However, retinoids are strictly contraindicated during pregnancy and breastfeeding and have minimal effect on older, white marks.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-6 font-heading">Supporting Your Skin From the Inside: Prevention & Lifestyle</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                While genetics and hormones dictate how elastic your skin naturally is, lifestyle choices play an essential supportive role in maintaining dermal integrity:
+            </p>
+            <ul class="space-y-4 mb-8 text-gray-700 font-light">
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Steady, Gradual Body Changes:</strong> If you are actively bulking in the gym or pursuing weight loss, aim for steady, gradual shifts rather than drastic drops or spikes. To understand how targeted body shaping differs from systemic weight loss, explore our guide on <a href="/blog/body-contouring-vs-weight-loss-whats-the-difference" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">body contouring vs weight loss</a>.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Nutritional Fuel for Collagen:</strong> Your fibroblasts require specific nutritional building blocks to assemble collagen helices. Make sure your diet includes adequate lean protein, vitamin C (essential for collagen synthesis), zinc, and omega-3 fatty acids.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Consistent Hydration:</strong> Dehydrated skin has lower turgor and tears much more easily under stress. Drink 2 to 3 liters of clean water daily.</span>
+                </li>
+                <li class="flex items-start gap-3">
+                    <i class="fas fa-check-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Dedicated Daily Body Care:</strong> Incorporating a <a href="/blog/daily-skincare-routine-what-every-client-should-know" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">healthy daily skincare routine</a> that includes gentle body cleansing, regular barrier hydration, and broad-spectrum sun protection prevents UV rays from breaking down your existing collagen reserves.</span>
+                </li>
+            </ul>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                For patients seeking clinical evaluation, personalized guidance, and state-of-the-art technology, consulting the dedicated medical team at <a href="https://refineskinandbody.com/" class="text-brand font-semibold hover:text-accent transition-colors underline decoration-accent/40 underline-offset-4">Refine Skin & Body Clinic</a> ensures you receive an honest, evidence-based roadmap tailored precisely to your skin goals.
+            </p>
+
+            <hr class="my-10 border-brand/10" />
+
+            <h2 class="text-2xl sm:text-3xl font-display text-brand-deeper font-bold mt-10 mb-8 font-heading">Frequently Asked Questions</h2>
+
+            <div class="space-y-6 mb-12">
+                <div class="bg-gray-50 border border-gray-200/80 rounded-2xl p-6 transition-all hover:border-brand/30">
+                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">1. Can stretch marks disappear entirely on their own without treatment?</h3>
+                    <p class="text-gray-700 font-light leading-relaxed">
+                        No, mature stretch marks do not disappear completely on their own. Because they are permanent structural tears in the dermal layer of your skin, the body treats them as healed scar tissue. Over several years, early red or purple marks will naturally fade to a lighter, silvery-white color, but the indented texture and compromised skin elasticity will remain unless medically stimulated.
+                    </p>
+                </div>
+
+                <div class="bg-gray-50 border border-gray-200/80 rounded-2xl p-6 transition-all hover:border-brand/30">
+                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">2. Does losing weight get rid of existing stretch marks?</h3>
+                    <p class="text-gray-700 font-light leading-relaxed">
+                        Losing weight does not remove stretch marks, and in some cases, it can make them appear more noticeable. Stretch marks form when skin is stretched; once the dermal tear occurs, shrinking the underlying fat layer does not erase the scar. In fact, if weight loss occurs rapidly, skin laxity can cause the marks to look more wrinkled or bunched together. Combining healthy weight management with skin-tightening treatments like RF microneedling provides the best aesthetic outcome.
+                    </p>
+                </div>
+
+                <div class="bg-gray-50 border border-gray-200/80 rounded-2xl p-6 transition-all hover:border-brand/30">
+                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">3. How many clinical treatment sessions will I need to see real results?</h3>
+                    <p class="text-gray-700 font-light leading-relaxed">
+                        Most patients require between 3 and 6 sessions spaced 4 to 6 weeks apart. Collagen remodeling is a biological process that unfolds gradually over several months. You will typically notice improved skin firmness and texture after your second session, with peak improvements continuing to build for up to 6 months after your final clinical appointment.
+                    </p>
+                </div>
+
+                <div class="bg-gray-50 border border-gray-200/80 rounded-2xl p-6 transition-all hover:border-brand/30">
+                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">4. Are medical stretch mark treatments painful?</h3>
+                    <p class="text-gray-700 font-light leading-relaxed">
+                        Treatments are generally very comfortable and well-tolerated. Before procedures such as medical microneedling, RF microneedling, or fractional laser resurfacing, a high-strength topical anesthetic numbing cream is applied to the treatment area for 30 to 45 minutes. Most clients report feeling mild vibration, gentle prickling, or localized warmth rather than sharp discomfort.
+                    </p>
+                </div>
+
+                <div class="bg-gray-50 border border-gray-200/80 rounded-2xl p-6 transition-all hover:border-brand/30">
+                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">5. Can stretch mark treatments be safely performed on darker skin tones?</h3>
+                    <p class="text-gray-700 font-light leading-relaxed">
+                        Yes, but choosing the right technology and experienced provider is essential. Melanin-rich skin is more prone to post-inflammatory hyperpigmentation if treated with aggressive, high-heat devices. Non-thermal modalities like medical microneedling, conservative radiofrequency, and specialized low-fluence lasers are exceptionally safe and effective for Fitzpatrick skin types IV through VI when performed by medical aesthetic doctors.
+                    </p>
+                </div>
+
+                <div class="bg-gray-50 border border-gray-200/80 rounded-2xl p-6 transition-all hover:border-brand/30">
+                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">6. When is the ideal time to start treating stretch marks?</h3>
+                    <p class="text-gray-700 font-light leading-relaxed">
+                        The absolute best time to start treatment is when marks are fresh, red, pink, or purple (striae rubrae). While blood vessels are still active and localized inflammation is present, the scar tissue is soft and highly responsive to therapy. Treating marks in their first 3 to 12 months allows for significantly faster clearance and fewer sessions than treating older, silvery-white marks.
+                    </p>
+                </div>
+
+                <div class="bg-gray-50 border border-gray-200/80 rounded-2xl p-6 transition-all hover:border-brand/30">
+                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">7. Does drinking water or taking collagen powders heal stretch marks?</h3>
+                    <p class="text-gray-700 font-light leading-relaxed">
+                        Hydration and collagen supplements support overall skin vitality, but they cannot erase existing dermal tears. Drinking plenty of water keeps skin supple and less vulnerable to future tears, while hydrolyzed collagen peptides supply amino acids that nourish healing tissue. However, systemic supplements cannot specifically target or repair an established localized scar band in your dermis.
+                    </p>
+                </div>
+
+                <div class="bg-gray-50 border border-gray-200/80 rounded-2xl p-6 transition-all hover:border-brand/30">
+                    <h3 class="text-lg font-bold font-heading text-brand-deeper mb-2">8. How soon after pregnancy can a new mother start stretch mark treatments?</h3>
+                    <p class="text-gray-700 font-light leading-relaxed">
+                        New mothers can typically begin non-invasive clinical treatments 6 to 12 weeks after childbirth, provided they have fully healed. If you had a caesarean section, complete incision healing must be verified first. If you are actively breastfeeding, oral medications and topical retinoids must be avoided, but gentle mechanical microneedling and non-invasive laser sessions are completely safe options.
+                    </p>
+                </div>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- CTA Card with Corrected Premium Color Combination -->
+            <div class="relative overflow-hidden bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl border border-accent/30 my-12">
+                <!-- Subtle Background Glows -->
+                <div class="absolute -top-24 -right-24 w-64 h-64 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+                <div class="absolute -bottom-24 -left-24 w-64 h-64 rounded-full bg-[#5a3ba8]/20 blur-3xl pointer-events-none"></div>
+
+                <div class="relative z-10">
+                    <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/20 border border-accent/40 text-accent font-semibold text-xs tracking-widest uppercase mb-4">
+                        <i class="fas fa-sparkles text-accent"></i> Personalised Aesthetic Care
+                    </span>
+                    <h3 class="text-2xl sm:text-4xl font-display font-bold text-white mb-4">Restore Smooth, Resilient Skin Today</h3>
+                    <p class="text-white/90 max-w-2xl mx-auto mb-8 font-light text-sm sm:text-base leading-relaxed">
+                        You do not have to accept deep stretch marks or crepey skin as permanent fixtures. Schedule a confidential consultation with our medical doctors at <strong class="text-accent font-semibold">Refine Skin &amp; Body Clinic</strong> in Kampala or Juba to begin your personalised scar remodeling plan.
+                    </p>
+                    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        <a href="/book-appointment" class="inline-flex items-center justify-center px-9 py-4 rounded-full bg-accent text-[#1a0f3c] font-bold text-sm tracking-wide uppercase hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-0.5">
+                            Book Your Consultation
+                        </a>
+                        <a href="/contact" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-white/10 text-white font-medium text-sm tracking-wide border border-white/20 hover:bg-white/20 transition-all duration-300">
+                            Speak to Our Specialists
+                        </a>
+                    </div>
+                </div>
+            </div>
+        ',
+    ],
+    // ----------------------------------------------------
     // ARTICLE: HOW LONG DO PRP RESULTS LAST?
     // ----------------------------------------------------
     'how-long-do-prp-results-last' => [

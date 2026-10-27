@@ -53,6 +53,7 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'can-stretch-marks-be-removed',
     'how-long-do-prp-results-last',
     'how-long-does-a-nose-job-last',
     'will-a-chemical-peel-lighten-your-skin',
