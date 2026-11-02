@@ -213,10 +213,6 @@ include 'includes/head.php'; ?>
                             </div>
                             <p class="text-xs text-brand-muted font-light">Doctor-recommended broad-spectrum sunscreen gel for oily &amp; acne-prone skin. Leaves zero white cast on African skin.</p>
                         </div>
-                        <div class="text-right flex-shrink-0 ml-4">
-                            <div class="font-display text-xl text-accent">30,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</div>
-                        </div>
                     </div>
                     <!-- Item 2 -->
                     <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
@@ -226,10 +222,6 @@ include 'includes/head.php'; ?>
                                 <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Fixderma® Skarfix-TX Melasma Cream (15g Tube)</h4>
                             </div>
                             <p class="text-xs text-brand-muted font-light">Tranexamic Acid + Kojic Acid Dipalmitate tyrosinase inhibitor for stubborn epidermal discoloration and post-peel care.</p>
-                        </div>
-                        <div class="text-right flex-shrink-0 ml-4">
-                            <div class="font-display text-xl text-accent">35,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹404 (~$9.50 USD)</div>
                         </div>
                     </div>
                     <!-- Item 3 -->
@@ -241,10 +233,6 @@ include 'includes/head.php'; ?>
                             </div>
                             <p class="text-xs text-brand-muted font-light">Retinol, Lactic Acid &amp; Urea therapy for dark, thickened skin folds on the neck, underarms, and joints.</p>
                         </div>
-                        <div class="text-right flex-shrink-0 ml-4">
-                            <div class="font-display text-xl text-accent">38,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹440 (~$10 USD)</div>
-                        </div>
                     </div>
                     <!-- Item 4 -->
                     <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
@@ -254,10 +242,6 @@ include 'includes/head.php'; ?>
                                 <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Fixderma® Salyzap Anti-Acne Solutions</h4>
                             </div>
                             <p class="text-xs text-brand-muted font-light">Salicylic Acid, Azelaic Acid &amp; Nicotinamide regimens for facial breakouts, cleansers, and 360° body acne sprays.</p>
-                        </div>
-                        <div class="text-right flex-shrink-0 ml-4">
-                            <div class="font-display text-xl text-accent">From 25,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹285 - ₹825</div>
                         </div>
                     </div>
                     <!-- Item 5 -->
@@ -269,10 +253,6 @@ include 'includes/head.php'; ?>
                             </div>
                             <p class="text-xs text-brand-muted font-light">Clinically proven formulas for atrophic acne pits, surgical scars, and medical silicone keloid prevention.</p>
                         </div>
-                        <div class="text-right flex-shrink-0 ml-4">
-                            <div class="font-display text-xl text-accent">From 32,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹385 - ₹650</div>
-                        </div>
                     </div>
                     <!-- Item 6 -->
                     <div class="flex justify-between items-center p-6 hover:bg-white transition-colors cursor-pointer group">
@@ -282,10 +262,6 @@ include 'includes/head.php'; ?>
                                 <h4 class="font-heading font-semibold text-brand-deeper group-hover:text-accent transition-colors">Fixderma® Vitipause &amp; Foobetik Clinical Formulations</h4>
                             </div>
                             <p class="text-xs text-brand-muted font-light">Targeted repigmentation therapy for vitiligo macules, plus L-Arginine + Urea diabetic xerosis repair.</p>
-                        </div>
-                        <div class="text-right flex-shrink-0 ml-4">
-                            <div class="font-display text-xl text-accent">From 24,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹275 - ₹925</div>
                         </div>
                     </div>
                 </div>

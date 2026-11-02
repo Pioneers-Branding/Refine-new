@@ -529,7 +529,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Sun Defense</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">30,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Shadow SPF 50+ Gel</h3>
                         <p class="text-accent text-xs font-medium mb-3">Octinoxate, Titanium Dioxide & Avobenzone</p>
@@ -537,12 +536,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Doctor-recommended broad-spectrum sunscreen gel formulated specifically for oily, sensitive and acne-prone skin. Oil-free, non-greasy finish that leaves zero white cast on African and melanin-rich skin.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">30,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20SPF%2050%2B%20Gel%20%2830%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20SPF%2050%2B%20Gel" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -559,7 +554,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Dry Skin Care</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">30,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Shadow SPF 50+ Cream</h3>
                         <p class="text-accent text-xs font-medium mb-3">Zinc Oxide, Micronized Titanium & Vitamin E</p>
@@ -567,12 +561,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Deeply hydrating broad-spectrum photoprotection lotion that shields skin from UVA/UVB photoaging while infusing essential moisture into dry, compromised, or chemically peeled skin.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">30,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹349 (~$8 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20SPF%2050%2B%20Cream%20%2830%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20SPF%2050%2B%20Cream" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -589,7 +579,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Primer Sunscreen</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">45,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Shadow SPF 30 Transparent Silicone Gel</h3>
                         <p class="text-accent text-xs font-medium mb-3">Transparent Silicone Matrix & Uvinul A Plus</p>
@@ -597,12 +586,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             100% invisible velvety primer sunscreen. Glides effortlessly under makeup, blurs pores, controls sebum breakthrough, and provides water-resistant photoprotection.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">45,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹544 (~$12 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20SPF%2030%20Transparent%20Silicone%20Gel%20%2845%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20SPF%2030%20Transparent%20Silicone%20Gel" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -619,7 +604,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Tinted Shield</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">35,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Shadow Rx Tinted Sunscreen SPF 50+</h3>
                         <p class="text-accent text-xs font-medium mb-3">Iron Oxides, Hyaluronic Acid & Titanium Dioxide</p>
@@ -627,12 +611,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Universal tinted mineral-enhanced shield designed to neutralize blue HEV light and prevent melasma recurrence while giving a natural dewy coverage without heavy foundation.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">35,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹425 (~$10 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20Rx%20Tinted%20Sunscreen%20SPF%2050%2B%20%2835%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20Rx%20Tinted%20Sunscreen%20SPF%2050%2B" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -649,7 +629,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Reapplication Spray</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">30,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Shadow Invisible Spray SPF 50+</h3>
                         <p class="text-accent text-xs font-medium mb-3">Micro-Mist UV Filters & Anti-Pollution Shield</p>
@@ -657,12 +636,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Ultra-lightweight invisible touch-up spray allowing effortless 3-hour sunscreen reapplication over makeup and outdoor sports without rubbing or greasy residue.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">30,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹360 (~$8 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20Invisible%20Spray%20SPF%2050%2B%20%2830%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20Invisible%20Spray%20SPF%2050%2B" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -679,7 +654,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • On-the-Go Care</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">15,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Shadow Sunscreen Stick SPF 50</h3>
                         <p class="text-accent text-xs font-medium mb-3">Ceramides, Vitamin E & Photostable Filters</p>
@@ -687,12 +661,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Compact pocket sun-stick designed for targeted touch-ups on the nose, cheeks, forehead, and lips. Water-resistant, travel-friendly, and non-comedogenic.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">15,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹165 (~$4 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20Sunscreen%20Stick%20SPF%2050%20%2815%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20Sunscreen%20Stick%20SPF%2050" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -709,7 +679,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Lip Therapy</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">40,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Brightening Lip Shield SPF 50+</h3>
                         <p class="text-accent text-xs font-medium mb-3">Kojic Acid, Alpha Arbutin & Curcumin</p>
@@ -717,12 +686,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Therapeutic brightening lip balm reversing dark smoker's lips and sun-induced lip hyperpigmentation while providing critical SPF 50 UVA/UVB defense against lip actinic cheilitis.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">40,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹478 (~$11 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Brightening%20Lip%20Shield%20SPF%2050%2B%20%2840%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Brightening%20Lip%20Shield%20SPF%2050%2B" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -739,7 +704,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Pediatric Defense</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">35,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Shadow Kids Sunscreen SPF 30</h3>
                         <p class="text-accent text-xs font-medium mb-3">Micronized Physical Blockers & Aloe Vera</p>
@@ -747,12 +711,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Pediatrician-tested, tear-free hypoallergenic sunscreen lotion formulated for delicate children's skin. Free from harmful parabens, oxybenzone, and synthetic fragrances.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">35,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹434 (~$10 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20Kids%20Sunscreen%20SPF%2030%20%2835%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Shadow%20Kids%20Sunscreen%20SPF%2030" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -769,7 +729,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Acne Therapy</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">25,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Salyzap Face Gel (Acne Care)</h3>
                         <p class="text-accent text-xs font-medium mb-3">1.5% Salicylic Acid, Nicotinamide & Tea Tree</p>
@@ -777,12 +736,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Fast-acting spot and full-face gel penetrating deeply into congested pores to dissolve keratin plugs, eliminate Propionibacterium acnes, and soothe active red papules without flaking.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">25,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹299 (~$7 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap%20Face%20Gel%20%28Acne%20Care%29%20%2825%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap%20Face%20Gel" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -799,7 +754,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Acne Cleanser</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">28,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Salyzap Daily Face Cleanser</h3>
                         <p class="text-accent text-xs font-medium mb-3">2% Salicylic Acid, Green Tea Extract & Zinc PCA</p>
@@ -807,12 +761,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Medical sebum-regulating foaming cleanser removing excess facial oil, environmental grime, and acne bacteria while balancing physiological pH 5.5 to avoid barrier damage.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">28,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹338 (~$8 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap%20Daily%20Face%20Cleanser%20%2828%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap%20Daily%20Face%20Cleanser" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -829,7 +779,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Back & Chest Care</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">70,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Salyzap-AZ Body Acne Spray</h3>
                         <p class="text-accent text-xs font-medium mb-3">Salicylic Acid, Azelaic Acid & Tea Tree Oil</p>
@@ -837,12 +786,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             360-degree continuous aerosol spray targeting hard-to-reach back, shoulder, and chest acne ('bacne'). Clears body breakouts, prevents folliculitis, and lightens post-acne dark marks.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">70,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹845 (~$19 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap-AZ%20Body%20Acne%20Spray%20%2870%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap-AZ%20Body%20Acne%20Spray" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -859,7 +804,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Body Wash</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">32,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Salyzap Clarifying Body Wash</h3>
                         <p class="text-accent text-xs font-medium mb-3">Salicylic Acid, Aloe Vera & Chamomile</p>
@@ -867,12 +811,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Purifying dermatological shower wash formulated to unclog body hair follicles and smooth rough 'strawberry skin' (Keratosis Pilaris) on upper arms and thighs.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">32,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹383 (~$9 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap%20Clarifying%20Body%20Wash%20%2832%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap%20Clarifying%20Body%20Wash" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -889,7 +829,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Cleansing Bar</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">20,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Salyzap Anti-Acne Syndet Cleansing Bar</h3>
                         <p class="text-accent text-xs font-medium mb-3">Salicylic Acid, Triclosan & Vitamin E</p>
@@ -897,12 +836,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Non-drying therapeutic cleansing bar designed for daily morning and evening face & body hygiene in patients with active pustular acne and congested skin.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">20,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹256 (~$5 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap%20Anti-Acne%20Syndet%20Cleansing%20Bar%20%2820%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Salyzap%20Anti-Acne%20Syndet%20Cleansing%20Bar" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -919,7 +854,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Melasma Defense</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">35,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Skarfix-TX Melasma Cream</h3>
                         <p class="text-accent text-xs font-medium mb-3">Tranexamic Acid, Kojic Acid Dipalmitate & Arbutin</p>
@@ -927,12 +861,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Flagship dermatological depigmentation cream combining Tranexamic Acid with Kojic Acid to target the vascular and melanogenic roots of stubborn hormonal melasma and dark spots.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">35,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹404 (~$9 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Skarfix-TX%20Melasma%20Cream%20%2835%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Skarfix-TX%20Melasma%20Cream" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -949,7 +879,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Pigment Serum</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">48,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Skarfix-TX Depigmentation Serum</h3>
                         <p class="text-accent text-xs font-medium mb-3">Tranexamic Acid, Alpha Arbutin & Hyaluronic Acid</p>
@@ -957,12 +886,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             High-absorption fluid serum delivering targeted tyrosinase inhibitors directly into the dermal-epidermal junction. Fades stubborn solar lentigines and post-inflammatory dark marks.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">48,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹574 (~$13 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Skarfix-TX%20Depigmentation%20Serum%20%2848%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Skarfix-TX%20Depigmentation%20Serum" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -979,7 +904,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Scar Clearing</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">18,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Skarfix Plus Blemish & Scar Cream</h3>
                         <p class="text-accent text-xs font-medium mb-3">Kojic Acid, Magnesium Ascorbyl Phosphate</p>
@@ -987,12 +911,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Gentle, hydroquinone-free scar clearing cream that softens rigid post-acne blemishes and restores even skin tone across sensitive complexions.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">18,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹200 (~$4 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Skarfix%20Plus%20Blemish%20%26%20Scar%20Cream%20%2818%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Skarfix%20Plus%20Blemish%20%26%20Scar%20Cream" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1009,7 +929,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Peel Kit</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">85,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Peelonate AHA/BHA Brightening Kit</h3>
                         <p class="text-accent text-xs font-medium mb-3">Lactic Acid, Glycolic Acid & Salicylic Complex</p>
@@ -1017,12 +936,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Dermatologist-grade home resurfacing kit that safely sloughs dull stratum corneum cells, decongests pores, and reveals a luminous, glass-skin glow between clinical peels.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">85,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹1,000 (~$24 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Peelonate%20AHA/BHA%20Brightening%20Kit%20%2885%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Peelonate%20AHA/BHA%20Brightening%20Kit" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1039,7 +954,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Radiance Cream</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">32,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Tomaglow Antioxidant Brightening Cream</h3>
                         <p class="text-accent text-xs font-medium mb-3">Tomato Lycopene, Niacinamide & Alpha Arbutin</p>
@@ -1047,12 +961,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Antioxidant-dense botanical brightening cream harnessing pure lycopene to shield skin against photo-oxidative stress and impart natural rosy luminescence.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">32,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹383 (~$9 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Tomaglow%20Antioxidant%20Brightening%20Cream%20%2832%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Tomaglow%20Antioxidant%20Brightening%20Cream" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1069,7 +979,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Clinical Serum</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">40,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Tranexamic 5% Corrective Serum</h3>
                         <p class="text-accent text-xs font-medium mb-3">5% Tranexamic Acid, Mandelic Acid & Peptides</p>
@@ -1077,12 +986,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Specialist serum targeting stubborn epidermal hyperpigmentation caused by UV radiation, hormonal birth control, and post-breakout inflammation in darker Fitzpatrick skin.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">40,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹479 (~$11 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Tranexamic%205%25%20Corrective%20Serum%20%2840%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Tranexamic%205%25%20Corrective%20Serum" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1099,7 +1004,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Dark Body Areas</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">38,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Nigrifix Cream for Acanthosis Nigricans</h3>
                         <p class="text-accent text-xs font-medium mb-3">Retinol, Lactic Acid, Urea & Tea Tree Oil</p>
@@ -1107,12 +1011,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             The global gold-standard dermatological treatment for Acanthosis Nigricans. Gently exfoliates thickened, velvety hyperpigmented skin on the neck, elbows, knees, knuckles, and inner thighs.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">38,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹440 (~$10 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Nigrifix%20Cream%20for%20Acanthosis%20Nigricans%20%2838%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Nigrifix%20Cream%20for%20Acanthosis%20Nigricans" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1129,7 +1029,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Underarm Care</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">28,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Nigrifix Underarm Lightening Roll-On</h3>
                         <p class="text-accent text-xs font-medium mb-3">AHA Exfoliants, Niacinamide & Alpha Arbutin</p>
@@ -1137,12 +1036,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Daily antiperspirant roll-on delivering gentle chemical exfoliation and pigment inhibitors to eliminate shaving hyperpigmentation and odor under the arms.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">28,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Nigrifix%20Underarm%20Lightening%20Roll-On%20%2828%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Nigrifix%20Underarm%20Lightening%20Roll-On" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1159,7 +1054,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Body Brightening</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">58,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Nigrilite Body Brightening Cream</h3>
                         <p class="text-accent text-xs font-medium mb-3">Glycolic Acid, Urea & Shea Butter</p>
@@ -1167,12 +1061,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Intensive keratolytic body cream formulated to smooth rough friction-induced discoloration across the waistline, groin folds, and post-weight-loss skin folds.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">58,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹700 (~$16 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Nigrilite%20Body%20Brightening%20Cream%20%2858%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Nigrilite%20Body%20Brightening%20Cream" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1189,7 +1079,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Scar Revision</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">32,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Fixderma Scar Gel (Acne & Surgical)</h3>
                         <p class="text-accent text-xs font-medium mb-3">Allium Cepa (Onion Extract) & Allantoin</p>
@@ -1197,12 +1086,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Scientifically formulated topical gel to soften, smooth, and flatten elevated post-acne, burn, and surgical scars while reducing residual redness and itching.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">32,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹385 (~$9 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Fixderma%20Scar%20Gel%20%28Acne%20%26%20Surgical%29%20%2832%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Fixderma%20Scar%20Gel" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1219,7 +1104,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Keloid Therapy</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">55,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Kelocepa Advanced Silicone Scar Gel</h3>
                         <p class="text-accent text-xs font-medium mb-3">Medical-Grade Polysiloxane & Allium Cepa</p>
@@ -1227,12 +1111,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Doctor-prescribed medical silicone gel forming a protective occlusive barrier over keloid and hypertrophic scars to normalize collagen synthesis and prevent scar overgrowth.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">55,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹650 (~$15 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Kelocepa%20Advanced%20Silicone%20Scar%20Gel%20%2855%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Kelocepa%20Advanced%20Silicone%20Scar%20Gel" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1249,7 +1129,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Stretch Marks</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">35,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Strallium Stretch Mark Cream</h3>
                         <p class="text-accent text-xs font-medium mb-3">Centella Asiatica, Bio-Peptides & Collagen</p>
@@ -1257,12 +1136,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Intensive dermaceutical cream targeting red (rubra) and white (alba) stretch marks from pregnancy or rapid weight change. Stimulates elastin neogenesis for tighter dermal architecture.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">35,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹425 (~$10 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Strallium%20Stretch%20Mark%20Cream%20%2835%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Strallium%20Stretch%20Mark%20Cream" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1279,7 +1154,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Cellular Renewal</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">60,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Reticuram Retinol 0.2% Serum</h3>
                         <p class="text-accent text-xs font-medium mb-3">0.2% Pure Retinol, Vitamin C & Jojoba Oil</p>
@@ -1287,12 +1161,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Liposomal micro-encapsulated retinol delivering deep cellular turnover without the harsh peeling of prescription tretinoin. Smooths fine lines, tightens pores, and firms aging skin.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">60,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹725 (~$17 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Reticuram%20Retinol%200.2%25%20Serum%20%2860%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Reticuram%20Retinol%200.2%25%20Serum" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1309,7 +1179,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Barrier & Pores</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">38,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">10% Niacinamide Pore Refining Serum</h3>
                         <p class="text-accent text-xs font-medium mb-3">10% Pure Niacinamide & 1% Zinc PCA</p>
@@ -1317,12 +1186,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             High-potency clinical serum that tightens enlarged pores, balances excess sebum secretion, strengthens dermal ceramide synthesis, and clears persistent facial redness.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">38,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹449 (~$10 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%2010%25%20Niacinamide%20Pore%20Refining%20Serum%20%2838%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%2010%25%20Niacinamide%20Pore%20Refining%20Serum" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1339,7 +1204,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">FCL Laboratories • Periorbital</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">145,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">FCL Eye Refining Matrix Under Eye Gel</h3>
                         <p class="text-accent text-xs font-medium mb-3">Bio-Peptides, Caffeine, Hyaluronic Acid & Chrysin</p>
@@ -1347,12 +1211,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Advanced ophthalmologist-tested under-eye therapy. Drains capillary congestion to resolve dark circles, reduces lymphatic puffiness, and smooths crow's feet wrinkles.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">145,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹1,743 (~$42 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20FCL%20Eye%20Refining%20Matrix%20Under%20Eye%20Gel%20%28145%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20FCL%20Eye%20Refining%20Matrix%20Under%20Eye%20Gel" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1369,7 +1229,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Trichology</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">58,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Kairfoll Anti-Hair Fall Treatment System</h3>
                         <p class="text-accent text-xs font-medium mb-3">Pronalen Fibro-Actif & Biotinoyl Tripeptide-1</p>
@@ -1377,12 +1236,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Therapeutic trichological anti-fall hair system stimulating microcirculation to the follicular papilla, strengthening hair bulb anchorage, and reversing progressive thinning.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">58,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹701 (~$16 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Kairfoll%20Anti-Hair%20Fall%20Treatment%20System%20%2858%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Kairfoll%20Anti-Hair%20Fall%20Treatment%20System" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1399,7 +1254,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Hair Nutrition</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">30,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Fidelia Restorative Moisture Conditioner</h3>
                         <p class="text-accent text-xs font-medium mb-3">Wheat Protein, Keratin & Argan Oil</p>
@@ -1407,12 +1261,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Deep restructuring hair conditioner sealing open cuticles, shielding against heat styling, and repairing chemical damage on processed or afro-textured hair.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">30,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹360 (~$8 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Fidelia%20Restorative%20Moisture%20Conditioner%20%2830%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Fidelia%20Restorative%20Moisture%20Conditioner" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1429,7 +1279,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Vitiligo Care</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">78,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Vitipause Gel for Vitiligo & Pigment Loss</h3>
                         <p class="text-accent text-xs font-medium mb-3">Madecassoside, Phenylalanine & Melatrans Complex</p>
@@ -1437,12 +1286,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Specialist dermatological gel stimulating melanocyte migration and repigmentation in hypopigmented patches, vitiligo macules, and post-burn depigmented skin.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">78,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹925 (~$22 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Vitipause%20Gel%20for%20Vitiligo%20%26%20Pigment%20Loss%20%2878%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Vitipause%20Gel%20for%20Vitiligo%20%26%20Pigment%20Loss" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1459,7 +1304,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Podiatry Care</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">24,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Foobetik Diabetic & Cracked Heel Cream</h3>
                         <p class="text-accent text-xs font-medium mb-3">L-Arginine, Lactic Acid, Urea & Tea Tree</p>
@@ -1467,12 +1311,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Clinically proven therapeutic foot cream improving peripheral microcirculation, healing severe heel fissures, and protecting diabetic patients against micro-vascular skin tears.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">24,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹276 (~$6 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Foobetik%20Diabetic%20%26%20Cracked%20Heel%20Cream%20%2824%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Foobetik%20Diabetic%20%26%20Cracked%20Heel%20Cream" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>
@@ -1489,7 +1329,6 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                         </div>
                         <div class="flex items-center justify-between mb-2">
                             <span class="px-2.5 py-0.5 rounded-full bg-blue-500/10 text-blue-600 font-mono text-[10px] font-semibold uppercase">Fixderma • Ceramide Shield</span>
-                            <span class="text-[11px] font-bold text-accent font-heading">26,000 UGX</span>
                         </div>
                         <h3 class="font-heading font-semibold text-brand-deeper text-lg mb-1">Fidelia Deep Barrier Hydrating Cream</h3>
                         <p class="text-accent text-xs font-medium mb-3">Ceramides, Shea Butter & Phospholipids</p>
@@ -1497,12 +1336,8 @@ $metaKeywords = "skincare products kampala, the perfect derma peel products, der
                             Rich restorative barrier cream designed to quench severe eczema, atopic dermatitis, and xerosis. Locks moisture into deep dermal layers for 48 continuous hours.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div class="flex flex-col">
-                            <span class="text-xs font-bold text-brand-deeper font-heading">26,000 UGX</span>
-                            <span class="text-[10px] text-brand-muted font-mono">₹315 (~$7 USD)</span>
-                        </div>
-                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Fidelia%20Deep%20Barrier%20Hydrating%20Cream%20%2826%2C000%20UGX%29" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
+                        <a href="https://wa.me/256758232889?text=Hello%20Refine%20Clinic%2C%20I%20am%20interested%20in%20purchasing%20Fixderma%20Fidelia%20Deep%20Barrier%20Hydrating%20Cream" target="_blank" class="px-3.5 py-1.5 rounded-full bg-brand hover:bg-accent text-white text-xs font-heading font-medium transition-colors">
                             Order / Inquire <i class="fab fa-whatsapp ml-1"></i>
                         </a>
                     </div>

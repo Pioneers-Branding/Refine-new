@@ -421,11 +421,7 @@ $metaKeywords = "Dermapen in Bukoto, Dermapen microneedling Bukoto Kampala";
                             Prescribed after Dermapen sessions for atrophic acne pits and surgical scars. Softens hardened fibrous tissue, promotes smooth neo-collagenesis, and fades stubborn red-brown scar erythema.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">32,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹385 (~$8.50 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Scar%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -446,11 +442,7 @@ $metaKeywords = "Dermapen in Bukoto, Dermapen microneedling Bukoto Kampala";
                             Gold-standard medical silicone occlusive sheeting in an invisible gel. Crucial for patients prone to raised hypertrophic or keloidal scarring on the chest, jawline, and body post-needling.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">55,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹650 (~$15 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Kelocepa%20Silicone%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -471,11 +463,7 @@ $metaKeywords = "Dermapen in Bukoto, Dermapen microneedling Bukoto Kampala";
                             Stabilized encapsulated retinol introduced 5 days post-microneedling. Multiplies fibroblast pro-collagen production and smooths dynamic fine lines and crinkled skin between monthly needling sessions.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">60,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹725 (~$16 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Reticuram%20Serum" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -496,11 +484,7 @@ $metaKeywords = "Dermapen in Bukoto, Dermapen microneedling Bukoto Kampala";
                             The essential companion to body microneedling protocols. Re-densifies the torn dermal elastin network across postpartum stretch marks and rapid-growth striae on the abdomen, hips, and thighs.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">35,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹425 (~$10 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Strallium%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -521,11 +505,7 @@ $metaKeywords = "Dermapen in Bukoto, Dermapen microneedling Bukoto Kampala";
                             Calms post-procedure erythema, replenishes ceramides, and visibly tightens enlarged follicular pores as the skin contracts during the collagen-rebuilding phase.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">28,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹325 (~$7.50 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%2010%25%20Niacinamide%20Serum" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -546,11 +526,7 @@ $metaKeywords = "Dermapen in Bukoto, Dermapen microneedling Bukoto Kampala";
                             Completely oil-free, non-comedogenic sunscreen gel that protects freshly micro-punctured skin from UV stimulation without clogging open micro-channels. Zero white residue on African skin.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">30,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Shadow%20SPF%2050%2B%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>

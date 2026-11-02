@@ -876,11 +876,7 @@ $metaKeywords = "Chemical Peel in Mpigi, Chemical Peel treatment in Kampal";
                             Non-greasy, transparent broad-spectrum sunscreen gel. Formulated to provide zero white cast on African skin, preventing UV-induced post-inflammatory hyperpigmentation following chemical exfoliation.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">30,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Shadow%20SPF%2050%2B%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -901,11 +897,7 @@ $metaKeywords = "Chemical Peel in Mpigi, Chemical Peel treatment in Kampal";
                             Prescribed pre- and post-peel to downregulate melanocyte hyperactivity. Directly blocks UV-induced plasminogen activity to eliminate stubborn melasma, chloasma, and epidermal discoloration.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">35,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹404 (~$9.50 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Skarfix-TX%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -926,11 +918,7 @@ $metaKeywords = "Chemical Peel in Mpigi, Chemical Peel treatment in Kampal";
                             Dermatologist-engineered home chemical peeling kit. Sustains the skin-renewing results of clinical chemical peels between sessions by dissolving dead corneocyte bonds without micro-tears.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">85,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹1,000 (~$23 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Peelonate%20AHA/BHA%20Kit" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -951,11 +939,7 @@ $metaKeywords = "Chemical Peel in Mpigi, Chemical Peel treatment in Kampal";
                             Clinically proven therapy for Acanthosis Nigricans and localized hyperkeratosis. Gently exfoliates thickened, hyperpigmented skin folds on the neck, elbows, knees, and underarms.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">38,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹440 (~$10 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Nigrifix%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>

@@ -222,11 +222,7 @@ $metaKeywords = "Medical Dermatology in Wakiso, Medical Dermatology treatment in
                             Rapid-acting daytime anti-acne gel. Dissolves micro-comedones, inhibits Cutibacterium acnes bacterial colonization, and soothes inflammatory redness without causing flaking or rebound seborrhea.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">25,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹285 (~$6.70 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Salyzap%20Face%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -247,11 +243,7 @@ $metaKeywords = "Medical Dermatology in Wakiso, Medical Dermatology treatment in
                             360-degree multi-angle aerosol mist designed for hard-to-reach follicular breakouts on the back, shoulders, and chest. Clears inflamed papules and fades post-acne body marks.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">70,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹825 (~$19 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Salyzap-AZ%20Body%20Spray" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -272,11 +264,7 @@ $metaKeywords = "Medical Dermatology in Wakiso, Medical Dermatology treatment in
                             The globally celebrated clinical treatment for Acanthosis Nigricans. Gently sheds hyperkeratotic, velvety dark patches on the nape of the neck, elbows, knees, groin, and underarms.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">38,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹440 (~$10 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Nigrifix%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -297,11 +285,7 @@ $metaKeywords = "Medical Dermatology in Wakiso, Medical Dermatology treatment in
                             Targeted axillary hyperpigmentation treatment roll-on. Lightens darkened, friction-damaged armpit skin while controlling microbial odor with zero aluminium salts or pore-clogging waxes.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">28,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹325 (~$7.50 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Nigrifix%20Roll-On" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -322,11 +306,7 @@ $metaKeywords = "Medical Dermatology in Wakiso, Medical Dermatology treatment in
                             Prescribed for recalcitrant melasma, chloasma, and epidermal discoloration. Hydroquinone-free formula safe for long-term continuous use without risk of ochronosis.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">35,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹404 (~$9.50 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Skarfix-TX%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -347,11 +327,7 @@ $metaKeywords = "Medical Dermatology in Wakiso, Medical Dermatology treatment in
                             Breakthrough cellular therapy designed for Vitiligo and hypopigmented macules. Stimulates dormant melanocytes, stimulates tyrosinase synthesis, and promotes progressive repigmentation.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">78,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹925 (~$21 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Vitipause%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -372,11 +348,7 @@ $metaKeywords = "Medical Dermatology in Wakiso, Medical Dermatology treatment in
                             Specially formulated for diabetic xerosis, calluses, and heel fissures. L-Arginine improves micro-vascular circulation while medical urea restores cellular moisture and prevents bacterial infection.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">24,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹275 (~$6.50 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Foobetik%20Cream" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
@@ -397,11 +369,7 @@ $metaKeywords = "Medical Dermatology in Wakiso, Medical Dermatology treatment in
                             The cornerstone of every dermatology treatment plan. Oil-free, lightweight gel sunscreen that safeguards active dermatoses from solar aggravation with zero white cast on melanin-rich skin.
                         </p>
                     </div>
-                    <div class="pt-4 border-t border-brand/5 flex items-center justify-between">
-                        <div>
-                            <div class="font-heading font-bold text-brand-deeper text-lg">30,000 UGX</div>
-                            <div class="text-[10px] text-brand-muted font-mono">₹339 (~$8 USD)</div>
-                        </div>
+                    <div class="pt-4 border-t border-brand/5 flex items-center justify-end">
                         <a href="https://wa.me/256772456789?text=Hello%20Refine%20Clinic,%20I%20would%20like%20to%20order%20the%20Fixderma%20Shadow%20SPF%2050%2B%20Gel" target="_blank" class="px-3.5 py-2 rounded-full bg-brand text-white hover:bg-accent text-xs font-heading font-semibold transition-colors flex items-center gap-1.5">
                             <i class="fab fa-whatsapp"></i> Order
                         </a>
