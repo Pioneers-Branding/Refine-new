@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // Determine path and slug for routing
 $requestUri = $_SERVER['REQUEST_URI'] ?? '/blog';
 $parsedPath = parse_url($requestUri, PHP_URL_PATH);
@@ -19,7 +19,276 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: ROSACEA VS ACNE: HOW TO TELL THE DIFFERENCE
+    // ----------------------------------------------------
+    'rosacea-vs-acne-how-to-tell-the-difference' => [
+        'slug'        => 'rosacea-vs-acne-how-to-tell-the-difference',
+        'title'       => 'Rosacea vs Acne: How to Tell the Difference',
+        'meta_title'  => 'Rosacea vs Acne: Spot the Difference | Refine Skin & Body',
+        'category'    => 'Medical Dermatology',
+        'category_slug' => 'medical',
+        'date'        => '03 November, 2026',
+        'author'      => 'Dr. Chirag Kotecha',
+        'author_role' => 'Aesthetic Physician & Medical Director, Refine Clinic',
+        'read_time'   => '8 min',
+        'image'       => '/assets/imagesfromsite/rosacea-vs-acne-hero.jpg',
+        'excerpt'     => 'Rosacea vs acne: how to tell them apart, even on darker skin where redness is hard to see. Key signs, common triggers and why acne creams can worsen rosacea.',
+        'content'     => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Rosacea vs Acne: How to Tell the Difference</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> Acne usually starts in the teens and includes blackheads or whiteheads, often on the face, chest and back. Rosacea usually starts after 30, stays on the central face, has no blackheads, and brings flushing, burning or stinging. On darker skin the redness can be hard to see, so warmth, stinging and bumps without blackheads are the key clues.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Most Reliable Clue:</span>
+                        <p class="text-white/80 font-light text-xs">Blackheads and whiteheads point to acne; rosacea does not cause them.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Typical Start:</span>
+                        <p class="text-white/80 font-light text-xs">Acne in the teens; rosacea usually between 30 and 50.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Avoid Without Advice:</span>
+                        <p class="text-white/80 font-light text-xs">Steroid creams, which make rosacea significantly worse.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                On darker skin, rosacea is easy to mistake for acne. The clues are in how your skin feels and behaves.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Rosacea and acne can both cause bumps and pus spots on the face, so they are easy to confuse. The difference matters, because several standard acne treatments can inflame rosacea, and the wrong cream can turn a mild problem into a stubborn one.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Rosacea is also under-recognised in darker skin. Most textbook photos show pink, flushed cheeks on light skin, but on brown and black skin the redness may look dusky or brown, or barely show at all. As a result, rosacea in darker skin is often missed or treated as acne for months.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What acne is, and what rosacea is</h2>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">Acne</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Acne starts in blocked hair follicles. Oil and dead skin cells plug the pore, forming comedones: blackheads (open) and whiteheads (closed). Inflammation, partly driven by bacteria that live in the follicle, then produces papules (small bumps), pustules (pus spots) and, in severe cases, deep cysts and nodules. Acne is often a result of hormones, genetics or certain medications.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">Rosacea</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Rosacea is a long-term inflammatory condition of the central face: cheeks, nose, chin and forehead. It is a chronic skin condition characterised by facial redness, swelling and visible blood vessels. Its exact cause is unknown, but it is not caused by poor hygiene. Oversensitive blood vessels and nerves, the skin&rsquo;s immune response, tiny skin mites called Demodex and genes all seem to play a part. It takes several forms: persistent redness and flushing, acne-like bumps (papulopustular rosacea), skin thickening on the nose (phymatous rosacea), and eye irritation (ocular rosacea).
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Rosacea vs acne at a glance</h2>
+            <div class="overflow-x-auto rounded-2xl shadow-md mb-10 border border-brand/10">
+                <table class="w-full text-sm text-left">
+                    <thead class="bg-gradient-to-r from-brand to-brand-deeper text-white">
+                        <tr>
+                            <th class="px-5 py-4 font-semibold">Feature</th>
+                            <th class="px-5 py-4 font-semibold">Acne</th>
+                            <th class="px-5 py-4 font-semibold">Rosacea</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/5">
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Blackheads &amp; whiteheads</td>
+                            <td class="px-5 py-4 text-gray-600">Present: the hallmark</td>
+                            <td class="px-5 py-4 text-gray-600">Absent</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Usual age at start</td>
+                            <td class="px-5 py-4 text-gray-600">Teens and twenties; adult acne common in women</td>
+                            <td class="px-5 py-4 text-gray-600">Usually 30 to 50</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Where it appears</td>
+                            <td class="px-5 py-4 text-gray-600">Face, forehead, chin &amp; jaw; also chest, back &amp; shoulders</td>
+                            <td class="px-5 py-4 text-gray-600">Central face: cheeks, nose, chin &amp; forehead</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">How it feels</td>
+                            <td class="px-5 py-4 text-gray-600">Spots can be tender, but skin rarely stings</td>
+                            <td class="px-5 py-4 text-gray-600">Burning, stinging, warmth &amp; flushing; products often sting</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Common triggers</td>
+                            <td class="px-5 py-4 text-gray-600">Hormones, heavy oils &amp; cosmetics, some medicines, steroid creams</td>
+                            <td class="px-5 py-4 text-gray-600">Sun, heat, hot drinks, spicy food, alcohol, exercise, stress, harsh products</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Eye involvement</td>
+                            <td class="px-5 py-4 text-gray-600">No</td>
+                            <td class="px-5 py-4 text-gray-600">Common: gritty, dry or burning eyes &amp; swollen eyelid margins</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">What it can leave</td>
+                            <td class="px-5 py-4 text-gray-600">Dark marks and scars</td>
+                            <td class="px-5 py-4 text-gray-600">Dark marks, lasting redness or thickened skin</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Why rosacea is missed on darker skin</h2>
+            <img src="/assets/imagesfromsite/rosacea-vs-acne-body1.jpg"
+                 alt="Whiteheads, small bumps and dark marks on the temple of a young Black woman"
+                 class="w-full rounded-2xl shadow-lg mb-8 object-cover max-h-80"
+                 loading="lazy">
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Redness is the classic sign of rosacea, but it is hard to see against brown or black skin. It may look dusky, purplish or darker brown, or not show at all. So pay attention to how your skin feels as well as how it looks. Clues include:
+            </p>
+            <ul class="space-y-3 mb-8 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>Skin that feels hot, flushed or burning, especially with heat, sun, hot drinks or spicy food.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>Stinging when you apply sunscreen, moisturiser or acne products that others tolerate.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>Small bumps and pus spots on the cheeks, nose and chin, with <strong>no blackheads or whiteheads</strong>.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>Dry, rough or puffy-looking skin across the central face.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>Gritty, burning or dry eyes, or red, swollen eyelid margins.</span>
+                </li>
+            </ul>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                A doctor can use good light and a dermatoscope to see fine blood vessels that are hard to spot by eye, and can rule out look-alikes &mdash; including a rosacea-like rash caused by steroid or lightening creams, seborrhoeic dermatitis, perioral dermatitis and lupus. A rash across the cheeks and nose that comes with joint pain, tiredness, mouth ulcers or sun sensitivity needs prompt medical review.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Why acne treatments can make rosacea worse</h2>
+            <div class="bg-amber-50 border border-amber-200 rounded-2xl p-6 mb-8">
+                <p class="text-amber-800 font-semibold text-sm mb-2"><i class="fas fa-triangle-exclamation mr-2"></i>Important</p>
+                <p class="text-amber-700 font-light text-sm leading-relaxed">Whiteheads and blackheads are the hallmark of acne, and they are absent in rosacea. Products designed to dry out oily, acne-prone skin can inflame rosacea-prone skin.</p>
+            </div>
+            <ul class="space-y-4 mb-8 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-xmark text-red-400 mt-1 flex-shrink-0"></i>
+                    <span><strong>Benzoyl peroxide</strong> washes and gels often sting and redden rosacea skin. A specially encapsulated form has been developed for rosacea, but that is a prescription decision, not a reason to use shop-bought products.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-xmark text-red-400 mt-1 flex-shrink-0"></i>
+                    <span><strong>Strong retinoid creams</strong> such as tretinoin can cause irritation and flushing. Doctors occasionally use low-dose isotretinoin tablets for stubborn rosacea, which is very different from applying acne creams yourself.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-xmark text-red-400 mt-1 flex-shrink-0"></i>
+                    <span><strong>Scrubs, alcohol toners, strong acid peels and steaming</strong> strip the skin barrier and trigger flares.</span>
+                </li>
+            </ul>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Why steroid creams make rosacea worse</h2>
+            <div class="bg-red-50 border border-red-200 rounded-2xl p-6 mb-8">
+                <p class="text-red-700 leading-relaxed font-light text-sm">
+                    Steroid creams, including clobetasol sold over the counter or hidden in lightening creams, can calm redness for a few days. With continued use they thin the skin, widen blood vessels and trigger a rosacea-like rash &mdash; and stopping them causes a rebound flare. <strong>Never put a steroid cream on your face unless a doctor has prescribed it for a specific reason and a set time.</strong> If you are using one now, see a doctor about stopping safely.
+                </p>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">How each condition is treated</h2>
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">Acne</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Treatment depends on type and severity: topical retinoids, benzoyl peroxide, azelaic acid, antibiotics (combined with benzoyl peroxide to limit resistance), hormonal treatment for some women, and isotretinoin for severe or scarring acne. At Refine, acne treatment covers hormone-related breakouts, inflamed spots, blackheads and whiteheads, cysts and nodules, and acne marks and scarring.
+            </p>
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">Rosacea</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                There is no cure, but rosacea can usually be well controlled. Care starts with a gentle cleanser, a moisturiser and a daily sunscreen that does not sting (often a tinted mineral one), plus learning your triggers. Doctors may prescribe creams such as ivermectin, metronidazole or azelaic acid, low-dose doxycycline tablets for inflamed bumps, and eye treatment for ocular rosacea. Light- or laser-based treatment for visible blood vessels needs cautious settings on darker skin, and your specialist will advise whether it suits you.
+            </p>
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">When you have both</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Some people have acne and rosacea at the same time. The plan then favours treatments that suit both, such as azelaic acid, and introduces anything irritating slowly.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When to see a specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                See a doctor if you are not sure which condition you have, if acne products make your skin burn or flush, if you have used steroid or lightening creams on your face, or if the skin on your nose is thickening. Seek care urgently for eye pain, blurred vision or sensitivity to light, which may need an eye specialist.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                At Refine, acne and rosacea are treated under the care of Dr Chirag Kotecha, Aesthetic Physician, and no referral is required. The consultation is a conversation with a specialist about your goals and medical history, followed by a personalised plan. Bring every skin product and medicine you use, and say if you are pregnant, planning a pregnancy or breastfeeding, because retinoids, isotretinoin and doxycycline are not used in pregnancy.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                At Refine in Kampala, in-clinic treatment for redness and rosacea starts from US, as does in-clinic treatment for active acne on the full face. Your exact cost depends on your plan and is confirmed at consultation.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Refine Skin &amp; Body Clinic has branches at Forest Mall, Lugogo; Palm Village Mall, Kabalagala; and UMC Victoria Hospital Annex, Bukoto. In South Sudan, Refine Skin &amp; Body Centre is on Airport Road, Juba. <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline underline-offset-2">Book an appointment online.</a>
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-8 mt-10">Frequently asked questions</h2>
+            <div class="space-y-5 mb-10">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can rosacea turn into acne?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> No. They are different conditions, although you can have both at once. People often mean papulopustular rosacea, which has acne-like bumps but no blackheads.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Is rosacea common in Black skin?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> It is diagnosed less often in darker skin, partly because the redness is harder to see. Rosacea does occur in Black and East African patients, and burning, stinging and bumps without blackheads are important clues.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can I use benzoyl peroxide if I have rosacea?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Ordinary benzoyl peroxide washes and gels often irritate rosacea. Use one only if your doctor recommends a specific product, and stop if your skin burns or flushes.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Does rosacea leave dark marks?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> It can. In darker skin, any inflammation, including rosacea bumps, can leave post-inflammatory hyperpigmentation (dark marks). Controlling inflammation early and wearing sunscreen daily help prevent them.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Is rosacea contagious?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> No. Rosacea cannot spread from person to person, and it is not caused by poor hygiene. Scrubbing harder usually makes it worse.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can rosacea be cured?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> There is no cure yet, but most people can control it well. Knowing your triggers, using gentle skincare and daily sunscreen, and following your treatment plan keep flares fewer and milder.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">What triggers rosacea flare-ups?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Common triggers are sun, heat, hot drinks, spicy food, alcohol, exercise, stress and harsh skincare. Triggers vary from person to person, so a simple diary of flares can help you find yours.</p>
+                </div>
+            </div>
+
+            <div class="bg-gradient-to-br from-brand-pale to-purple-50 border border-brand/15 rounded-2xl p-6 mb-10">
+                <h3 class="font-bold text-brand-deeper text-xl mb-3 font-heading">The bottom line</h3>
+                <p class="text-gray-700 font-light leading-relaxed">
+                    Blackheads point to acne. Flushing, stinging and bumps without blackheads point to rosacea, even when you cannot see redness on darker skin. Getting the diagnosis right matters, because acne products and steroid creams can make rosacea worse. <strong>Not sure which you have?</strong> Book a consultation at Refine and get a plan for the right condition.
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <div class="relative overflow-hidden bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl border border-accent/30 my-12">
+                <div class="absolute -top-24 -right-24 w-64 h-64 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+                <div class="absolute -bottom-24 -left-24 w-64 h-64 rounded-full bg-[#5a3ba8]/20 blur-3xl pointer-events-none"></div>
+                <div class="relative z-10">
+                    <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/20 border border-accent/40 text-accent font-semibold text-xs tracking-widest uppercase mb-4">
+                        <i class="fas fa-sparkles text-accent"></i> Specialised Dermatological Care
+                    </span>
+                    <h3 class="text-2xl sm:text-4xl font-display font-bold text-white mb-4">Get the Right Diagnosis Today</h3>
+                    <p class="text-white/90 max-w-2xl mx-auto mb-8 font-light text-sm sm:text-base leading-relaxed">
+                        Not sure if you have acne or rosacea? Our dermatology physicians at <strong class="text-accent font-semibold">Refine Skin &amp; Body Clinic</strong> in Kampala and Juba will give you a clear diagnosis and a personalised treatment plan.
+                    </p>
+                    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        <a href="/book-appointment" class="inline-flex items-center justify-center px-9 py-4 rounded-full bg-accent text-[#1a0f3c] font-bold text-sm tracking-wide uppercase hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-0.5">
+                            Book Your Consultation
+                        </a>
+                        <a href="/contact" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-white/10 text-white font-medium text-sm tracking-wide border border-white/20 hover:bg-white/20 transition-all duration-300">
+                            Speak to Our Specialists
+                        </a>
+                    </div>
+                </div>
+            </div>
+        ',
+    ],
+    // ----------------------------------------------------
     // ARTICLE: WHY DOES ECZEMA GET WORSE IN THE DRY SEASON?
+    // ----------------------------------------------------
     // ----------------------------------------------------
     'why-does-eczema-get-worse-in-the-dry-season' => [
         'slug' => 'why-does-eczema-get-worse-in-the-dry-season',

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // generate_sitemap.php
 $dir = __DIR__;
 $baseUrl = 'https://refineskinandbody.com';
@@ -53,6 +53,7 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'rosacea-vs-acne-how-to-tell-the-difference',
     'why-does-eczema-get-worse-in-the-dry-season',
     'can-stretch-marks-be-removed',
     'how-long-do-prp-results-last',
