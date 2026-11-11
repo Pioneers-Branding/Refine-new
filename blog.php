@@ -19,6 +19,327 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: WEDDING-READY SKIN: A REALISTIC TIMELINE BEFORE YOUR BIG DAY
+    // ----------------------------------------------------
+    'wedding-ready-skin-realistic-timeline-before-your-big-day' => [
+        'slug'          => 'wedding-ready-skin-realistic-timeline-before-your-big-day',
+        'title'         => 'Wedding-Ready Skin: A Realistic Timeline Before Your Big Day',
+        'meta_title'    => 'Wedding-Ready Skin: Your Prep Timeline | Refine Skin & Body',
+        'category'      => 'Facial Treatments',
+        'category_slug' => 'dermatology-skin',
+        'date'          => '09 November, 2026',
+        'author'        => 'Dr. Chirag Kotecha',
+        'author_role'   => 'Aesthetic Physician & Medical Director, Refine Clinic',
+        'read_time'     => '7 min',
+        'image'         => '/assets/imagesfromsite/wedding-ready-skin-hero.jpg',
+        'excerpt'       => 'A wedding skin timeline for Kampala and Juba: what to treat 6 months out, the Bridal Glow bundle at 3 months, and why nothing new in the last 2 weeks.',
+        'content'       => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Wedding-Ready Skin: A Realistic Timeline Before Your Big Day</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> Start six months or more before the wedding if you have acne, dark marks or scars, because these take months to treat safely, especially on darker skin. Begin a glow phase, such as our Bridal Glow bundle, about three months out. Finish any injectables at least a month before. Try nothing new in the final two weeks, and have no peels, lasers or injectables in the final week.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Ideal Start:</span>
+                        <p class="text-white/80 font-light text-xs">Six months or more before the wedding</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Glow Phase:</span>
+                        <p class="text-white/80 font-light text-xs">About three months before, when our Bridal Glow bundle begins</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Final Two Weeks:</span>
+                        <p class="text-white/80 font-light text-xs">Nothing new; no peels, lasers or injectables in the last week</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                Wedding-ready skin is healthy, even and calm skin in your own shade, and it takes months, not days.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The end-of-year holidays are a popular time to marry in Kampala and Juba. You will be photographed up close at introduction ceremonies, the wedding and the parties that follow, yet many couples only think about their skin a few weeks before, when the safe options have narrowed.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The outer layer renews itself roughly every four to six weeks, and dark marks on brown and black skin often take months to fade. On darker skin (Fitzpatrick types IV to VI, which covers most people in East Africa), rushed or harsh treatments also risk post-inflammatory hyperpigmentation, or PIH: new dark patches left behind by irritation.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                This guide counts backwards from the day, so you know what to do, when, and what to leave alone.
+            </p>
+
+            <!-- Countdown Table -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-4 mt-10">The countdown at a glance</h2>
+            <p class="text-gray-600 text-sm font-light mb-6">
+                With more than one event, such as an introduction ceremony before the wedding, count back from the first.
+            </p>
+            <div class="overflow-x-auto rounded-2xl shadow-md mb-10 border border-brand/10">
+                <table class="w-full text-sm text-left">
+                    <thead class="bg-gradient-to-r from-brand to-brand-deeper text-white">
+                        <tr>
+                            <th class="px-5 py-4 font-semibold">When</th>
+                            <th class="px-5 py-4 font-semibold">Focus</th>
+                            <th class="px-5 py-4 font-semibold">Leave alone</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/5">
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper whitespace-nowrap">6+ months</td>
+                            <td class="px-5 py-4 text-gray-600">See a doctor; treat acne, dark marks, melasma and scars; start laser hair removal if you want it</td>
+                            <td class="px-5 py-4 text-gray-600">Creams bought without a prescription</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper whitespace-nowrap">3 months</td>
+                            <td class="px-5 py-4 text-gray-600">A glow series and a settled daily routine</td>
+                            <td class="px-5 py-4 text-gray-600">Chopping and changing products</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper whitespace-nowrap">1 month</td>
+                            <td class="px-5 py-4 text-gray-600">Injectables, if wanted; a last light peel if you have had them before; makeup trial</td>
+                            <td class="px-5 py-4 text-gray-600">First-time treatments that have downtime</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper whitespace-nowrap">2 weeks</td>
+                            <td class="px-5 py-4 text-gray-600">Maintenance only</td>
+                            <td class="px-5 py-4 text-gray-600">Anything new: products, treatments, waxing a new area</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper whitespace-nowrap">Final week</td>
+                            <td class="px-5 py-4 text-gray-600">Sleep, water, sunscreen, a gentle routine</td>
+                            <td class="px-5 py-4 text-gray-600">Peels, lasers and injectables</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper whitespace-nowrap">The day</td>
+                            <td class="px-5 py-4 text-gray-600">Gentle cleanse, moisturiser, sunscreen, blotting</td>
+                            <td class="px-5 py-4 text-gray-600">Experiments of any kind</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Six months or more -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Six months or more: treat the real problems first</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                This is the stage most couples skip, yet it makes the biggest difference: a doctor diagnoses the problem and sets a plan that finishes well before the day.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">Acne</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Many patients see their acne improve within four to six weeks, but settling acne and then fading the marks it leaves takes longer. Our guide on how to prevent post-acne dark marks explains why early treatment matters on darker skin.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">Dark marks, uneven tone and melasma</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At Refine, we treat hyperpigmentation with prescription creams, chemical peels (Cosmelan and Dermamelan), Q-switched Nd:YAG laser toning and microneedling with depigmenting serums, with improvement typically seen within four to eight weeks. Melasma, a hormone- and sun-driven pigment condition, tends to return, so daily sunscreen matters all year under the equatorial sun.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">Scars and unwanted hair</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Acne scars are treated with a course of Dermapen microneedling, with mild redness and swelling after each session that usually settle within a few days. Laser hair removal typically needs three to six sessions for most areas, and often more for hormonal facial hair. Both are spread over months, so start now. If you are prone to keloids (raised scars that grow beyond a wound), tell your doctor, and avoid new piercings before the wedding.
+            </p>
+
+            <!-- Three months -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Three months: start your glow phase</h2>
+            <img src="/assets/imagesfromsite/hydrafacial/hydrafacial-treatment-active.png"
+                 alt="Clinician performing a HydraFacial on a woman\'s cheek"
+                 class="w-full rounded-2xl shadow-lg mb-8 object-cover max-h-80"
+                 loading="lazy">
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Now the aim is calm, hydrated, even skin. Our <strong>Bridal Glow bundle</strong> is designed to start three months before the big day and includes:
+            </p>
+            <div class="grid sm:grid-cols-3 gap-4 mb-6">
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5 text-center">
+                    <div class="w-12 h-12 rounded-full bg-brand/10 text-brand flex items-center justify-center mx-auto mb-3">
+                        <i class="fas fa-water text-lg"></i>
+                    </div>
+                    <h4 class="font-bold text-brand-deeper text-sm mb-1">3 HydraFacial MD Sessions</h4>
+                    <p class="text-gray-600 text-xs font-light">Gentle exfoliation, deep pore extractions and intense hydration with zero downtime.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5 text-center">
+                    <div class="w-12 h-12 rounded-full bg-brand/10 text-brand flex items-center justify-center mx-auto mb-3">
+                        <i class="fas fa-syringe text-lg"></i>
+                    </div>
+                    <h4 class="font-bold text-brand-deeper text-sm mb-1">1 Inner Beauty IV Drip</h4>
+                    <p class="text-gray-600 text-xs font-light">Fluids, vitamin C, B vitamins and biotin to nourish skin from the inside out.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5 text-center">
+                    <div class="w-12 h-12 rounded-full bg-brand/10 text-brand flex items-center justify-center mx-auto mb-3">
+                        <i class="fas fa-pump-soap text-lg"></i>
+                    </div>
+                    <h4 class="font-bold text-brand-deeper text-sm mb-1">Medical Skincare Kit</h4>
+                    <p class="text-gray-600 text-xs font-light">Doctor-curated daily regimen to protect and maintain your results at home.</p>
+                </div>
+            </div>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The bundle is <strong>1.2M UGX</strong> (usually 1.5M UGX). Prices are a guide and are confirmed at consultation.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                A HydraFacial cleanses, exfoliates, extracts and hydrates with no downtime, and we recommend it every four to six weeks, so three sessions fit into three months: roughly 12, 7 and 2 weeks before the wedding. The Inner Beauty drip is a wellness add-on of fluids, vitamin C, B vitamins and biotin, with glutathione as an option. Like any drip it needs a health screening first, and it should not be left to the day before, as a small bruise at the drip site is possible. Your results still rest mainly on your daily routine: a gentle cleanser, a moisturiser, whatever your doctor prescribes and a broad-spectrum sunscreen (SPF 30 or higher) every morning.
+            </p>
+
+            <!-- One month -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">One month: injectables and final adjustments</h2>
+            <ul class="space-y-4 mb-8 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Botulinum toxin (such as Botox&reg;):</strong> Results begin within three to five days and take up to 14 days to reach full effect. If you want it, have it six to eight weeks before, with a review two weeks later for any small adjustment. Never start it in the final two weeks.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Dermal fillers:</strong> Swelling and bruising typically settle within a week. Allow at least four weeks so the result has settled and any bruise is long gone.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Peels and makeup:</strong> If you have had light peels before without trouble, a last one around four weeks out is reasonable. Deeper peels, which can need up to two weeks of downtime, carry more risk of dark patches on darker skin; if your doctor advises one, it belongs in the six-month stage. Book your makeup trial now and patch-test any new foundation, primer or lash glue.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Pregnancy:</strong> If you are pregnant, trying for a baby or breastfeeding, tell your doctor. Botulinum toxin, fillers, drips, some peels and creams such as retinoids and hydroquinone are usually postponed or swapped for safer options.</span>
+                </li>
+            </ul>
+
+            <!-- Final two weeks -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">The final two weeks, the final week and the day itself</h2>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">Two weeks out: nothing new</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                No new serum, no new foundation, no first-time facial, and no waxing or threading an area you have never done. A reaction now has no time to settle. The last HydraFacial of your series can fall around this point if the earlier ones went smoothly.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">The final week: no peels, lasers or injectables</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Even familiar treatments can leave redness or bruising for days. Keep to your gentle routine, sleep properly, drink water, go easy on alcohol and salty food, and wear sunscreen daily, including at outdoor fittings and rehearsals.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3">On the day</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Cleanse gently, moisturise, and apply sunscreen before makeup. Many ceremonies run through the midday sun, and November falls in Uganda&rsquo;s second rainy season, so heat and humidity can make skin shine. Pack blotting papers, lip balm and a small touch-up kit rather than layering on more powder.
+            </p>
+
+            <!-- Grooms -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Grooms: the same timeline applies</h2>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Razor bumps (pseudofolliculitis barbae), where tightly curled beard hairs grow back into the skin, are common and can leave dark marks, so deal with them months ahead. A doctor can advise on shaving technique, prescription treatment and whether laser hair reduction suits you. Shave or trim a day or two before, the way you normally do, not unusually close on the morning. Daily sunscreen also stops razor-bump marks from darkening.
+            </p>
+
+            <!-- Shortcuts that backfire -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Shortcuts that backfire</h2>
+            <div class="bg-amber-50 border border-amber-200 rounded-2xl p-6 mb-8">
+                <p class="text-amber-800 font-semibold text-sm mb-3">
+                    <i class="fas fa-triangle-exclamation mr-2"></i>Glowing wedding skin means healthy, even, rested skin in your own shade; it is not about becoming lighter.
+                </p>
+                <p class="text-amber-700 font-light text-sm leading-relaxed mb-4">
+                    If you want to brighten or even out your tone, do it under a doctor. Avoid:
+                </p>
+                <ul class="space-y-2 text-amber-900 font-light text-sm">
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1 flex-shrink-0"></i>
+                        <span>Unlabelled or imported &ldquo;whitening&rdquo; creams, which can contain mercury</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1 flex-shrink-0"></i>
+                        <span>Over-the-counter steroid creams such as clobetasol, which thin the skin and can cause stretch marks, acne and infections</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1 flex-shrink-0"></i>
+                        <span>High-strength hydroquinone without supervision, which can cause a blue-black darkening called ochronosis</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-times-circle text-red-500 mt-1 flex-shrink-0"></i>
+                        <span>Walk-in drips with no clinician present</span>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- When to see a specialist -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When to see a specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Book your first consultation six months or more before the wedding if you have acne, dark marks, melasma or scars, and at least three months before if you simply want a glow plan. Our Aesthetic Physician, Dr Chirag Kotecha, is known for his protocols for complex conditions such as severe acne and hyperpigmentation. At the consultation, the doctor examines your skin, asks about your medical history and the date of each event, and builds a plan that finishes on time.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                You can be seen at Refine Skin &amp; Body Clinic in Kampala (Lugogo at Forest Mall, Kabalagala at Palm Village Mall, and Bukoto at UMC Victoria Hospital Annex) or at Refine Skin &amp; Body Centre in Juba. <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline underline-offset-2">Book a consultation</a> and ask about the Bridal Glow bundle when you do.
+            </p>
+
+            <!-- FAQ Section -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-8 mt-10">Frequently asked questions</h2>
+            <div class="space-y-5 mb-10">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">How far in advance should I start skincare before my wedding?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Six months or more if you have acne, dark marks, melasma or scars, because these need time and gentle treatment on darker skin. If your skin is already in good shape, three months is enough for a glow phase.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">When should I get Botox&reg; before my wedding?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> About six to eight weeks before, with a review two weeks later. Full results take up to 14 days, so never start botulinum toxin in the final two weeks.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can I have a facial in the week of my wedding?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Not a new one. Time your last HydraFacial about two weeks before, and only if earlier sessions caused no irritation. In the final week, keep to your gentle home routine.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Is a chemical peel safe before a wedding?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> A light peel can be, if you have had one before and it is done at least four weeks ahead. Deeper peels can need up to two weeks of downtime, so they belong months earlier, if your doctor advises one at all. On darker skin, let a doctor choose the peel to limit the risk of dark patches.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">What is included in the Bridal Glow bundle?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Three HydraFacial MD sessions, one Inner Beauty IV Drip and a medical-grade skincare kit. It is 1.2M UGX (usually 1.5M UGX), confirmed at consultation. It is designed to start three months before the big day.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Should grooms follow a skincare plan before the wedding?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Yes. The same timeline works for grooms, particularly for razor bumps and the dark marks they leave. Start months ahead and keep your usual shaving routine in the final days.
+                    </p>
+                </div>
+            </div>
+
+            <!-- The Bottom Line -->
+            <div class="bg-gradient-to-br from-brand-pale to-purple-50 border border-brand/15 rounded-2xl p-6 mb-10">
+                <h3 class="font-bold text-brand-deeper text-xl mb-3 font-heading">The bottom line</h3>
+                <p class="text-gray-700 font-light leading-relaxed">
+                    Great wedding skin comes from starting early, treating real problems first and keeping the final fortnight boring: six months if you can, three if you must, nothing new in the last two weeks. <strong>Book your consultation at Refine and plan your countdown with a doctor.</strong>
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- CTA Card -->
+            <div class="relative overflow-hidden bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl border border-accent/30 my-12">
+                <div class="absolute -top-24 -right-24 w-64 h-64 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+                <div class="absolute -bottom-24 -left-24 w-64 h-64 rounded-full bg-[#5a3ba8]/20 blur-3xl pointer-events-none"></div>
+
+                <div class="relative z-10">
+                    <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/20 border border-accent/40 text-accent font-semibold text-xs tracking-widest uppercase mb-4">
+                        <i class="fas fa-sparkles text-accent"></i> Pre-Wedding Aesthetic Care
+                    </span>
+                    <h3 class="text-2xl sm:text-4xl font-display font-bold text-white mb-4">Get Wedding-Ready with Refine</h3>
+                    <p class="text-white/90 max-w-2xl mx-auto mb-8 font-light text-sm sm:text-base leading-relaxed">
+                        Walk down the aisle with radiant, healthy, confident skin. Book a pre-wedding consultation at <strong class="text-accent font-semibold">Refine Skin &amp; Body Clinic</strong> in Kampala or Juba to design your bespoke bridal countdown.
+                    </p>
+                    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        <a href="/book-appointment" class="inline-flex items-center justify-center px-9 py-4 rounded-full bg-accent text-[#1a0f3c] font-bold text-sm tracking-wide uppercase hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-0.5">
+                            Book Your Consultation
+                        </a>
+                        <a href="/contact" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-white/10 text-white font-medium text-sm tracking-wide border border-white/20 hover:bg-white/20 transition-all duration-300">
+                            Ask About Bridal Packages
+                        </a>
+                    </div>
+                </div>
+            </div>
+',
+    ],    // ----------------------------------------------------
     // ARTICLE: MEET DR WILLIAM LUBEGA: PLASTIC SURGERY AT REFINE
     // ----------------------------------------------------
     'meet-dr-william-lubega-plastic-surgery-at-refine' => [
