@@ -32,7 +32,7 @@ $articles = [
         'author_role'   => 'Plastic Surgeon, Refine Skin & Body Clinic',
         'read_time'     => '8 min',
         'image'         => '/assets/images/team/Dr_William_Lubega.png',
-        'excerpt'       => 'Meet Dr William Lubega, Refine\\'s plastic surgeon: his qualifications, what plastic surgery at Refine covers, and what to ask before any operation.',
+        'excerpt'       => 'Meet Dr William Lubega, Refine\'s plastic surgeon: his qualifications, what plastic surgery at Refine covers, and what to ask before any operation.',
         'content'       => '
             <!-- AEO Direct Answer Highlight Box -->
             <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
