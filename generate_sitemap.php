@@ -53,6 +53,7 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'meet-dr-william-lubega-plastic-surgery-at-refine',
     'rosacea-vs-acne-how-to-tell-the-difference',
     'why-does-eczema-get-worse-in-the-dry-season',
     'can-stretch-marks-be-removed',

@@ -19,6 +19,337 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: MEET DR WILLIAM LUBEGA: PLASTIC SURGERY AT REFINE
+    // ----------------------------------------------------
+    'meet-dr-william-lubega-plastic-surgery-at-refine' => [
+        'slug'          => 'meet-dr-william-lubega-plastic-surgery-at-refine',
+        'title'         => 'Meet Dr William Lubega: Plastic Surgery at Refine',
+        'meta_title'    => 'Meet Dr William Lubega, Plastic Surgeon | Refine Skin & Body',
+        'category'      => 'Meet the Specialists',
+        'category_slug' => 'meet-the-specialists',
+        'date'          => '06 November, 2026',
+        'author'        => 'Dr. William Lubega',
+        'author_role'   => 'Plastic Surgeon, Refine Skin & Body Clinic',
+        'read_time'     => '8 min',
+        'image'         => '/assets/images/team/Dr_William_Lubega.png',
+        'excerpt'       => 'Meet Dr William Lubega, Refine\\'s plastic surgeon: his qualifications, what plastic surgery at Refine covers, and what to ask before any operation.',
+        'content'       => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Meet Dr William Lubega: Plastic Surgeon at Refine</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> Dr William Lubega is our Plastic Surgeon at Refine Skin &amp; Body Clinic. He holds a Master of Medicine in Surgery (MMed Surg) and a Fellowship of the College of Surgeons of East, Central and Southern Africa (FCS-ECSA) in Plastic Surgery. He specialises in facial surgery and body contouring.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Role:</span>
+                        <p class="text-white/80 font-light text-xs">Plastic Surgeon at Refine Skin &amp; Body Clinic</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Qualifications:</span>
+                        <p class="text-white/80 font-light text-xs">MMed Surg; FCS-ECSA (Plastic Surgery)</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Specialties:</span>
+                        <p class="text-white/80 font-light text-xs">Facial surgery and body contouring</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                Choosing to have surgery is a bigger decision than booking a facial or a laser session. It involves an operation, anaesthesia, time off work and a recovery that needs planning. Before you sit down with a surgeon, it helps to know who they are, what they do and what to ask them.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                This article introduces Dr William Lubega, the plastic surgeon on our team, and explains what plastic surgery at Refine covers, how a surgical consultation works, how to prepare and what recovery generally involves.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Whether you are considering surgery with Dr Lubega or with anyone else, the questions near the end of this article will help you make a safe, well-informed choice.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Who is Dr William Lubega?</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Dr Lubega is the Plastic Surgeon in our team, alongside Dr Chirag Kotecha (Aesthetic Physician), Dr Henry Owiny (Aesthetic Physician), Dr Ahmed Ashraf (Dermatologist) and Ms Wendy Emyedu Ayayo (Nutritionist).
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-8">His approach</h3>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Dr Lubega is a board-certified plastic and reconstructive surgeon whose surgical philosophy is grounded in proportion and balance. He aims for results that complement each patient&rsquo;s natural features.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                From the first consultation to the final stages of recovery, he makes sure his patients are fully informed, comfortable and confident in their surgical journey.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-5 mt-8">His qualifications, explained</h3>
+            <div class="space-y-4 mb-10">
+                <div class="flex items-start gap-4 p-5 bg-surface-warm rounded-2xl border border-brand/5">
+                    <div class="w-10 h-10 bg-brand/10 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
+                        <i class="fas fa-graduation-cap text-brand text-sm"></i>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-brand-deeper text-sm mb-1">Master of Medicine in Surgery (MMed Surg)</h4>
+                        <p class="text-gray-600 font-light text-sm leading-relaxed">A postgraduate university degree in surgery, taken by doctors after their first medical degree as part of specialist surgical training.</p>
+                    </div>
+                </div>
+                <div class="flex items-start gap-4 p-5 bg-surface-warm rounded-2xl border border-brand/5">
+                    <div class="w-10 h-10 bg-brand/10 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
+                        <i class="fas fa-award text-brand text-sm"></i>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-brand-deeper text-sm mb-1">Fellow of the College of Surgeons of East, Central and Southern Africa (FCS-ECSA), Plastic Surgery</h4>
+                        <p class="text-gray-600 font-light text-sm leading-relaxed">COSECSA is a regional professional body that trains and examines surgeons across its member countries. Its fellowship in plastic surgery is a specialist qualification awarded after training and examinations in that field.</p>
+                    </div>
+                </div>
+            </div>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light italic border-l-4 border-accent pl-5">
+                You are welcome to ask Dr Lubega about his training and experience at your consultation. Any good surgeon will be glad to answer.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What plastic surgery at Refine covers</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Plastic surgery has two sides. Reconstructive surgery restores form and function after injury, illness, burns or scarring. Aesthetic, or cosmetic, surgery changes the appearance of healthy tissue. At Refine, we offer these plastic surgery procedures:
+            </p>
+            <div class="overflow-x-auto rounded-2xl shadow-md mb-10 border border-brand/10">
+                <table class="w-full text-sm text-left">
+                    <thead class="bg-gradient-to-r from-brand to-brand-deeper text-white">
+                        <tr>
+                            <th class="px-5 py-4 font-semibold">Area</th>
+                            <th class="px-5 py-4 font-semibold">Procedures at Refine</th>
+                            <th class="px-5 py-4 font-semibold">In plain English</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/5">
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Face</td>
+                            <td class="px-5 py-4 text-gray-600">Rhinoplasty, blepharoplasty, surgical facelift</td>
+                            <td class="px-5 py-4 text-gray-600">Reshaping the nose; removing excess skin and fat from eyelids; lifting sagging facial skin and tissue</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Body</td>
+                            <td class="px-5 py-4 text-gray-600">Abdominoplasty (tummy tuck), liposuction</td>
+                            <td class="px-5 py-4 text-gray-600">Removing loose abdominal skin and fat and tightening the muscles; removing localised fat through small tubes</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Breast</td>
+                            <td class="px-5 py-4 text-gray-600">Breast augmentation, lift and reduction</td>
+                            <td class="px-5 py-4 text-gray-600">Adding volume; raising and reshaping; making breasts smaller and lighter</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Combined</td>
+                            <td class="px-5 py-4 text-gray-600">Mommy makeovers</td>
+                            <td class="px-5 py-4 text-gray-600">A personalised combination of body and breast procedures after pregnancy</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Reconstructive</td>
+                            <td class="px-5 py-4 text-gray-600">Scar reconstruction</td>
+                            <td class="px-5 py-4 text-gray-600">Revising scars that are tight, raised or restrict movement</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Dr Lubega specialises in facial surgery (rhinoplasty, blepharoplasty and surgical facelifts) and body contouring (liposuction, abdominoplasty and mommy makeovers). For smaller changes, some patients may be better suited to a non-surgical option with our aesthetic doctors, such as non-surgical liquid rhinoplasty for a minor nose bump.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What happens at a surgical consultation</h2>
+            <img src="/assets/imagesfromsite/meet-dr-lubega-consultation.jpg"
+                 alt="Gloved clinician pointing to a line on a printed form on a clipboard, beside a patient in a gown"
+                 class="w-full rounded-2xl shadow-lg mb-8 object-cover max-h-80"
+                 loading="lazy">
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                A surgical consultation is a two-way conversation about your goals, your health and the risks. Dr Lubega carries out a thorough evaluation before any surgery. In general, a surgical consultation covers:
+            </p>
+            <ul class="space-y-3 mb-8 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Your goals:</strong> what bothers you, what you hope to change and why now.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Your health:</strong> medical conditions, medicines and supplements, allergies, previous operations and anaesthetics, pregnancies and whether you smoke.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>How your skin heals:</strong> tell the surgeon if you have ever had keloids or dark marks after injuries. Both are more common in darker skin and affect how incisions are planned.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>An examination</strong>, and often photographs for your medical record, taken only with your consent.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Your options</strong>, including non-surgical ones or doing nothing, with the likely scars, risks, recovery and total cost of each.</span>
+                </li>
+            </ul>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light italic border-l-4 border-accent pl-5">
+                You should not feel pressured to book on the day. Taking information home, asking more questions or returning for a second consultation are all part of a careful decision.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">How to prepare for surgery</h2>
+            <ul class="space-y-4 mb-10 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Stop smoking.</strong> Smoking reduces blood flow and raises the risk of wound problems. Your surgeon will tell you how many weeks before and after surgery to stop.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Review your medicines.</strong> Some medicines and herbal supplements increase bleeding. Never stop a prescribed medicine without medical advice.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Get health conditions under control.</strong> Diabetes, high blood pressure and anaemia should be well managed before a planned operation.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Aim for a stable weight.</strong> Body contouring works best when your weight has been steady for some months.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Follow fasting instructions</strong> before anaesthesia exactly as given.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Plan your recovery.</strong> Arrange time off work, help at home (especially with children) and someone to take you home and stay with you afterwards.</span>
+                </li>
+            </ul>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Recovery: what to expect</h2>
+            <img src="/assets/imagesfromsite/meet-dr-lubega-recovery.jpg"
+                 alt="Black woman resting at home on a sofa with a book"
+                 class="w-full rounded-2xl shadow-lg mb-8 object-cover max-h-80"
+                 loading="lazy">
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Recovery depends on the procedure. As a general guide, minor outpatient procedures may need 3 to 7 days, whereas major body contouring surgery such as abdominoplasty typically needs 2 to 4 weeks of structured rest and recovery support.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                In general, expect swelling, bruising and some discomfort that improve over the first weeks, and follow-up visits to check healing. Some body procedures use a compression garment. Scars keep changing for a year or more, gradually flattening and fading. On darker skin, protecting healing scars from the strong equatorial sun helps stop them darkening.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light italic border-l-4 border-accent pl-5">
+                Planning rest and help at home makes recovery safer and easier.
+            </p>
+
+            <div class="bg-red-50 border border-red-200 rounded-2xl p-6 mb-10">
+                <p class="text-red-700 font-semibold text-sm mb-2"><i class="fas fa-triangle-exclamation mr-2"></i>Warning signs after surgery</p>
+                <p class="text-red-700 font-light text-sm leading-relaxed">
+                    Contact your surgical team straight away if you have a fever, spreading redness, pus, a wound that opens, bleeding that will not stop or pain that is getting worse. During clinic hours, call the clinic; out of hours, call your doctor on the personal number they give you at the time of your surgery. Calf pain or swelling, chest pain or sudden breathlessness can signal a blood clot and need emergency care.
+                </p>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Questions to ask any surgeon</h2>
+            <div class="space-y-3 mb-10">
+                <div class="flex items-start gap-3 text-gray-700 font-light leading-relaxed bg-surface-warm p-4 rounded-xl border border-brand/5">
+                    <i class="fas fa-question-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span>What are your surgical qualifications, and are you registered as a specialist plastic surgeon?</span>
+                </div>
+                <div class="flex items-start gap-3 text-gray-700 font-light leading-relaxed bg-surface-warm p-4 rounded-xl border border-brand/5">
+                    <i class="fas fa-question-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span>How often do you perform this procedure?</span>
+                </div>
+                <div class="flex items-start gap-3 text-gray-700 font-light leading-relaxed bg-surface-warm p-4 rounded-xl border border-brand/5">
+                    <i class="fas fa-question-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span>Where will the operation take place, and is it a fully equipped operating theatre?</span>
+                </div>
+                <div class="flex items-start gap-3 text-gray-700 font-light leading-relaxed bg-surface-warm p-4 rounded-xl border border-brand/5">
+                    <i class="fas fa-question-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span>What type of anaesthesia will I have, and will a qualified anaesthetist give it?</span>
+                </div>
+                <div class="flex items-start gap-3 text-gray-700 font-light leading-relaxed bg-surface-warm p-4 rounded-xl border border-brand/5">
+                    <i class="fas fa-question-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span>Will I stay overnight, and who looks after me if I have a problem at night?</span>
+                </div>
+                <div class="flex items-start gap-3 text-gray-700 font-light leading-relaxed bg-surface-warm p-4 rounded-xl border border-brand/5">
+                    <i class="fas fa-question-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span>What are the main risks for me, and how are complications handled?</span>
+                </div>
+                <div class="flex items-start gap-3 text-gray-700 font-light leading-relaxed bg-surface-warm p-4 rounded-xl border border-brand/5">
+                    <i class="fas fa-question-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span>What aftercare is included: follow-up visits, dressings, garments and scar care?</span>
+                </div>
+                <div class="flex items-start gap-3 text-gray-700 font-light leading-relaxed bg-surface-warm p-4 rounded-xl border border-brand/5">
+                    <i class="fas fa-question-circle text-accent mt-1 flex-shrink-0"></i>
+                    <span>What is the total cost, including theatre, anaesthesia and follow-up, and what happens if I need a further procedure?</span>
+                </div>
+            </div>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When to see a specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                If you are considering any of the procedures above, the specialist to see is Dr William Lubega, Plastic Surgeon. You can request a surgical consultation online, and our team will confirm where and when he is consulting.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Refine Skin &amp; Body Clinic has three branches in Kampala: Lugogo (Forest Mall), Kabalagala (Palm Village Mall) and Bukoto (UMC Victoria Hospital Annex). In South Sudan, Refine Skin &amp; Body Centre is on Airport Road in Juba. <a href="/dr-william-lubega" class="text-brand font-semibold hover:text-accent transition-colors underline underline-offset-2">Read Dr Lubega&rsquo;s full profile</a>, or <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline underline-offset-2">request a consultation</a>.
+            </p>
+
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-8 mt-10">Frequently asked questions</h2>
+            <div class="space-y-5 mb-10">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Who is the plastic surgeon at Refine?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Dr William Lubega is our Plastic Surgeon. He holds a Master of Medicine in Surgery (MMed Surg) and a Fellowship of the College of Surgeons of East, Central and Southern Africa (FCS-ECSA) in Plastic Surgery.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">What procedures does Dr Lubega perform?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> He specialises in facial surgery (rhinoplasty, blepharoplasty and surgical facelifts) and body contouring (liposuction, tummy tuck and mommy makeovers). At Refine, we also offer breast augmentation, lift and reduction, and scar reconstruction.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">What does FCS-ECSA mean?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> It stands for Fellow of the College of Surgeons of East, Central and Southern Africa. The college is a regional body that trains and examines surgeons, and its plastic surgery fellowship is a specialist qualification.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">How long is recovery after plastic surgery?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> It depends on the operation. Minor outpatient procedures may need 3 to 7 days, while major body contouring such as a tummy tuck typically needs 2 to 4 weeks of structured rest. Full healing and scar maturing take longer.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Will plastic surgery leave a scar?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Yes, every incision leaves a scar. Surgeons place incisions where they are least visible where possible, and scars usually fade over a year or more. If you have ever had keloids, tell your surgeon, because extra preventive care may be needed.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Do I need a consultation before booking surgery?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Yes. Dr Lubega carries out a thorough evaluation before any surgery. The consultation is where you discuss your goals, health, options and risks.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Is there a non-surgical alternative to plastic surgery?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> Sometimes. Small changes, such as a minor nose bump, may be improved with non-surgical treatments from our aesthetic doctors. Larger changes, such as removing loose skin or reducing breast size, need surgery.</p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Should I finish having children before body surgery?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed"><strong>Direct answer:</strong> For a tummy tuck or mommy makeover, it is generally best to wait until you have finished having children. A later pregnancy can stretch the muscles and skin again and undo part of the result.</p>
+                </div>
+            </div>
+
+            <div class="bg-gradient-to-br from-brand-pale to-purple-50 border border-brand/15 rounded-2xl p-6 mb-10">
+                <h3 class="font-bold text-brand-deeper text-xl mb-3 font-heading">The bottom line</h3>
+                <p class="text-gray-700 font-light leading-relaxed">
+                    Dr William Lubega is our Plastic Surgeon, with an MMed in Surgery and an FCS-ECSA fellowship in Plastic Surgery, and specialties in facial surgery and body contouring. Whoever you choose, a safe surgical journey starts with a thorough consultation, honest answers to your questions and a recovery plan that fits your life. <strong>If you are thinking about surgery, request a consultation with Dr Lubega and bring your questions with you.</strong>
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <div class="relative overflow-hidden bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl border border-accent/30 my-12">
+                <div class="absolute -top-24 -right-24 w-64 h-64 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+                <div class="absolute -bottom-24 -left-24 w-64 h-64 rounded-full bg-[#5a3ba8]/20 blur-3xl pointer-events-none"></div>
+                <div class="relative z-10">
+                    <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/20 border border-accent/40 text-accent font-semibold text-xs tracking-widest uppercase mb-4">
+                        <i class="fas fa-sparkles text-accent"></i> Surgical Excellence at Refine
+                    </span>
+                    <h3 class="text-2xl sm:text-4xl font-display font-bold text-white mb-4">Book a Surgical Consultation with Dr Lubega</h3>
+                    <p class="text-white/90 max-w-2xl mx-auto mb-8 font-light text-sm sm:text-base leading-relaxed">
+                        Ready to explore your options? Request a consultation with <strong class="text-accent font-semibold">Dr William Lubega</strong> at Refine Skin &amp; Body Clinic in Kampala or Juba and take the first step in your surgical journey.
+                    </p>
+                    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        <a href="/book-appointment" class="inline-flex items-center justify-center px-9 py-4 rounded-full bg-accent text-[#1a0f3c] font-bold text-sm tracking-wide uppercase hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-0.5">
+                            Request a Consultation
+                        </a>
+                        <a href="/dr-william-lubega" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-white/10 text-white font-medium text-sm tracking-wide border border-white/20 hover:bg-white/20 transition-all duration-300">
+                            View Dr Lubega&rsquo;s Profile
+                        </a>
+                    </div>
+                </div>
+            </div>
+        ',
+    ],
+    // ----------------------------------------------------
     // ARTICLE: ROSACEA VS ACNE: HOW TO TELL THE DIFFERENCE
     // ----------------------------------------------------
     'rosacea-vs-acne-how-to-tell-the-difference' => [
