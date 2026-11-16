@@ -327,6 +327,335 @@ $articles = [
             </div>
 ',
     ],    // ----------------------------------------------------
+    // ARTICLE: HOW LONG DOES BOTOX LAST?
+    // ----------------------------------------------------
+    'how-long-does-botox-last' => [
+        'slug'          => 'how-long-does-botox-last',
+        'title'         => 'How Long Does Botox® Last?',
+        'meta_title'    => 'How Long Does Botox® Last? | Refine Skin & Body',
+        'category'      => 'Injectables & Anti-Aging',
+        'category_slug' => 'injectables-anti-aging',
+        'date'          => '12 November, 2026',
+        'author'        => 'Dr. Chirag Kotecha',
+        'author_role'   => 'Aesthetic Physician & Medical Director, Refine Clinic',
+        'read_time'     => '7 min',
+        'image'         => '/assets/imagesfromsite/how-long-does-botox-last-hero.jpg',
+        'excerpt'       => 'Botulinum toxin (Botox®) typically lasts 3 to 6 months. See how long it lasts by area, what makes it wear off sooner, and when to book a top-up.',
+        'content'       => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How Long Does Botox&reg; Last?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> Botulinum toxin (such as Botox&reg;) typically lasts anywhere from 3 to 6 months. You may notice it starting to work within 3 to 5 days, with the full effect by about 14 days. How long it lasts depends on the dose, the area treated, your metabolism, how strong the muscle is and whether it is your first treatment. It always wears off.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Typical Duration:</span>
+                        <p class="text-white/80 font-light text-xs">3 to 6 months across most facial areas.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Onset of Action:</span>
+                        <p class="text-white/80 font-light text-xs">Initial changes in 3&ndash;5 days; full result at ~14 days.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Maintenance:</span>
+                        <p class="text-white/80 font-light text-xs">Top-ups when muscle movement gradually returns.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                Botulinum toxin relaxes the muscles that crease the skin. The effect is temporary and wears off gradually.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                You have found a result you like, and the next question is how long it will last. Nobody wants to pay for a treatment that seems to fade too soon, and some people worry about the opposite: that a relaxed forehead will stay that way for good.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Botulinum toxin, best known by the brand name Botox&reg;, is a temporary treatment. At Refine we use botulinum toxin type A, the type Botox&reg; belongs to. It relaxes specific muscles by blocking the nerve signals that make them contract. Over the following months, the nerves grow new connections, the muscle slowly wakes up, and lines return to how they were.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                This guide explains typical durations by area, what shortens or lengthens them, what wearing off feels like, and when to book your next appointment.
+            </p>
+
+            <!-- Area by Area Table -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-4 mt-10">How long botulinum toxin lasts, area by area</h2>
+            <p class="text-gray-600 text-sm font-light mb-6">
+                These are typical ranges from clinical experience and studies. Your own results may differ.
+            </p>
+            <div class="overflow-x-auto rounded-2xl shadow-md mb-10 border border-brand/10">
+                <table class="w-full text-sm text-left">
+                    <thead class="bg-gradient-to-r from-brand to-brand-deeper text-white">
+                        <tr>
+                            <th class="px-5 py-4 font-semibold">Area treated</th>
+                            <th class="px-5 py-4 font-semibold whitespace-nowrap">Typical duration</th>
+                            <th class="px-5 py-4 font-semibold">Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/5">
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Frown lines between the brows</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">3 to 6 months</td>
+                            <td class="px-5 py-4 text-gray-600">Sometimes longer after repeat treatments</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Forehead lines</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">3 to 6 months</td>
+                            <td class="px-5 py-4 text-gray-600">Doses are kept low to avoid a heavy brow</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Crow&rsquo;s feet</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">About 3 to 6 months</td>
+                            <td class="px-5 py-4 text-gray-600">Small doses in a delicate area</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Lip flip &amp; perioral lines</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">About 2 to 3 months</td>
+                            <td class="px-5 py-4 text-gray-600">Very small doses wear off sooner due to high lip movement</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Masseter (jaw slimming / clenching)</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">Often 4 to 6 months</td>
+                            <td class="px-5 py-4 text-gray-600">Slimming appears gradually over weeks and can last longer with repeat sessions</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Underarm sweating (hyperhidrosis)</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">Often 4 to 6 months+</td>
+                            <td class="px-5 py-4 text-gray-600">Sweat reduction returns gradually over several months</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- What makes it wear off sooner or last longer -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What makes botulinum toxin wear off sooner or last longer</h2>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-6">Dose</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Too small a dose for the strength of the muscle can wear off early. More is not always better, though. The dose has to fit the muscle, or you risk a heavy, flat look. Your injector balances duration against a natural, expressive result.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-6">Area and muscle strength</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Large, strong muscles need more product. Men often need higher doses than women because of greater muscle mass. Small doses around the eyes and mouth tend to wear off sooner.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-6">Metabolism and exercise</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Some very active people and athletes feel their results fade faster. This is widely reported, but the research is limited and mixed, so treat it as a possibility rather than a rule.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-6">First treatment vs repeat treatments</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                A first treatment can feel shorter. With regular treatments, some people find results last a little longer, possibly because the muscle weakens and frowning habits ease. The evidence is mostly observational.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-6">Antibodies</h3>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Rarely, the body makes antibodies that make botulinum toxin less effective. The risk is thought to be higher with large doses given very frequently, which is one reason top-ups are usually spaced at least 12 weeks apart.
+            </p>
+
+            <!-- What wearing off feels like -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What it feels like as botulinum toxin wears off</h2>
+            <img src="/assets/imagesfromsite/how-long-does-botox-last-body1.jpg"
+                 alt="Young woman in a bathrobe touching her eyebrow while checking her face in a mirror"
+                 class="w-full rounded-2xl shadow-lg mb-8 object-cover max-h-80"
+                 loading="lazy">
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                As the effect fades, you will notice movement and lines returning when you make expressions. Botulinum toxin does not switch off overnight. It fades gradually over several weeks:
+            </p>
+            <ul class="space-y-3 mb-8 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>You can raise your brows or frown a little more than before.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>Lines appear again when you make expressions, while your face at rest still looks smooth.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>Later, lines at rest slowly return to how they were before treatment.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>After masseter treatment, your jaw may feel stronger when chewing, and the face shape changes back slowly.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span>After underarm treatment, sweating returns bit by bit.</span>
+                </li>
+            </ul>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light italic border-l-4 border-accent pl-5">
+                Your lines will not end up worse than before treatment. They simply return to their natural state, and normal ageing continues as it would have anyway.
+            </p>
+
+            <!-- When to book your top-up -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When to book your top-up</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                The simplest guide is movement. When you notice lines forming again as you make expressions, it is time to book, which for most people is somewhere between 3 and 6 months. A few practical points:
+            </p>
+            <ul class="space-y-4 mb-8 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Do not top up too soon:</strong> Most injectors wait at least 12 weeks between treatments of the same area, unless the doctor advises otherwise.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Plan around events:</strong> Because the full effect can take up to 14 days, never have it in the final two weeks before a wedding or photo shoot. For a first treatment, allow six to eight weeks, so there is time for a review.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Letting it wear off is fine:</strong> There is no harm in stopping. Your face returns to how it was.</span>
+                </li>
+            </ul>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                To help your result settle well, follow your injector&rsquo;s aftercare. Common advice is to avoid rubbing the area, stay upright for a few hours and skip strenuous exercise for the rest of the day.
+            </p>
+
+            <!-- Botox Myths Answered -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Botox&reg; myths, answered</h2>
+            <div class="space-y-4 mb-10">
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: Botox&reg; lasts forever.</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>Fact:</strong> It always wears off, usually within 3 to 6 months, as nerve endings regenerate new connections.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: When it wears off, wrinkles get worse.</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>Fact:</strong> Lines return to how they were; they do not rebound or become more severe.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: More units always last longer.</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>Fact:</strong> The dose must suit the muscle. Excessive dosing can cause a heavy, frozen or drooping look.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: Botox&reg; fills wrinkles.</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>Fact:</strong> It relaxes muscles. Dermal fillers add volume, which is a different mechanism. See our guide on <a href="/blog/botox-vs-dermal-fillers-which-one-should-you-choose" class="text-brand font-medium underline underline-offset-2 hover:text-accent">Botox&reg; vs dermal fillers</a>.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: Botox&reg; melts fat.</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>Fact:</strong> It relaxes muscular tissue and does not dissolve or metabolise adipose fat.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: Botox&reg; is unsafe.</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>Fact:</strong> In small medical doses given by a qualified clinician, it is widely studied and generally safe. Common side effects like mild bruising or headache are temporary.</p>
+                </div>
+            </div>
+
+            <!-- When to see a specialist -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When to see a specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                At Refine, botulinum toxin treatment is led by our Aesthetic Physician, Dr Chirag Kotecha. As well as lines and wrinkles, we offer it for excessive sweating (hyperhidrosis), masseter slimming and clenching, and the lip flip.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                A consultation covers how your facial muscles move, pregnancy or breastfeeding (when treatment is deferred), any nerve or muscle conditions, and your current medicines, before a dose is agreed. At Refine in Kampala, botulinum toxin starts from US$10 per unit (Allergan Botox&reg; is US$14 per unit). The number of units you need is agreed at consultation, so your exact cost is confirmed then.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Visit Refine Skin &amp; Body Clinic in Kampala at Lugogo (Forest Mall), Kabalagala (Palm Village Mall) or Bukoto (UMC Victoria Hospital Annex), or Refine Skin &amp; Body Centre in Juba (Sadeco Building, Airport Road). <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline underline-offset-2">Book a consultation online</a>.
+            </p>
+
+            <!-- FAQ Section -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-8 mt-10">Frequently asked questions</h2>
+            <div class="space-y-5 mb-10">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Why did my Botox&reg; wear off after two months?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Common reasons are a dose that was low for the strength of the muscle, a small treatment area, or it being your first treatment. Very active lifestyles may play a part. Your injector can review the dose at your next visit.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Does Botox&reg; last longer the more you have it?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Some people find results last a little longer after several regular treatments, possibly because the muscle weakens over time. The evidence is mostly observational, and it does not happen for everyone.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">How long does masseter Botox&reg; last?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Masseter treatment often lasts around 4 to 6 months. The slimming effect builds gradually over several weeks, and some people need treatment less often after several sessions.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">How long does Botox&reg; take to work?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> You may begin to notice results within 3 to 5 days. Full results typically take up to 14 days to appear.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">What happens if I stop having Botox&reg;?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Your muscles gradually regain their full movement and your lines return to how they were before treatment. They do not become worse because you stopped.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can I make my Botox&reg; last longer?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Keep to the dose your injector recommends, avoid topping up too often and follow the aftercare. Daily sunscreen also helps protect your skin, so lines look softer for longer.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Does Botox&reg; wear off completely?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Yes. The effect is temporary and fades over months as nerve signals to the muscle return. That is why regular top-ups are needed to maintain the result.
+                    </p>
+                </div>
+            </div>
+
+            <!-- The Bottom Line -->
+            <div class="bg-gradient-to-br from-brand-pale to-purple-50 border border-brand/15 rounded-2xl p-6 mb-10">
+                <h3 class="font-bold text-brand-deeper text-xl mb-3 font-heading">The bottom line</h3>
+                <p class="text-gray-700 font-light leading-relaxed">
+                    Botulinum toxin (such as Botox&reg;) typically lasts 3 to 6 months, depending on the area, the dose and you. It fades gradually, lines return to how they were, and a top-up when movement returns keeps the result steady. <strong>Ready to plan your treatment? Book a consultation at Refine and agree a dose and schedule that suit your face.</strong>
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- CTA Card -->
+            <div class="relative overflow-hidden bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl border border-accent/30 my-12">
+                <div class="absolute -top-24 -right-24 w-64 h-64 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+                <div class="absolute -bottom-24 -left-24 w-64 h-64 rounded-full bg-[#5a3ba8]/20 blur-3xl pointer-events-none"></div>
+
+                <div class="relative z-10">
+                    <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/20 border border-accent/40 text-accent font-semibold text-xs tracking-widest uppercase mb-4">
+                        <i class="fas fa-sparkles text-accent"></i> Physician-Led Injectables
+                    </span>
+                    <h3 class="text-2xl sm:text-4xl font-display font-bold text-white mb-4">Natural, Balanced Results That Last</h3>
+                    <p class="text-white/90 max-w-2xl mx-auto mb-8 font-light text-sm sm:text-base leading-relaxed">
+                        Achieve refreshed, natural-looking rejuvenation with precision dosing by <strong class="text-accent font-semibold">Dr Chirag Kotecha</strong> at Refine Skin &amp; Body Clinic in Kampala and Juba.
+                    </p>
+                    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        <a href="/book-appointment" class="inline-flex items-center justify-center px-9 py-4 rounded-full bg-accent text-[#1a0f3c] font-bold text-sm tracking-wide uppercase hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-0.5">
+                            Book Your Consultation
+                        </a>
+                        <a href="/contact" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-white/10 text-white font-medium text-sm tracking-wide border border-white/20 hover:bg-white/20 transition-all duration-300">
+                            Speak to Our Aesthetic Team
+                        </a>
+                    </div>
+                </div>
+            </div>
+',
+    ],    // ----------------------------------------------------
     // ARTICLE: WEDDING-READY SKIN: A REALISTIC TIMELINE BEFORE YOUR BIG DAY
     // ----------------------------------------------------
     'wedding-ready-skin-realistic-timeline-before-your-big-day' => [
