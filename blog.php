@@ -19,6 +19,314 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: IV DRIP THERAPY EXPLAINED: WHAT MYERS' COCKTAIL AND NAD+ ACTUALLY DO
+    // ----------------------------------------------------
+    'iv-drip-therapy-explained-myers-cocktail-and-nad' => [
+        'slug'          => 'iv-drip-therapy-explained-myers-cocktail-and-nad',
+        'title'         => 'IV Drip Therapy Explained: What Myers\' Cocktail and NAD+ Actually Do',
+        'meta_title'    => 'Myers\' Cocktail & NAD+ IV: What They Do | Refine Skin & Body',
+        'category'      => 'Refine IV Lounge',
+        'category_slug' => 'iv-therapy',
+        'date'          => '15 November, 2026',
+        'author'        => 'Dr. Chirag Kotecha',
+        'author_role'   => 'Aesthetic Physician & Medical Director, Refine Clinic',
+        'read_time'     => '8 min',
+        'image'         => '/assets/images/services/iv-therapy/inner_beauty_iv_therapy1.jpeg',
+        'excerpt'       => 'What is really in a Myers\' cocktail or NAD+ IV drip, what the evidence shows, who should avoid a drip, and what Refine\'s IV Lounge offers in Kampala and Juba.',
+        'content'       => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">IV Drip Therapy Explained: What Myers&rsquo; Cocktail and NAD+ Actually Do</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> A Myers&rsquo; cocktail is a drip of magnesium, calcium, B vitamins and vitamin C in fluid. An NAD+ drip delivers a molecule your cells use to make energy. Both are popular for tiredness and recovery, but the evidence is limited and mostly from small studies. They can help if you are dehydrated and top up some nutrients, but they do not replace food, sleep or medical treatment.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Typical Session:</span>
+                        <p class="text-white/80 font-light text-xs">30&ndash;60 minutes for most drips at Refine; NAD+ drips run slowly.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Evidence Level:</span>
+                        <p class="text-white/80 font-light text-xs">Limited, mostly small studies; personal responses vary.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Before Any Drip:</span>
+                        <p class="text-white/80 font-light text-xs">A comprehensive health screening by a trained clinician.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                An IV drip delivers fluid, vitamins and minerals straight into a vein, under clinical supervision.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                IV drips have become a regular part of wellness life in Kampala and Juba. People book them for a busy week, after travel, before a big event or simply because a friend swears by them. Two names come up again and again: the Myers&rsquo; cocktail and NAD+. Most people who ask about them want to know one thing: what is actually in the bag, and does it work?
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                This guide answers that honestly. If your main interest is brighter skin, our earlier post, <a href="/blog/can-iv-therapy-improve-skin-glow-overall-wellness" class="text-brand font-semibold hover:text-accent underline underline-offset-2">Can IV Therapy Improve Skin Glow and Overall Wellness?</a>, covers the skin side. Here we look at the ingredients, the evidence and who should not have a drip at all.
+            </p>
+
+            <!-- How an IV drip works -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">How an IV drip works, and where its limits are</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                An intravenous (IV) drip runs fluid through a thin plastic tube, called a cannula, placed in a vein, usually in the arm. Whatever is in the bag reaches the bloodstream directly, without passing through the stomach and gut. That gives a much higher blood level than tablets, for a short time.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                That is the strength and the limit. Your kidneys clear most of the extra water-soluble vitamins, such as B vitamins and vitamin C, within hours, and they leave in your urine. A drip helps most when your body cannot absorb or hold on to nutrients, for example during vomiting, some gut conditions or a confirmed deficiency. For a healthy person who eats reasonably well, the gain over food and water is less clear.
+            </p>
+
+            <!-- What is in a Myers\' cocktail -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What is in a Myers&rsquo; cocktail?</h2>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-4 mt-8">The classic recipe</h3>
+            <p class="text-gray-700 leading-relaxed mb-4 font-light">
+                The Myers&rsquo; cocktail is named after an American doctor, John Myers, who used it with patients decades ago. Recipes vary between clinics, but it typically contains:
+            </p>
+            <ul class="space-y-3 mb-8 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Magnesium:</strong> involved in muscle and nerve function</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Calcium:</strong> for muscles, nerves and heart rhythm</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>B vitamins:</strong> often a B-complex plus B6 and B12, used in energy metabolism</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Vitamin C:</strong> an antioxidant also needed to make collagen</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Fluid:</strong> sterile water or saline to carry it all</span>
+                </li>
+            </ul>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-8">What our Myers&rsquo; Magic contains</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Our version is called <strong>Myers&rsquo; Magic</strong>. It is a blend of B vitamins, vitamin C, magnesium and calcium, which matches the classic recipe, and we offer it to support cognitive performance and overall wellbeing.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-8">What the evidence says</h3>
+            <img src="/assets/imagesfromsite/iv-drip-therapy-body1.jpg"
+                 alt="Clinician hand steadying a clear IV fluid bag on a drip stand"
+                 class="w-full rounded-2xl shadow-lg mb-8 object-cover max-h-80"
+                 loading="lazy">
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                The research is thin. The best-known controlled trial, a small study in people with fibromyalgia, found that people improved after Myers&rsquo; drips, but people given a placebo drip improved almost as much. Other support comes from case reports and small studies, not large trials. Magnesium given through a drip is used in hospitals for some migraine attacks, but that is a targeted medical treatment, not a wellness cocktail. Many people say they feel more energetic afterwards, and rehydration alone can do that if you were short of fluid. Whether the vitamins add more is not proven.
+            </p>
+
+            <!-- What NAD+ is -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What NAD+ is, and what an NAD+ drip may do</h2>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-8">The molecule</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                NAD+ (nicotinamide adenine dinucleotide) is a molecule found in every cell. It helps turn food into usable energy and supports the repair of DNA, the cell&rsquo;s genetic code. NAD+ levels fall with age, which is why it has become popular in anti-ageing and longevity medicine.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-8">The evidence so far</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The evidence is early. Laboratory and animal studies are promising, and small human studies show that a drip raises NAD+ levels in the blood. What has not yet been shown is that it slows ageing, sharpens thinking or boosts energy in a lasting, measurable way in healthy people. Treat any promise beyond that with caution.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-8">Why it has to go slowly</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                NAD+ cannot be rushed. When it runs in too fast, people commonly feel flushing, a tight chest, nausea, stomach cramps or a headache. These usually settle once the drip is slowed, which is why NAD+ infusions tend to take longer than a standard vitamin drip. A clinician should watch you throughout.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-8">Who it is aimed at</h3>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                At Refine, we offer NAD+ IV therapy as a drip for cellular energy, longevity and mental clarity. It mainly appeals to adults interested in healthy ageing and performance. Ask your doctor to explain the dose and any other ingredients at your consultation.
+            </p>
+
+            <!-- Our drips at a glance table -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-4 mt-10">Our drips at a glance</h2>
+            <p class="text-gray-600 text-sm font-light mb-6">
+                Here are our main drips. Prices are for Refine in Kampala and are a guide; your exact cost is confirmed at consultation.
+            </p>
+            <div class="overflow-x-auto rounded-2xl shadow-md mb-8 border border-brand/10">
+                <table class="w-full text-sm text-left">
+                    <thead class="bg-gradient-to-r from-brand to-brand-deeper text-white">
+                        <tr>
+                            <th class="px-5 py-4 font-semibold">Drip</th>
+                            <th class="px-5 py-4 font-semibold">What it contains</th>
+                            <th class="px-5 py-4 font-semibold">What it is offered for</th>
+                            <th class="px-5 py-4 font-semibold whitespace-nowrap">Price from</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/5">
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper whitespace-nowrap">Myers&rsquo; Magic</td>
+                            <td class="px-5 py-4 text-gray-600">B vitamins, vitamin C, magnesium and calcium</td>
+                            <td class="px-5 py-4 text-gray-600">Immune boost and energy recovery</td>
+                            <td class="px-5 py-4 text-brand-deeper font-semibold whitespace-nowrap">US$300</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper whitespace-nowrap">NAD+</td>
+                            <td class="px-5 py-4 text-gray-600">NAD+, at a dose your doctor sets</td>
+                            <td class="px-5 py-4 text-gray-600">Cellular energy, longevity and mental clarity</td>
+                            <td class="px-5 py-4 text-brand-deeper font-semibold whitespace-nowrap">US$350 <span class="text-xs text-gray-500 font-normal">(500 mg drip); injections from US$80</span></td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper whitespace-nowrap">Inner Beauty</td>
+                            <td class="px-5 py-4 text-gray-600">1 litre of fluids, vitamin C, B-complex and biotin, with optional glutathione</td>
+                            <td class="px-5 py-4 text-gray-600">Skin brightening and detox</td>
+                            <td class="px-5 py-4 text-brand-deeper font-semibold whitespace-nowrap">US$100 <span class="text-xs text-gray-500 font-normal">(Plus version with NAC US$150)</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                We also offer glutathione drips aimed at brightening, from US$30 (600 mg) or US$50 (1,200 mg). Whether to even out or lighten your tone is a personal choice. The evidence for glutathione drips is also limited, and their long-term safety has not been established.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Drips are given in the relaxed setting of the <strong>Refine IV Lounge</strong>. Sessions last 30 to 60 minutes, and some people choose weekly sessions while others come monthly. There is no evidence that a healthy person needs a regular schedule, so let your needs, not a package, set the frequency.
+            </p>
+
+            <!-- Safety and contraindications -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Is an IV drip safe? Who should not have one</h2>
+            <img src="/assets/imagesfromsite/iv-drip-therapy-body2.jpg"
+                 alt="Clinician fitting a blood-pressure cuff to a Black man arm before treatment"
+                 class="w-full rounded-2xl shadow-lg mb-8 object-cover max-h-80"
+                 loading="lazy">
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Given by trained staff after proper screening, wellness drips are generally low risk. Side effects are rare and include mild bruising or inflammation where the needle goes in. Other rare risks include a vein infection and allergic reactions.
+            </p>
+            <div class="bg-red-50 border border-red-200 rounded-2xl p-6 mb-8">
+                <p class="text-red-700 font-semibold text-sm mb-3">
+                    <i class="fas fa-triangle-exclamation mr-2"></i>A drip is not for everyone. A clinician should screen you first and may advise against it, or ask for tests, if you have:
+                </p>
+                <ul class="space-y-3 text-red-900 font-light text-sm pl-2">
+                    <li class="flex items-start gap-2.5">
+                        <i class="fas fa-circle-xmark text-red-500 mt-1 flex-shrink-0"></i>
+                        <span><strong>Kidney disease or kidney stones:</strong> your body may not clear the fluid, magnesium or vitamin C, and high-dose vitamin C can add to stone risk.</span>
+                    </li>
+                    <li class="flex items-start gap-2.5">
+                        <i class="fas fa-circle-xmark text-red-500 mt-1 flex-shrink-0"></i>
+                        <span><strong>Heart failure or heart rhythm problems:</strong> a litre of fluid or extra calcium can strain the heart.</span>
+                    </li>
+                    <li class="flex items-start gap-2.5">
+                        <i class="fas fa-circle-xmark text-red-500 mt-1 flex-shrink-0"></i>
+                        <span><strong>Pregnancy or breastfeeding:</strong> check with your doctor first.</span>
+                    </li>
+                    <li class="flex items-start gap-2.5">
+                        <i class="fas fa-circle-xmark text-red-500 mt-1 flex-shrink-0"></i>
+                        <span><strong>G6PD deficiency:</strong> an inherited enzyme condition that is fairly common in East Africa, because high-dose vitamin C can damage red blood cells.</span>
+                    </li>
+                    <li class="flex items-start gap-2.5">
+                        <i class="fas fa-circle-xmark text-red-500 mt-1 flex-shrink-0"></i>
+                        <span><strong>Diabetes:</strong> high-dose vitamin C can make some finger-prick glucose meters read falsely high for hours afterwards.</span>
+                    </li>
+                    <li class="flex items-start gap-2.5">
+                        <i class="fas fa-circle-xmark text-red-500 mt-1 flex-shrink-0"></i>
+                        <span><strong>Allergies or interacting medicines:</strong> such as certain heart medications.</span>
+                    </li>
+                </ul>
+            </div>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light italic border-l-4 border-accent pl-5">
+                Avoid walk-in drips with no clinician present. The drip itself is simple, but screening, sterile technique and knowing what to do if something goes wrong are what keep it safe. Wherever a drip is given, in a lounge, at home or in a hotel, the same screening should come first.
+            </p>
+
+            <!-- When to see a specialist -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When to see a specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Book a consultation before your first drip, and tell the team about any medical conditions, medicines, pregnancy or allergies. Our Aesthetic Physician, Dr Chirag Kotecha, holds board certification in aesthetics and functional medicine. The consultation covers your health history, your goals and which drip, if any, makes sense.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                If you feel persistently tired, see a doctor for blood tests too; ongoing fatigue can signal anaemia, thyroid problems or diabetes, which a drip will not fix.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Refine sees patients at Refine Skin &amp; Body Clinic in Kampala (Lugogo at Forest Mall, Kabalagala at Palm Village Mall, and Bukoto at UMC Victoria Hospital Annex) and at Refine Skin &amp; Body Centre in Juba. <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline underline-offset-2">Book a consultation</a> to discuss IV therapy.
+            </p>
+
+            <!-- Frequently asked questions -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-8 mt-10">Frequently asked questions</h2>
+            <div class="space-y-5 mb-10">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">What does a Myers&rsquo; cocktail do?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> It delivers magnesium, calcium, B vitamins and vitamin C straight into the blood, along with fluid. People use it for tiredness, recovery and general wellbeing. Evidence is limited, so benefits vary and are not proven for everyone.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Does NAD+ IV therapy really work?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> It raises NAD+ levels in the blood, but human studies are small and early. There is not yet good evidence that it slows ageing or improves energy in a lasting way.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Why does an NAD+ drip take so long?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Because running it fast often causes flushing, chest tightness, nausea or cramps. Slowing the drip usually settles these, so it is given gradually under supervision.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">How often should I get an IV drip?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> There is no fixed rule. Some people choose weekly sessions and others monthly, but a healthy person who eats well may not need regular drips. Your clinician should set the frequency based on your health and goals.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Are IV vitamin drips better than tablets?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> They give higher blood levels for a short time, and they help people who cannot absorb nutrients well. For most healthy people, a balanced diet and, where needed, tablets are enough. A drip is not a substitute for food or medical treatment.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Who should not have an IV drip?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> People with kidney disease, heart failure or certain heart rhythm problems may be advised against it. Pregnancy, G6PD deficiency, diabetes, allergies and some medicines also need a doctor&rsquo;s review first.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">How long does an IV drip session take at Refine?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Most sessions last 30 to 60 minutes. NAD+ drips are run slowly and may take longer.
+                    </p>
+                </div>
+            </div>
+
+            <!-- The Bottom Line -->
+            <div class="bg-gradient-to-br from-brand-pale to-purple-50 border border-brand/15 rounded-2xl p-6 mb-10">
+                <h3 class="font-bold text-brand-deeper text-xl mb-3 font-heading">The bottom line</h3>
+                <p class="text-gray-700 font-light leading-relaxed">
+                    Myers&rsquo; cocktail and NAD+ drips are popular, pleasant and, with good screening, generally low risk, but the science behind them is still thin. Think of them as an optional extra, not a cure for tiredness or a replacement for food and sleep. If you want to try one, start with a proper consultation. <strong>Book at Refine and ask exactly what is in your bag.</strong>
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- CTA Card -->
+            <div class="relative overflow-hidden bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl border border-accent/30 my-12">
+                <div class="absolute -top-24 -right-24 w-64 h-64 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+                <div class="absolute -bottom-24 -left-24 w-64 h-64 rounded-full bg-[#5a3ba8]/20 blur-3xl pointer-events-none"></div>
+
+                <div class="relative z-10">
+                    <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/20 border border-accent/40 text-accent font-semibold text-xs tracking-widest uppercase mb-4">
+                        <i class="fas fa-sparkles text-accent"></i> Refine IV Lounge
+                    </span>
+                    <h3 class="text-2xl sm:text-4xl font-display font-bold text-white mb-4">Revitalise with Clinically Guided IV Therapy</h3>
+                    <p class="text-white/90 max-w-2xl mx-auto mb-8 font-light text-sm sm:text-base leading-relaxed">
+                        Experience medically screened, premium IV drip therapy at <strong class="text-accent font-semibold">Refine Skin &amp; Body Clinic</strong> in Kampala and Juba. Restore hydration, replenish vital nutrients and recharge your wellbeing safely.
+                    </p>
+                    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        <a href="/book-appointment" class="inline-flex items-center justify-center px-9 py-4 rounded-full bg-accent text-[#1a0f3c] font-bold text-sm tracking-wide uppercase hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-0.5">
+                            Book Your IV Session
+                        </a>
+                        <a href="/contact" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-white/10 text-white font-medium text-sm tracking-wide border border-white/20 hover:bg-white/20 transition-all duration-300">
+                            Speak to Our Clinicians
+                        </a>
+                    </div>
+                </div>
+            </div>
+',
+    ],    // ----------------------------------------------------
     // ARTICLE: WEDDING-READY SKIN: A REALISTIC TIMELINE BEFORE YOUR BIG DAY
     // ----------------------------------------------------
     'wedding-ready-skin-realistic-timeline-before-your-big-day' => [
