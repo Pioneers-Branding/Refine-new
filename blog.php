@@ -21,8 +21,8 @@ $articles = [
     // ----------------------------------------------------
     // ARTICLE: IV DRIP THERAPY EXPLAINED: WHAT MYERS' COCKTAIL AND NAD+ ACTUALLY DO
     // ----------------------------------------------------
-    'iv-drip-therapy-explained-myers-cocktail-and-nad' => [
-        'slug'          => 'iv-drip-therapy-explained-myers-cocktail-and-nad',
+    'iv-drip-therapy-explained' => [
+        'slug'          => 'iv-drip-therapy-explained',
         'title'         => 'IV Drip Therapy Explained: What Myers\' Cocktail and NAD+ Actually Do',
         'meta_title'    => 'Myers\' Cocktail & NAD+ IV: What They Do | Refine Skin & Body',
         'category'      => 'Refine IV Lounge',
