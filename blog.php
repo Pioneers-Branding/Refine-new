@@ -19,6 +19,311 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: CAN VITILIGO BE TREATED?
+    // ----------------------------------------------------
+    'can-vitiligo-be-treated' => [
+        'slug'          => 'can-vitiligo-be-treated',
+        'title'         => 'Can Vitiligo Be Treated?',
+        'meta_title'    => 'Can Vitiligo Be Treated? Your Options | Refine Skin & Body',
+        'category'      => 'Medical Dermatology',
+        'category_slug' => 'dermatology-skin',
+        'date'          => '18 November, 2026',
+        'author'        => 'Dr. Chirag Kotecha',
+        'author_role'   => 'Aesthetic Physician & Medical Director, Refine Clinic',
+        'read_time'     => '8 min',
+        'image'         => '/assets/imagesfromsite/can-vitiligo-be-treated-hero.jpg',
+        'excerpt'       => 'Can vitiligo be treated? Often, yes. The myths to ignore, treatments from creams to phototherapy and grafting, and how long it takes for colour to return.',
+        'content'       => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Can Vitiligo Be Treated?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> Yes. Vitiligo cannot yet be cured, but it can often be managed, and many people regain some or much of their lost colour. Options include prescription creams, light therapy (phototherapy), newer JAK-inhibitor creams, skin grafting for stable patches and cosmetic camouflage. Results take months: the face and neck usually respond best, while the hands and feet respond least.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">What It Is:</span>
+                        <p class="text-white/80 font-light text-xs">An autoimmune condition that removes pigment; completely non-contagious.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Time to See Change:</span>
+                        <p class="text-white/80 font-light text-xs">Usually several months of consistent, structured clinical care.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Response Rates:</span>
+                        <p class="text-white/80 font-light text-xs">Face and neck respond best; extremities respond slowest.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                Vitiligo is a difference in pigment, not a flaw. Treatment is always a personal choice.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Noticing a pale patch on your skin, or on your child&rsquo;s, can be frightening, especially when relatives and neighbours offer their own explanations. Vitiligo affects roughly 0.5 to 2% of people worldwide, across every skin tone. On brown and black skin the contrast is more visible, which is one reason it causes so much worry in Uganda and South Sudan.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                There is more reason for hope than many people are told. This guide explains what vitiligo is, clears up common myths, and walks through the treatments that can restore colour, how long they take and where to find support. Whether you choose to treat it at all is entirely up to you.
+            </p>
+
+            <!-- What vitiligo is and is not -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What vitiligo is, and what it is not</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                In vitiligo, the immune system mistakenly attacks melanocytes, the specialized cells that produce pigment (melanin). Without them, patches of skin turn chalky or milky white. Vitiligo is an absence of pigment, not a sign of structural skin damage: the skin within a patch is otherwise completely healthy and functional.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-4 mt-8">Common myths, answered</h3>
+            <div class="space-y-4 mb-10">
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: &ldquo;It is contagious.&rdquo;</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>False:</strong> You cannot catch vitiligo by touching, hugging, shaking hands, or sharing food, cups, clothing or a bed.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: &ldquo;It comes from food combinations.&rdquo;</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>False:</strong> Eating fish with milk, sour foods or citrus does not cause vitiligo, and no restrictive dietary regime cures it.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: &ldquo;It is leprosy.&rdquo;</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>False:</strong> Leprosy is a bacterial infection whose patches are typically hypopigmented (paler) rather than pure chalk-white, and are usually numb. Vitiligo patches retain normal sensation.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: &ldquo;It is a spiritual curse or witchcraft.&rdquo;</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>False:</strong> It is a documented medical autoimmune condition, in the same biological family as thyroiditis, type 1 diabetes or alopecia areata.</p>
+                </div>
+                <div class="bg-surface-warm p-5 rounded-2xl border border-brand/5">
+                    <div class="flex items-center gap-2 text-brand font-bold text-sm mb-1">
+                        <i class="fas fa-circle-xmark text-red-400"></i>
+                        <span>Myth: &ldquo;It is albinism.&rdquo;</span>
+                    </div>
+                    <p class="text-gray-600 text-sm font-light pl-6"><strong>False:</strong> Albinism is a genetic condition present from birth that affects whole-body melanin synthesis; vitiligo develops later in life in distinct patches.</p>
+                </div>
+            </div>
+
+            <!-- Types and causes -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Types and causes of vitiligo</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                There are five main presentations: <strong>segmental</strong> (unilateral, restricted to one side of the body, typically beginning in youth and stabilising quickly), <strong>non-segmental</strong> (the most common form, appearing symmetrically on both sides of the body), <strong>localised or focal</strong> (isolated patches in one zone), <strong>trichrome</strong> (three distinct shades with an intermediate zone of light pigment) and <strong>universal</strong> (depigmentation across most of the surface area).
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Genetic susceptibility plays an important part, though environmental triggers often initiate the flare. Vitiligo is statistically more frequent in people with co-existing autoimmune disorders, particularly thyroid disease, which is why your physician may request routine endocrine blood panels. Other conditions also cause light spots, notably fungal tinea versicolor (pityriasis versicolor), so clinical evaluation with a Wood&rsquo;s lamp (UV diagnostic light) ensures an accurate diagnosis.
+            </p>
+
+            <!-- Treatments that can restore colour -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Treatments that can restore colour</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Clinical therapy focuses on two key goals: stopping active disease progression and stimulating melanocytes to produce melanin again (repigmentation). Many protocols combine topical and light-based therapies.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-6">Creams and ointments</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Topical corticosteroids calm localized immune activity and are often the initial step for small trunk or limb patches. Treatment courses are strictly monitored to avoid cutaneous thinning (atrophy). Topical calcineurin inhibitors (such as tacrolimus and pimecrolimus) suppress localized immune response without thinning delicate skin, making them ideal for the face, eyelids and neck.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-6">JAK-inhibitor creams</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Janus kinase (JAK) inhibitors represent a significant medical breakthrough. They disrupt intracellular signalling pathways that drive autoimmune destruction of melanocytes. Topical ruxolitinib is FDA- and EMA-approved for non-segmental vitiligo, demonstrating remarkable facial repigmentation in clinical trials over 6 to 12 months. While not yet locally registered in Uganda, our physicians can guide patients on safe overseas procurement when clinically indicated.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-6">Phototherapy (NB-UVB)</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Narrowband Ultraviolet B (NB-UVB) phototherapy delivers a precise wavelength (311 nm) that stimulates dormant melanocytes in hair follicles while dampening cutaneous inflammation. Sessions are typically administered 2 to 3 times weekly. At Refine, hospital-grade NB-UVB phototherapy is available at our flagship clinic at <strong>Forest Mall, Lugogo</strong>.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-3 mt-6">Surgical grafting</h3>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                For stable vitiligo (patches that have shown no enlargement or new spots for at least 12 months), surgical cell transplantation or punch grafting can transfer active melanocytes from pigmented donor zones into depigmented patches. This is especially useful for segmental vitiligo.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-6 mt-6">Cosmetic camouflage</h3>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                Waterproof, medical-grade cover creams precisely tinted to your natural complexion provide immediate, temporary concealment for important occasions or everyday confidence, safely used alongside active treatments.
+            </p>
+
+            <!-- Treatment Summary Table -->
+            <div class="overflow-x-auto rounded-2xl shadow-md mb-10 border border-brand/10">
+                <table class="w-full text-sm text-left">
+                    <thead class="bg-gradient-to-r from-brand to-brand-deeper text-white">
+                        <tr>
+                            <th class="px-5 py-4 font-semibold">Treatment</th>
+                            <th class="px-5 py-4 font-semibold">Best Suited To</th>
+                            <th class="px-5 py-4 font-semibold whitespace-nowrap">Time to See Change</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/5">
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Steroid or calcineurin-inhibitor creams</td>
+                            <td class="px-5 py-4 text-gray-600">Small or early patches; face &amp; neck (calcineurin inhibitors)</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">First signs often after 2&ndash;3 months</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">JAK-inhibitor cream (ruxolitinib)</td>
+                            <td class="px-5 py-4 text-gray-600">Non-segmental vitiligo, especially facial zones</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">Several months; fuller results at 6&ndash;12 months</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">NB-UVB phototherapy</td>
+                            <td class="px-5 py-4 text-gray-600">Widespread, progressive or multiple body patches</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">Several months; courses often span 6&ndash;12 months</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Surgical grafting</td>
+                            <td class="px-5 py-4 text-gray-600">Stable segmental or localized focal vitiligo</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">Colour spreads over months following graft</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Cosmetic camouflage</td>
+                            <td class="px-5 py-4 text-gray-600">Any area or stage of vitiligo</td>
+                            <td class="px-5 py-4 text-brand font-medium whitespace-nowrap">Immediate visual coverage (temporary)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- How long repigmentation takes -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">How long does repigmentation take?</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Repigmentation is measured in months, not weeks. The first signs of success usually appear as tiny, freckle-like dots of pigment emerging within the patch &mdash; often around hair follicles, where melanocyte reserves reside &mdash; or as colour slowly migrating inward from the border.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                <strong>Anatomical location matters fundamentally:</strong> The vascular, follicle-rich skin of the face, neck and upper trunk responds significantly better and faster. Conversely, hairless or bony areas like fingertips, toes, lips and wrists have very limited follicular melanocyte reserves and represent the slowest, most challenging areas to treat.
+            </p>
+
+            <!-- Living with vitiligo day to day -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Living with vitiligo day to day</h2>
+            <ul class="space-y-4 mb-10 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Rigorous sun protection:</strong> Depigmented patches have no melanin to absorb ultraviolet radiation and will sunburn quickly. Sunburn can provoke disease spread. Wear broad-spectrum SPF 50 daily.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Avoid skin trauma (Koebner phenomenon):</strong> Cuts, harsh friction, tight waistbands, chemical burns or aggressive scratching can prompt new vitiligo patches to emerge at the injury site.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Never use unsupervised bleaching creams:</strong> Black-market whitening cosmetics containing hydroquinone or mercury disrupt normal surrounding skin and worsen pigmentation irregularity.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Educate school and social circles:</strong> For children with vitiligo, a simple informative letter to teachers explaining that vitiligo is purely non-contagious prevents unnecessary isolation or teasing.</span>
+                </li>
+            </ul>
+
+            <!-- Emotional wellbeing -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">The emotional side of vitiligo</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Vitiligo causes no physical pain, but its psychosocial burden can be profound. Staring, unsolicited advice and cultural misconceptions can foster social withdrawal, anxiety and reduced confidence.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Whether you choose active medical repigmentation or decide to proudly embrace your unique skin, both pathways are completely valid. At Refine Clinic, Dr Chirag Kotecha provides compassionate, holistic dermatological care, supported by our psychotherapy team including <strong>Alison Gallagher</strong> (UK-qualified psychotherapist) for patients seeking support with self-esteem and body image.
+            </p>
+
+            <!-- When to see a specialist -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When to see a specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Early intervention stops vitiligo from expanding and delivers the highest repigmentation rates. Consult a dermatologist if you or your child develop new pale or white patches, or if existing patches are rapidly enlarging.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Refine Skin &amp; Body Clinic provides vitiligo assessments and phototherapy in Kampala (Lugogo at Forest Mall, Kabalagala at Palm Village Mall, and Bukoto at UMC Victoria Hospital Annex) and at Refine Skin &amp; Body Centre on Airport Road, Juba. <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline underline-offset-2">Book your consultation today</a>.
+            </p>
+
+            <!-- Frequently asked questions -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-8 mt-10">Frequently asked questions</h2>
+            <div class="space-y-5 mb-10">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can vitiligo be cured?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Not yet permanently cured. However, modern clinical therapies can halt progression and stimulate significant, lasting repigmentation.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Is vitiligo contagious?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> No. Vitiligo is an internal autoimmune mechanism, not an infectious illness. It cannot be transmitted by physical touch, kissing, or sharing items.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Does food cause vitiligo?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> No scientific evidence connects specific food combinations (like fish and milk, citrus or spices) to the development of vitiligo.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">How long does it take for vitiligo to repigment?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Visible initial repigmentation typically appears within 2 to 3 months of consistent treatment, with broader repigmentation consolidating over 6 to 12 months.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Is sunlight good for vitiligo?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Natural sunlight without medical oversight carries high sunburn risk, which can aggravate vitiligo. Clinical NB-UVB phototherapy delivers controlled, calibrated therapeutic wavelengths safely.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Is vitiligo hereditary?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Genetic predisposition contributes to vitiligo, meaning family history slightly elevates risk, though most people with affected family members never develop it.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can vitiligo spread?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Non-segmental vitiligo may gradually spread over time or during periods of physical or emotional stress. Prompt treatment helps stabilize active margins.
+                    </p>
+                </div>
+            </div>
+
+            <!-- The Bottom Line -->
+            <div class="bg-gradient-to-br from-brand-pale to-purple-50 border border-brand/15 rounded-2xl p-6 mb-10">
+                <h3 class="font-bold text-brand-deeper text-xl mb-3 font-heading">The bottom line</h3>
+                <p class="text-gray-700 font-light leading-relaxed">
+                    Vitiligo can be treated. It requires patience and structured care, but many people achieve meaningful repigmentation, especially across the face and neck. It is non-contagious, not caused by diet, and nothing to hide. <strong>Book a consultation at Refine Clinic to discover your diagnosis and personalized options.</strong>
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- CTA Card -->
+            <div class="relative overflow-hidden bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl border border-accent/30 my-12">
+                <div class="absolute -top-24 -right-24 w-64 h-64 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+                <div class="absolute -bottom-24 -left-24 w-64 h-64 rounded-full bg-[#5a3ba8]/20 blur-3xl pointer-events-none"></div>
+
+                <div class="relative z-10">
+                    <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/20 border border-accent/40 text-accent font-semibold text-xs tracking-widest uppercase mb-4">
+                        <i class="fas fa-sparkles text-accent"></i> Specialized Dermatological Care
+                    </span>
+                    <h3 class="text-2xl sm:text-4xl font-display font-bold text-white mb-4">Restore Colour with Advanced Vitiligo Care</h3>
+                    <p class="text-white/90 max-w-2xl mx-auto mb-8 font-light text-sm sm:text-base leading-relaxed">
+                        Begin your journey to stabilized, repigmented skin with compassionate dermatologists and hospital-grade phototherapy at <strong class="text-accent font-semibold">Refine Skin &amp; Body Clinic</strong> in Kampala and Juba.
+                    </p>
+                    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        <a href="/book-appointment" class="inline-flex items-center justify-center px-9 py-4 rounded-full bg-accent text-[#1a0f3c] font-bold text-sm tracking-wide uppercase hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-0.5">
+                            Book Your Consultation
+                        </a>
+                        <a href="/contact" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-white/10 text-white font-medium text-sm tracking-wide border border-white/20 hover:bg-white/20 transition-all duration-300">
+                            Speak to Our Specialists
+                        </a>
+                    </div>
+                </div>
+            </div>
+',
+    ],    // ----------------------------------------------------
     // ARTICLE: IV DRIP THERAPY EXPLAINED: WHAT MYERS' COCKTAIL AND NAD+ ACTUALLY DO
     // ----------------------------------------------------
     'iv-drip-therapy-explained' => [
