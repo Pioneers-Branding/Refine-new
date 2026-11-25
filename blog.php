@@ -31,7 +31,7 @@ $articles = [
         'author'        => 'Dr. Chirag Kotecha',
         'author_role'   => 'Aesthetic Physician & Medical Director, Refine Clinic',
         'read_time'     => '8 min',
-        'image'         => '/assets/imagesfromsite/harmony_xl_pro.png',
+        'image'         => '/assets/imagesfromsite/tattoo-removal-body1.jpg',
         'excerpt'       => 'How many laser tattoo removal sessions will you need? Typical ranges, what speeds or slows fading, the Kirby-Desai scale, and safe removal on darker skin.',
         'content'       => '
             <!-- AEO Direct Answer Highlight Box -->
