@@ -53,6 +53,7 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'keloids-why-they-form-and-can-they-be-removed',
     'can-vitiligo-be-treated',
     'iv-drip-therapy-explained',
     'how-long-does-botox-last',

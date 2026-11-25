@@ -19,6 +19,374 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: KELOIDS: WHY THEY FORM AND CAN THEY BE REMOVED?
+    // ----------------------------------------------------
+    'keloids-why-they-form-and-can-they-be-removed' => [
+        'slug'          => 'keloids-why-they-form-and-can-they-be-removed',
+        'title'         => 'Keloids: Why They Form and Can They Be Removed?',
+        'meta_title'    => 'Keloids: Causes and Treatment Options | Refine Skin & Body',
+        'category'      => 'Medical Dermatology',
+        'category_slug' => 'dermatology-skin',
+        'date'          => '21 November, 2026',
+        'author'        => 'Dr. Chirag Kotecha',
+        'author_role'   => 'Aesthetic Physician & Medical Director, Refine Clinic',
+        'read_time'     => '8 min',
+        'image'         => '/assets/imagesfromsite/keloids-hero.jpg',
+        'excerpt'       => 'Why keloids form, how they differ from raised scars, and how they are treated. An honest look at removal, recurrence and prevention for darker skin.',
+        'content'       => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">Keloids: Why They Form and Can They Be Removed?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> Keloids form when the skin over-repairs a wound and keeps making scar tissue that spreads beyond the original injury. People of African descent are far more prone to them. Keloids can often be flattened, softened and controlled, usually with steroid injections combined with other treatments, but they frequently come back, so no treatment can promise they will stay gone.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Who Is Most at Risk:</span>
+                        <p class="text-white/80 font-light text-xs">People with darker skin, a family history of keloids, and those aged roughly 10&ndash;30.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">First-Line Treatment:</span>
+                        <p class="text-white/80 font-light text-xs">Steroid (triamcinolone) injections into the keloid, repeated every few weeks.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Recurrence Risk:</span>
+                        <p class="text-white/80 font-light text-xs">Common; cutting a keloid out on its own often leads to regrowth.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-xs text-gray-500 italic mb-8">
+                Earlobe keloids after ear piercing are among the most common keloids in darker skin. Photo: Htirgan, CC BY-SA 3.0, via Wikimedia Commons.
+            </p>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                It often starts with something small: a new ear piercing, a spot on the chest, a vaccination or a surgical cut. The wound heals, but instead of fading, the scar keeps growing, firm, shiny and raised, and it may itch or hurt. For many people in Kampala and Juba this is a familiar story, because keloids are much more common in darker skin.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The most common question is simple: can it be removed, and will it come back? Many people have had a keloid cut off, only to see it return larger than before.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                This guide explains why keloids form, how to tell them from ordinary raised scars, what treatments are used and why they often return. It also covers prevention, because preventing a new keloid is far easier than treating one.
+            </p>
+
+            <!-- What a keloid is -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What a keloid is, and why it forms</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                When skin is injured, cells called fibroblasts lay down collagen, the protein that forms scar tissue. In normal healing, they slow down once the wound is closed. In a keloid, they keep going. The scar grows beyond the edges of the original wound into healthy skin, and it can keep growing for months or years.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                A keloid is an overgrowth of scar tissue at the site of an injury. On darker skin, keloids are often darker brown than the surrounding skin, though new ones can look pink, reddish or purple.
+            </p>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-4 mt-8">Why some people get them</h3>
+            <ul class="space-y-3 mb-8 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Genetics:</strong> keloids run in families and are far more common in people of African descent.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Age:</strong> they most often start between about 10 and 30 years of age.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Hormones:</strong> they can appear or grow during puberty and pregnancy.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Location:</strong> earlobes, the chest, shoulders, upper back and jawline are the most common sites, partly because skin there is under tension.</span>
+                </li>
+            </ul>
+
+            <h3 class="text-xl font-bold text-brand-deeper font-heading mb-4 mt-8">Common triggers</h3>
+            <p class="text-gray-700 leading-relaxed mb-4 font-light">
+                Almost any break in the skin can trigger a keloid in someone who is prone to them, including:
+            </p>
+            <ul class="space-y-2.5 mb-6 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-angle-right text-accent mt-1 flex-shrink-0"></i>
+                    <span>Ear piercing, on the lobe or the upper ear</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-angle-right text-accent mt-1 flex-shrink-0"></i>
+                    <span>Acne, especially on the chest, back and jaw</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-angle-right text-accent mt-1 flex-shrink-0"></i>
+                    <span>Surgery, including caesarean section scars</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-angle-right text-accent mt-1 flex-shrink-0"></i>
+                    <span>Burns</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-angle-right text-accent mt-1 flex-shrink-0"></i>
+                    <span>Vaccinations, particularly on the upper arm, shoulder or chest</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-angle-right text-accent mt-1 flex-shrink-0"></i>
+                    <span>Tattoos, insect bites, chickenpox and traditional skin cuts</span>
+                </li>
+            </ul>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Some keloids, especially on the chest, appear after an injury so minor it went unnoticed. A related condition, acne keloidalis nuchae, causes firm bumps at the back of the neck after close haircuts, mostly in men of African descent, and also needs a doctor&rsquo;s care.
+            </p>
+
+            <!-- Keloid vs Hypertrophic scar -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-4 mt-10">Keloid or hypertrophic scar?</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Not every raised scar is a keloid. A hypertrophic scar is also thick and raised, but it behaves differently, and the difference affects treatment.
+            </p>
+            <div class="overflow-x-auto rounded-2xl shadow-md mb-6 border border-brand/10">
+                <table class="w-full text-sm text-left">
+                    <thead class="bg-gradient-to-r from-brand to-brand-deeper text-white">
+                        <tr>
+                            <th class="px-5 py-4 font-semibold">Feature</th>
+                            <th class="px-5 py-4 font-semibold">Keloid</th>
+                            <th class="px-5 py-4 font-semibold">Hypertrophic Scar</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/5">
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Size</td>
+                            <td class="px-5 py-4 text-gray-600">Grows beyond the edges of the original wound</td>
+                            <td class="px-5 py-4 text-gray-600">Stays within the edges of the wound</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">When it appears</td>
+                            <td class="px-5 py-4 text-gray-600">Can appear months after the injury</td>
+                            <td class="px-5 py-4 text-gray-600">Usually within weeks of the injury</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Over time</td>
+                            <td class="px-5 py-4 text-gray-600">Can keep growing; rarely shrinks by itself</td>
+                            <td class="px-5 py-4 text-gray-600">Often flattens gradually over a year or two</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Common sites</td>
+                            <td class="px-5 py-4 text-gray-600">Earlobes, chest, shoulders, upper back, jaw</td>
+                            <td class="px-5 py-4 text-gray-600">Anywhere, often across joints or after burns</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">After removal</td>
+                            <td class="px-5 py-4 text-gray-600">Often comes back if cut out alone</td>
+                            <td class="px-5 py-4 text-gray-600">Less likely to come back</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Who gets it</td>
+                            <td class="px-5 py-4 text-gray-600">Strong family and ethnic tendency</td>
+                            <td class="px-5 py-4 text-gray-600">Anyone, often after infection or wound tension</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light italic border-l-4 border-accent pl-5">
+                In short, a hypertrophic scar is raised but stays within the boundary of the injury; a keloid grows beyond it.
+            </p>
+
+            <!-- How keloids are treated -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">How keloids are treated, and what &ldquo;removal&rdquo; really means</h2>
+            <p class="text-gray-700 leading-relaxed mb-8 font-light">
+                No single treatment works for everyone. Doctors usually combine treatments to flatten the keloid, ease itching and pain, and keep it from growing back.
+            </p>
+
+            <div class="space-y-6 mb-10">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="text-lg font-bold text-brand-deeper font-heading mb-2">Steroid injections</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Injections of a corticosteroid such as triamcinolone directly into the keloid are the first-line treatment. They are usually repeated every 4&ndash;6 weeks over several sessions. Possible side effects include thinning of the skin, visible small blood vessels and lighter patches, which show more on dark skin, so doses are adjusted carefully. At Refine in Kampala, a triamcinolone injection starts from <strong>US$80</strong>; your exact cost is confirmed at consultation.
+                    </p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="text-lg font-bold text-brand-deeper font-heading mb-2">Silicone gel or sheets</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Silicone applied daily for several months can soften and flatten scars. It is most useful for prevention and for small, early keloids.
+                    </p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="text-lg font-bold text-brand-deeper font-heading mb-2">Pressure</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Firm, steady pressure discourages scar growth. Pressure earrings, worn for many hours a day for months, are often used after an earlobe keloid is removed.
+                    </p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="text-lg font-bold text-brand-deeper font-heading mb-2">Cryotherapy</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Freezing the keloid with liquid nitrogen can shrink smaller keloids, often alongside injections. It can leave lighter patches, which is an important consideration on dark skin.
+                    </p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="text-lg font-bold text-brand-deeper font-heading mb-2">5-fluorouracil (5-FU)</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        This anti-scarring medicine can be injected, often mixed with a steroid, for keloids that do not respond to steroids alone. It is not used in pregnancy or while breastfeeding.
+                    </p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="text-lg font-bold text-brand-deeper font-heading mb-2">Surgery</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Cutting a keloid out on its own often fails: studies report that anywhere from about 45% to all of the keloids treated this way come back, sometimes larger. For that reason, excision should be combined with other treatment: steroid injections into the wound, pressure, silicone and, in some specialist centres, low-dose radiotherapy.
+                    </p>
+                </div>
+
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="text-lg font-bold text-brand-deeper font-heading mb-2">Laser</h3>
+                    <p class="text-gray-600 text-sm font-light leading-relaxed">
+                        Lasers can reduce redness, smooth texture and help injected medicine penetrate. Used alone, an aggressive laser can irritate a keloid and trigger regrowth, so laser is used carefully, as part of a combined plan, with pigment-safe settings on darker skin. At Refine, fractional CO2 laser is one of the treatments we use for keloid scars, and your doctor will decide whether laser has a place in your plan. At Refine in Kampala, CO2 laser starts from <strong>US$350</strong> for a small area; your exact cost is confirmed at consultation.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Preventing keloids -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Preventing keloids if you are prone to them</h2>
+            <ul class="space-y-4 mb-10 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Avoid unnecessary skin injury.</strong> Think carefully about new piercings, especially on the upper ear, and tattoos.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Treat acne early</strong>, before it can leave keloids on the chest, back or jaw, and treat any new keloid early: small, new keloids respond better than large, old ones.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Tell every doctor and surgeon</strong> that you form keloids before any procedure. Preventive steps, such as silicone once the wound closes and early injections, can be planned.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Never skip a vaccine.</strong> Ask whether it can be given in a lower-risk site, and watch the area afterwards.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Protect scars from the sun.</strong> Strong equatorial sun can darken healing scars, and dark marks (post-inflammatory hyperpigmentation) are common on darker skin.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Avoid home remedies that damage skin.</strong> Do not cut, burn or tie off a keloid with thread, and do not apply strong steroid creams such as clobetasol or bleaching creams without a doctor&rsquo;s advice.</span>
+                </li>
+            </ul>
+
+            <!-- When to see a specialist -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When to see a specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At Refine, scars are treated by the team led by <strong>Dr Chirag Kotecha</strong>, Aesthetic Physician. Your consultation covers how and when the keloid started, whether it is growing, itching or painful, any family history and previous treatments. The doctor will examine it, confirm whether it is a keloid or a hypertrophic scar, and plan a combined treatment with realistic expectations. If surgery is considered, our Plastic Surgeon, <strong>Dr William Lubega</strong>, offers scar reconstruction as part of our plastic surgery service.
+            </p>
+
+            <div class="bg-red-50 border border-red-200 rounded-2xl p-6 mb-8">
+                <p class="text-red-700 font-semibold text-sm mb-3">
+                    <i class="fas fa-triangle-exclamation mr-2"></i>See a doctor promptly if a scar or lump:
+                </p>
+                <ul class="space-y-2 text-red-900 font-light text-sm pl-2 mb-3">
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-circle text-[6px] text-red-500 mt-2 flex-shrink-0"></i>
+                        <span>grows quickly</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-circle text-[6px] text-red-500 mt-2 flex-shrink-0"></i>
+                        <span>bleeds, breaks open or forms a sore</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-circle text-[6px] text-red-500 mt-2 flex-shrink-0"></i>
+                        <span>becomes newly painful</span>
+                    </li>
+                    <li class="flex items-start gap-2">
+                        <i class="fas fa-circle text-[6px] text-red-500 mt-2 flex-shrink-0"></i>
+                        <span>appeared without any injury, or looks different from your other scars</span>
+                    </li>
+                </ul>
+                <p class="text-red-800 text-xs font-light">
+                    Rarely, other skin growths can look like a keloid, so a doctor may take a small sample (a biopsy) to be sure.
+                </p>
+            </div>
+
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Refine Skin &amp; Body Clinic has three branches in Kampala: Lugogo (Forest Mall), Kabalagala (Palm Village Mall) and Bukoto (UMC Victoria Hospital Annex). In South Sudan, Refine Skin &amp; Body Centre is on Airport Road in Juba. <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline underline-offset-2">Book a consultation online</a>.
+            </p>
+
+            <!-- Frequently asked questions -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-8 mt-10">Frequently asked questions</h2>
+            <div class="space-y-5 mb-10">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can a keloid be removed for good?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> A keloid can be flattened or cut out, but keloids often come back, so no treatment can promise it will stay away. Combining treatments, such as surgery followed by steroid injections and pressure, lowers the chance of return. Follow-up for months or years helps catch regrowth early.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Why do keloids come back after surgery?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Cutting out a keloid creates a new wound, and skin that forms keloids tends to over-repair that wound too. That is why surgery alone has a high recurrence rate. Adding injections, pressure or other treatment after surgery reduces the risk.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Do keloid injections hurt?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> They sting, because keloid tissue is firm, but they are quick and usually tolerable. As the keloid softens over a course of injections, later ones tend to be easier.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can I pierce my ears again after an earlobe keloid?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> It is generally advised against, because a new piercing carries a high risk of another keloid. If you are considering it, talk to a doctor first. Clip-on earrings are a safer alternative.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Are keloids dangerous?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Keloids are not a cancer, but they can itch, hurt, limit movement and affect confidence. A scar or lump that grows fast, bleeds or looks unusual should be checked by a doctor.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Do home remedies work on keloids?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> There is little good evidence that oils or herbal pastes shrink keloids. Cutting, burning or tying off a keloid at home can cause infection and a larger keloid. See a doctor instead.
+                    </p>
+                </div>
+            </div>
+
+            <!-- The Bottom Line -->
+            <div class="bg-gradient-to-br from-brand-pale to-purple-50 border border-brand/15 rounded-2xl p-6 mb-10">
+                <h3 class="font-bold text-brand-deeper text-xl mb-3 font-heading">The bottom line</h3>
+                <p class="text-gray-700 font-light leading-relaxed">
+                    Keloids form because keloid-prone skin keeps making scar tissue after a wound has healed, and they are common in people of African descent. They can often be flattened and controlled, usually with steroid injections combined with other treatments, but recurrence is common and no one can promise a keloid will not return. Cutting one out on its own is rarely the answer. <strong>If you have a keloid, or you know you form them and need a procedure, book a consultation at Refine for an honest plan.</strong>
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- CTA Card -->
+            <div class="relative overflow-hidden bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl border border-accent/30 my-12">
+                <div class="absolute -top-24 -right-24 w-64 h-64 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+                <div class="absolute -bottom-24 -left-24 w-64 h-64 rounded-full bg-[#5a3ba8]/20 blur-3xl pointer-events-none"></div>
+
+                <div class="relative z-10">
+                    <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/20 border border-accent/40 text-accent font-semibold text-xs tracking-widest uppercase mb-4">
+                        <i class="fas fa-sparkles text-accent"></i> Specialized Scar &amp; Keloid Care
+                    </span>
+                    <h3 class="text-2xl sm:text-4xl font-display font-bold text-white mb-4">Get an Honest, Combined Keloid Plan</h3>
+                    <p class="text-white/90 max-w-2xl mx-auto mb-8 font-light text-sm sm:text-base leading-relaxed">
+                        Whether you need targeted steroid injections, laser softening or coordinated surgical reconstruction, our specialists at <strong class="text-accent font-semibold">Refine Skin &amp; Body Clinic</strong> in Kampala and Juba will guide you safely.
+                    </p>
+                    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        <a href="/book-appointment" class="inline-flex items-center justify-center px-9 py-4 rounded-full bg-accent text-[#1a0f3c] font-bold text-sm tracking-wide uppercase hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-0.5">
+                            Book Your Consultation
+                        </a>
+                        <a href="/contact" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-white/10 text-white font-medium text-sm tracking-wide border border-white/20 hover:bg-white/20 transition-all duration-300">
+                            Speak to Our Specialists
+                        </a>
+                    </div>
+                </div>
+            </div>
+',
+    ],    // ----------------------------------------------------
     // ARTICLE: CAN VITILIGO BE TREATED?
     // ----------------------------------------------------
     'can-vitiligo-be-treated' => [
