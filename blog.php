@@ -19,6 +19,310 @@ $slug = trim($slug, '/');
 // Complete Articles Dataset
 $articles = [
     // ----------------------------------------------------
+    // ARTICLE: HOW MANY SESSIONS DOES LASER TATTOO REMOVAL TAKE?
+    // ----------------------------------------------------
+    'how-many-sessions-does-laser-tattoo-removal-take' => [
+        'slug'          => 'how-many-sessions-does-laser-tattoo-removal-take',
+        'title'         => 'How Many Sessions Does Laser Tattoo Removal Take?',
+        'meta_title'    => 'How Many Laser Tattoo Removal Sessions? | Refine Skin & Body',
+        'category'      => 'Laser Treatments & Aesthetics',
+        'category_slug' => 'laser',
+        'date'          => '24 November, 2026',
+        'author'        => 'Dr. Chirag Kotecha',
+        'author_role'   => 'Aesthetic Physician & Medical Director, Refine Clinic',
+        'read_time'     => '8 min',
+        'image'         => '/assets/imagesfromsite/harmony_xl_pro.png',
+        'excerpt'       => 'How many laser tattoo removal sessions will you need? Typical ranges, what speeds or slows fading, the Kirby-Desai scale, and safe removal on darker skin.',
+        'content'       => '
+            <!-- AEO Direct Answer Highlight Box -->
+            <div class="bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-6 sm:p-8 rounded-3xl mb-10 shadow-xl border border-accent/30">
+                <div class="flex items-center gap-3 text-accent text-xs font-bold uppercase tracking-widest mb-3">
+                    <i class="fas fa-bolt"></i> Clinical Quick Answer Summary
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold font-heading mb-4 text-white">How Many Sessions Does Laser Tattoo Removal Take?</h3>
+                <p class="text-white/90 text-sm sm:text-base font-light leading-relaxed mb-6">
+                    <strong>Direct answer:</strong> Most professional tattoos need about 6 to 12 laser sessions, and often more on darker skin, spaced roughly 6 to 8 weeks apart or longer, so removal usually takes a year or more. Amateur, older and all-black tattoos tend to clear faster; colourful, dense tattoos on the hands or feet take longer. On darker skin, safe settings matter more than speed, and complete removal is not always possible.
+                </p>
+                <div class="grid sm:grid-cols-3 gap-4 text-xs sm:text-sm border-t border-white/10 pt-4">
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Typical Sessions:</span>
+                        <p class="text-white/80 font-light text-xs">About 6&ndash;12 for a professional tattoo, often more on darker skin.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Session Interval:</span>
+                        <p class="text-white/80 font-light text-xs">About 6&ndash;8 weeks apart, often longer on darker skin.</p>
+                    </div>
+                    <div class="bg-white/5 p-4 rounded-xl border border-white/5">
+                        <span class="text-accent font-semibold block mb-1">Our Technology:</span>
+                        <p class="text-white/80 font-light text-xs">Q-switched laser (Alma Harmony XL Pro), with numbing to reduce discomfort.</p>
+                    </div>
+                </div>
+            </div>
+
+            <p class="text-lg leading-relaxed text-gray-700 mb-6 font-light">
+                Laser tattoo removal breaks ink into tiny fragments that the body clears over the following weeks.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                A tattoo that felt right years ago can feel wrong today: a name you would rather forget, a design that no longer suits your work, or a home-made tattoo from school days. The first question most people ask is how many sessions removal will take. The honest answer is that it depends, and it is usually more than people hope.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                At Refine, our answer to that question is the same: laser tattoo removal depends on the tattoo&rsquo;s age, colour, size and depth, and several sessions are usually needed. This guide explains why, what speeds removal up or slows it down, how it works on darker skin, and what to expect after each session.
+            </p>
+
+            <!-- Why laser tattoo removal takes several sessions -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Why laser tattoo removal takes several sessions</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Tattoo ink sits in the dermis, the deeper layer of the skin, as particles too large for the body to clear. A Q-switched laser fires extremely short pulses of light that the ink absorbs, shattering the particles into smaller fragments. Over the following weeks, your immune system carries those fragments away through the lymphatic system, the body&rsquo;s drainage network.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Each session breaks up only part of the ink, and the skin needs time to heal and clear the fragments before the next one. That is why sessions are spaced about six to eight weeks apart. Going back sooner does not speed things up; it mainly raises the risk of skin damage.
+            </p>
+
+            <!-- What decides how many sessions you need -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What decides how many sessions you need</h2>
+            <img src="/assets/imagesfromsite/tattoo-removal-body1.jpg"
+                 alt="Solid black-ink tattoo on an upper arm"
+                 class="w-full rounded-2xl shadow-lg mb-6 object-cover max-h-80"
+                 loading="lazy">
+            <p class="text-gray-600 text-sm font-light mb-6">
+                Black ink usually responds best to laser. Some colours take more sessions. Tattoo age, skin type, ink quality and ink density all play a part:
+            </p>
+            <div class="overflow-x-auto rounded-2xl shadow-md mb-8 border border-brand/10">
+                <table class="w-full text-sm text-left">
+                    <thead class="bg-gradient-to-r from-brand to-brand-deeper text-white">
+                        <tr>
+                            <th class="px-5 py-4 font-semibold">Factor</th>
+                            <th class="px-5 py-4 font-semibold">Tends to clear faster</th>
+                            <th class="px-5 py-4 font-semibold">Tends to clear slower</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-brand/5">
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Who did it</td>
+                            <td class="px-5 py-4 text-gray-600">Amateur tattoos, which usually hold less ink</td>
+                            <td class="px-5 py-4 text-gray-600">Professional tattoos, with dense, high-quality ink</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Ink colour</td>
+                            <td class="px-5 py-4 text-gray-600">Black</td>
+                            <td class="px-5 py-4 text-gray-600">Green, light blue and yellow are the hardest</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Age</td>
+                            <td class="px-5 py-4 text-gray-600">Older tattoos that have already faded</td>
+                            <td class="px-5 py-4 text-gray-600">Newer tattoos</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Location</td>
+                            <td class="px-5 py-4 text-gray-600">Closer to the heart: head, neck, chest</td>
+                            <td class="px-5 py-4 text-gray-600">Farther from the heart: hands, fingers, feet, ankles</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Ink density</td>
+                            <td class="px-5 py-4 text-gray-600">Thin lines and light shading</td>
+                            <td class="px-5 py-4 text-gray-600">Solid shading, cover-ups and reworked tattoos</td>
+                        </tr>
+                        <tr class="bg-surface-warm hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Smoking</td>
+                            <td class="px-5 py-4 text-gray-600">Non-smokers</td>
+                            <td class="px-5 py-4 text-gray-600">Smokers</td>
+                        </tr>
+                        <tr class="bg-white hover:bg-brand-pale/40 transition-colors">
+                            <td class="px-5 py-4 font-semibold text-brand-deeper">Skin type</td>
+                            <td class="px-5 py-4 text-gray-600">Lighter skin, which can take stronger settings</td>
+                            <td class="px-5 py-4 text-gray-600">Darker skin, treated more gently to protect natural pigment</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                High-quality professional inks can be harder to remove than lower-quality inks, which is why a home-made tattoo often fades faster. Location matters because areas with better blood and lymph flow clear ink fragments more quickly. Research has also linked smoking to slower clearance. On darker skin, gentler settings and longer gaps protect your own colour, which can add sessions, but that is a sensible trade.
+            </p>
+
+            <!-- Kirby-Desai scale -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">The Kirby-Desai scale, in plain words</h2>
+            <p class="text-gray-700 leading-relaxed mb-5 font-light">
+                Some specialists estimate sessions with the Kirby-Desai scale, published by dermatologists in 2009. It gives points for six things:
+            </p>
+            <ul class="space-y-3 mb-6 pl-2">
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Skin type:</strong> 1 point for very fair skin up to 6 for very dark skin, because darker skin is treated more gently.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Location:</strong> 1 for the head and neck, rising to 5 for the lower arms, lower legs, hands and feet.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Colour:</strong> 1 for black only, up to 4 for many colours.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Amount of ink:</strong> 1 for amateur work, up to 4 for heavy professional work.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Scarring or skin change:</strong> 0 for none, up to 5 for significant scarring.</span>
+                </li>
+                <li class="flex items-start gap-3 text-gray-700 font-light leading-relaxed">
+                    <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                    <span><strong>Layering:</strong> 2 extra points for a cover-up tattoo.</span>
+                </li>
+            </ul>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Add them up, and the total is a rough estimate of the number of sessions. A small home-made black tattoo on the upper back of someone with type V skin scores 5 + 2 + 1 + 1, about 9 sessions. A professional black tattoo with moderate ink on the upper arm of someone with type VI skin scores 6 + 4 + 1 + 3, about 14. The scale was developed for Q-switched lasers; on type V or VI skin, a professional tattoo on the arms or legs scores at least 12. It is a guide, not a promise, and some tattoos clear in fewer sessions than it predicts.
+            </p>
+
+            <!-- Laser tattoo removal on darker skin -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Laser tattoo removal on darker skin</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Most people in Uganda and South Sudan have Fitzpatrick type IV to VI skin, which has more melanin, the natural pigment that gives skin its colour. The laser targets pigment, so on darker skin the priority is to break up the ink while sparing your own colour.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                The <strong>1064 nm wavelength of the Nd:YAG laser</strong>, a common type of Q-switched laser, is the safer choice for dark skin, because it travels deeper and is absorbed less by melanin near the surface. It works best on black and dark blue ink. The shorter wavelengths used for red, yellow or green inks are absorbed more strongly by melanin, so on darker skin they carry more risk and may not be suitable.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                The main risks are temporary lightening (hypopigmentation) or darkening (hyperpigmentation) of the treated skin. These usually fade over months but can last longer, which is why settings, a test spot and longer gaps matter. If you form keloids (raised scars that grow beyond a wound), tell your specialist before you start. At Refine we use a Q-switched laser, the <strong>Alma Harmony XL Pro</strong>; ask at your consultation which wavelength and settings will be used for your skin and ink colours.
+            </p>
+
+            <!-- Pain, blistering and aftercare -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">Pain, blistering and aftercare</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Most people describe each pulse as a rubber band snapping against the skin. With modern technology and numbing agents, discomfort is significantly reduced.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Straight after treatment, the tattoo often turns white for a few minutes (called frosting). Redness, swelling and pinpoint bleeding are common. Blisters often appear within a day or two; for many people they are part of normal healing and settle within one to two weeks.
+            </p>
+            <div class="bg-surface-warm p-6 rounded-2xl border border-brand/10 mb-10">
+                <h3 class="font-bold text-brand-deeper text-lg mb-4 font-heading">Aftercare essentials</h3>
+                <ul class="space-y-3 pl-2">
+                    <li class="flex items-start gap-3 text-gray-700 font-light text-sm leading-relaxed">
+                        <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                        <span>Keep the area clean and dry, with a thin layer of the ointment you are given and a non-stick dressing for the first few days.</span>
+                    </li>
+                    <li class="flex items-start gap-3 text-gray-700 font-light text-sm leading-relaxed">
+                        <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                        <span>Do not pop blisters or pick scabs; this raises the risk of scarring and infection.</span>
+                    </li>
+                    <li class="flex items-start gap-3 text-gray-700 font-light text-sm leading-relaxed">
+                        <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                        <span>Avoid swimming and long soaks until the skin has healed.</span>
+                    </li>
+                    <li class="flex items-start gap-3 text-gray-700 font-light text-sm leading-relaxed">
+                        <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                        <span>Keep the area out of direct sunlight for some weeks.</span>
+                    </li>
+                    <li class="flex items-start gap-3 text-gray-700 font-light text-sm leading-relaxed">
+                        <i class="fas fa-circle-check text-accent mt-1 flex-shrink-0"></i>
+                        <span>Contact us promptly if you notice spreading redness, pus, worsening pain or a fever.</span>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- When complete removal is not realistic -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When complete removal is not realistic</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                We are candid about this: most tattoos can be significantly lightened or removed, but some pigments are more resilient. Some tattoos, often colourful ones or those with heavy, layered ink, fade to a faint shadow and stop there.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                That is not a failure. Many people only want a tattoo faded enough to cover with a new design, and fading for a cover-up usually needs fewer sessions than full removal. Cosmetic tattoos, such as brow or lip tattoos, need extra care, because some flesh-toned, white and red inks can turn dark when lasered, so a test spot comes first. Avoid removal creams, acids and salt scrubs; they can burn and scar the skin while leaving the ink in place. If a tattoo or a past removal attempt has left a scar, that needs its own treatment, such as CO2 laser scar treatment.
+            </p>
+
+            <!-- When to see a specialist -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">When to see a specialist at Refine</h2>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                Book a consultation before your first session. The specialist looks at the tattoo&rsquo;s size, colours, age and location, your skin type and any history of keloids or pigment changes, and gives you a realistic estimate and plan. Our team is led by <strong>Dr Chirag Kotecha</strong>, Aesthetic Physician.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-6 font-light">
+                At Refine in Kampala, tattoo removal is priced by size: from <strong>US$80</strong> for a tattoo up to 3 cm &times; 3 cm, <strong>US$140</strong> up to 8 cm &times; 8 cm, <strong>US$250</strong> up to 15 cm &times; 15 cm, <strong>US$350</strong> up to 25 cm &times; 25 cm, and <strong>US$500</strong> for anything larger. Your exact cost is confirmed at consultation. See a doctor first about any tattoo that is itchy, raised, painful or changing, as an ink reaction needs a diagnosis before laser. Removal is usually postponed during pregnancy and breastfeeding.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-10 font-light">
+                Refine sees patients at Refine Skin &amp; Body Clinic in Kampala (Lugogo at Forest Mall, Kabalagala at Palm Village Mall, and Bukoto at UMC Victoria Hospital Annex) and at Refine Skin &amp; Body Centre in Juba. <a href="/book-appointment" class="text-brand font-semibold hover:text-accent transition-colors underline underline-offset-2">Book a consultation to get your estimate</a>.
+            </p>
+
+            <!-- Frequently asked questions -->
+            <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-8 mt-10">Frequently asked questions</h2>
+            <div class="space-y-5 mb-10">
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">How many sessions does it take to remove a tattoo?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Most professional tattoos need about 6 to 12 sessions, and often more on darker skin. Amateur, older and black-only tattoos often need fewer, while colourful, dense tattoos on the hands or feet need more.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">How far apart are laser tattoo removal sessions?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Usually about six to eight weeks, and often longer on darker skin. The gap lets the skin heal and gives your body time to clear the broken-up ink.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Is laser tattoo removal safe for dark skin?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> It can be, with the right laser and settings. The 1064 nm Nd:YAG wavelength is the safer choice for darker skin, but temporary lightening or darkening can still happen, so an experienced specialist and a test spot matter.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Does laser tattoo removal hurt?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> It stings, often compared with a rubber band snapping on the skin. Numbing agents and modern technology significantly reduce the discomfort.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Can a tattoo be removed completely?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Often, but not always. Most tattoos can be significantly lightened or removed, but some pigments are more resilient. Fading enough for a cover-up is a valid goal.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Is it normal to blister after laser tattoo removal?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Yes, blisters within a day or two are common and usually settle within one to two weeks. Do not pop them, keep them clean and covered, and contact us if you see signs of infection.
+                    </p>
+                </div>
+                <div class="bg-surface-warm p-6 rounded-2xl border border-brand/5">
+                    <h3 class="font-bold text-brand-deeper text-lg mb-2 font-heading">Why is my tattoo not fading after laser?</h3>
+                    <p class="text-sm text-gray-600 font-light leading-relaxed">
+                        <strong>Direct answer:</strong> Fading is gradual, and the first sessions may show little change, especially with dense professional ink. Colours such as green, blue and yellow resist the laser most, and smoking can slow clearance. Your specialist can review your settings and plan.
+                    </p>
+                </div>
+            </div>
+
+            <!-- The Bottom Line -->
+            <div class="bg-gradient-to-br from-brand-pale to-purple-50 border border-brand/15 rounded-2xl p-6 mb-10">
+                <h3 class="font-bold text-brand-deeper text-xl mb-3 font-heading">The bottom line</h3>
+                <p class="text-gray-700 font-light leading-relaxed">
+                    Laser tattoo removal is a marathon, not a sprint: usually 6 to 12 or more sessions, six to eight weeks apart. Your tattoo&rsquo;s ink, colours, age and location, and your skin type, shape the number. On darker skin, patience and safe settings protect your natural colour. <strong>Book a consultation at Refine for a realistic estimate.</strong>
+                </p>
+            </div>
+
+            <hr class="my-10 border-brand/10" />
+
+            <!-- CTA Card -->
+            <div class="relative overflow-hidden bg-gradient-to-br from-[#1a0f3c] via-[#432C86] to-[#2e1d5e] text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl border border-accent/30 my-12">
+                <div class="absolute -top-24 -right-24 w-64 h-64 rounded-full bg-accent/10 blur-3xl pointer-events-none"></div>
+                <div class="absolute -bottom-24 -left-24 w-64 h-64 rounded-full bg-[#5a3ba8]/20 blur-3xl pointer-events-none"></div>
+
+                <div class="relative z-10">
+                    <span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-accent/20 border border-accent/40 text-accent font-semibold text-xs tracking-widest uppercase mb-4">
+                        <i class="fas fa-sparkles text-accent"></i> Safe Laser Tattoo Removal
+                    </span>
+                    <h3 class="text-2xl sm:text-4xl font-display font-bold text-white mb-4">Ready to Fade or Remove an Unwanted Tattoo?</h3>
+                    <p class="text-white/90 max-w-2xl mx-auto mb-8 font-light text-sm sm:text-base leading-relaxed">
+                        Get a realistic session estimate and pigment-safe treatment plan using our Alma Harmony XL Pro Q-switched laser at <strong class="text-accent font-semibold">Refine Skin &amp; Body Clinic</strong> in Kampala or Juba.
+                    </p>
+                    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        <a href="/book-appointment" class="inline-flex items-center justify-center px-9 py-4 rounded-full bg-accent text-[#1a0f3c] font-bold text-sm tracking-wide uppercase hover:bg-white hover:text-brand-dark transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-0.5">
+                            Book Your Consultation
+                        </a>
+                        <a href="/contact" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-white/10 text-white font-medium text-sm tracking-wide border border-white/20 hover:bg-white/20 transition-all duration-300">
+                            Speak to Our Laser Team
+                        </a>
+                    </div>
+                </div>
+            </div>
+',
+    ],    // ----------------------------------------------------
     // ARTICLE: KELOIDS: WHY THEY FORM AND CAN THEY BE REMOVED?
     // ----------------------------------------------------
     'keloids-why-they-form-and-can-they-be-removed' => [

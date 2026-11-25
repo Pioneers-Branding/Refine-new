@@ -53,6 +53,7 @@ foreach ($pages as $page) {
 
 // Include Blog Articles in Sitemap
 $blogSlugs = [
+    'how-many-sessions-does-laser-tattoo-removal-take',
     'keloids-why-they-form-and-can-they-be-removed',
     'can-vitiligo-be-treated',
     'iv-drip-therapy-explained',
