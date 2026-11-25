@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Determine path and slug for routing
 $requestUri = $_SERVER['REQUEST_URI'] ?? '/blog';
 $parsedPath = parse_url($requestUri, PHP_URL_PATH);
@@ -80,10 +80,6 @@ $articles = [
 
             <!-- What decides how many sessions you need -->
             <h2 class="text-2xl sm:text-3xl font-bold text-brand-deeper font-heading mb-6 mt-10">What decides how many sessions you need</h2>
-            <img src="/assets/imagesfromsite/tattoo-removal-body1.jpg"
-                 alt="Solid black-ink tattoo on an upper arm"
-                 class="w-full rounded-2xl shadow-lg mb-6 object-cover max-h-80"
-                 loading="lazy">
             <p class="text-gray-600 text-sm font-light mb-6">
                 Black ink usually responds best to laser. Some colours take more sessions. Tattoo age, skin type, ink quality and ink density all play a part:
             </p>
